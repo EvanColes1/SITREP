@@ -1,83 +1,250 @@
 {
- "sample": true,
- "updated": "2026-10-06T18:23:26.352803+00:00",
+ "updated": "2026-10-06T19:51:34.807261+00:00",
  "feeds": [
   {
    "name": "BBC World",
-   "group": "Sample",
+   "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 27,
    "note": ""
   },
   {
    "name": "Al Jazeera",
-   "group": "Sample",
+   "group": "World news",
    "ok": true,
-   "new": 26,
+   "new": 25,
    "note": ""
   },
   {
    "name": "The Guardian World",
-   "group": "Sample",
+   "group": "World news",
    "ok": true,
-   "new": 14,
+   "new": 45,
+   "note": ""
+  },
+  {
+   "name": "France 24",
+   "group": "World news",
+   "ok": true,
+   "new": 23,
    "note": ""
   },
   {
    "name": "DW",
-   "group": "Sample",
+   "group": "World news",
    "ok": true,
-   "new": 28,
+   "new": 12,
+   "note": ""
+  },
+  {
+   "name": "Euronews",
+   "group": "World news",
+   "ok": true,
+   "new": 50,
+   "note": ""
+  },
+  {
+   "name": "NPR World",
+   "group": "World news",
+   "ok": true,
+   "new": 10,
    "note": ""
   },
   {
    "name": "RFE/RL",
-   "group": "Sample",
+   "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 20,
    "note": ""
   },
   {
-   "name": "gCaptain",
-   "group": "Sample",
-   "ok": true,
-   "new": 11,
-   "note": ""
-  },
-  {
-   "name": "OilPrice.com",
-   "group": "Sample",
-   "ok": true,
-   "new": 13,
-   "note": ""
-  },
-  {
-   "name": "Crisis Group",
-   "group": "Sample",
-   "ok": true,
-   "new": 7,
-   "note": ""
-  },
-  {
-   "name": "The Record",
-   "group": "Sample",
-   "ok": true,
-   "new": 22,
-   "note": ""
+   "name": "Kyiv Independent",
+   "group": "Regional",
+   "ok": false,
+   "new": 0,
+   "note": "404 Client Error: Not Found for url: https://kyivindependent.com/rss/"
   },
   {
    "name": "The Diplomat",
-   "group": "Sample",
+   "group": "Regional",
+   "ok": true,
+   "new": 60,
+   "note": ""
+  },
+  {
+   "name": "Middle East Eye",
+   "group": "Regional",
    "ok": true,
    "new": 18,
    "note": ""
   },
   {
-   "name": "Example broken feed",
-   "group": "Sample",
+   "name": "AllAfrica",
+   "group": "Regional",
+   "ok": true,
+   "new": 32,
+   "note": ""
+  },
+  {
+   "name": "Americas Quarterly",
+   "group": "Regional",
    "ok": false,
    "new": 0,
-   "note": "404 Not Found"
+   "note": "403 Client Error: Forbidden for url: https://americasquarterly.org/feed/"
+  },
+  {
+   "name": "Crisis Group",
+   "group": "Think tank",
+   "ok": true,
+   "new": 10,
+   "note": ""
+  },
+  {
+   "name": "Chatham House",
+   "group": "Think tank",
+   "ok": false,
+   "new": 0,
+   "note": "403 Client Error: Forbidden for url: https://www.chathamhouse.org/rss.xml"
+  },
+  {
+   "name": "RUSI",
+   "group": "Think tank",
+   "ok": false,
+   "new": 0,
+   "note": "404 Client Error: Not Found for url: https://www.rusi.org/rss.xml"
+  },
+  {
+   "name": "CSIS",
+   "group": "Think tank",
+   "ok": true,
+   "new": 0,
+   "note": ""
+  },
+  {
+   "name": "Carnegie",
+   "group": "Think tank",
+   "ok": false,
+   "new": 0,
+   "note": "feed returned no articles"
+  },
+  {
+   "name": "ECFR",
+   "group": "Think tank",
+   "ok": false,
+   "new": 0,
+   "note": "403 Client Error: Forbidden for url: https://ecfr.eu/feed/"
+  },
+  {
+   "name": "Atlantic Council",
+   "group": "Think tank",
+   "ok": true,
+   "new": 60,
+   "note": ""
+  },
+  {
+   "name": "War on the Rocks",
+   "group": "Think tank",
+   "ok": true,
+   "new": 26,
+   "note": ""
+  },
+  {
+   "name": "OFAC Recent Actions",
+   "group": "Sanctions",
+   "ok": false,
+   "new": 0,
+   "note": "404 Client Error: Not Found for url: https://ofac.treasury.gov/recent-actions/rss.xml"
+  },
+  {
+   "name": "UK Financial Sanctions (OFSI)",
+   "group": "Sanctions",
+   "ok": true,
+   "new": 6,
+   "note": ""
+  },
+  {
+   "name": "OilPrice.com",
+   "group": "Energy",
+   "ok": true,
+   "new": 15,
+   "note": ""
+  },
+  {
+   "name": "IEA News",
+   "group": "Energy",
+   "ok": false,
+   "new": 0,
+   "note": "404 Client Error: Not Found for url: https://www.iea.org/api/rss/news"
+  },
+  {
+   "name": "Carbon Brief",
+   "group": "Energy",
+   "ok": true,
+   "new": 5,
+   "note": ""
+  },
+  {
+   "name": "gCaptain",
+   "group": "Maritime",
+   "ok": true,
+   "new": 12,
+   "note": ""
+  },
+  {
+   "name": "Splash247",
+   "group": "Maritime",
+   "ok": true,
+   "new": 10,
+   "note": ""
+  },
+  {
+   "name": "The Maritime Executive",
+   "group": "Maritime",
+   "ok": true,
+   "new": 60,
+   "note": ""
+  },
+  {
+   "name": "The Record",
+   "group": "Cyber",
+   "ok": true,
+   "new": 5,
+   "note": ""
+  },
+  {
+   "name": "UNHCR News",
+   "group": "Migration",
+   "ok": false,
+   "new": 0,
+   "note": "403 Client Error: Forbidden for url: https://www.unhcr.org/rss/news.xml"
+  },
+  {
+   "name": "Migration Policy Institute",
+   "group": "Migration",
+   "ok": true,
+   "new": 20,
+   "note": ""
+  },
+  {
+   "name": "Arms Control Association",
+   "group": "Nuclear",
+   "ok": true,
+   "new": 10,
+   "note": ""
+  },
+  {
+   "name": "Bulletin of the Atomic Scientists",
+   "group": "Nuclear",
+   "ok": false,
+   "new": 0,
+   "note": "403 Client Error: Forbidden for url: https://thebulletin.org/feed/"
+  },
+  {
+   "name": "IAEA News",
+   "group": "Nuclear",
+   "ok": true,
+   "new": 9,
+   "note": ""
   }
  ],
  "data": [
@@ -88,13 +255,13 @@
   },
   {
    "name": "energy",
-   "ok": true,
-   "note": ""
+   "ok": false,
+   "note": "EIA_API_KEY not set (add it as a GitHub Secret)"
   },
   {
    "name": "conflict",
-   "ok": true,
-   "note": ""
+   "ok": false,
+   "note": "ACLED_EMAIL / ACLED_PASSWORD not set (add them as GitHub Secrets)"
   }
  ]
 }
