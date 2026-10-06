@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T19:51:34.807261+00:00",
+ "updated": "2026-10-06T19:54:29.648930+00:00",
  "items": [
   {
    "id": "6e0d9cba0b20a021",
@@ -114,6 +114,24 @@
    ],
    "countries": [
     "Iraq"
+   ]
+  },
+  {
+   "id": "9287e877c2c0c328",
+   "title": "Removal of MSC Baltic III Wreck in Canada Passes the Halfway Mark",
+   "summary": "The latest update from the Canadian Coast Guard, which is monitoring the removal operation for the wreck of the MSC Baltic III containership, shows st...",
+   "url": "https://maritime-executive.com/article/removal-of-msc-baltic-iii-wreck-in-canada-passes-the-halfway-mark",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-06T19:29:16+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Canada"
    ]
   },
   {
@@ -2448,6 +2466,22 @@
    ],
    "countries": [
     "Iran"
+   ]
+  },
+  {
+   "id": "b01ec092966c4909",
+   "title": "UK police arrest British national linked to RAF Fairford airbase incident",
+   "summary": "British national, twenty-two, arrested on suspicion of a \"terror\" offence after other suspects released on bail.",
+   "url": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T13:44:19+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
    ]
   },
   {
