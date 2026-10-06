@@ -3,7 +3,7 @@
 Pulls news feeds and open data, tags every item by region and theme,
 and writes JSON files that the dashboard reads.
 
-Run:  python collector/collect.py
+Run:  python collect.py
 Each part fails independently, so one broken source never stops the rest.
 """
 from __future__ import annotations
@@ -23,10 +23,10 @@ from pathlib import Path
 import feedparser
 import requests
 
-ROOT = Path(__file__).resolve().parent.parent
-CONFIG = ROOT / "config"
-OUT = ROOT / "site" / "data"
-OUT.mkdir(parents=True, exist_ok=True)
+# Everything lives in one folder: settings, data files and the web page sit side by side
+ROOT = Path(__file__).resolve().parent
+CONFIG = ROOT
+OUT = ROOT
 
 NOW = datetime.now(timezone.utc)
 KEEP_DAYS = 14          # how long news items stay on the dashboard

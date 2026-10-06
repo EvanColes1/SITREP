@@ -31,7 +31,7 @@
 
   async function load(name) {
     try {
-      const r = await fetch(`data/${name}.json`, { cache: "no-store" });
+      const r = await fetch(`${name}.json`, { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       return await r.json();
     } catch (e) { return null; }
