@@ -1,0 +1,902 @@
+{
+  "europe_eurasia": {
+    "label": "Europe & Eurasia",
+    "places": {
+      "Russia": [
+        "russia",
+        "russian",
+        "russians",
+        "moscow",
+        "kremlin",
+        "putin",
+        "st petersburg"
+      ],
+      "Ukraine": [
+        "ukraine",
+        "ukrainian",
+        "ukrainians",
+        "kyiv",
+        "kiev",
+        "zelensky",
+        "zelenskyy",
+        "donbas",
+        "donetsk",
+        "luhansk",
+        "crimea",
+        "kharkiv",
+        "odesa",
+        "zaporizhzhia",
+        "kherson"
+      ],
+      "Belarus": [
+        "belarus",
+        "belarusian",
+        "minsk",
+        "lukashenko"
+      ],
+      "Moldova": [
+        "moldova",
+        "moldovan",
+        "chisinau",
+        "transnistria"
+      ],
+      "Georgia": [
+        "tbilisi",
+        "georgian dream",
+        "south ossetia",
+        "abkhazia"
+      ],
+      "Armenia": [
+        "armenia",
+        "armenian",
+        "yerevan"
+      ],
+      "Azerbaijan": [
+        "azerbaijan",
+        "azerbaijani",
+        "baku",
+        "nagorno-karabakh"
+      ],
+      "Kazakhstan": [
+        "kazakhstan",
+        "kazakh",
+        "astana",
+        "almaty"
+      ],
+      "Uzbekistan": [
+        "uzbekistan",
+        "uzbek",
+        "tashkent"
+      ],
+      "Kyrgyzstan": [
+        "kyrgyzstan",
+        "kyrgyz",
+        "bishkek"
+      ],
+      "Tajikistan": [
+        "tajikistan",
+        "tajik",
+        "dushanbe"
+      ],
+      "Turkmenistan": [
+        "turkmenistan",
+        "turkmen",
+        "ashgabat"
+      ],
+      "Turkey": [
+        "turkey",
+        "turkiye",
+        "türkiye",
+        "turkish",
+        "ankara",
+        "istanbul",
+        "erdogan"
+      ],
+      "United Kingdom": [
+        "united kingdom",
+        "uk",
+        "britain",
+        "british",
+        "london",
+        "england",
+        "scotland",
+        "wales",
+        "northern ireland",
+        "downing street",
+        "westminster"
+      ],
+      "Ireland": [
+        "ireland",
+        "irish",
+        "dublin"
+      ],
+      "France": [
+        "france",
+        "french",
+        "paris",
+        "macron",
+        "elysee"
+      ],
+      "Germany": [
+        "germany",
+        "german",
+        "berlin",
+        "bundestag"
+      ],
+      "Italy": [
+        "italy",
+        "italian",
+        "rome",
+        "meloni"
+      ],
+      "Spain": [
+        "spain",
+        "spanish",
+        "madrid"
+      ],
+      "Portugal": [
+        "portugal",
+        "portuguese",
+        "lisbon"
+      ],
+      "Netherlands": [
+        "netherlands",
+        "dutch",
+        "amsterdam",
+        "the hague"
+      ],
+      "Belgium": [
+        "belgium",
+        "belgian",
+        "brussels"
+      ],
+      "Luxembourg": [
+        "luxembourg"
+      ],
+      "Switzerland": [
+        "switzerland",
+        "swiss",
+        "geneva",
+        "bern"
+      ],
+      "Austria": [
+        "austria",
+        "austrian",
+        "vienna"
+      ],
+      "Poland": [
+        "poland",
+        "polish",
+        "warsaw"
+      ],
+      "Czechia": [
+        "czechia",
+        "czech republic",
+        "czech",
+        "prague"
+      ],
+      "Slovakia": [
+        "slovakia",
+        "slovak",
+        "bratislava",
+        "fico"
+      ],
+      "Hungary": [
+        "hungary",
+        "hungarian",
+        "budapest",
+        "orban"
+      ],
+      "Romania": [
+        "romania",
+        "romanian",
+        "bucharest"
+      ],
+      "Bulgaria": [
+        "bulgaria",
+        "bulgarian",
+        "sofia"
+      ],
+      "Greece": [
+        "greece",
+        "greek",
+        "athens"
+      ],
+      "Cyprus": [
+        "cyprus",
+        "cypriot",
+        "nicosia"
+      ],
+      "Serbia": [
+        "serbia",
+        "serbian",
+        "belgrade",
+        "vucic"
+      ],
+      "Kosovo": [
+        "kosovo",
+        "pristina"
+      ],
+      "Bosnia and Herzegovina": [
+        "bosnia",
+        "sarajevo",
+        "republika srpska"
+      ],
+      "Croatia": [
+        "croatia",
+        "croatian",
+        "zagreb"
+      ],
+      "Slovenia": [
+        "slovenia",
+        "ljubljana"
+      ],
+      "Montenegro": [
+        "montenegro",
+        "podgorica"
+      ],
+      "North Macedonia": [
+        "north macedonia",
+        "skopje"
+      ],
+      "Albania": [
+        "albania",
+        "albanian",
+        "tirana"
+      ],
+      "Denmark": [
+        "denmark",
+        "danish",
+        "copenhagen",
+        "greenland"
+      ],
+      "Sweden": [
+        "sweden",
+        "swedish",
+        "stockholm"
+      ],
+      "Norway": [
+        "norway",
+        "norwegian",
+        "oslo"
+      ],
+      "Finland": [
+        "finland",
+        "finnish",
+        "helsinki"
+      ],
+      "Iceland": [
+        "iceland",
+        "reykjavik"
+      ],
+      "Estonia": [
+        "estonia",
+        "estonian",
+        "tallinn"
+      ],
+      "Latvia": [
+        "latvia",
+        "latvian",
+        "riga"
+      ],
+      "Lithuania": [
+        "lithuania",
+        "lithuanian",
+        "vilnius",
+        "kaliningrad"
+      ],
+      "Malta": [
+        "malta",
+        "maltese"
+      ],
+      "European Union": [
+        "european union",
+        "eu",
+        "european commission",
+        "von der leyen",
+        "european parliament"
+      ]
+    }
+  },
+  "mena": {
+    "label": "Middle East & North Africa",
+    "places": {
+      "Israel": [
+        "israel",
+        "israeli",
+        "israelis",
+        "jerusalem",
+        "tel aviv",
+        "netanyahu",
+        "idf"
+      ],
+      "Palestine": [
+        "palestine",
+        "palestinian",
+        "palestinians",
+        "gaza",
+        "west bank",
+        "hamas",
+        "ramallah"
+      ],
+      "Lebanon": [
+        "lebanon",
+        "lebanese",
+        "beirut",
+        "hezbollah"
+      ],
+      "Syria": [
+        "syria",
+        "syrian",
+        "damascus",
+        "aleppo",
+        "idlib"
+      ],
+      "Jordan": [
+        "jordan",
+        "jordanian",
+        "amman"
+      ],
+      "Iraq": [
+        "iraq",
+        "iraqi",
+        "baghdad",
+        "kurdistan",
+        "erbil",
+        "basra"
+      ],
+      "Iran": [
+        "iran",
+        "iranian",
+        "tehran",
+        "khamenei",
+        "irgc"
+      ],
+      "Saudi Arabia": [
+        "saudi arabia",
+        "saudi",
+        "riyadh",
+        "aramco"
+      ],
+      "United Arab Emirates": [
+        "united arab emirates",
+        "uae",
+        "emirati",
+        "abu dhabi",
+        "dubai",
+        "fujairah"
+      ],
+      "Qatar": [
+        "qatar",
+        "qatari",
+        "doha"
+      ],
+      "Kuwait": [
+        "kuwait",
+        "kuwaiti"
+      ],
+      "Bahrain": [
+        "bahrain",
+        "bahraini",
+        "manama"
+      ],
+      "Oman": [
+        "oman",
+        "omani",
+        "muscat"
+      ],
+      "Yemen": [
+        "yemen",
+        "yemeni",
+        "sanaa",
+        "aden",
+        "houthi",
+        "houthis"
+      ],
+      "Egypt": [
+        "egypt",
+        "egyptian",
+        "cairo",
+        "suez",
+        "sisi"
+      ],
+      "Libya": [
+        "libya",
+        "libyan",
+        "tripoli",
+        "benghazi"
+      ],
+      "Tunisia": [
+        "tunisia",
+        "tunisian",
+        "tunis"
+      ],
+      "Algeria": [
+        "algeria",
+        "algerian",
+        "algiers"
+      ],
+      "Morocco": [
+        "morocco",
+        "moroccan",
+        "rabat",
+        "western sahara"
+      ]
+    }
+  },
+  "asia_pacific": {
+    "label": "Asia-Pacific",
+    "places": {
+      "China": [
+        "china",
+        "chinese",
+        "beijing",
+        "shanghai",
+        "xi jinping",
+        "hong kong",
+        "xinjiang",
+        "tibet",
+        "pla"
+      ],
+      "Taiwan": [
+        "taiwan",
+        "taiwanese",
+        "taipei"
+      ],
+      "Japan": [
+        "japan",
+        "japanese",
+        "tokyo"
+      ],
+      "South Korea": [
+        "south korea",
+        "south korean",
+        "seoul"
+      ],
+      "North Korea": [
+        "north korea",
+        "north korean",
+        "pyongyang",
+        "kim jong un",
+        "dprk"
+      ],
+      "Mongolia": [
+        "mongolia",
+        "ulaanbaatar"
+      ],
+      "India": [
+        "india",
+        "indian",
+        "new delhi",
+        "delhi",
+        "mumbai",
+        "modi",
+        "kashmir"
+      ],
+      "Pakistan": [
+        "pakistan",
+        "pakistani",
+        "islamabad",
+        "karachi",
+        "balochistan"
+      ],
+      "Afghanistan": [
+        "afghanistan",
+        "afghan",
+        "kabul",
+        "taliban"
+      ],
+      "Bangladesh": [
+        "bangladesh",
+        "bangladeshi",
+        "dhaka"
+      ],
+      "Sri Lanka": [
+        "sri lanka",
+        "sri lankan",
+        "colombo"
+      ],
+      "Nepal": [
+        "nepal",
+        "nepalese",
+        "kathmandu"
+      ],
+      "Myanmar": [
+        "myanmar",
+        "burma",
+        "burmese",
+        "naypyidaw",
+        "yangon",
+        "rohingya"
+      ],
+      "Thailand": [
+        "thailand",
+        "thai",
+        "bangkok"
+      ],
+      "Vietnam": [
+        "vietnam",
+        "vietnamese",
+        "hanoi"
+      ],
+      "Cambodia": [
+        "cambodia",
+        "cambodian",
+        "phnom penh"
+      ],
+      "Laos": [
+        "laos",
+        "vientiane"
+      ],
+      "Malaysia": [
+        "malaysia",
+        "malaysian",
+        "kuala lumpur"
+      ],
+      "Singapore": [
+        "singapore",
+        "singaporean"
+      ],
+      "Indonesia": [
+        "indonesia",
+        "indonesian",
+        "jakarta"
+      ],
+      "Philippines": [
+        "philippines",
+        "philippine",
+        "filipino",
+        "manila"
+      ],
+      "Australia": [
+        "australia",
+        "australian",
+        "canberra",
+        "sydney"
+      ],
+      "New Zealand": [
+        "new zealand",
+        "wellington"
+      ],
+      "Pacific Islands": [
+        "fiji",
+        "papua new guinea",
+        "solomon islands",
+        "vanuatu",
+        "samoa",
+        "tonga"
+      ]
+    }
+  },
+  "americas": {
+    "label": "Americas",
+    "places": {
+      "United States": [
+        "united states",
+        "us",
+        "u.s.",
+        "usa",
+        "american",
+        "washington",
+        "white house",
+        "pentagon",
+        "congress",
+        "trump",
+        "state department",
+        "us treasury"
+      ],
+      "Canada": [
+        "canada",
+        "canadian",
+        "ottawa"
+      ],
+      "Mexico": [
+        "mexico",
+        "mexican",
+        "mexico city"
+      ],
+      "Guatemala": [
+        "guatemala"
+      ],
+      "Honduras": [
+        "honduras"
+      ],
+      "El Salvador": [
+        "el salvador",
+        "bukele"
+      ],
+      "Nicaragua": [
+        "nicaragua",
+        "managua"
+      ],
+      "Costa Rica": [
+        "costa rica"
+      ],
+      "Panama": [
+        "panama",
+        "panama canal"
+      ],
+      "Cuba": [
+        "cuba",
+        "cuban",
+        "havana"
+      ],
+      "Haiti": [
+        "haiti",
+        "haitian",
+        "port-au-prince"
+      ],
+      "Dominican Republic": [
+        "dominican republic"
+      ],
+      "Venezuela": [
+        "venezuela",
+        "venezuelan",
+        "caracas",
+        "maduro",
+        "pdvsa"
+      ],
+      "Colombia": [
+        "colombia",
+        "colombian",
+        "bogota"
+      ],
+      "Ecuador": [
+        "ecuador",
+        "quito"
+      ],
+      "Peru": [
+        "peru",
+        "peruvian",
+        "lima"
+      ],
+      "Bolivia": [
+        "bolivia",
+        "la paz"
+      ],
+      "Brazil": [
+        "brazil",
+        "brazilian",
+        "brasilia",
+        "lula"
+      ],
+      "Argentina": [
+        "argentina",
+        "argentine",
+        "buenos aires",
+        "milei"
+      ],
+      "Chile": [
+        "chile",
+        "chilean",
+        "santiago"
+      ],
+      "Uruguay": [
+        "uruguay",
+        "montevideo"
+      ],
+      "Paraguay": [
+        "paraguay",
+        "asuncion"
+      ],
+      "Guyana": [
+        "guyana",
+        "essequibo"
+      ]
+    }
+  },
+  "africa": {
+    "label": "Sub-Saharan Africa",
+    "places": {
+      "Sudan": [
+        "sudan",
+        "sudanese",
+        "khartoum",
+        "darfur",
+        "rsf"
+      ],
+      "South Sudan": [
+        "south sudan",
+        "juba"
+      ],
+      "Ethiopia": [
+        "ethiopia",
+        "ethiopian",
+        "addis ababa",
+        "tigray",
+        "amhara"
+      ],
+      "Eritrea": [
+        "eritrea",
+        "asmara"
+      ],
+      "Somalia": [
+        "somalia",
+        "somali",
+        "mogadishu",
+        "al-shabaab",
+        "somaliland",
+        "puntland"
+      ],
+      "Djibouti": [
+        "djibouti"
+      ],
+      "Kenya": [
+        "kenya",
+        "kenyan",
+        "nairobi"
+      ],
+      "Uganda": [
+        "uganda",
+        "ugandan",
+        "kampala"
+      ],
+      "Tanzania": [
+        "tanzania",
+        "dodoma",
+        "dar es salaam"
+      ],
+      "Rwanda": [
+        "rwanda",
+        "rwandan",
+        "kigali"
+      ],
+      "Burundi": [
+        "burundi"
+      ],
+      "DR Congo": [
+        "democratic republic of congo",
+        "dr congo",
+        "drc",
+        "kinshasa",
+        "goma",
+        "m23"
+      ],
+      "Republic of Congo": [
+        "congo-brazzaville",
+        "brazzaville"
+      ],
+      "Central African Republic": [
+        "central african republic",
+        "bangui"
+      ],
+      "Cameroon": [
+        "cameroon",
+        "yaounde"
+      ],
+      "Chad": [
+        "chad",
+        "n'djamena"
+      ],
+      "Niger": [
+        "niger",
+        "niamey"
+      ],
+      "Mali": [
+        "mali",
+        "malian",
+        "bamako"
+      ],
+      "Burkina Faso": [
+        "burkina faso",
+        "ouagadougou"
+      ],
+      "Nigeria": [
+        "nigeria",
+        "nigerian",
+        "abuja",
+        "lagos",
+        "boko haram"
+      ],
+      "Ghana": [
+        "ghana",
+        "ghanaian",
+        "accra"
+      ],
+      "Ivory Coast": [
+        "ivory coast",
+        "cote d'ivoire",
+        "abidjan"
+      ],
+      "Senegal": [
+        "senegal",
+        "dakar"
+      ],
+      "Guinea": [
+        "conakry"
+      ],
+      "Sierra Leone": [
+        "sierra leone",
+        "freetown"
+      ],
+      "Liberia": [
+        "liberia",
+        "monrovia"
+      ],
+      "Mauritania": [
+        "mauritania",
+        "nouakchott"
+      ],
+      "Gabon": [
+        "gabon",
+        "libreville"
+      ],
+      "Equatorial Guinea": [
+        "equatorial guinea"
+      ],
+      "Angola": [
+        "angola",
+        "luanda"
+      ],
+      "Zambia": [
+        "zambia",
+        "lusaka"
+      ],
+      "Zimbabwe": [
+        "zimbabwe",
+        "harare"
+      ],
+      "Mozambique": [
+        "mozambique",
+        "maputo",
+        "cabo delgado"
+      ],
+      "Malawi": [
+        "malawi",
+        "lilongwe"
+      ],
+      "Madagascar": [
+        "madagascar",
+        "antananarivo"
+      ],
+      "South Africa": [
+        "south africa",
+        "south african",
+        "pretoria",
+        "johannesburg",
+        "cape town"
+      ],
+      "Namibia": [
+        "namibia",
+        "windhoek"
+      ],
+      "Botswana": [
+        "botswana",
+        "gaborone"
+      ],
+      "Sahel": [
+        "sahel"
+      ]
+    }
+  },
+  "global": {
+    "label": "Global / multilateral",
+    "places": {
+      "United Nations": [
+        "united nations",
+        "un security council",
+        "security council",
+        "un general assembly",
+        "guterres"
+      ],
+      "G7 / G20": [
+        "g7",
+        "g20"
+      ],
+      "NATO": [
+        "nato"
+      ],
+      "BRICS": [
+        "brics"
+      ],
+      "IMF / World Bank": [
+        "imf",
+        "world bank"
+      ],
+      "WTO": [
+        "wto",
+        "world trade organization"
+      ]
+    }
+  }
+}

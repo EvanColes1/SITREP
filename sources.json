@@ -1,0 +1,68 @@
+{
+  "_note": "Feed addresses change over time. If a source shows as failing on the Status page, find its current RSS link on the publisher's site and update the url here.",
+  "feeds": [
+    {"name": "BBC World", "group": "World news", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "Al Jazeera", "group": "World news", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"name": "The Guardian World", "group": "World news", "url": "https://www.theguardian.com/world/rss"},
+    {"name": "France 24", "group": "World news", "url": "https://www.france24.com/en/rss"},
+    {"name": "DW", "group": "World news", "url": "https://rss.dw.com/rdf/rss-en-world"},
+    {"name": "Euronews", "group": "World news", "url": "https://www.euronews.com/rss?level=theme&name=news"},
+    {"name": "NPR World", "group": "World news", "url": "https://feeds.npr.org/1004/rss.xml"},
+
+    {"name": "RFE/RL", "group": "Regional", "url": "https://www.rferl.org/api/epiqq", "region_hint": "europe_eurasia"},
+    {"name": "Kyiv Independent", "group": "Regional", "url": "https://kyivindependent.com/rss/", "region_hint": "europe_eurasia"},
+    {"name": "The Diplomat", "group": "Regional", "url": "https://thediplomat.com/feed/", "region_hint": "asia_pacific"},
+    {"name": "Middle East Eye", "group": "Regional", "url": "https://www.middleeasteye.net/rss", "region_hint": "mena"},
+    {"name": "AllAfrica", "group": "Regional", "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf", "region_hint": "africa"},
+    {"name": "Americas Quarterly", "group": "Regional", "url": "https://americasquarterly.org/feed/", "region_hint": "americas"},
+
+    {"name": "Crisis Group", "group": "Think tank", "url": "https://www.crisisgroup.org/rss.xml"},
+    {"name": "Chatham House", "group": "Think tank", "url": "https://www.chathamhouse.org/rss.xml"},
+    {"name": "RUSI", "group": "Think tank", "url": "https://www.rusi.org/rss.xml"},
+    {"name": "CSIS", "group": "Think tank", "url": "https://www.csis.org/rss.xml"},
+    {"name": "Carnegie", "group": "Think tank", "url": "https://carnegieendowment.org/rss/solr/?fa=publications"},
+    {"name": "ECFR", "group": "Think tank", "url": "https://ecfr.eu/feed/"},
+    {"name": "Atlantic Council", "group": "Think tank", "url": "https://www.atlanticcouncil.org/feed/"},
+    {"name": "War on the Rocks", "group": "Think tank", "url": "https://warontherocks.com/feed/"},
+
+    {"name": "OFAC Recent Actions", "group": "Sanctions", "url": "https://ofac.treasury.gov/recent-actions/rss.xml", "theme_hint": "sanctions"},
+    {"name": "UK Financial Sanctions (OFSI)", "group": "Sanctions", "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation.atom", "theme_hint": "sanctions"},
+
+    {"name": "OilPrice.com", "group": "Energy", "url": "https://oilprice.com/rss/main", "theme_hint": "energy"},
+    {"name": "IEA News", "group": "Energy", "url": "https://www.iea.org/api/rss/news", "theme_hint": "energy"},
+    {"name": "Carbon Brief", "group": "Energy", "url": "https://www.carbonbrief.org/feed/", "theme_hint": "climate"},
+
+    {"name": "gCaptain", "group": "Maritime", "url": "https://gcaptain.com/feed/", "theme_hint": "maritime"},
+    {"name": "Splash247", "group": "Maritime", "url": "https://splash247.com/feed/", "theme_hint": "maritime"},
+    {"name": "The Maritime Executive", "group": "Maritime", "url": "https://maritime-executive.com/articles.rss", "theme_hint": "maritime"},
+
+    {"name": "The Record", "group": "Cyber", "url": "https://therecord.media/feed", "theme_hint": "cyber"},
+
+    {"name": "UNHCR News", "group": "Migration", "url": "https://www.unhcr.org/rss/news.xml", "theme_hint": "migration"},
+    {"name": "Migration Policy Institute", "group": "Migration", "url": "https://www.migrationpolicy.org/rss.xml", "theme_hint": "migration"},
+
+    {"name": "Arms Control Association", "group": "Nuclear", "url": "https://www.armscontrol.org/rss.xml", "theme_hint": "nuclear"},
+    {"name": "Bulletin of the Atomic Scientists", "group": "Nuclear", "url": "https://thebulletin.org/feed/", "theme_hint": "nuclear"},
+    {"name": "IAEA News", "group": "Nuclear", "url": "https://www.iaea.org/feeds/topnews", "theme_hint": "nuclear"}
+  ],
+  "data_sources": {
+    "opensanctions": {
+      "name": "OpenSanctions (consolidated sanctions incl. vessels)",
+      "url": "https://data.opensanctions.org/datasets/latest/sanctions/targets.simple.csv",
+      "licence": "Free for non-commercial use (CC BY-NC 4.0)"
+    },
+    "eia": {
+      "name": "US Energy Information Administration API",
+      "series": {
+        "Brent crude ($/bbl)": "PET.RBRTE.D",
+        "WTI crude ($/bbl)": "PET.RWTC.D",
+        "Henry Hub gas ($/MMBtu)": "NG.RNGWHHD.D"
+      },
+      "needs_key": "EIA_API_KEY"
+    },
+    "acled": {
+      "name": "ACLED conflict events",
+      "needs_key": "ACLED_EMAIL and ACLED_PASSWORD (free researcher account)"
+    }
+  }
+}

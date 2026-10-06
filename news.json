@@ -1,0 +1,4931 @@
+{
+ "sample": true,
+ "updated": "2026-10-06T18:23:26.352803+00:00",
+ "items": [
+  {
+   "id": "burst6",
+   "title": "Houthi leader vows more strikes on shipping",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-06T16:13:39.701519+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "burst4",
+   "title": "Shipping giants pause Red Sea routes after attacks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-06T14:54:43.080527+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "gen96",
+   "title": "Militants attack army post in Mali",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-06T13:12:55.026421+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Mali"
+   ]
+  },
+  {
+   "id": "gen25",
+   "title": "UK freezes assets of Iran network linked to oil smuggling",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-06T13:04:35.716867+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Iran"
+   ]
+  },
+  {
+   "id": "burst1",
+   "title": "Red Sea transits fall as insurers pull cover",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-06T11:38:39.852794+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "gen13",
+   "title": "UK freezes assets of United Arab Emirates network linked to dual-use exports",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-06T11:38:05.819561+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "burst0",
+   "title": "Houthi drones target tanker in Red Sea",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-06T10:54:36.337784+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "gen61",
+   "title": "Drone strike hits cargo ship near Egypt",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-06T09:41:30.822836+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "burst2",
+   "title": "Second ship hit near Bab el-Mandeb in 24 hours",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-06T09:32:06.125008+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "gen102",
+   "title": "Airstrikes kill dozens in Ukraine, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-06T09:23:06.504700+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gen60",
+   "title": "Tanker seized off Philippines coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-06T09:22:16.595419+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "sample4",
+   "title": "Insurers raise war-risk premiums for Strait of Hormuz transits",
+   "summary": "P&I clubs cite rising tension between Iran and Gulf states.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-06T09:05:48.506329+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "sample42",
+   "title": "Azerbaijan and Armenia sign framework peace agreement",
+   "summary": "The deal in Baku follows decades of conflict over Nagorno-Karabakh.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-06T08:42:53.731476+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Armenia",
+    "Azerbaijan"
+   ]
+  },
+  {
+   "id": "burst8",
+   "title": "Venezuela election protests turn deadly in Caracas",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-06T07:32:34.875806+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "gen79",
+   "title": "Militants attack army post in Sudan",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-06T07:16:44.076251+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "sample2",
+   "title": "EU agrees new sanctions package targeting LNG and shipping",
+   "summary": "The package lists further vessels and restricts port access across the bloc.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-06T07:01:56.152427+00:00",
+   "themes": [
+    "sanctions",
+    "energy",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "European Union"
+   ]
+  },
+  {
+   "id": "sample27",
+   "title": "Ransomware attack disrupts European airport check-in systems",
+   "summary": "Hackers targeted a software supplier used at Brussels and Berlin airports.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-06T05:41:07.393245+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany",
+    "Belgium"
+   ]
+  },
+  {
+   "id": "burst9",
+   "title": "Maduro declares state of emergency",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-06T05:32:38.357658+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "burst10",
+   "title": "Venezuela opposition calls general strike",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-06T05:04:23.666646+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "burst3",
+   "title": "US Navy intercepts missiles over Red Sea",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-06T05:02:05.989843+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "sample3",
+   "title": "Houthi missile strikes cargo ship in Red Sea",
+   "summary": "The attack off Yemen forced the crew to abandon ship and rerouted traffic around the Cape.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-06T03:55:48.207212+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "sample20",
+   "title": "Pakistan and India trade fire along Kashmir line of control",
+   "summary": "Both militaries reported shelling after an attack on troops.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-06T03:27:29.092281+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "gen2",
+   "title": "Treasury designates Belarus traders for sanctions evasion",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-06T03:13:16.095005+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Belarus"
+   ]
+  },
+  {
+   "id": "sample18",
+   "title": "M23 rebels advance near Goma in eastern DR Congo",
+   "summary": "Rwanda denies supporting the armed group as fighting displaces civilians.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-06T02:39:13.272037+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Rwanda",
+    "DR Congo"
+   ]
+  },
+  {
+   "id": "gen91",
+   "title": "Fighting intensifies in Sudan as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-06T01:27:44.639099+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "burst5",
+   "title": "Suez Canal revenue slumps as ships divert",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-06T01:13:44.281488+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "gen22",
+   "title": "Treasury designates Iran traders for sanctions evasion",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-06T00:38:51.387396+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "sample31",
+   "title": "UNHCR warns of funding gap as Sudan refugees reach Chad",
+   "summary": "More than 600,000 displaced people have crossed the border.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-06T00:30:26.090157+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan",
+    "Chad"
+   ]
+  },
+  {
+   "id": "burst7",
+   "title": "Red Sea crisis lifts container freight rates",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-06T00:13:38.775266+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "sample9",
+   "title": "India's purchases of Russian crude hit record high",
+   "summary": "Discounted Urals barrels continue to flow to Indian refineries.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-05T23:41:13.103203+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Russia",
+    "India"
+   ]
+  },
+  {
+   "id": "burst11",
+   "title": "Venezuela troops deployed to Caracas streets",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-05T23:19:52.198653+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "gen123",
+   "title": "Protests spread in Moldova ahead of disputed election",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-05T20:42:34.190078+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Moldova"
+   ]
+  },
+  {
+   "id": "sample33",
+   "title": "Drought threatens Panama Canal shipping capacity",
+   "summary": "Low water levels forced authorities to restrict daily transits.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-05T19:39:24.714360+00:00",
+   "themes": [
+    "maritime",
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Panama"
+   ]
+  },
+  {
+   "id": "gen29",
+   "title": "Refinery fire in Libya disrupts fuel supply",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-05T19:11:51.273943+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "gen11",
+   "title": "EU targets Venezuela shipping companies in new sanctions package",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-05T18:31:49.292533+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "sample32",
+   "title": "US expands deportation flights to Central America",
+   "summary": "Guatemala and Honduras received the first flights under the new agreement.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-05T17:48:03.861847+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Guatemala",
+    "Honduras"
+   ]
+  },
+  {
+   "id": "gen101",
+   "title": "Fighting intensifies in Pakistan as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-05T15:38:43.272157+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "gen4",
+   "title": "Treasury designates North Korea traders for sanctions evasion",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-05T15:28:15.023089+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "sample22",
+   "title": "Moldova votes in parliamentary election amid Russian interference claims",
+   "summary": "Officials in Chisinau warned of vote-buying schemes.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-05T11:56:18.807444+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Moldova"
+   ]
+  },
+  {
+   "id": "gen40",
+   "title": "Refinery fire in Saudi Arabia disrupts fuel supply",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-05T11:49:24.423909+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "sample5",
+   "title": "Baltic states inspect tanker after undersea cable damage",
+   "summary": "Estonia and Finland detained a vessel suspected of dragging its anchor near Tallinn.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-05T10:41:19.729309+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Finland",
+    "Estonia"
+   ]
+  },
+  {
+   "id": "gen84",
+   "title": "Airstrikes kill dozens in Israel, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-05T09:57:59.681312+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "gen100",
+   "title": "Troops deployed to Russia border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-05T08:37:18.478095+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "sample7",
+   "title": "Brent crude rises as OPEC+ signals deeper output cuts",
+   "summary": "Oil prices climbed after Saudi Arabia said the group would extend cuts into next year.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-05T06:58:33.040338+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "gen19",
+   "title": "UK freezes assets of Russia network linked to crypto laundering",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-05T06:55:23.212192+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "gen41",
+   "title": "Kazakhstan signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-05T06:45:38.991952+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Kazakhstan"
+   ]
+  },
+  {
+   "id": "gen82",
+   "title": "Airstrikes kill dozens in Sudan, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-05T02:43:04.658887+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "gen1",
+   "title": "Treasury designates Russia traders for sanctions evasion",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-05T02:36:58.496052+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen97",
+   "title": "Troops deployed to Pakistan border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-05T01:44:30.632474+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "sample44",
+   "title": "Saudi Aramco cuts oil prices for Asian buyers",
+   "summary": "The move signals weaker demand in China.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-05T00:41:36.572881+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "China"
+   ]
+  },
+  {
+   "id": "sample15",
+   "title": "Russian offensive presses towards Pokrovsk as ceasefire talks stall",
+   "summary": "Ukrainian troops report heavy shelling across Donetsk.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-04T23:58:35.492199+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gen197",
+   "title": "Arms control talks with North Korea collapse",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-04T23:23:13.379367+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen90",
+   "title": "Troops deployed to Mali border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-04T21:20:44.226025+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Mali"
+   ]
+  },
+  {
+   "id": "sample17",
+   "title": "RSF fighters seize town in Sudan's Darfur region",
+   "summary": "Thousands fled as clashes with the army spread across Darfur.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-04T21:16:39.909755+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "gen63",
+   "title": "Tanker seized off Iran coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-04T20:43:33.618542+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen73",
+   "title": "Fighting intensifies in Colombia as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-04T20:33:23.226057+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "sample0",
+   "title": "Treasury sanctions tankers linked to Russia's shadow fleet",
+   "summary": "OFAC designated vessels and ship managers accused of moving Russian crude above the price cap.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-04T19:04:57.245467+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen42",
+   "title": "Qatar oil exports climb as buyers chase discounted crude",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-04T18:13:16.633783+00:00",
+   "themes": [
+    "energy",
+    "trade"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Qatar"
+   ]
+  },
+  {
+   "id": "sample37",
+   "title": "Russia suspends participation in remaining arms control talks",
+   "summary": "Moscow said New START limits no longer apply.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-04T16:45:11.360747+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen66",
+   "title": "Tanker seized off Taiwan coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-04T15:41:39.779955+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "gen86",
+   "title": "Airstrikes kill dozens in Colombia, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-04T15:09:56.453481+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "gen56",
+   "title": "Tanker seized off Egypt coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-04T13:44:24.172019+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "sample25",
+   "title": "Venezuela's opposition leader calls for international pressure on Maduro",
+   "summary": "Caracas faces renewed scrutiny over election results.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-04T13:41:03.755963+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "gen67",
+   "title": "Taiwan navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-04T12:59:55.423527+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "gen27",
+   "title": "Russia signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-04T12:11:44.013869+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen126",
+   "title": "Supply chain disruption in Mexico hits semiconductor output",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-04T10:24:47.011499+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen94",
+   "title": "Fighting intensifies in Ukraine as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-04T09:49:14.554465+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "sample1",
+   "title": "UK adds ship-to-ship transfer operators to sanctions list",
+   "summary": "OFSI asset freeze targets firms in the UAE handling Russian oil cargoes.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-04T08:55:51.216844+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "Russia",
+    "United Kingdom",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "sample34",
+   "title": "Floods displace hundreds of thousands in Nigeria",
+   "summary": "Heavy rains caused a dam to overflow in the north-east.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-04T05:05:16.039918+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "sample8",
+   "title": "Europe gas prices jump on Norwegian outage",
+   "summary": "A pipeline fault cut flows to Germany as storage drawdowns accelerate.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-04T04:41:03.874232+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany",
+    "Norway"
+   ]
+  },
+  {
+   "id": "sample23",
+   "title": "Coup attempt foiled in Guinea-Bissau, government says",
+   "summary": "Soldiers were arrested after gunfire near the presidential palace.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-04T04:14:41.833844+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "sample6",
+   "title": "Philippines and China trade accusations over South China Sea collision",
+   "summary": "Coast guard vessels collided near a disputed shoal off Manila's claimed waters.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-04T03:22:45.554854+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China",
+    "Philippines"
+   ]
+  },
+  {
+   "id": "gen80",
+   "title": "Troops deployed to Sudan border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-04T01:42:23.470673+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "gen71",
+   "title": "Airstrikes kill dozens in Lebanon, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-04T01:35:23.799551+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "sample24",
+   "title": "Thousands protest in Serbia against government corruption",
+   "summary": "Demonstrators in Belgrade demanded the resignation of ministers.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-03T22:48:34.512269+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "sample41",
+   "title": "IMF cuts global growth forecast citing trade tensions",
+   "summary": "The fund warned tariffs and conflict could slow recovery.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-03T21:35:40.528699+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "gen161",
+   "title": "UN warns of refugee crisis on Greece border",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-03T20:38:58.989383+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Greece"
+   ]
+  },
+  {
+   "id": "gen162",
+   "title": "Thousands displaced by fighting cross into Poland",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-03T19:52:33.347638+00:00",
+   "themes": [
+    "conflict",
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "gen88",
+   "title": "Militants attack army post in Russia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-03T16:02:42.224149+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen37",
+   "title": "Refinery fire in Norway disrupts fuel supply",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-03T15:21:28.897352+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Norway"
+   ]
+  },
+  {
+   "id": "sample28",
+   "title": "North Korean hackers stole $1bn in crypto this year, report says",
+   "summary": "Investigators link the thefts to Pyongyang's weapons programme.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-03T14:17:15.192641+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "sample16",
+   "title": "Israel and Hezbollah exchange fire across Lebanon border",
+   "summary": "Airstrikes hit southern Lebanon after rockets were fired at northern Israel.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-03T12:04:21.258931+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "gen28",
+   "title": "Nigeria signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-03T10:06:18.511148+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "sample14",
+   "title": "Ukraine strikes refinery deep inside Russia with long-range drones",
+   "summary": "Kyiv said the attack hit a facility supplying fuel to the front line.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-03T09:47:15.263345+00:00",
+   "themes": [
+    "energy",
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gen6",
+   "title": "North Korea firms added to US sanctions list over drone parts",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-03T09:24:18.576510+00:00",
+   "themes": [
+    "sanctions",
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "North Korea",
+    "United States"
+   ]
+  },
+  {
+   "id": "sample21",
+   "title": "Georgia's ruling party wins disputed election as protests grow",
+   "summary": "Opposition supporters rallied in Tbilisi, alleging fraud.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-03T08:41:09.555498+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Georgia"
+   ]
+  },
+  {
+   "id": "sample12",
+   "title": "US announces tariffs on steel imports from Mexico and Canada",
+   "summary": "The White House said the tariffs respond to rising import volumes.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-03T05:39:29.628428+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Canada",
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen8",
+   "title": "Iran firms added to US sanctions list over drone parts",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-03T05:21:34.106532+00:00",
+   "themes": [
+    "sanctions",
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "sample38",
+   "title": "North Korea tests new ICBM capable of reaching US mainland",
+   "summary": "Japan and South Korea condemned the launch.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-03T04:23:44.740069+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Japan",
+    "South Korea",
+    "North Korea",
+    "United States"
+   ]
+  },
+  {
+   "id": "sample30",
+   "title": "Record number of migrants cross the Channel in small boats",
+   "summary": "The UK government faces pressure over asylum processing.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-03T02:18:34.249803+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "gen53",
+   "title": "Philippines navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-03T00:57:05.964147+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "gen160",
+   "title": "Bangladesh tightens asylum rules as migrant arrivals rise",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-03T00:34:48.457960+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "sample10",
+   "title": "Kazakhstan pipeline exports disrupted after drone attack",
+   "summary": "The Caspian Pipeline Consortium terminal near the Black Sea suspended loadings.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-02T23:12:40.131384+00:00",
+   "themes": [
+    "energy",
+    "conflict",
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Kazakhstan"
+   ]
+  },
+  {
+   "id": "sample19",
+   "title": "Jihadist attack kills soldiers in Burkina Faso",
+   "summary": "The junta said militants struck a military post in the Sahel border region.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-02T22:01:33.699000+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Burkina Faso",
+    "Sahel"
+   ]
+  },
+  {
+   "id": "sample43",
+   "title": "Turkey brokers grain shipping talks between Russia and Ukraine",
+   "summary": "Ankara hopes to restore safe passage in the Black Sea.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-02T20:51:04.418492+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "gen81",
+   "title": "Airstrikes kill dozens in Mali, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-02T17:56:04.576023+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Mali"
+   ]
+  },
+  {
+   "id": "gen5",
+   "title": "UK freezes assets of China network linked to oil smuggling",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-02T17:45:26.529789+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "United Kingdom",
+    "China"
+   ]
+  },
+  {
+   "id": "gen69",
+   "title": "Iran navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-02T13:51:04.911218+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen76",
+   "title": "Militants attack army post in Israel",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-02T12:47:23.552437+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "gen33",
+   "title": "Iraq oil exports climb as buyers chase discounted crude",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-02T12:27:12.488244+00:00",
+   "themes": [
+    "energy",
+    "trade"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "gen189",
+   "title": "Floods displace thousands in Australia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-02T11:27:24.452989+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "gen114",
+   "title": "Kenya parliament dissolved amid political crisis",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-02T09:27:10.462797+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "sample29",
+   "title": "Chinese espionage group targets Taiwan semiconductor firms",
+   "summary": "Security researchers say the campaign used zero-day exploits.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-02T09:04:47.917800+00:00",
+   "themes": [
+    "trade",
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "gen93",
+   "title": "Fighting intensifies in Russia as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-02T08:21:04.584165+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen95",
+   "title": "Airstrikes kill dozens in Pakistan, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-02T08:00:36.007503+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "gen47",
+   "title": "Qatar signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-02T07:51:24.448250+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Qatar"
+   ]
+  },
+  {
+   "id": "gen159",
+   "title": "Mexico expands deportation flights",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-02T07:20:24.453701+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen35",
+   "title": "Refinery fire in Iraq disrupts fuel supply",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-02T06:30:00.073109+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "gen15",
+   "title": "EU targets Iran shipping companies in new sanctions package",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-02T05:46:02.387151+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "European Union",
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen154",
+   "title": "Iran accuses rival of cyber espionage campaign",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-02T04:49:12.293959+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "sample35",
+   "title": "Heatwave and wildfires hit grain output in southern Russia",
+   "summary": "Food security concerns grow as export forecasts are cut.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-02T04:03:25.270877+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen49",
+   "title": "Tanker seized off Yemen coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-10-02T02:57:18.142801+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "sample36",
+   "title": "Iran expands uranium enrichment, IAEA report says",
+   "summary": "Inspectors found stockpiles of enriched uranium near weapons grade.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-02T00:33:00.673320+00:00",
+   "themes": [
+    "energy",
+    "nuclear"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen190",
+   "title": "Heatwave strains power grid in Ethiopia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-01T23:56:37.454286+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "sample26",
+   "title": "Thailand's prime minister faces no-confidence vote",
+   "summary": "Parliament in Bangkok will debate the motion next week.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-10-01T23:47:39.795715+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Thailand"
+   ]
+  },
+  {
+   "id": "sample39",
+   "title": "UN Security Council deadlocked over Gaza ceasefire resolution",
+   "summary": "The US vetoed the draft as humanitarian conditions worsen.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-01T23:26:06.363650+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas",
+    "global"
+   ],
+   "countries": [
+    "Palestine",
+    "United States",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "gen9",
+   "title": "Russia firms added to US sanctions list over oil smuggling",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-10-01T21:55:59.622890+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "gen152",
+   "title": "Japan accuses rival of cyber espionage campaign",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-01T19:23:07.666464+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen165",
+   "title": "Bangladesh expands deportation flights",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-01T18:47:27.586636+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "sample40",
+   "title": "G7 leaders pledge to tighten enforcement of Russian oil price cap",
+   "summary": "The statement names shadow fleet insurers and flag registries.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-01T17:16:30.939395+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "global"
+   ],
+   "countries": [
+    "Russia",
+    "G7 / G20"
+   ]
+  },
+  {
+   "id": "gen57",
+   "title": "Shipping insurers raise premiums for Iran port calls",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-01T17:11:29.252309+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen58",
+   "title": "Shipping insurers raise premiums for Russia port calls",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-01T17:06:13.598457+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen139",
+   "title": "Germany tightens export controls on critical minerals",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-01T16:16:07.654128+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "gen122",
+   "title": "Opposition leader arrested in Venezuela as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-01T14:59:13.584251+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "gen68",
+   "title": "Russia navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-01T12:06:17.182821+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen195",
+   "title": "IAEA visits Russia nuclear site",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-01T10:41:44.891882+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen151",
+   "title": "North Korea accuses rival of cyber espionage campaign",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-10-01T10:31:13.789137+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen30",
+   "title": "Refinery fire in Russia disrupts fuel supply",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-01T10:16:58.562597+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen133",
+   "title": "Japan and EU open trade talks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-10-01T10:13:04.651932+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "European Union",
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen31",
+   "title": "Gas pipeline outage in Norway lifts European prices",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-01T09:23:55.502282+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Norway"
+   ]
+  },
+  {
+   "id": "gen202",
+   "title": "IAEA visits India nuclear site",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-10-01T08:23:43.448318+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "gen206",
+   "title": "IAEA visits North Korea nuclear site",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-01T07:14:54.120487+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen65",
+   "title": "Tanker seized off Russia coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-01T05:24:13.633294+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen52",
+   "title": "Tanker seized off China coast amid shadow fleet crackdown",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-10-01T05:23:06.721811+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen92",
+   "title": "Militants attack army post in Pakistan",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-10-01T02:55:50.662048+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "sample11",
+   "title": "China tightens export controls on rare earth processing technology",
+   "summary": "Beijing's move follows new US curbs on advanced semiconductors.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-10-01T01:52:05.789226+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "gen205",
+   "title": "Arms control talks with India collapse",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-10-01T01:38:17.205975+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "sample13",
+   "title": "EU and Mercosur sign long-delayed trade agreement",
+   "summary": "The deal faces opposition from French farmers ahead of ratification.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-30T21:47:10.224444+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France",
+    "European Union"
+   ]
+  },
+  {
+   "id": "gen200",
+   "title": "Russia expands uranium enrichment, inspectors say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-30T21:22:49.092692+00:00",
+   "themes": [
+    "energy",
+    "nuclear"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen50",
+   "title": "Drone strike hits cargo ship near Philippines",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-30T20:50:37.204991+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "gen176",
+   "title": "Cyclone makes landfall in Spain",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-30T20:46:13.905503+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "gen38",
+   "title": "Kazakhstan oil exports climb as buyers chase discounted crude",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-30T17:12:37.656340+00:00",
+   "themes": [
+    "energy",
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Kazakhstan"
+   ]
+  },
+  {
+   "id": "gen169",
+   "title": "Thousands displaced by fighting cross into Chad",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-30T16:46:54.905464+00:00",
+   "themes": [
+    "conflict",
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Chad"
+   ]
+  },
+  {
+   "id": "gen98",
+   "title": "Troops deployed to Colombia border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-30T15:06:10.500483+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "gen193",
+   "title": "Heatwave strains power grid in Nigeria",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-30T15:05:37.354467+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "gen185",
+   "title": "Heatwave strains power grid in Philippines",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-30T14:36:04.342755+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "gen167",
+   "title": "UN warns of refugee crisis on Italy border",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-30T14:16:25.212787+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "gen87",
+   "title": "Militants attack army post in Lebanon",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-30T12:51:25.173527+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "gen149",
+   "title": "Russia accuses rival of cyber espionage campaign",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-30T11:01:46.904301+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen14",
+   "title": "EU targets Russia shipping companies in new sanctions package",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-30T10:48:17.830135+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "European Union"
+   ]
+  },
+  {
+   "id": "gen136",
+   "title": "Canada tightens export controls on critical minerals",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-30T09:40:54.666042+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "gen120",
+   "title": "Protests spread in Turkey ahead of disputed election",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-30T06:46:21.055796+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "gen158",
+   "title": "Poland expands deportation flights",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-30T06:09:09.282532+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "gen46",
+   "title": "Norway oil exports climb as buyers chase discounted crude",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-30T04:39:44.225460+00:00",
+   "themes": [
+    "energy",
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Norway"
+   ]
+  },
+  {
+   "id": "gen141",
+   "title": "Supply chain disruption in Brazil hits semiconductor output",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-30T03:59:26.791244+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "gen17",
+   "title": "UK freezes assets of United Arab Emirates network linked to crypto laundering",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-29T21:04:45.560141+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "gen64",
+   "title": "Shipping insurers raise premiums for Philippines port calls",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-29T18:50:49.090149+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "gen62",
+   "title": "Drone strike hits cargo ship near Yemen",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-29T17:27:48.846573+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "gen85",
+   "title": "Airstrikes kill dozens in Syria, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-29T17:16:02.327024+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "gen12",
+   "title": "UK freezes assets of Russia network linked to oil smuggling",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-29T16:16:44.856882+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "gen187",
+   "title": "Drought threatens harvests across Philippines",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-29T15:50:38.806145+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "gen59",
+   "title": "Shipping insurers raise premiums for Egypt port calls",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-29T15:43:08.658177+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "gen144",
+   "title": "Ransomware attack hits China government systems",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-29T15:14:56.734056+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen99",
+   "title": "Airstrikes kill dozens in Burkina Faso, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-29T12:23:36.919968+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Burkina Faso"
+   ]
+  },
+  {
+   "id": "gen194",
+   "title": "North Korea expands uranium enrichment, inspectors say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-29T07:24:53.617397+00:00",
+   "themes": [
+    "energy",
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen21",
+   "title": "United Arab Emirates firms added to US sanctions list over crypto laundering",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-29T04:54:40.288364+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "United Arab Emirates",
+    "United States"
+   ]
+  },
+  {
+   "id": "gen164",
+   "title": "Mexico tightens asylum rules as migrant arrivals rise",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-29T02:18:06.427556+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen178",
+   "title": "Heatwave strains power grid in Brazil",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-29T01:28:12.017736+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "gen204",
+   "title": "Iran expands uranium enrichment, inspectors say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-29T01:24:18.196407+00:00",
+   "themes": [
+    "energy",
+    "nuclear"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen132",
+   "title": "Supply chain disruption in India hits semiconductor output",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-29T00:32:36.843586+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "gen45",
+   "title": "Saudi Arabia signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-29T00:15:33.297789+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "gen142",
+   "title": "Vietnam and EU open trade talks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-28T22:18:28.392427+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "European Union",
+    "Vietnam"
+   ]
+  },
+  {
+   "id": "gen121",
+   "title": "Opposition leader arrested in Kenya as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-28T21:35:48.468168+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "gen48",
+   "title": "China navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-28T20:16:56.927107+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen143",
+   "title": "Brazil and EU open trade talks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-28T18:42:55.243967+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "Brazil"
+   ]
+  },
+  {
+   "id": "gen16",
+   "title": "UK freezes assets of China network linked to dual-use exports",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-28T17:18:40.516916+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "United Kingdom",
+    "China"
+   ]
+  },
+  {
+   "id": "gen196",
+   "title": "Russia tests ballistic missile in show of deterrence",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-28T16:56:08.151612+00:00",
+   "themes": [
+    "conflict",
+    "nuclear"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen115",
+   "title": "Opposition leader arrested in Bangladesh as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-28T15:16:35.822358+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "gen191",
+   "title": "Heatwave strains power grid in Australia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-28T15:03:52.552703+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "gen119",
+   "title": "Bangladesh president faces impeachment vote",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-28T14:55:28.236147+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "gen109",
+   "title": "Georgia parliament dissolved amid political crisis",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-28T14:32:07.617878+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "gen177",
+   "title": "Drought threatens harvests across Pakistan",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-28T13:50:35.907510+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "gen113",
+   "title": "Georgia president faces impeachment vote",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-28T11:46:02.274947+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "gen24",
+   "title": "UK freezes assets of Belarus network linked to dual-use exports",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-28T11:24:02.527912+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Belarus",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "gen75",
+   "title": "Fighting intensifies in Lebanon as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-28T10:09:05.644302+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "gen186",
+   "title": "Floods displace thousands in Spain",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-28T09:36:03.552728+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "gen184",
+   "title": "Cyclone makes landfall in Brazil",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-28T08:55:09.318575+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "gen72",
+   "title": "Militants attack army post in Ukraine",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-28T08:48:12.521914+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gen157",
+   "title": "Data breach exposes millions of records in Japan",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-28T04:22:33.011445+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen43",
+   "title": "Gas pipeline outage in Iraq lifts European prices",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-28T02:40:25.105071+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "gen107",
+   "title": "Moldova president faces impeachment vote",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-28T00:04:50.004639+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Moldova"
+   ]
+  },
+  {
+   "id": "gen3",
+   "title": "UK freezes assets of North Korea network linked to crypto laundering",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-27T21:28:23.313206+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "United Kingdom",
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen182",
+   "title": "Floods displace thousands in Ethiopia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-27T18:16:58.809124+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "gen135",
+   "title": "Canada and EU open trade talks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-27T16:40:36.850241+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "Canada"
+   ]
+  },
+  {
+   "id": "gen10",
+   "title": "Venezuela firms added to US sanctions list over oil smuggling",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-27T15:39:33.125241+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "gen150",
+   "title": "Data breach exposes millions of records in North Korea",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-27T14:04:17.323991+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen32",
+   "title": "Refinery fire in Nigeria disrupts fuel supply",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-27T13:02:16.521171+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "gen127",
+   "title": "Supply chain disruption in Japan hits semiconductor output",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-27T12:34:40.135092+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen125",
+   "title": "France president faces impeachment vote",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-27T11:32:42.318629+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "gen180",
+   "title": "Cyclone makes landfall in Ethiopia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-27T11:00:33.066717+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "gen39",
+   "title": "Gas pipeline outage in Nigeria lifts European prices",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-27T10:29:59.196905+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "gen155",
+   "title": "Hackers linked to Iran target European energy firms",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-27T08:45:10.325685+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen108",
+   "title": "France parliament dissolved amid political crisis",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-27T07:57:13.780806+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "gen36",
+   "title": "India signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-27T07:49:01.728158+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "gen145",
+   "title": "Ransomware attack hits Germany government systems",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-27T07:35:58.974767+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "gen199",
+   "title": "North Korea tests ballistic missile in show of deterrence",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-27T05:34:42.715006+00:00",
+   "themes": [
+    "conflict",
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen156",
+   "title": "Germany accuses rival of cyber espionage campaign",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-27T04:23:46.802404+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "gen168",
+   "title": "UN warns of refugee crisis on Bangladesh border",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-27T03:57:45.054207+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "gen130",
+   "title": "Germany hit by new tariffs on steel and aluminium",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-27T02:31:28.385585+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "gen131",
+   "title": "India and EU open trade talks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-27T01:04:34.281697+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "European Union",
+    "India"
+   ]
+  },
+  {
+   "id": "gen128",
+   "title": "Supply chain disruption in China hits semiconductor output",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-26T23:57:19.944472+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen208",
+   "title": "Arms control talks with China collapse",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-26T22:58:49.008471+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen20",
+   "title": "Venezuela firms added to US sanctions list over crypto laundering",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-26T22:36:21.919823+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "gen83",
+   "title": "Airstrikes kill dozens in Somalia, officials say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-26T22:16:28.722031+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Somalia"
+   ]
+  },
+  {
+   "id": "gen174",
+   "title": "Chad tightens asylum rules as migrant arrivals rise",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-26T19:06:02.769346+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Chad"
+   ]
+  },
+  {
+   "id": "gen198",
+   "title": "Iran tests ballistic missile in show of deterrence",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-26T18:50:36.212350+00:00",
+   "themes": [
+    "conflict",
+    "nuclear"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "gen77",
+   "title": "Fighting intensifies in Mali as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-26T18:25:57.315182+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Mali"
+   ]
+  },
+  {
+   "id": "gen166",
+   "title": "Thousands displaced by fighting cross into Bangladesh",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-26T18:11:04.041003+00:00",
+   "themes": [
+    "conflict",
+    "migration"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "gen44",
+   "title": "Gas pipeline outage in Kazakhstan lifts European prices",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-26T16:12:17.465409+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Kazakhstan"
+   ]
+  },
+  {
+   "id": "gen203",
+   "title": "Arms control talks with Russia collapse",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-26T12:13:32.689980+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen74",
+   "title": "Fighting intensifies in Syria as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-26T11:53:09.018444+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "gen116",
+   "title": "Serbia president faces impeachment vote",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-26T10:55:43.460041+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "gen111",
+   "title": "Protests spread in France ahead of disputed election",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-26T10:45:33.081701+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "gen137",
+   "title": "Mexico and EU open trade talks",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-26T09:10:23.109703+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen146",
+   "title": "Ransomware attack hits Japan government systems",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-26T09:08:07.042389+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen207",
+   "title": "IAEA visits China nuclear site",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-26T08:26:52.168667+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen78",
+   "title": "Fighting intensifies in Israel as ceasefire talks stall",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-26T07:49:36.769348+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "gen134",
+   "title": "Supply chain disruption in Germany hits semiconductor output",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-26T07:33:35.272439+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "gen183",
+   "title": "Floods displace thousands in Pakistan",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-26T07:02:30.515640+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "gen181",
+   "title": "Cyclone makes landfall in Pakistan",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-26T06:54:53.171163+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "gen0",
+   "title": "EU targets China shipping companies in new sanctions package",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-26T03:10:51.902082+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "European Union",
+    "China"
+   ]
+  },
+  {
+   "id": "gen129",
+   "title": "Mexico tightens export controls on critical minerals",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-26T02:00:28.409220+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen106",
+   "title": "Opposition leader arrested in Thailand as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-25T20:51:53.069695+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Thailand"
+   ]
+  },
+  {
+   "id": "gen175",
+   "title": "Heatwave strains power grid in Spain",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-25T20:38:38.298009+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "gen70",
+   "title": "Shipping insurers raise premiums for Yemen port calls",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-25T19:30:29.308225+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "gen7",
+   "title": "UK freezes assets of North Korea network linked to dual-use exports",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-25T19:23:21.090350+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "United Kingdom",
+    "North Korea"
+   ]
+  },
+  {
+   "id": "gen148",
+   "title": "Hackers linked to Japan target European energy firms",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-25T17:56:45.189505+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen171",
+   "title": "Greece expands deportation flights",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-25T16:12:08.682383+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Greece"
+   ]
+  },
+  {
+   "id": "gen140",
+   "title": "Japan hit by new tariffs on steel and aluminium",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-25T15:39:13.147823+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "gen201",
+   "title": "China expands uranium enrichment, inspectors say",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-25T12:23:09.546987+00:00",
+   "themes": [
+    "energy",
+    "nuclear"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "gen54",
+   "title": "Yemen navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Record",
+   "group": "Sample",
+   "published": "2026-09-25T09:09:17.838442+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "gen124",
+   "title": "Opposition leader arrested in Moldova as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-25T08:42:36.482828+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Moldova"
+   ]
+  },
+  {
+   "id": "gen55",
+   "title": "Shipping insurers raise premiums for Estonia port calls",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-25T07:43:12.780162+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Estonia"
+   ]
+  },
+  {
+   "id": "gen170",
+   "title": "UN warns of refugee crisis on Poland border",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-25T07:34:38.524824+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "gen188",
+   "title": "Drought threatens harvests across Australia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-25T06:18:00.344197+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "gen172",
+   "title": "Greece tightens asylum rules as migrant arrivals rise",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-25T04:59:31.491770+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Greece"
+   ]
+  },
+  {
+   "id": "gen89",
+   "title": "Troops deployed to Ukraine border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-25T04:45:43.034919+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gen110",
+   "title": "Kenya president faces impeachment vote",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "RFE/RL",
+   "group": "Sample",
+   "published": "2026-09-25T02:34:39.301501+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "gen173",
+   "title": "Thousands displaced by fighting cross into Mexico",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-24T23:35:59.361218+00:00",
+   "themes": [
+    "conflict",
+    "migration"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "gen163",
+   "title": "Poland tightens asylum rules as migrant arrivals rise",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-24T23:25:54.452583+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "gen34",
+   "title": "Libya signs LNG supply deal amid energy security push",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-24T23:24:47.197982+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "gen179",
+   "title": "Drought threatens harvests across Brazil",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-24T21:51:45.700855+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "gen112",
+   "title": "Protests spread in Kenya ahead of disputed election",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-24T20:23:56.440663+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "gen51",
+   "title": "Egypt navy shadows vessels near disputed waters",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-24T13:53:11.792421+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "gen104",
+   "title": "Troops deployed to Lebanon border after clashes",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-24T10:14:17.708070+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "gen26",
+   "title": "Gas pipeline outage in India lifts European prices",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-24T08:46:27.786223+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "gen105",
+   "title": "Opposition leader arrested in Serbia as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "DW",
+   "group": "Sample",
+   "published": "2026-09-24T07:53:59.213981+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "gen147",
+   "title": "Data breach exposes millions of records in Russia",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-24T05:02:27.481836+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "gen18",
+   "title": "EU targets Belarus shipping companies in new sanctions package",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Crisis Group",
+   "group": "Sample",
+   "published": "2026-09-24T02:16:47.327237+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Belarus",
+    "European Union"
+   ]
+  },
+  {
+   "id": "gen23",
+   "title": "UK freezes assets of China network linked to drone parts",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-23T22:11:35.740860+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "United Kingdom",
+    "China"
+   ]
+  },
+  {
+   "id": "gen138",
+   "title": "India tightens export controls on critical minerals",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "BBC World",
+   "group": "Sample",
+   "published": "2026-09-23T21:01:38.939600+00:00",
+   "themes": [
+    "sanctions",
+    "energy"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "gen192",
+   "title": "Floods displace thousands in Brazil",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Diplomat",
+   "group": "Sample",
+   "published": "2026-09-23T20:45:00.685906+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "gen117",
+   "title": "Opposition leader arrested in Turkey as crackdown widens",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "Al Jazeera",
+   "group": "Sample",
+   "published": "2026-09-23T16:58:35.436708+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "gen118",
+   "title": "Serbia parliament dissolved amid political crisis",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "The Guardian World",
+   "group": "Sample",
+   "published": "2026-09-23T10:47:27.434991+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "gen103",
+   "title": "Militants attack army post in Burkina Faso",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "gCaptain",
+   "group": "Sample",
+   "published": "2026-09-23T08:17:43.515532+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Burkina Faso"
+   ]
+  },
+  {
+   "id": "gen153",
+   "title": "Ransomware attack hits Iran government systems",
+   "summary": "Sample story generated for the preview.",
+   "url": "#",
+   "source": "OilPrice.com",
+   "group": "Sample",
+   "published": "2026-09-23T07:34:34.832842+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1410 @@
+{
+ "sample": true,
+ "updated": "2026-10-06T18:23:26.352803+00:00",
+ "recent": [
+  {
+   "name": "Sample entity 10",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "first_seen": "2026-10-05",
+   "id": "r9"
+  },
+  {
+   "name": "Sample entity 1",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "first_seen": "2026-10-04",
+   "id": "r0"
+  },
+  {
+   "name": "Sample entity 13",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "first_seen": "2026-10-02",
+   "id": "r12"
+  },
+  {
+   "name": "Sample entity 9",
+   "type": "Company",
+   "countries": "ae",
+   "programs": "UK OFSI",
+   "first_seen": "2026-10-01",
+   "id": "r8"
+  },
+  {
+   "name": "Sample entity 21",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "EU",
+   "first_seen": "2026-10-01",
+   "id": "r20"
+  },
+  {
+   "name": "Sample entity 5",
+   "type": "Person",
+   "countries": "kp",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-28",
+   "id": "r4"
+  },
+  {
+   "name": "Sample entity 11",
+   "type": "Vessel",
+   "countries": "by",
+   "programs": "EU",
+   "first_seen": "2026-09-28",
+   "id": "r10"
+  },
+  {
+   "name": "Sample entity 8",
+   "type": "Company",
+   "countries": "by",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-25",
+   "id": "r7"
+  },
+  {
+   "name": "Sample entity 4",
+   "type": "Company",
+   "countries": "by",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-24",
+   "id": "r3"
+  },
+  {
+   "name": "Sample entity 7",
+   "type": "Company",
+   "countries": "cn",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-24",
+   "id": "r6"
+  },
+  {
+   "name": "Sample entity 17",
+   "type": "Company",
+   "countries": "ae",
+   "programs": "UK OFSI",
+   "first_seen": "2026-09-24",
+   "id": "r16"
+  },
+  {
+   "name": "Sample entity 18",
+   "type": "Company",
+   "countries": "cn",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-24",
+   "id": "r17"
+  },
+  {
+   "name": "Sample entity 20",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-22",
+   "id": "r19"
+  },
+  {
+   "name": "Sample entity 25",
+   "type": "Person",
+   "countries": "ae",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-22",
+   "id": "r24"
+  },
+  {
+   "name": "Sample entity 3",
+   "type": "Company",
+   "countries": "kp",
+   "programs": "EU",
+   "first_seen": "2026-09-21",
+   "id": "r2"
+  },
+  {
+   "name": "Sample entity 16",
+   "type": "Person",
+   "countries": "ae",
+   "programs": "UK OFSI",
+   "first_seen": "2026-09-21",
+   "id": "r15"
+  },
+  {
+   "name": "Sample entity 2",
+   "type": "Person",
+   "countries": "by",
+   "programs": "UK OFSI",
+   "first_seen": "2026-09-19",
+   "id": "r1"
+  },
+  {
+   "name": "Sample entity 15",
+   "type": "Person",
+   "countries": "by",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-18",
+   "id": "r14"
+  },
+  {
+   "name": "Sample entity 6",
+   "type": "Company",
+   "countries": "by",
+   "programs": "EU",
+   "first_seen": "2026-09-16",
+   "id": "r5"
+  },
+  {
+   "name": "Sample entity 12",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-16",
+   "id": "r11"
+  },
+  {
+   "name": "Sample entity 14",
+   "type": "Vessel",
+   "countries": "ae",
+   "programs": "EU",
+   "first_seen": "2026-09-15",
+   "id": "r13"
+  },
+  {
+   "name": "Sample entity 23",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "UK OFSI",
+   "first_seen": "2026-09-12",
+   "id": "r22"
+  },
+  {
+   "name": "Sample entity 19",
+   "type": "Company",
+   "countries": "by",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-11",
+   "id": "r18"
+  },
+  {
+   "name": "Sample entity 24",
+   "type": "Company",
+   "countries": "by",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-10",
+   "id": "r23"
+  },
+  {
+   "name": "Sample entity 22",
+   "type": "Person",
+   "countries": "by",
+   "programs": "US OFAC",
+   "first_seen": "2026-09-09",
+   "id": "r21"
+  }
+ ],
+ "recent_total": 214,
+ "vessels": [
+  {
+   "name": "SAMPLE VESSEL 43",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-10-05",
+   "id": "s42",
+   "imo": "9105754"
+  },
+  {
+   "name": "SAMPLE VESSEL 23",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-10-01",
+   "id": "s22",
+   "imo": "9103014"
+  },
+  {
+   "name": "SAMPLE VESSEL 72",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-09-23",
+   "id": "s71",
+   "imo": "9109727"
+  },
+  {
+   "name": "SAMPLE VESSEL 73",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-09-21",
+   "id": "s72",
+   "imo": "9109864"
+  },
+  {
+   "name": "SAMPLE VESSEL 61",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-09-15",
+   "id": "s60",
+   "imo": "9108220"
+  },
+  {
+   "name": "SAMPLE VESSEL 65",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-09-14",
+   "id": "s64",
+   "imo": "9108768"
+  },
+  {
+   "name": "SAMPLE VESSEL 107",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-09-13",
+   "id": "s106",
+   "imo": "9114522"
+  },
+  {
+   "name": "SAMPLE VESSEL 115",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-09-12",
+   "id": "s114",
+   "imo": "9115618"
+  },
+  {
+   "name": "SAMPLE VESSEL 118",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-09-12",
+   "id": "s117",
+   "imo": "9116029"
+  },
+  {
+   "name": "SAMPLE VESSEL 36",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-09-06",
+   "id": "s35",
+   "imo": "9104795"
+  },
+  {
+   "name": "SAMPLE VESSEL 57",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-09-06",
+   "id": "s56",
+   "imo": "9107672"
+  },
+  {
+   "name": "SAMPLE VESSEL 66",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-09-03",
+   "id": "s65",
+   "imo": "9108905"
+  },
+  {
+   "name": "SAMPLE VESSEL 12",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-09-01",
+   "id": "s11",
+   "imo": "9101507"
+  },
+  {
+   "name": "SAMPLE VESSEL 79",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-08-30",
+   "id": "s78",
+   "imo": "9110686"
+  },
+  {
+   "name": "SAMPLE VESSEL 113",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-08-28",
+   "id": "s112",
+   "imo": "9115344"
+  },
+  {
+   "name": "SAMPLE VESSEL 17",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-26",
+   "id": "s16",
+   "imo": "9102192"
+  },
+  {
+   "name": "SAMPLE VESSEL 3",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-08-20",
+   "id": "s2",
+   "imo": "9100274"
+  },
+  {
+   "name": "SAMPLE VESSEL 53",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-08-20",
+   "id": "s52",
+   "imo": "9107124"
+  },
+  {
+   "name": "SAMPLE VESSEL 106",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-08-19",
+   "id": "s105",
+   "imo": "9114385"
+  },
+  {
+   "name": "SAMPLE VESSEL 8",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-08-17",
+   "id": "s7",
+   "imo": "9100959"
+  },
+  {
+   "name": "SAMPLE VESSEL 120",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-16",
+   "id": "s119",
+   "imo": "9116303"
+  },
+  {
+   "name": "SAMPLE VESSEL 35",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-15",
+   "id": "s34",
+   "imo": "9104658"
+  },
+  {
+   "name": "SAMPLE VESSEL 27",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-08-13",
+   "id": "s26",
+   "imo": "9103562"
+  },
+  {
+   "name": "SAMPLE VESSEL 47",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-13",
+   "id": "s46",
+   "imo": "9106302"
+  },
+  {
+   "name": "SAMPLE VESSEL 62",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-08-13",
+   "id": "s61",
+   "imo": "9108357"
+  },
+  {
+   "name": "SAMPLE VESSEL 103",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-08-08",
+   "id": "s102",
+   "imo": "9113974"
+  },
+  {
+   "name": "SAMPLE VESSEL 15",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-08-04",
+   "id": "s14",
+   "imo": "9101918"
+  },
+  {
+   "name": "SAMPLE VESSEL 87",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-04",
+   "id": "s86",
+   "imo": "9111782"
+  },
+  {
+   "name": "SAMPLE VESSEL 110",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-04",
+   "id": "s109",
+   "imo": "9114933"
+  },
+  {
+   "name": "SAMPLE VESSEL 1",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-08-03",
+   "id": "s0",
+   "imo": "9100000"
+  },
+  {
+   "name": "SAMPLE VESSEL 119",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-08-02",
+   "id": "s118",
+   "imo": "9116166"
+  },
+  {
+   "name": "SAMPLE VESSEL 117",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-08-01",
+   "id": "s116",
+   "imo": "9115892"
+  },
+  {
+   "name": "SAMPLE VESSEL 11",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-07-31",
+   "id": "s10",
+   "imo": "9101370"
+  },
+  {
+   "name": "SAMPLE VESSEL 82",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-29",
+   "id": "s81",
+   "imo": "9111097"
+  },
+  {
+   "name": "SAMPLE VESSEL 67",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-07-28",
+   "id": "s66",
+   "imo": "9109042"
+  },
+  {
+   "name": "SAMPLE VESSEL 93",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-07-28",
+   "id": "s92",
+   "imo": "9112604"
+  },
+  {
+   "name": "SAMPLE VESSEL 30",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-26",
+   "id": "s29",
+   "imo": "9103973"
+  },
+  {
+   "name": "SAMPLE VESSEL 92",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-07-25",
+   "id": "s91",
+   "imo": "9112467"
+  },
+  {
+   "name": "SAMPLE VESSEL 32",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-24",
+   "id": "s31",
+   "imo": "9104247"
+  },
+  {
+   "name": "SAMPLE VESSEL 83",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-07-24",
+   "id": "s82",
+   "imo": "9111234"
+  },
+  {
+   "name": "SAMPLE VESSEL 70",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-07-23",
+   "id": "s69",
+   "imo": "9109453"
+  },
+  {
+   "name": "SAMPLE VESSEL 97",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-07-19",
+   "id": "s96",
+   "imo": "9113152"
+  },
+  {
+   "name": "SAMPLE VESSEL 77",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-07-18",
+   "id": "s76",
+   "imo": "9110412"
+  },
+  {
+   "name": "SAMPLE VESSEL 37",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-07-17",
+   "id": "s36",
+   "imo": "9104932"
+  },
+  {
+   "name": "SAMPLE VESSEL 54",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-07-17",
+   "id": "s53",
+   "imo": "9107261"
+  },
+  {
+   "name": "SAMPLE VESSEL 90",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-16",
+   "id": "s89",
+   "imo": "9112193"
+  },
+  {
+   "name": "SAMPLE VESSEL 28",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-12",
+   "id": "s27",
+   "imo": "9103699"
+  },
+  {
+   "name": "SAMPLE VESSEL 29",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-07-11",
+   "id": "s28",
+   "imo": "9103836"
+  },
+  {
+   "name": "SAMPLE VESSEL 94",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-07-10",
+   "id": "s93",
+   "imo": "9112741"
+  },
+  {
+   "name": "SAMPLE VESSEL 114",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-07-10",
+   "id": "s113",
+   "imo": "9115481"
+  },
+  {
+   "name": "SAMPLE VESSEL 108",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-06",
+   "id": "s107",
+   "imo": "9114659"
+  },
+  {
+   "name": "SAMPLE VESSEL 69",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-07-05",
+   "id": "s68",
+   "imo": "9109316"
+  },
+  {
+   "name": "SAMPLE VESSEL 51",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-04",
+   "id": "s50",
+   "imo": "9106850"
+  },
+  {
+   "name": "SAMPLE VESSEL 20",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-07-03",
+   "id": "s19",
+   "imo": "9102603"
+  },
+  {
+   "name": "SAMPLE VESSEL 111",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-07-03",
+   "id": "s110",
+   "imo": "9115070"
+  },
+  {
+   "name": "SAMPLE VESSEL 96",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-07-01",
+   "id": "s95",
+   "imo": "9113015"
+  },
+  {
+   "name": "SAMPLE VESSEL 74",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-06-29",
+   "id": "s73",
+   "imo": "9110001"
+  },
+  {
+   "name": "SAMPLE VESSEL 42",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-26",
+   "id": "s41",
+   "imo": "9105617"
+  },
+  {
+   "name": "SAMPLE VESSEL 5",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-06-25",
+   "id": "s4",
+   "imo": "9100548"
+  },
+  {
+   "name": "SAMPLE VESSEL 109",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-06-25",
+   "id": "s108",
+   "imo": "9114796"
+  },
+  {
+   "name": "SAMPLE VESSEL 50",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-21",
+   "id": "s49",
+   "imo": "9106713"
+  },
+  {
+   "name": "SAMPLE VESSEL 31",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-20",
+   "id": "s30",
+   "imo": "9104110"
+  },
+  {
+   "name": "SAMPLE VESSEL 91",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-20",
+   "id": "s90",
+   "imo": "9112330"
+  },
+  {
+   "name": "SAMPLE VESSEL 63",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-19",
+   "id": "s62",
+   "imo": "9108494"
+  },
+  {
+   "name": "SAMPLE VESSEL 58",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-14",
+   "id": "s57",
+   "imo": "9107809"
+  },
+  {
+   "name": "SAMPLE VESSEL 68",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-13",
+   "id": "s67",
+   "imo": "9109179"
+  },
+  {
+   "name": "SAMPLE VESSEL 89",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-13",
+   "id": "s88",
+   "imo": "9112056"
+  },
+  {
+   "name": "SAMPLE VESSEL 71",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-06-11",
+   "id": "s70",
+   "imo": "9109590"
+  },
+  {
+   "name": "SAMPLE VESSEL 101",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-11",
+   "id": "s100",
+   "imo": "9113700"
+  },
+  {
+   "name": "SAMPLE VESSEL 14",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-06-09",
+   "id": "s13",
+   "imo": "9101781"
+  },
+  {
+   "name": "SAMPLE VESSEL 78",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-06-08",
+   "id": "s77",
+   "imo": "9110549"
+  },
+  {
+   "name": "SAMPLE VESSEL 44",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-07",
+   "id": "s43",
+   "imo": "9105891"
+  },
+  {
+   "name": "SAMPLE VESSEL 60",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-07",
+   "id": "s59",
+   "imo": "9108083"
+  },
+  {
+   "name": "SAMPLE VESSEL 81",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-06-06",
+   "id": "s80",
+   "imo": "9110960"
+  },
+  {
+   "name": "SAMPLE VESSEL 76",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-04",
+   "id": "s75",
+   "imo": "9110275"
+  },
+  {
+   "name": "SAMPLE VESSEL 33",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-06-02",
+   "id": "s32",
+   "imo": "9104384"
+  },
+  {
+   "name": "SAMPLE VESSEL 56",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-06-01",
+   "id": "s55",
+   "imo": "9107535"
+  },
+  {
+   "name": "SAMPLE VESSEL 34",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-05-31",
+   "id": "s33",
+   "imo": "9104521"
+  },
+  {
+   "name": "SAMPLE VESSEL 45",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-31",
+   "id": "s44",
+   "imo": "9106028"
+  },
+  {
+   "name": "SAMPLE VESSEL 105",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-05-30",
+   "id": "s104",
+   "imo": "9114248"
+  },
+  {
+   "name": "SAMPLE VESSEL 25",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-29",
+   "id": "s24",
+   "imo": "9103288"
+  },
+  {
+   "name": "SAMPLE VESSEL 104",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-26",
+   "id": "s103",
+   "imo": "9114111"
+  },
+  {
+   "name": "SAMPLE VESSEL 9",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-24",
+   "id": "s8",
+   "imo": "9101096"
+  },
+  {
+   "name": "SAMPLE VESSEL 102",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-22",
+   "id": "s101",
+   "imo": "9113837"
+  },
+  {
+   "name": "SAMPLE VESSEL 16",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-21",
+   "id": "s15",
+   "imo": "9102055"
+  },
+  {
+   "name": "SAMPLE VESSEL 95",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-21",
+   "id": "s94",
+   "imo": "9112878"
+  },
+  {
+   "name": "SAMPLE VESSEL 41",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-20",
+   "id": "s40",
+   "imo": "9105480"
+  },
+  {
+   "name": "SAMPLE VESSEL 13",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-17",
+   "id": "s12",
+   "imo": "9101644"
+  },
+  {
+   "name": "SAMPLE VESSEL 52",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-05-16",
+   "id": "s51",
+   "imo": "9106987"
+  },
+  {
+   "name": "SAMPLE VESSEL 55",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-15",
+   "id": "s54",
+   "imo": "9107398"
+  },
+  {
+   "name": "SAMPLE VESSEL 116",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-05-15",
+   "id": "s115",
+   "imo": "9115755"
+  },
+  {
+   "name": "SAMPLE VESSEL 2",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-05-11",
+   "id": "s1",
+   "imo": "9100137"
+  },
+  {
+   "name": "SAMPLE VESSEL 38",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-09",
+   "id": "s37",
+   "imo": "9105069"
+  },
+  {
+   "name": "SAMPLE VESSEL 100",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-09",
+   "id": "s99",
+   "imo": "9113563"
+  },
+  {
+   "name": "SAMPLE VESSEL 86",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-05-06",
+   "id": "s85",
+   "imo": "9111645"
+  },
+  {
+   "name": "SAMPLE VESSEL 85",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-05-04",
+   "id": "s84",
+   "imo": "9111508"
+  },
+  {
+   "name": "SAMPLE VESSEL 6",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-03",
+   "id": "s5",
+   "imo": "9100685"
+  },
+  {
+   "name": "SAMPLE VESSEL 46",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-05-02",
+   "id": "s45",
+   "imo": "9106165"
+  },
+  {
+   "name": "SAMPLE VESSEL 84",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-04-30",
+   "id": "s83",
+   "imo": "9111371"
+  },
+  {
+   "name": "SAMPLE VESSEL 48",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-29",
+   "id": "s47",
+   "imo": "9106439"
+  },
+  {
+   "name": "SAMPLE VESSEL 112",
+   "type": "Vessel",
+   "countries": "ck",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-28",
+   "id": "s111",
+   "imo": "9115207"
+  },
+  {
+   "name": "SAMPLE VESSEL 22",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-26",
+   "id": "s21",
+   "imo": "9102877"
+  },
+  {
+   "name": "SAMPLE VESSEL 80",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-04-24",
+   "id": "s79",
+   "imo": "9110823"
+  },
+  {
+   "name": "SAMPLE VESSEL 49",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-20",
+   "id": "s48",
+   "imo": "9106576"
+  },
+  {
+   "name": "SAMPLE VESSEL 19",
+   "type": "Vessel",
+   "countries": "ga",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-04-19",
+   "id": "s18",
+   "imo": "9102466"
+  },
+  {
+   "name": "SAMPLE VESSEL 7",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-04-18",
+   "id": "s6",
+   "imo": "9100822"
+  },
+  {
+   "name": "SAMPLE VESSEL 10",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-18",
+   "id": "s9",
+   "imo": "9101233"
+  },
+  {
+   "name": "SAMPLE VESSEL 21",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-04-16",
+   "id": "s20",
+   "imo": "9102740"
+  },
+  {
+   "name": "SAMPLE VESSEL 98",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-04-16",
+   "id": "s97",
+   "imo": "9113289"
+  },
+  {
+   "name": "SAMPLE VESSEL 24",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-15",
+   "id": "s23",
+   "imo": "9103151"
+  },
+  {
+   "name": "SAMPLE VESSEL 59",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-04-15",
+   "id": "s58",
+   "imo": "9107946"
+  },
+  {
+   "name": "SAMPLE VESSEL 64",
+   "type": "Vessel",
+   "countries": "ir",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-04-14",
+   "id": "s63",
+   "imo": "9108631"
+  },
+  {
+   "name": "SAMPLE VESSEL 88",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-04-14",
+   "id": "s87",
+   "imo": "9111919"
+  },
+  {
+   "name": "SAMPLE VESSEL 18",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-04-11",
+   "id": "s17",
+   "imo": "9102329"
+  },
+  {
+   "name": "SAMPLE VESSEL 99",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "EU",
+   "datasets": "",
+   "first_seen": "2026-04-08",
+   "id": "s98",
+   "imo": "9113426"
+  },
+  {
+   "name": "SAMPLE VESSEL 40",
+   "type": "Vessel",
+   "countries": "pw",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-04-04",
+   "id": "s39",
+   "imo": "9105343"
+  },
+  {
+   "name": "SAMPLE VESSEL 75",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-04-03",
+   "id": "s74",
+   "imo": "9110138"
+  },
+  {
+   "name": "SAMPLE VESSEL 26",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "US OFAC",
+   "datasets": "",
+   "first_seen": "2026-03-27",
+   "id": "s25",
+   "imo": "9103425"
+  },
+  {
+   "name": "SAMPLE VESSEL 4",
+   "type": "Vessel",
+   "countries": "cm",
+   "programs": "UK OFSI",
+   "datasets": "",
+   "first_seen": "2026-03-20",
+   "id": "s3",
+   "imo": "9100411"
+  },
+  {
+   "name": "SAMPLE VESSEL 39",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "US OFAC; UK OFSI; EU",
+   "datasets": "",
+   "first_seen": "2026-03-20",
+   "id": "s38",
+   "imo": "9105206"
+  }
+ ],
+ "vessel_total": 1180
+}

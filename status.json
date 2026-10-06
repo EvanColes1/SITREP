@@ -1,0 +1,100 @@
+{
+ "sample": true,
+ "updated": "2026-10-06T18:23:26.352803+00:00",
+ "feeds": [
+  {
+   "name": "BBC World",
+   "group": "Sample",
+   "ok": true,
+   "new": 2,
+   "note": ""
+  },
+  {
+   "name": "Al Jazeera",
+   "group": "Sample",
+   "ok": true,
+   "new": 26,
+   "note": ""
+  },
+  {
+   "name": "The Guardian World",
+   "group": "Sample",
+   "ok": true,
+   "new": 14,
+   "note": ""
+  },
+  {
+   "name": "DW",
+   "group": "Sample",
+   "ok": true,
+   "new": 28,
+   "note": ""
+  },
+  {
+   "name": "RFE/RL",
+   "group": "Sample",
+   "ok": true,
+   "new": 6,
+   "note": ""
+  },
+  {
+   "name": "gCaptain",
+   "group": "Sample",
+   "ok": true,
+   "new": 11,
+   "note": ""
+  },
+  {
+   "name": "OilPrice.com",
+   "group": "Sample",
+   "ok": true,
+   "new": 13,
+   "note": ""
+  },
+  {
+   "name": "Crisis Group",
+   "group": "Sample",
+   "ok": true,
+   "new": 7,
+   "note": ""
+  },
+  {
+   "name": "The Record",
+   "group": "Sample",
+   "ok": true,
+   "new": 22,
+   "note": ""
+  },
+  {
+   "name": "The Diplomat",
+   "group": "Sample",
+   "ok": true,
+   "new": 18,
+   "note": ""
+  },
+  {
+   "name": "Example broken feed",
+   "group": "Sample",
+   "ok": false,
+   "new": 0,
+   "note": "404 Not Found"
+  }
+ ],
+ "data": [
+  {
+   "name": "sanctions",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "name": "energy",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "name": "conflict",
+   "ok": true,
+   "note": ""
+  }
+ ]
+}

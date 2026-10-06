@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SITREP</title>
+<meta name="description" content="A live tracker of sanctions, energy, shipping, conflict and political risk across six regions and ten themes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="topbar" aria-label="Sections">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="#overview">SITREP</a>
+    <ul class="nav-links">
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#risk">Risk monitor</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#sanctions">Sanctions</a></li>
+      <li><a href="#energy">Energy</a></li>
+      <li><a href="#conflict">Conflict</a></li>
+      <li><a href="#method">Method</a></li>
+      <li><a href="#sources">Sources</a></li>
+    </ul>
+    <p class="live"><span class="pulse" aria-hidden="true"></span><span id="updated">Loading…</span></p>
+  </div>
+</nav>
+
+<div id="sample-banner" class="sample-banner" hidden>
+  You're looking at sample data. Live data appears after the first automatic update.
+</div>
+
+<header class="board" id="overview">
+  <div class="wrap clocks" id="clocks" aria-label="World clocks"></div>
+  <div class="wrap board-grid">
+    <div class="board-copy">
+      <h1 class="board-title"><span id="hero-count">–</span> stories in the last 7 days</h1>
+      <p class="board-sub" id="hero-sub">Tracking 35 sources across six regions and ten themes.</p>
+      <dl class="board-stats">
+        <div><dt>Change on previous week</dt><dd id="hero-change">–</dd></div>
+        <div><dt>Sources working</dt><dd id="sources-ok">–</dd></div>
+        <div><dt>New sanctions listings, 30 days</dt><dd id="hero-sanc">–</dd></div>
+      </dl>
+      <h2 class="board-h2">Most covered this week</h2>
+      <ol class="hot-list" id="hot-list"></ol>
+    </div>
+    <figure class="board-map">
+      <div class="map-tools">
+        <div class="seg seg-dark" role="group" aria-label="Map layer" id="map-layer">
+          <button type="button" data-layer="coverage" aria-pressed="true">News coverage</button>
+          <button type="button" data-layer="conflict" aria-pressed="false">Conflict events</button>
+        </div>
+        <label class="toggle"><input type="checkbox" id="show-choke" checked> Shipping chokepoints</label>
+      </div>
+      <div id="world" class="world" role="img" aria-label="World map shaded by news coverage or conflict events per country"></div>
+      <figcaption class="map-key">
+        <span id="key-low">Fewer stories</span><span class="ramp" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span><span>More</span>
+        <span class="key-note">Select a country to open its dossier. Diamonds mark shipping chokepoints.</span>
+      </figcaption>
+    </figure>
+  </div>
+</header>
+
+<main class="wrap">
+  <section aria-labelledby="signals-title">
+    <div class="section-head">
+      <h2 id="signals-title">Signals</h2>
+      <p class="hint">Unusual spikes: coverage in the last 24 hours compared with the daily average of the 13 days before.</p>
+    </div>
+    <div class="signals" id="signals"></div>
+  </section>
+
+  <section id="risk" aria-labelledby="risk-title" class="anchor">
+    <div class="section-head">
+      <h2 id="risk-title">Risk monitor</h2>
+      <p class="hint">A composite index from news volume, severity, momentum and recorded conflict. Select a country to open its dossier.</p>
+    </div>
+    <div class="risk-grid">
+      <div class="table-wrap"><table class="data risk-table" id="risk-table"></table></div>
+      <div>
+        <h3 class="mini-title">Who appears together</h3>
+        <p class="hint">Countries named in the same stories this week. Thicker links mean more shared stories.</p>
+        <div id="network" class="network" role="img" aria-label="Network of countries mentioned together in news stories"></div>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="choke-title">
+    <div class="section-head">
+      <h2 id="choke-title">Chokepoint watch</h2>
+      <p class="hint">Stories in the last 7 days mentioning each maritime chokepoint, with the 14-day trend.</p>
+    </div>
+    <div class="choke-grid" id="chokepoints"></div>
+  </section>
+
+  <section aria-labelledby="pulse-title">
+    <div class="section-head">
+      <h2 id="pulse-title">Theme pulse</h2>
+      <p class="hint">Daily story counts over 14 days. The darker bars are the last 7 days.</p>
+    </div>
+    <div class="pulse-grid" id="pulse"></div>
+  </section>
+
+  <section aria-labelledby="matrix-title">
+    <div class="section-head">
+      <h2 id="matrix-title">Region and theme, this week</h2>
+      <p class="hint">Select a square to see those stories.</p>
+    </div>
+    <div class="matrix-scroll"><table class="matrix" id="matrix"></table></div>
+  </section>
+
+  <section id="news" aria-labelledby="news-title" class="anchor">
+    <div class="section-head">
+      <h2 id="news-title">News</h2>
+      <p class="hint" id="feed-count"></p>
+    </div>
+    <div class="filters">
+      <label for="f-region">Region
+        <select id="f-region"><option value="">All regions</option></select>
+      </label>
+      <label for="f-theme">Theme
+        <select id="f-theme"><option value="">All themes</option></select>
+      </label>
+      <label for="f-days">Period
+        <select id="f-days">
+          <option value="1">Last 24 hours</option>
+          <option value="3">Last 3 days</option>
+          <option value="7" selected>Last 7 days</option>
+          <option value="14">Last 14 days</option>
+        </select>
+      </label>
+      <label for="f-search" class="search">Search
+        <input id="f-search" type="search" placeholder="Country, company, vessel…">
+      </label>
+      <button id="f-clear" type="button" class="btn">Clear filters</button>
+    </div>
+    <div class="active-filters" id="active-filters"></div>
+    <div class="news-grid">
+      <div>
+        <ol id="feed" class="feed-list"></ol>
+        <button id="more" type="button" class="btn more" hidden>Show more stories</button>
+      </div>
+      <aside class="news-side">
+        <h3 class="mini-title">Most covered countries</h3>
+        <p class="hint">In the current selection. Select one to filter.</p>
+        <ol class="bars" id="top-countries"></ol>
+        <h3 class="mini-title">Busiest sources</h3>
+        <ol class="bars" id="top-sources"></ol>
+      </aside>
+    </div>
+  </section>
+
+  <section id="sanctions" aria-labelledby="sanc-title" class="anchor">
+    <div class="section-head">
+      <h2 id="sanc-title">Sanctions</h2>
+      <p class="hint">New listings and sanctioned vessels from US, UK, EU and other lists, via OpenSanctions.</p>
+    </div>
+    <div class="kpis" id="sanc-kpis"></div>
+    <div class="two-col">
+      <div>
+        <h3 class="mini-title">New listings, last 30 days</h3>
+        <div class="table-wrap"><table class="data" id="sanctions-table"></table></div>
+      </div>
+      <div>
+        <h3 class="mini-title">By sanctioning authority</h3>
+        <ol class="bars" id="sanc-by-list"></ol>
+        <h3 class="mini-title">By type</h3>
+        <ol class="bars" id="sanc-by-type"></ol>
+      </div>
+    </div>
+    <div class="two-col fleet">
+      <div>
+        <h3 class="mini-title">Sanctioned vessels</h3>
+        <label for="fleet-search" class="search inline">Find a vessel
+          <input id="fleet-search" type="search" placeholder="Name, IMO number or flag">
+        </label>
+        <div class="table-wrap"><table class="data" id="fleet"></table></div>
+      </div>
+      <div>
+        <h3 class="mini-title">Most common flags</h3>
+        <p class="hint">Flag states of sanctioned vessels.</p>
+        <ol class="bars" id="fleet-flags"></ol>
+      </div>
+    </div>
+  </section>
+
+  <section id="energy" aria-labelledby="energy-title" class="anchor">
+    <div class="section-head with-control">
+      <div>
+        <h2 id="energy-title">Energy prices</h2>
+        <p class="hint">Daily spot prices from the US EIA. Hover for exact values.</p>
+      </div>
+      <div class="seg" role="group" aria-label="Time range" id="energy-range">
+        <button type="button" data-days="30">1M</button>
+        <button type="button" data-days="90" aria-pressed="true">3M</button>
+        <button type="button" data-days="180">6M</button>
+      </div>
+    </div>
+    <div class="energy-grid" id="energy-charts"></div>
+  </section>
+
+  <section id="conflict" aria-labelledby="conflict-title" class="anchor">
+    <div class="section-head">
+      <h2 id="conflict-title">Conflict and unrest</h2>
+      <p class="hint">Events recorded by ACLED in the last 14 days. Larger circles mean more reported deaths. Scroll or pinch to zoom.</p>
+    </div>
+    <ul class="legend" id="conflict-legend"></ul>
+    <div class="conflict-grid">
+      <div id="conflict-map" class="conflict-map" role="img" aria-label="World map of recent conflict and unrest events"></div>
+      <div>
+        <h3 class="mini-title">Events per day</h3>
+        <div id="conflict-daily" class="daily"></div>
+        <h3 class="mini-title">Most events by country</h3>
+        <ol class="bars" id="conflict-countries"></ol>
+      </div>
+    </div>
+    <p class="hint" id="conflict-empty" hidden></p>
+  </section>
+
+  <section id="method" aria-labelledby="method-title" class="anchor">
+    <div class="section-head">
+      <h2 id="method-title">Method</h2>
+      <p class="hint">How SITREP collects, tags and scores the data.</p>
+    </div>
+    <div class="method">
+      <div>
+        <h3>Collection</h3>
+        <p>Every three hours the collector reads 35 news and research feeds. It removes duplicate stories by link and by headline, and keeps 14 days of history. Sanctions, energy and conflict data refresh once a day.</p>
+        <h3>Tagging</h3>
+        <p>Each story is matched against more than 250 theme keywords and 500 country, capital and leader names. Headline matches count double. Short acronyms such as US, UK and EU only match in capitals, so the word “us” is never read as the United States.</p>
+      </div>
+      <div>
+        <h3>Signals</h3>
+        <p>For every theme, region and country, SITREP compares the last 24 hours with the average day over the previous 13. A signal needs at least 3 stories and is ranked by the ratio (24-hour count + 1) ÷ (baseline + 1), which stops tiny numbers from producing huge ratios.</p>
+        <h3>Risk index</h3>
+        <p>A 0–100 score for each country, built from four parts:</p>
+        <ul class="weights" id="weights"></ul>
+        <p>Bands: Low under 25, Guarded 25–44, Elevated 45–64, High 65–79, Severe 80 and over. The index measures attention and activity in open sources. It is not a forecast.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="sources" aria-labelledby="status-title" class="anchor">
+    <div class="section-head">
+      <h2 id="status-title">Source status</h2>
+      <p class="hint" id="status-summary"></p>
+    </div>
+    <div class="table-wrap"><table class="data" id="status"></table></div>
+  </section>
+</main>
+
+<footer class="wrap footer">
+  <p>Built by Evan Coles. Headlines link to their original publishers. Sanctions data from OpenSanctions (CC BY-NC 4.0), energy data from the US EIA, conflict data from ACLED, map from Natural Earth.</p>
+</footer>
+
+<div id="scrim" class="scrim" hidden></div>
+<aside id="dossier" class="dossier" role="dialog" aria-modal="true" aria-labelledby="dossier-title" hidden>
+  <div class="dossier-head">
+    <div>
+      <p class="dossier-kicker" id="dossier-region"></p>
+      <h2 id="dossier-title"></h2>
+    </div>
+    <button type="button" class="close" id="dossier-close" aria-label="Close dossier">×</button>
+  </div>
+  <div class="dossier-body" id="dossier-body"></div>
+</aside>
+
+<div id="tip" class="tip" role="tooltip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
