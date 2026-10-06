@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-06T19:57:56.090421+00:00",
+ "updated": "2026-10-06T21:25:16.244797+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 11,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 6,
    "note": ""
   },
   {
@@ -62,7 +62,7 @@
    "group": "Regional",
    "ok": false,
    "new": 0,
-   "note": "404 Client Error: Not Found for url: https://kyivindependent.com/rss/"
+   "note": "404 Client Error: Not Found for url: https://kyivindependent.com/feed/"
   },
   {
    "name": "The Diplomat",
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -109,9 +109,9 @@
   {
    "name": "RUSI",
    "group": "Think tank",
-   "ok": false,
-   "new": 0,
-   "note": "404 Client Error: Not Found for url: https://www.rusi.org/rss.xml"
+   "ok": true,
+   "new": 11,
+   "note": ""
   },
   {
    "name": "CSIS",
@@ -138,22 +138,22 @@
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
-   "name": "OFAC Recent Actions",
+   "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
-   "ok": false,
-   "new": 0,
-   "note": "404 Client Error: Not Found for url: https://ofac.treasury.gov/recent-actions/rss.xml"
+   "ok": true,
+   "new": 31,
+   "note": ""
   },
   {
    "name": "UK Financial Sanctions (OFSI)",
@@ -166,15 +166,15 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
-   "ok": false,
-   "new": 0,
-   "note": "404 Client Error: Not Found for url: https://www.iea.org/api/rss/news"
+   "ok": true,
+   "new": 20,
+   "note": ""
   },
   {
    "name": "Carbon Brief",
@@ -187,21 +187,21 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -255,8 +255,8 @@
   },
   {
    "name": "energy",
-   "ok": false,
-   "note": "EIA_API_KEY not set (add it as a GitHub Secret)"
+   "ok": true,
+   "note": ""
   },
   {
    "name": "conflict",
