@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:31:53.779514+00:00",
+ "updated": "2026-10-06T21:32:45.449143+00:00",
  "items": [
   {
    "id": "6e0d9cba0b20a021",
@@ -37,24 +37,22 @@
    ]
   },
   {
-   "id": "9463add38ee9b137",
-   "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
-   "summary": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
-   "url": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
-   "source": "Al Jazeera",
+   "id": "08ce2ed289511f82",
+   "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
+   "summary": "Landmark roles were in 50s classics directed by Elia Kazan and Alfred Hitchcock, before going on to play Superman’s adoptive mother in later life Eva Marie Saint, one of the last survivors of Hollywood’s golden age of the 1940s and 50s, has died aged 102. Her screen work spanned six decades: Saint made her screen debut opposite Marlon Brando in On the Waterfront, starred in Alfred Hitchcock’s…",
+   "url": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+   "source": "The Guardian World",
    "group": "World news",
-   "published": "2026-10-06T21:28:35+00:00",
+   "published": "2026-10-06T21:24:50+00:00",
    "themes": [],
    "regions": [
-    "americas"
+    "global"
    ],
-   "countries": [
-    "United States"
-   ]
+   "countries": []
   },
   {
    "id": "f1508627350db8e0",
-   "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
+   "title": "Spain’s Merino nets twice to avoid Croatia shock and maintain perfect start",
    "summary": "Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.",
    "url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
    "source": "Al Jazeera",
@@ -103,6 +101,25 @@
    ],
    "countries": [
     "Japan",
+    "United States"
+   ]
+  },
+  {
+   "id": "69a91dddcc917307",
+   "title": "Trump says he is weighing suspension of federal gas tax",
+   "summary": "President floats idea as voter anger over rising costs threatens Republican hopes in November midterms Donald Trump said on Tuesday his administration was considering suspending the federal gasoline tax, a sign the president is noticing voter anger over fuel costs a month before the midterm elections. “We’re thinking about that,” Trump said when asked whether the tax should be suspended. Continue…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-federal-gas-tax",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T21:19:47+00:00",
+   "themes": [
+    "energy",
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
     "United States"
    ]
   },
@@ -581,6 +598,27 @@
    ],
    "countries": [
     "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "89507558924588e2",
+   "title": "Treasury Sanctioned a Hamas Crowdfunding Network. Its French Front Should Be Next. - Foundation for Defense of Democracies",
+   "summary": "Treasury Sanctioned a Hamas Crowdfunding Network. Its French Front Should Be Next.    Foundation for Defense of Democracies",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHdxMzlZcDY2eVY2YU5CcnIxdlF2RGVJa0lEZHZrRlZMVW8wXzAyQ3NUdklLMVVjRjhHZGRFUWU1RzREV21XMTQ0SG1XWE9yVkpIandPeDNjWElhRkk2UWJfM0ZkVnh4bjk5VkVlZkVSc252blNaeWVWVkQ3blRKSm1KVG5HekxmeS1OY1YwRUFjZ3JwLVhTMy1lTnQ4UEo4SkFoak9DWVhxakpkdjlGakJPbjBwenVQaWJxNXBR?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-06T20:22:06+00:00",
+   "themes": [
+    "sanctions",
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "France",
     "Palestine"
    ]
   },
@@ -7639,6 +7677,22 @@
    "themes": [
     "maritime",
     "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "96b4d492c7cfc65f",
+   "title": "World News - LatestLY",
+   "summary": "World News    LatestLY",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaldLNUR5eEZrY21uc2RwaHZVR0hfM3pRTnIxdEFwYWsxUU90Z1VTTVBFZlZ2SVlPbGRmbzF5dE9IZ1lsT1UzaHBHbENCeDFUSEhqTkJLWEJKbEFMZl9KbFJDZ2c2dndLRzh5REFFeDZDQlBlWEtwT3lXV0pTYVhKT2FnRHBxWXBudVlsLU5CYmREbEpKeTk2UjhENm9QRWZ6WnVpQWxvUEhfUk9TUDRsT0ZjTVU3bWVqWTREN2dITGdpRGxJOUtOQ3BKRU52NXVWVGhaQ1JPcGdVNkZwbV9HdzdxR3BfVzJfbllmcEQ5Z1FjbmPSAfgBQVVfeXFMUGVwYjJpcDRTSzN1eWE3alk1S3AwVl96REgyN1ZOSDFraUZ4X0QwTk9zZHNpMUV1dzhWeUJuS2F1NFFqUWE0UEYyQjZIQ1hVcnZyNFFBVEVwSDdmUEMyT0hPN1dKalFOdVNrMzRKRmIzY0lMeUItLTBXVTZZeUVBclZpUTFCVWlORFpKWGVta0xEeUx3NmZRMW1GOFA4M1BfazdMRlRRcnNGYmM3UzZ3dDVoaE53anZqRXZldkRFYjh1Wk1XRng2TDBhTGRyQzQ3bk1OaW5LaGVuRTlLOS1nQVE5Y1RjbmhZdGJaalJ3dG5McFprR21acy0?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-03T00:56:16+00:00",
+   "themes": [
+    "sanctions"
    ],
    "regions": [
     "global"
