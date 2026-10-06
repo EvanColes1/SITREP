@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:30:46.816609+00:00",
+ "updated": "2026-10-06T21:31:53.779514+00:00",
  "items": [
   {
    "id": "6e0d9cba0b20a021",
@@ -37,6 +37,39 @@
    ]
   },
   {
+   "id": "9463add38ee9b137",
+   "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+   "summary": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
+   "url": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:28:35+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f1508627350db8e0",
+   "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
+   "summary": "Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.",
+   "url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:23:59+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain",
+    "Croatia"
+   ]
+  },
+  {
    "id": "e0f8ae08efc59b27",
    "title": "Five things to know about the death at Russia’s anti-plague laboratory",
    "summary": "In light of Russia’s record on biological weapons and lab accidents, the death of an anti-plague researcher raises questions to consider. The post Five things to know about the death at Russia’s anti-plague laboratory appeared first on Atlantic Council .",
@@ -50,6 +83,27 @@
    ],
    "countries": [
     "Russia"
+   ]
+  },
+  {
+   "id": "f52c9c170509e90a",
+   "title": "Tokyo protests US military presence after Okinawa killing",
+   "summary": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:20:28+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Japan",
+    "United States"
    ]
   },
   {
@@ -80,6 +134,24 @@
    "published": "2026-10-06T21:15:00+00:00",
    "themes": [
     "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e8fe4cecbd63ec2c",
+   "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+   "summary": "Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.",
+   "url": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:11:39+00:00",
+   "themes": [
+    "conflict"
    ],
    "regions": [
     "americas"
