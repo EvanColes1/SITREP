@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:25:16.244797+00:00",
+ "updated": "2026-10-06T21:30:46.816609+00:00",
  "items": [
   {
    "id": "6e0d9cba0b20a021",
@@ -18,6 +18,25 @@
    "countries": []
   },
   {
+   "id": "8cf0390e53806bdd",
+   "title": "Yemen Foreign Ministry condemns Houthi attacks on Saudi airports",
+   "summary": "Yemen Foreign Ministry condemns Houthi attacks on Saudi airports Yemen’s foreign ministry has strongly condemned recent Houthi attacks on airports in Saudi Arabia’s Jazan and Najran, according to the state-run Saba news agency. The ministry also denounced threats against Medina and Mecca and expressed solidarity with the kingdom. A statement by the ministry said that “the use of Yemen’s land,…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-foreign-ministry-condemns-houthi-attacks-saudi-airports",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-06T21:30:14+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
    "id": "e0f8ae08efc59b27",
    "title": "Five things to know about the death at Russia’s anti-plague laboratory",
    "summary": "In light of Russia’s record on biological weapons and lab accidents, the death of an anti-plague researcher raises questions to consider. The post Five things to know about the death at Russia’s anti-plague laboratory appeared first on Atlantic Council .",
@@ -31,6 +50,24 @@
    ],
    "countries": [
     "Russia"
+   ]
+  },
+  {
+   "id": "d88790532378945e",
+   "title": "Is it time to talk to the Taliban?",
+   "summary": "Five years after the U.S.'s withdrawal from Afghanistan, the Taliban remains firmly in power. Here's how the Taliban doing in terms of foreign policy.",
+   "url": "https://www.npr.org/2026/10/06/nx-s1-5971130/is-it-time-to-talk-to-the-taliban",
+   "source": "NPR World",
+   "group": "World news",
+   "published": "2026-10-06T21:16:10+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Afghanistan",
+    "United States"
    ]
   },
   {
@@ -48,6 +85,25 @@
     "americas"
    ],
    "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "cb97112c315ba985",
+   "title": "Cancer rates rising faster among younger people, international study finds",
+   "summary": "New major research has found that cases of several different kinds of cancer have risen sharply among young people in England, the US, and in the Netherlands. The number of people under the age of 50 diagnosed with prostate cancer in England has quadrupled since 2001. Researchers aren't exactly sure why there's been such an increase but say the broad reason could be linked to a growing rate of…",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-cancer-rates-rising-faster-among-younger-people-international-study-finds",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T21:10:49+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Netherlands",
     "United States"
    ]
   },
@@ -80,6 +136,24 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "2b14c2fcb5f24e40",
+   "title": "French policeman charged after firing tear gas grenade at high school student",
+   "summary": "A French policeman was charged Tuesday with violence for firing a tear gas grenade at close range at a 14-year-old student during high school protests that have shaken the country. Speaking with FRANCE 24's Mark Owen, Fanny Gallois, Head of the Freedoms Program, Amnesty International, says that \"these cases of serious injuries related to the use of so-called less-lethal weapons commonly used in…",
+   "url": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T21:04:02+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
   },
   {
    "id": "51223284097a51d2",
@@ -133,6 +207,22 @@
    "countries": [
     "Israel",
     "Australia"
+   ]
+  },
+  {
+   "id": "33014140caa73550",
+   "title": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
+   "summary": "The death of a 28-year-old Russian lab worker at Siberia’s Irkutsk Anti-Plague Institute has sparked online panic about a ‘plague’, despite the WHO assessing the public health risk in Russia as low. Unverified claims about how she became ill, including a laboratory accident involving a test tube, are circulating online. Misleading posts and out-of-context videos have also fuelled speculation and…",
+   "url": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T20:58:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
    ]
   },
   {
@@ -334,6 +424,24 @@
    ],
    "countries": [
     "United Kingdom"
+   ]
+  },
+  {
+   "id": "0a1608405c1ecf2b",
+   "title": "How much does France spend on education?",
+   "summary": "Protests have been gripping France with students demanding better learning conditions and more equal opportunities. The education ministry is among the few that have been granted an increase in next year's draft budgets, but critics say it still doesn't catch up with inflation. We take a closer look. Plus, OpenAI has apologised to Australia over its handling of government website hacks by a rogue…",
+   "url": "https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T20:29:58+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "France",
+    "Australia"
    ]
   },
   {
