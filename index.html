@@ -20,7 +20,6 @@
       <li><a href="#news">News</a></li>
       <li><a href="#sanctions">Sanctions</a></li>
       <li><a href="#energy">Energy</a></li>
-      <li><a href="#conflict">Conflict</a></li>
       <li><a href="#method">Method</a></li>
       <li><a href="#sources">Sources</a></li>
     </ul>
@@ -48,13 +47,9 @@
     </div>
     <figure class="board-map">
       <div class="map-tools">
-        <div class="seg seg-dark" role="group" aria-label="Map layer" id="map-layer">
-          <button type="button" data-layer="coverage" aria-pressed="true">News coverage</button>
-          <button type="button" data-layer="conflict" aria-pressed="false">Conflict events</button>
-        </div>
         <label class="toggle"><input type="checkbox" id="show-choke" checked> Shipping chokepoints</label>
       </div>
-      <div id="world" class="world" role="img" aria-label="World map shaded by news coverage or conflict events per country"></div>
+      <div id="world" class="world" role="img" aria-label="World map shaded by news coverage per country"></div>
       <figcaption class="map-key">
         <span id="key-low">Fewer stories</span><span class="ramp" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span><span>More</span>
         <span class="key-note">Select a country to open its dossier. Diamonds mark shipping chokepoints.</span>
@@ -75,7 +70,7 @@
   <section id="risk" aria-labelledby="risk-title" class="anchor">
     <div class="section-head">
       <h2 id="risk-title">Risk monitor</h2>
-      <p class="hint">A composite index from news volume, severity, momentum and recorded conflict. Select a country to open its dossier.</p>
+      <p class="hint">A composite index from news volume, severity and momentum. Select a country to open its dossier.</p>
     </div>
     <div class="risk-grid">
       <div class="table-wrap"><table class="data risk-table" id="risk-table"></table></div>
@@ -201,24 +196,6 @@
     <div class="energy-grid" id="energy-charts"></div>
   </section>
 
-  <section id="conflict" aria-labelledby="conflict-title" class="anchor">
-    <div class="section-head">
-      <h2 id="conflict-title">Conflict and unrest</h2>
-      <p class="hint">Events recorded by ACLED in the last 14 days. Larger circles mean more reported deaths. Scroll or pinch to zoom.</p>
-    </div>
-    <ul class="legend" id="conflict-legend"></ul>
-    <div class="conflict-grid">
-      <div id="conflict-map" class="conflict-map" role="img" aria-label="World map of recent conflict and unrest events"></div>
-      <div>
-        <h3 class="mini-title">Events per day</h3>
-        <div id="conflict-daily" class="daily"></div>
-        <h3 class="mini-title">Most events by country</h3>
-        <ol class="bars" id="conflict-countries"></ol>
-      </div>
-    </div>
-    <p class="hint" id="conflict-empty" hidden></p>
-  </section>
-
   <section id="method" aria-labelledby="method-title" class="anchor">
     <div class="section-head">
       <h2 id="method-title">Method</h2>
@@ -227,7 +204,7 @@
     <div class="method">
       <div>
         <h3>Collection</h3>
-        <p>Every three hours the collector reads 35 news and research feeds. It removes duplicate stories by link and by headline, and keeps 14 days of history. Sanctions, energy and conflict data refresh once a day.</p>
+        <p>Every three hours the collector reads 35 news and research feeds, trying a backup address if a publisher blocks the main one. It removes duplicate stories by link and by headline, and keeps 14 days of history. Sanctions and energy data refresh once a day.</p>
         <h3>Tagging</h3>
         <p>Each story is matched against more than 250 theme keywords and 500 country, capital and leader names. Headline matches count double. Short acronyms such as US, UK and EU only match in capitals, so the word “us” is never read as the United States.</p>
       </div>
@@ -235,7 +212,7 @@
         <h3>Signals</h3>
         <p>For every theme, region and country, SITREP compares the last 24 hours with the average day over the previous 13. A signal needs at least 3 stories and is ranked by the ratio (24-hour count + 1) ÷ (baseline + 1), which stops tiny numbers from producing huge ratios.</p>
         <h3>Risk index</h3>
-        <p>A 0–100 score for each country, built from four parts:</p>
+        <p>A 0–100 score for each country, built from three parts:</p>
         <ul class="weights" id="weights"></ul>
         <p>Bands: Low under 25, Guarded 25–44, Elevated 45–64, High 65–79, Severe 80 and over. The index measures attention and activity in open sources. It is not a forecast.</p>
       </div>
@@ -252,7 +229,7 @@
 </main>
 
 <footer class="wrap footer">
-  <p>Built by Evan Coles. Headlines link to their original publishers. Sanctions data from OpenSanctions (CC BY-NC 4.0), energy data from the US EIA, conflict data from ACLED, map from Natural Earth.</p>
+  <p>Built by Evan Coles. Headlines link to their original publishers. Sanctions data from OpenSanctions (CC BY-NC 4.0), energy data from the US EIA, map from Natural Earth.</p>
 </footer>
 
 <div id="scrim" class="scrim" hidden></div>
