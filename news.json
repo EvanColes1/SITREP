@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T19:54:29.648930+00:00",
+ "updated": "2026-10-06T19:55:08.983961+00:00",
  "items": [
   {
    "id": "6e0d9cba0b20a021",
@@ -16,6 +16,46 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "d06116013a717f68",
+   "title": "Police make seventh arrest over UK airbase incident",
+   "summary": "A seventh man was arrested Tuesday over a major incident last month at a British military airbase used by the United States to launch strikes on Iran, police said. The arrest came a day after President Donald Trump said the United States had withdrawn all B-1 bombers from RAF Fairford because of \"threats\" he believed were linked to Tehran. A 22-year-old British male was arrested in London \"on…",
+   "url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T19:51:46+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "e09f7a92ca574893",
+   "title": "Calls to block social media platforms for minors in France amid school protests",
+   "summary": "One factor accelerating these student protest is social media, and its being boosted even more by artificial intelligence. Some French mayors have even called for social media platforms to be temporarily blocked for minors. Our colleauges at France 2 took a look at the impact",
+   "url": "https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T19:47:23+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
   },
   {
    "id": "dfa784f7b990e0eb",
