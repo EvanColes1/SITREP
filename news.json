@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:26:42.546207+00:00",
+ "updated": "2026-10-07T11:28:40.671574+00:00",
  "items": [
   {
    "id": "2e5fbf545a903770",
@@ -13842,6 +13842,24 @@
    ],
    "countries": [
     "Sudan"
+   ]
+  },
+  {
+   "id": "cbef3a9002b5aefb",
+   "title": "Lebanon Emergency – Flash Update #18 - UNHCR",
+   "summary": "Lebanon Emergency – Flash Update #18    UNHCR - The UN Refugee Agency",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13Y0RqN2VvaDlwb1ZOcXhDT00wMnBhWUwyM3dQRFQtWlJaek5hQU9zUHNqR0Y3UHkzbmVqSXhySS1TWHgwTzhLclBsV0JtdUVQTnh0NlVNbEJvbi1rbVJpcUpvNEpmbVJBYUd0Nk93?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-04T08:53:01+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Lebanon"
    ]
   },
   {
