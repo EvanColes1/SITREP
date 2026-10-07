@@ -31,7 +31,11 @@ OUT = ROOT
 NOW = datetime.now(timezone.utc)
 KEEP_DAYS = 14          # how long news items stay on the dashboard
 MAX_ITEMS = 1500        # cap on stored news items
-HEADERS = {"User-Agent": "SITREP-dashboard/1.0 (open-source geopolitical tracker)"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 SITREP/1.0",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en-GB,en;q=0.8",
+}
 TIMEOUT = 25
 
 # Short names that only count when written in capitals (so "us" the word is not the United States)
@@ -132,13 +136,24 @@ def collect_news(tagger: Tagger) -> tuple[list, list]:
     for feed in sources:
         new = 0
         try:
-            resp = requests.get(feed["url"], headers=HEADERS, timeout=TIMEOUT)
-            resp.raise_for_status()
-            parsed = feedparser.parse(resp.content)
-            if not parsed.entries:
-                raise ValueError("feed returned no articles")
+            parsed, note = None, ""
+            for url in [feed["url"]] + ([feed["fallback"]] if feed.get("fallback") else []):
+                try:
+                    resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+                    resp.raise_for_status()
+                    parsed = feedparser.parse(resp.content)
+                    if not parsed.entries:
+                        raise ValueError("feed returned no articles")
+                    note = "" if url == feed["url"] else "via backup feed"
+                    break
+                except Exception as exc:  # noqa: BLE001 - try the backup before giving up
+                    parsed, last_error = None, exc
+            if parsed is None:
+                raise last_error
             for e in parsed.entries[:60]:
                 title = clean(e.get("title", ""), 220)
+                if "news.google.com" in (e.get("link") or ""):
+                    title = re.sub(r"\s+-\s+[^-]{2,60}$", "", title)  # Google News adds " - Publisher"
                 link = e.get("link", "")
                 if not title or not link:
                     continue
@@ -162,7 +177,7 @@ def collect_news(tagger: Tagger) -> tuple[list, list]:
                 }
                 seen_titles.add(key)
                 new += 1
-            status.append({"name": feed["name"], "group": feed["group"], "ok": True, "new": new, "note": ""})
+            status.append({"name": feed["name"], "group": feed["group"], "ok": True, "new": new, "note": note})
             log(f"  ok   {feed['name']}: {new} new")
         except Exception as exc:  # noqa: BLE001 - one bad feed must not stop the run
             status.append({"name": feed["name"], "group": feed["group"], "ok": False, "new": 0, "note": str(exc)[:160]})
@@ -223,30 +238,6 @@ def collect_energy() -> dict | None:
     return out
 
 
-# ---------------------------------------------------------------- conflict events
-def collect_conflict() -> dict | None:
-    email, password = os.environ.get("ACLED_EMAIL"), os.environ.get("ACLED_PASSWORD")
-    if not (email and password):
-        raise RuntimeError("ACLED_EMAIL / ACLED_PASSWORD not set (add them as GitHub Secrets)")
-    tok = requests.post("https://acleddata.com/oauth/token", headers=HEADERS, timeout=TIMEOUT, data={
-        "username": email, "password": password, "grant_type": "password", "client_id": "acled"})
-    tok.raise_for_status()
-    token = tok.json()["access_token"]
-    since = (NOW - timedelta(days=14)).date().isoformat()
-    r = requests.get("https://acleddata.com/api/acled/read", timeout=90, headers={**HEADERS, "Authorization": f"Bearer {token}"},
-                     params={"_format": "json", "event_date": f"{since}|{NOW.date().isoformat()}", "event_date_where": "BETWEEN",
-                             "fields": "event_date|event_type|sub_event_type|country|region|location|latitude|longitude|fatalities|notes",
-                             "limit": 5000})
-    r.raise_for_status()
-    events = [{
-        "date": e["event_date"], "type": e["event_type"], "sub_type": e.get("sub_event_type", ""),
-        "country": e["country"], "region": e.get("region", ""), "location": e.get("location", ""),
-        "lat": float(e["latitude"]), "lon": float(e["longitude"]),
-        "fatalities": int(e.get("fatalities") or 0), "notes": clean(e.get("notes", ""), 240),
-    } for e in r.json().get("data", [])]
-    return {"updated": NOW.isoformat(), "events": events}
-
-
 # ---------------------------------------------------------------- main
 def run_part(name: str, fn, status: list):
     try:
@@ -280,17 +271,17 @@ def main(parts: list[str]) -> None:
         save_json("news.json", {"updated": NOW.isoformat(), "items": items})
         status["feeds"] = feed_status
         log(f"news: {len(items)} items stored")
-    for name, fn in (("sanctions", collect_sanctions), ("energy", collect_energy), ("conflict", collect_conflict)):
+    for name, fn in (("sanctions", collect_sanctions), ("energy", collect_energy)):
         if name in parts:
             run_part(name, fn, status["data"])
     old = load_json(OUT / "status.json", {})
     if "news" not in parts:
         status["feeds"] = old.get("feeds", [])
-    kept = {d["name"]: d for d in old.get("data", [])}
+    kept = {d["name"]: d for d in old.get("data", []) if d["name"] in ("sanctions", "energy")}
     kept.update({d["name"]: d for d in status["data"]})
     status["data"] = list(kept.values())
     save_json("status.json", status)
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:] or ["news", "sanctions", "energy", "conflict"])
+    main(sys.argv[1:] or ["news", "sanctions", "energy"])

@@ -106,7 +106,7 @@
       $("hero-change").innerHTML = `<span class="${pct >= 0 ? "up" : "down"}">${pct >= 0 ? "▲" : "▼"} ${Math.abs(pct).toFixed(0)}%</span>`;
     } else $("hero-change").textContent = "–";
     $("hero-sanc").textContent = D.sanctions ? nf(D.sanctions.recent_total) : "–";
-    if ([D.news, D.sanctions, D.energy, D.conflict].some((d) => d && d.sample)) $("sample-banner").hidden = false;
+    
     drawHotList();
   }
 
@@ -451,82 +451,6 @@
     };
   }
 
-  /* ------------------------------------------------------------ conflict */
-  const EVENT_GROUPS = [
-    { key: "unrest", label: "Protests and riots", match: ["Protests", "Riots"], colour: "--series-1" },
-    { key: "battle", label: "Battles and explosions", match: ["Battles", "Explosions/Remote violence"], colour: "--series-2" },
-    { key: "civ", label: "Violence against civilians", match: ["Violence against civilians"], colour: "--series-3" },
-  ];
-  const groupOf = (type) => EVENT_GROUPS.find((g) => g.match.includes(type));
-
-  function drawConflict() {
-    const events = (D.conflict?.events || []).filter((e) => groupOf(e.type));
-    const map = $("conflict-map");
-    if (!events.length) {
-      document.querySelector(".conflict-grid").hidden = true; $("conflict-legend").hidden = true;
-      const msg = $("conflict-empty"); msg.hidden = false;
-      msg.textContent = "Conflict events appear once ACLED login details are added. See the setup guide.";
-      return;
-    }
-    $("conflict-legend").innerHTML = EVENT_GROUPS.map((g) => {
-      const n = events.filter((e) => groupOf(e.type) === g).length;
-      return `<li><span class="dot" style="background:${css(g.colour)}"></span>${g.label} (${nf(n)})</li>`;
-    }).join("");
-
-    map.innerHTML = "";
-    const feats = features();
-    const w = map.clientWidth || 800, h = Math.round(w / 1.75);
-    const proj = d3.geoNaturalEarth1().fitExtent([[4, 4], [w - 4, h - 4]], { type: "Sphere" });
-    const path = d3.geoPath(proj);
-    const svg = d3.select(map).append("svg").attr("viewBox", `0 0 ${w} ${h}`).attr("aria-hidden", "true");
-    const g = svg.append("g");
-    g.append("path").attr("class", "sphere").attr("d", path({ type: "Sphere" }));
-    if (feats) g.append("g").selectAll("path").data(feats).join("path").attr("class", "country").attr("d", path);
-    const r = d3.scaleSqrt().domain([0, d3.max(events, (e) => e.fatalities) || 1]).range([2.5, 11]);
-    const ring = css("--board");
-    const dots = g.append("g").selectAll("circle")
-      .data(events.slice().sort((a, b) => b.fatalities - a.fatalities))
-      .join("circle")
-      .attr("cx", (e) => proj([e.lon, e.lat])[0]).attr("cy", (e) => proj([e.lon, e.lat])[1])
-      .attr("r", (e) => r(e.fatalities))
-      .style("fill", (e) => css(groupOf(e.type).colour)).style("fill-opacity", 0.85)
-      .style("stroke", ring).style("stroke-width", 1)
-      .on("mousemove", (ev, e) => showTip(`<strong>${esc(e.location)}, ${esc(e.country)}</strong>${esc(e.type)}${e.sub_type ? ` – ${esc(e.sub_type)}` : ""}<br>${fmtDate(e.date)}${e.fatalities ? `, ${e.fatalities} reported deaths` : ""}${e.notes ? `<br>${esc(e.notes)}` : ""}`, ev))
-      .on("mouseleave", hideTip);
-    svg.call(d3.zoom().scaleExtent([1, 10]).translateExtent([[0, 0], [w, h]]).on("zoom", (ev) => {
-      g.attr("transform", ev.transform);
-      dots.attr("r", (e) => r(e.fatalities) / Math.sqrt(ev.transform.k)).style("stroke-width", 1 / ev.transform.k);
-    }));
-
-    // events per day, stacked by group (3 groups only)
-    const days = d3.timeDays(d3.timeDay.offset(d3.timeDay.floor(new Date()), -13), d3.timeDay.offset(d3.timeDay.floor(new Date()), 1));
-    const rows = days.map((d) => {
-      const key = d3.timeFormat("%Y-%m-%d")(d), row = { date: d };
-      for (const gr of EVENT_GROUPS) row[gr.key] = events.filter((e) => e.date === key && groupOf(e.type) === gr).length;
-      return row;
-    });
-    const dEl = $("conflict-daily"); dEl.innerHTML = "";
-    const W = Math.max(260, dEl.clientWidth || 360), H = 140, m = { t: 6, r: 30, b: 20, l: 0 };
-    const stack = d3.stack().keys(EVENT_GROUPS.map((x) => x.key))(rows);
-    const x = d3.scaleBand().domain(days).range([m.l, W - m.r]).padding(0.18);
-    const y = d3.scaleLinear().domain([0, d3.max(stack[stack.length - 1], (d) => d[1]) || 1]).nice(3).range([H - m.b, m.t]);
-    const ds = d3.select(dEl).append("svg").attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Conflict events per day over the last 14 days, by type");
-    ds.append("g").selectAll("line").data(y.ticks(3)).join("line").attr("class", "gridline").attr("x1", m.l).attr("x2", W - m.r).attr("y1", y).attr("y2", y);
-    ds.append("g").attr("class", "axis").attr("transform", `translate(${W - m.r + 4},0)`).call(d3.axisRight(y).ticks(3).tickSize(0));
-    ds.append("g").attr("class", "axis").attr("transform", `translate(0,${H - m.b})`)
-      .call(d3.axisBottom(x).tickValues(days.filter((_, i) => i % 4 === 1)).tickSize(0).tickPadding(6).tickFormat(d3.timeFormat("%-d %b")));
-    ds.append("g").selectAll("g").data(stack).join("g").style("fill", (s) => css(EVENT_GROUPS.find((gr) => gr.key === s.key).colour))
-      .selectAll("rect").data((s) => s).join("rect")
-      .attr("x", (d) => x(d.data.date)).attr("width", x.bandwidth())
-      .attr("y", (d) => y(d[1])).attr("height", (d) => Math.max(0, y(d[0]) - y(d[1]) - (d[1] > d[0] ? 1 : 0)));
-    ds.append("g").selectAll("rect").data(rows).join("rect")
-      .attr("x", (d) => x(d.date)).attr("width", x.bandwidth()).attr("y", m.t).attr("height", H - m.b - m.t).style("fill", "transparent")
-      .on("mousemove", (ev, d) => showTip(`<strong>${fmtDate(d.date)}</strong>${EVENT_GROUPS.map((gr) => `${gr.label}: ${d[gr.key]}`).join("<br>")}`, ev))
-      .on("mouseleave", hideTip);
-
-    drawBars($("conflict-countries"), countBy(events, (e) => e.country), { limit: 8 });
-  }
-
   /* ------------------------------------------------------------ status */
   function drawStatus() {
     const s = D.status; if (!s) return;
@@ -548,7 +472,7 @@
     const io = new IntersectionObserver((entries) => {
       for (const en of entries) if (en.isIntersecting) links.forEach((a) => a.setAttribute("aria-current", String(a.getAttribute("href") === `#${en.target.id}`)));
     }, { rootMargin: "-40% 0px -55% 0px" });
-    ["overview", "risk", "news", "sanctions", "energy", "conflict", "method", "sources"].forEach((id) => $(id) && io.observe($(id)));
+    ["overview", "risk", "news", "sanctions", "energy", "method", "sources"].forEach((id) => $(id) && io.observe($(id)));
   }
 
   /* ============================================================ advanced layer */
@@ -633,7 +557,7 @@
   }
 
   /* ---------- risk index ---------- */
-  const WEIGHTS = { volume: 0.35, severity: 0.25, momentum: 0.15, conflict: 0.25 };
+  const WEIGHTS = { volume: 0.45, severity: 0.35, momentum: 0.20, conflict: 0 };
   const PART_TEXT = {
     volume: "News volume: stories naming the country this week, on a log scale against the most covered country.",
     severity: "Severity: the share of those stories about conflict, sanctions, shipping or nuclear issues.",
@@ -716,8 +640,7 @@
     t.onclick = (e) => { const tr = e.target.closest("tr[data-c]"); if (tr) openDossier(tr.dataset.c); };
     t.onkeydown = (e) => { const tr = e.target.closest("tr[data-c]"); if (tr && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); openDossier(tr.dataset.c); } };
 
-    $("weights").innerHTML = Object.entries(WEIGHTS).map(([k, v]) => `<li><b>${Math.round(v * 100)}%</b><span>${PART_TEXT[k]}</span></li>`).join("") +
-      (RISK.hasConf ? "" : `<li><b>–</b><span>Conflict data isn't connected yet, so the other three parts are scaled up to fill 100%.</span></li>`);
+    $("weights").innerHTML = Object.entries(WEIGHTS).filter(([, v]) => v > 0).map(([k, v]) => `<li><b>${Math.round(v * 100)}%</b><span>${PART_TEXT[k]}</span></li>`).join("");
   }
 
   /* ---------- co-mention network ---------- */
@@ -845,13 +768,12 @@
       <div class="kpis">
         <dl class="kpi"><dt>Stories, 7 days</dt><dd>${nf(week.length)}</dd></dl>
         <dl class="kpi"><dt>Change</dt><dd>${deltaHtml(week.length, prev.length)}</dd></dl>
-        <dl class="kpi"><dt>Conflict events, 14 days</dt><dd>${RISK.hasConf ? nf(conf14.ev) : "–"}</dd></dl>
-        <dl class="kpi"><dt>Reported deaths, 14 days</dt><dd>${RISK.hasConf ? nf(conf14.fat) : "–"}</dd></dl>
+        <dl class="kpi"><dt>Stories, 14 days</dt><dd>${nf(mine.length)}</dd></dl>
+        <dl class="kpi"><dt>Sanctioned vessels flagged here</dt><dd>${D.sanctions ? nf(flagged) : "–"}</dd></dl>
       </div>
       <h3 class="mini-title">Stories per day, 14 days</h3><div class="daily" id="dossier-daily"></div>
       <h3 class="mini-title">Main themes</h3><ol class="bars" id="dossier-themes"></ol>
       <h3 class="mini-title">Named alongside</h3><ol class="bars" id="dossier-with"></ol>
-      ${flagged ? `<p class="hint" style="margin-top:14px">${nf(flagged)} sanctioned ${flagged === 1 ? "vessel flies" : "vessels fly"} this country's flag.</p>` : ""}
       <h3 class="mini-title">Latest stories</h3>
       <ol class="dossier-stories">${mine.slice(0, 6).map((i) => `<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a><span>${esc(i.source)}, ${ago(i.published)}</span></li>`).join("") || `<li class="hint">No stories in the last 14 days.</li>`}</ol>
       <button type="button" class="btn" id="dossier-filter">Show all ${nf(mine.length)} stories in the news feed</button>`;
@@ -884,35 +806,26 @@
     });
   }
 
-  /* ---------- map layer controls ---------- */
-  function setupMapTools() {
-    $("map-layer").onclick = (e) => {
-      const b = e.target.closest("button[data-layer]"); if (!b) return;
-      state.layer = b.dataset.layer;
-      document.querySelectorAll("#map-layer button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
-      drawWorld();
-    };
-    $("show-choke").onchange = drawWorld;
-  }
-
-
   /* ------------------------------------------------------------ start */
   async function start() {
-    const names = ["meta", "news", "sanctions", "energy", "conflict", "status", "world"];
+    const names = ["meta", "news", "sanctions", "energy", "status", "world"];
     const res = await Promise.all(names.map(load));
     names.forEach((n, i) => { D[n] = res[i]; });
+    // Sample files are only for previewing: never show them as if they were live figures
+    for (const n of ["sanctions", "energy"]) if (D[n]?.sample && !D.news?.sample) D[n] = null;
+    D.conflict = null;
     if (!D.meta) { document.querySelector("main").innerHTML = `<p class="empty">The dashboard data hasn't been created yet. Run the collector once, then reload.</p>`; return; }
     const safe = (fn) => { try { fn(); } catch (e) { console.error(e); } };
     safe(drawClocks); setInterval(() => safe(drawClocks), 30000);
-    safe(drawOverview); safe(setupFilters); safe(setupMapTools); safe(setupDossier); safe(drawWorld);
+    safe(drawOverview); safe(setupFilters); safe(setupDossier); $("show-choke").onchange = () => safe(drawWorld); safe(drawWorld);
     safe(drawSignals); safe(drawRisk); safe(drawNetwork); safe(drawChokepoints); safe(drawPulse); safe(drawMatrix); safe(drawFeed);
-    safe(drawSanctions); safe(setupEnergyRange); safe(drawEnergy); safe(drawConflict); safe(drawStatus); safe(setupNav);
+    safe(drawSanctions); safe(setupEnergyRange); safe(drawEnergy); safe(drawStatus); safe(setupNav);
     let lastW = window.innerWidth, t;
     window.addEventListener("resize", () => {
       clearTimeout(t);
-      t = setTimeout(() => { if (window.innerWidth !== lastW) { lastW = window.innerWidth; safe(drawWorld); safe(drawNetwork); safe(drawEnergy); safe(drawConflict); } }, 200);
+      t = setTimeout(() => { if (window.innerWidth !== lastW) { lastW = window.innerWidth; safe(drawWorld); safe(drawNetwork); safe(drawEnergy); } }, 200);
     });
-    matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", () => { safe(drawWorld); safe(drawPulse); safe(drawSignals); safe(drawRisk); safe(drawNetwork); safe(drawChokepoints); safe(drawEnergy); safe(drawConflict); });
+    matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", () => { safe(drawWorld); safe(drawPulse); safe(drawSignals); safe(drawRisk); safe(drawNetwork); safe(drawChokepoints); safe(drawEnergy); });
   }
   start();
 })();
