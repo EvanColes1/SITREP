@@ -1,0 +1,74 @@
+name: Update SITREP
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # news every 3 hours
+    - cron: "43 5 * * *"     # sanctions and energy data once a day
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ["*.html", "*.css", "*.js", "*.py", "sources.json", "themes.json", "regions.json", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sitrep-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Choose what to collect
+        id: parts
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 */3 * * *" ]; then
+            echo "list=news" >> "$GITHUB_OUTPUT"
+          else
+            echo "list=news sanctions energy" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Collect data
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: python collect.py ${{ steps.parts.outputs.list }}
+
+      - name: Save the new data to the repository
+        run: |
+          git config user.name "sitrep-bot"
+          git config user.email "sitrep-bot@users.noreply.github.com"
+          for f in news.json sanctions.json energy.json status.json meta.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          git diff --cached --quiet && exit 0
+          git commit -m "Data update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # If the repository changed while this run was working (an upload or another run),
+          # replay this update on top and keep the newest data files. Retry a few times.
+          for attempt in 1 2 3 4; do
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "Could not save the new data after 4 attempts"; exit 1
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
