@@ -1,6 +1,117 @@
 {
- "updated": "2026-10-07T11:04:47.319474+00:00",
+ "updated": "2026-10-07T11:20:48.305962+00:00",
  "items": [
+  {
+   "id": "4931d09bf56a0364",
+   "title": "Massive Russian Attack Kills At Least 19, Devastates Pryluky Apartment Block",
+   "summary": "Russia launched a massive overnight missile and drone attack across Ukraine, killing at least 19 people. Strikes severely damaged a 5-story apartment building in the northeastern city of Pryluky and caused extensive damage to homes and infrastructure in Kremenchuk in the central Poltava region.",
+   "url": "https://www.rferl.org/a/massive-russian-attack-kills-at-least-19-devastates-pryluky-apartment-block/33872056.html",
+   "source": "RFE/RL",
+   "group": "Regional",
+   "published": "2026-10-07T11:06:48+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "0fb2ef2a97c0b1a1",
+   "title": "Congo-Kinshasa: Nduhungirehe, Kenyatta Discuss Peace Efforts for DR Congo",
+   "summary": "[New Times] Minister Foreign Affairs and International Cooperation Olivier Nduhungirehe on Tuesday, October 6, received former Kenyan President Uhuru Kenyatta, a member of the African Union Panel of Facilitators for the peace process in eastern DR Congo, for discussions on efforts to advance peace in the region.",
+   "url": "https://allafrica.com/stories/202610070338.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T11:06:39+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya",
+    "DR Congo"
+   ]
+  },
+  {
+   "id": "5d0d9e1cb9751d49",
+   "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+   "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T11:05:37+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "f0a3f908779c84f9",
+   "title": "October 7: Israelis mark three years since Hamas attacks",
+   "summary": "Israel is marking the third anniversary of the October 7, 2023, Hamas terrorist attack on Wednesday with memorials across the country. At the site of the Nova music festival, where more than 300 people were killed, families gathered at dawn for a moment of silence and paid tribute in front of portraits both of festival-goers and security forces who died on October 7.",
+   "url": "https://www.france24.com/en/video/20261007-october-7-israelis-mark-three-years-since-hamas-attacks",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T11:04:39+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "041645099108f6a3",
+   "title": "Millionaire tax no more? Rightwing groups lead effort to repeal Washington state law",
+   "summary": "An initiative on November’s ballot aims to overturn the 9.9% tax on earnings above $1m – who’s winning the fight? Voters in Washington state will soon decide the fate of the state’s so-called “ millionaire tax ” – a 9.9% income tax on earnings above $1m that was signed into law in March and is now facing a conservative-backed effort to repeal it. An initiative on November’s ballot aims to…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T11:00:09+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "05b2504acba1ab04",
+   "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+   "summary": "Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump The victory of the Parti Québécois in Monday’s election in Quebec might seem to bring its signature goal, of separating the French-speaking province from Canada, much closer – but Canadian unity may not be nearly as threatened as may first seem. The PQ’s victory was both impressive and…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T11:00:08+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Canada"
+   ]
+  },
   {
    "id": "5f10a6fb0eca5a2b",
    "title": "Gallagher Bassett buys second London shipping law firm in five months",
@@ -1651,6 +1762,22 @@
    "group": "Think tank",
    "published": "2026-10-07T07:30:15+00:00",
    "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "caa59460904b2464",
+   "title": "- IEA – International Energy Agency",
+   "summary": "IEA – International Energy Agency",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14dENzZEN1UXNpREJtM3g0SVNRMTNucktveXFUTk10U3gwSHFzelpia2xaZW5BRkFoa3AzTXNuQVRzUG0zV1VRNXc3cFJaVktqb2RHUnh5LTdMQVB3RURqVWJQcXNvNWZkemNMMGo1QQ?oc=5",
+   "source": "IEA News",
+   "group": "Energy",
+   "published": "2026-10-07T07:28:13+00:00",
+   "themes": [
+    "energy"
+   ],
    "regions": [
     "global"
    ],
