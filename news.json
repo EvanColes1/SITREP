@@ -1,6 +1,1131 @@
 {
- "updated": "2026-10-07T18:40:20.658679+00:00",
+ "updated": "2026-10-07T21:34:59.836475+00:00",
  "items": [
+  {
+   "id": "381669b3c8d672d9",
+   "title": "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions",
+   "summary": "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions    www.thompsonhinesmartrade.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMkQ4eWE3amlqRTE5aGx1T0VzaHlncXJFcHY2TmRBMEtlZ1VHRlprRENaQllrdVY0NVVKdkxRaW56djNZem5kTTE2b1kxV1pYUDlwVmdvcVI3TFUwRVpHNmlJa283ZHgtV3V0ZzBKT0FOWmtQbEpuMnJGYmNRSEVJeEZDTWs5Sm1abndfUDVlWDExSGNDMkdOd2NtXzIzUi15VW80aFVEb0xFV1FGR1k2QzF2eVBYdVU?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-07T21:32:59+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "bb18640fd9fc93fd",
+   "title": "Africa: World Cotton Day - The Real Value of Africa's Cotton Comes After the Harvest",
+   "summary": "[allAfrica] World Cotton Day should measure more than output. It should ask how much manufacturing, employment and African-owned value the continent creates from every bale it grows.",
+   "url": "https://allafrica.com/stories/202610070756.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T21:26:16+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": []
+  },
+  {
+   "id": "d5d19942d0f2e3ec",
+   "title": "GCC chief condemns Houthi attacks on Saudi airports",
+   "summary": "GCC chief condemns Houthi attacks on Saudi airports Gulf Cooperation Council (GCC) Secretary-General Jassim Mohammed al-Budaiwi condemned Houthi attacks on Saudi Arabia’s Abha and King Khalid airports, describing them as “systematic crimes” targeting civilians. Targeting civilian airports and “endangering the lives of travellers, workers and civilians represents a dangerous escalation and a…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-chief-condemns-houthi-attacks-saudi-airports",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T21:24:23+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "1833ee26b67ac399",
+   "title": "France suspends stun grenade use at student protests after pupil loses hand",
+   "summary": "France has suspended the use of stun grenades by police at student-led demonstrations, the interior minister said Wednesday, as allegations of police brutality mounted after days of sometimes violent demonstrations across the country. Tens of thousands of people took to the streets across France on Tuesday demanding better conditions in high schools. FRANCE 24's Monte Francis reports.",
+   "url": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T21:19:20+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "c29f17ea438441e7",
+   "title": "French PM vows to address debt despite student protests",
+   "summary": "French Prime Minister Sebastien Lecornu has tried to calm both student protesters and jittery bond markets. In an address to the nation, Lecornu stressed that the education ministry had not seen any cuts in last week's budget proposal, but insisted the government must cut its public deficit to 5%. There are growing concerns about France's spending and debt, with the IMF urging the country to \"get…",
+   "url": "https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T21:13:32+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "global"
+   ],
+   "countries": [
+    "France",
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "7208e2b9ca33c8e9",
+   "title": "Germany Blocks COSCO’s Acquisition of Domestic Freight Company",
+   "summary": "Germany’s federal government made official the decision to block the acquisition of a domestic freight forwarder and logistics company by the Chinese...",
+   "url": "https://maritime-executive.com/article/germany-blocks-cosco-s-acquisition-of-domestic-freight-company",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T21:10:49+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Germany",
+    "China"
+   ]
+  },
+  {
+   "id": "78679833fc5e029f",
+   "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+   "summary": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.",
+   "url": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T21:09:20+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific",
+    "africa"
+   ],
+   "countries": [
+    "Bangladesh",
+    "Australia",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "81962de482f94113",
+   "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
+   "summary": "Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title.",
+   "url": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T21:08:59+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "dacb02f7f32fde1c",
+   "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+   "summary": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T21:06:46+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b2143a750c30bb38",
+   "title": "What is the pneumonic plague?",
+   "summary": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.",
+   "url": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+   "source": "NPR World",
+   "group": "World news",
+   "published": "2026-10-07T21:06:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "4f5afb6271edcb2e",
+   "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
+   "summary": "People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive Ahmed Ishtaiwi has six chairs. They are cheap and plastic and battered, but they are among the 43-year-old driver and mechanic’s most valuable possessions. Continue reading...",
+   "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T21:00:01+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "d9c8b2c1e8e3e475",
+   "title": "Labour Send changes at risk as parents rush to secure support, say experts",
+   "summary": "Overhaul of special education in England could unravel, thinktank finds, because of ‘use it before you lose it’ dynamic Labour’s flagship changes to special education in England are at risk of unravelling because parents are rushing to secure support for their children before the system changes, new analysis has found. The Institute for Government (IfG) thinktank says the government’s plans to…",
+   "url": "https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T21:00:00+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "3cbbcc9ef61dceb5",
+   "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
+   "summary": "Electrification has become the focus of global climate talks as COP31 draws closer. We already have the technologies to transition away from direct consumption of fossil fuels and toward electricity in our vehicles, homes, businesses, and industry – it is now just a matter of scaling those technologies and doing it at an unprecedented pace, supported by strong policy measures from global…",
+   "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Pushes-25-Countries-Into-New-Electrification-Policies.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-07T21:00:00+00:00",
+   "themes": [
+    "conflict",
+    "climate",
+    "energy"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "3a5ae6191a6a8c8f",
+   "title": "Texas set to carry out first US execution since botched lethal injection of Christa Pike",
+   "summary": "Jamaal Howard’s lawyers urge halt, citing risk of another failed execution after Pike’s ordeal in Tennessee Texas on Wednesday is scheduled to carry out the first execution in the US after the the botched lethal injection of Christa Pike in Tennessee last week. Lawyers for Jamaal Howard, a Texas man on death row for capital murder, are seeking to halt the execution, arguing there are similar…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T20:58:51+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "fff5d30fadbfa949",
+   "title": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
+   "summary": "Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis ‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election María del Carmen Abascal, the 87-year-old whose eviction set off a nationwide wave of protests against Spain’s housing crisis, has died. News of her death came two weeks after…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T20:57:51+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "7426171c3503be8d",
+   "title": "Inside SpaceX’s new look for AI data centres in orbit",
+   "summary": "Inside SpaceX’s new look for AI data centres in orbit",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T20:54:43+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "15df7cd5aae57372",
+   "title": "At least three killed and dozens injured as Houthis strike Saudi airports",
+   "summary": "At least three killed and dozens injured as Houthis strike Saudi airports Submitted by Sean Mathews on Wed, 10/07/2026 - 21:02 Strikes underscore the kingdom's air defence vulnerabilities as Pakistan and Turkey prepare to send more troops and equipment Fighters loyal to the Houthi authorities take part in a rally in Sanaa, Yemen, on 7 October 2026 (Mohammed Huwais/AFP) Off At least three people…",
+   "url": "https://www.middleeasteye.net/news/least-three-killed-and-dozens-injured-houthis-strike-saudi-arabian-airports",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T20:51:33+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Yemen",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "852aba6fb865f208",
+   "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+   "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+   "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T20:51:00+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "98f925e8dbee511a",
+   "title": "WHO says it does not have ‘full picture’ from Russia following suspected plague death",
+   "summary": "‘Transparent information sharing’ from Moscow is required to conduct full risk assessment, UN agency says The World Health Organization has said it does not have the “full picture” from Russia following the suspected death from plague last week of a 28-year-old laboratory worker in Siberia. Darya Shipilova died two days after falling ill with cold-like symptoms . She was an employee at the…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T20:46:07+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "3658f4401276cde1",
+   "title": "Africa joins the data center backlash",
+   "summary": "In tonight's edition, witnesses say Eritrean troops have moved into Ethiopia's Tigray region, but Asmara rejects the reports. Also, the African Union launches the Africa Credit Rating Agency, aiming to assess the financial health of African states and companies. And South African civil society is pushing back against the expansion of data centres that require vast amounts of electricity, water…",
+   "url": "https://www.france24.com/en/africa-joins-the-data-center-backlash",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T20:37:55+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia",
+    "Eritrea",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "3fa37c69446ac94e",
+   "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
+   "summary": "President floats firing Chris LaCivita and James Blair over any ‘conflict’ after reports of work in Republika Srpska Donald Trump distanced himself from two top advisers on Wednesday, claiming he did not have “any idea who else they work for”, after it was reported they spent the weekend assisting a pro-Russia government in the Balkans. On Truth Social, Trump wrote that Chris LaCivita , the…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T20:31:37+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Bosnia and Herzegovina",
+    "United States"
+   ]
+  },
+  {
+   "id": "211d07ee70f526f5",
+   "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+   "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+   "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T20:29:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Germany",
+    "China"
+   ]
+  },
+  {
+   "id": "b3d32738b156edc8",
+   "title": "US Republicans, independents express low trust in election integrity: Poll",
+   "summary": "A Gallup survey highlights a deep – and historic – partisan divide over confidence in the country's elections.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T20:27:47+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "40177e5e0c6be758",
+   "title": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
+   "summary": "Authorities say they arrested an 18-year-old who was planning a shooting attack at the Mall of America FBI officials stopped a potential terrorist attack on the Mall of America in Bloomington, Minnesota, authorities announced Wednesday. An 18-year-old was arrested on one count of obtaining a firearm to carry out an act of terrorism. Sheikhdoon Abdullahi Mohamud had been investigated over the last…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T20:27:27+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "515b2afcafd91fd9",
+   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+   "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T20:27:03+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "507f4a5183745c83",
+   "title": "UKMTO reports casualties as projectiles hit tanker off Qatar",
+   "summary": "UKMTO reports casualties as projectiles hit tanker off Qatar A tanker was struck by multiple projectiles in an incident 51 nautical miles north of Qatar's Madinat ash Shamal, with casualties reported, the United Kingdom Maritime Trade Operations agency said on Wednesday. UKMTO WARNING 158-26 Click here to view the full product⤵️ https://t.co/eljQkk03bG #MaritimeSecurity #MarSec…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-casualties-projectiles-hit-tanker-qatar",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T20:22:57+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "8d239c241ab640ea",
+   "title": "Arizona congressional candidate says she was raped while trying to repair campaign sign",
+   "summary": "Bernadette Greene-Placentia says she is sharing her story in order to fight for victims of sexual assault This article contains graphic descriptions of sexual assault. A congressional candidate in Arizona says she was attacked and raped in August while trying to repair one of her damaged campaign signs. Information and support for anyone affected by rape or sexual abuse issues is available from…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/bernadette-greene-placentia-house-candidate-allegedly-raped",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T20:21:59+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "44decb9aed49b334",
+   "title": "Syria says it will not get involved in Yemen war",
+   "summary": "Syria says it will not get involved in Yemen war Syria’s information ministry has ruled out the possibility of Damascus getting involved in the Yemen war, saying “Syria’s policy in the region is focused on stability, peace and cooperation, not opening new fronts.” \"Syria’s position is clear: we stand firmly with Saudi Arabia against threats to its security and stability,\" the ministry said in a…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-says-it-will-not-get-involved-yemen-war",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T20:19:25+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Syria",
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "c6d0aa92b0d71edb",
+   "title": "France schools protests: more than 6,000 arrested since start of demonstrations",
+   "summary": "After more than two weeks of high school protests across France, police have arrested a total of 6,100 individuals, the majority of whom are minors who, until now, had no previous criminal record. So, what has happend to these students, and what lies ahead for them? FRANCE 24's Caitlin Brown has more.",
+   "url": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T20:17:55+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "83fa5a0cd2c72204",
+   "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+   "summary": "Former British consul Vincent Fean says Israel is acting unlawfully by demanding the UK close its consulate.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T20:17:27+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Israel"
+   ]
+  },
+  {
+   "id": "8de5a67dd5e6f6c8",
+   "title": "Evicted pensioner who sparked Spain housing protests dies: tenant union",
+   "summary": "Maricarmen ​Abascal, the 87-year-old woman whose eviction sparked housing ​protests in Spain, has died, Madrid's tenants' union said on Wednesday. Abascal's eviction sparked a series of ​protests ‌across Spain in the past couple ⁠of weeks, including activists camping on one of Madrid's main ‌squares, and calls for tackling a ⁠mounting housing crisis. FRANCE 24's Sarah Morris reports from Madrid.",
+   "url": "https://www.france24.com/en/evicted-pensioner-who-sparked-spain-housing-protests-dies-tenant-union",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T20:14:40+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France",
+    "Spain"
+   ]
+  },
+  {
+   "id": "08b5547fc62d525c",
+   "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
+   "summary": "FCC commissioner warns against AI robocalls, citing risks of misinformation before crucial midterm elections.",
+   "url": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T20:14:35+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "fa84e392925e5dda",
+   "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
+   "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
+   "url": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-07T20:10:00+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "03cfda2bb5fda855",
+   "title": "Shots Fired at Chinese Containership in the Red Sea",
+   "summary": "There were reports of a new incident in the southern Red Sea early on Wednesday, October 7, although the details are unclear and there were no claims...",
+   "url": "https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T20:03:32+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "d14f86732a38ed1b",
+   "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+   "summary": "Global fuel stocks are tighter than they have probably ever been. China just imposed a ban on all fuel exports for the month. Russia has had a diesel export ban in place for months. The United States threatened Europe with a diesel export ban unless European countries released some fuel from storage. The current crisis is increasingly about fuels, and everyone is prioritizing their own needs. The…",
+   "url": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-07T20:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "460ab05170372594",
+   "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
+   "summary": "The Catholic Church in Australia has been marred by abuse allegations in recent years.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T19:57:14+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "844e40b46e8583a3",
+   "title": "With US backing, a democratic breakthrough in Venezuela may be within reach",
+   "summary": "Venezuela is showing cautious signs of political opening, but democratic transition is still far from guaranteed. The post With US backing, a democratic breakthrough in Venezuela may be within reach appeared first on Atlantic Council .",
+   "url": "https://www.atlanticcouncil.org/dispatches/with-us-backing-a-democratic-breakthrough-in-venezuela-may-be-within-reach/",
+   "source": "Atlantic Council",
+   "group": "Think tank",
+   "published": "2026-10-07T19:54:12+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "0e5492a0d0f85df6",
+   "title": "Tanker Hit Multiple Times in Arabian Gulf, Casualties Reported",
+   "summary": "The Royal Navy's maritime security tracking office, UK Maritime Trade Operations, has released a report of a significant vessel attack in the middle...",
+   "url": "https://maritime-executive.com/article/tanker-hit-multiple-times-in-arabian-gulf-hundreds-of-miles-from-hormuz",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T19:52:28+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "debe98dce888cf39",
+   "title": "'It's still unclear whether Netanyahu will pay for what happened during his time in office'",
+   "summary": "As Israel marks the third anniversary of the October 7 attacks, questions linger about the warnings Prime Minister Benjamin Netanyahu received about them. Speaking with FRANCE 24's Mark Owen, Ayala Panievsky, Lecturer at City University of London and author of The New Censorship, explains that the allegations in the run-up to the elections \"are very damaging for Netanyahu but there are some…",
+   "url": "https://www.france24.com/en/it-s-still-unclear-whether-netanyahu-will-pay-for-what-happened-during-his-time-in-office",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T19:52:06+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "France",
+    "Israel"
+   ]
+  },
+  {
+   "id": "393ca35479a0f339",
+   "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
+   "summary": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
+   "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-07T19:50:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "c1446cbd56daaaae",
+   "title": "Southern right whales return to South Africa, drawing crowds to the coast",
+   "summary": "Southern right whales return to Hermanus, South Africa, drawing crowds to the cliffs and whale festival as mothers nurse newborn calves in Walker Bay.",
+   "url": "https://www.euronews.com/video/2026/10/07/southern-right-whales-return-to-south-africa-drawing-crowds-to-the-coast",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T19:45:58+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "331d32f0d5edd478",
+   "title": "Houthi forces appear to make slow advance in south-west Yemen",
+   "summary": "Group’s fighters hit key airport in Aden with explosive moments before plane from Cairo was due to land Houthi forces appeared to be making slow advances on Wednesday in south-west Yemen, approaching the city of Taiz and firing a missile and an explosive towards the airport in Aden, the chief international hub of the Saudi-backed government. The explosive hit the key airport moments before a…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T19:45:47+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "9c9130e920dac06e",
+   "title": "White House promotes 'Trump TV' with an AI-altered photo",
+   "summary": "The White House has promoted “Trump TV” using an AI-altered photo of passengers apparently watching the president’s new streaming channel. But the image was originally posted online in February 2023, showing passengers watching the NFL Super Bowl, with one watching the film “Hitch”. The original photo was modified using AI to make it appear the passengers were watching Trump TV. The post did not…",
+   "url": "https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T19:45:24+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e49f7de18817d320",
+   "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+   "summary": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T19:40:07+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "39709a07dfb778e2",
+   "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
+   "summary": "Lithuania and Canada were also pressured to withdraw, and days before #Disinfo2026, logos were wiped off website The Trump administration pressured multiple countries to withdraw their sponsorship of a leading European conference on disinformation, with Canada, Lithuania and the EU’s diplomatic service subsequently agreeing to do so, the Guardian understands. The conference, #Disinfo2026, taking…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T19:38:24+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Lithuania",
+    "European Union",
+    "United States",
+    "Canada"
+   ]
+  },
+  {
+   "id": "e1240fba1cc5defb",
+   "title": "Hegseth tells USS Lincoln sailors controversial deployment ‘wasn’t easy’",
+   "summary": "Pentagon chief tries to play down problems onboard carrier as it returns to dock after 260 days at sea without port call Pete Hegseth, the US defense secretary, told service members on the USS Abraham Lincoln on Wednesday that their deployment “wasn’t easy” as the carrier prepares to dock after spending over 260 consecutive days at sea without a port call, setting a navy record. For months, there…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/07/pete-hegseth-uss-abraham-lincoln",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T19:32:50+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f167e3634d7d66ed",
+   "title": "EU countries agreed oil stock releases be done under IEA's decision, EU spokesperson says",
+   "summary": "EU countries agreed oil stock releases be done under IEA's decision, EU spokesperson says European Union countries agreed that any release of oil stocks should be done under the International Energy Agency's March stock release action, a European Commission spokesperson said on Wednesday. The EU's energy task force held a call on Wednesday, gathering EU member states to discuss the result of a…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-countries-agreed-oil-stock-releases-be-done-under-ieas-decision-eu",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T19:29:31+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "European Union"
+   ]
+  },
+  {
+   "id": "25573c4e5565258b",
+   "title": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
+   "summary": "Maricarmen ​Abascal, the 87-year-old woman whose eviction sparked housing ​protests in Spain, has died, Madrid's tenants' union said on Wednesday. Massive protests following Abascal's eviction spiralled into a political crisis, eventually leading Prime Minister Pedro Sanchez to call a snap election.",
+   "url": "https://www.france24.com/en/europe/20261007-evicted-pensioner-maricarmen-abascal-heart-of-spain-housing-protests-has-died",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T19:19:07+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "e07dfe67978f4a46",
+   "title": "Two men serving indefinite jail sentences freed after two decades",
+   "summary": "Convicted pair, plus third man released in August, have IPPs replaced after serving much longer than minimum terms Two men jailed with indefinite sentences for public protection (IPPs) have been freed after each serving about two decades in custody despite receiving minimum terms of two years or less. A high court judge and a magistrate hearing an appeal after a review by the Criminal Cases…",
+   "url": "https://www.theguardian.com/law/2026/oct/07/two-men-freed-indefinite-sentences-for-public-protection-ipp",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T19:16:24+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4bb92da0d9f0a672",
+   "title": "Pistiolis doubles down at GSI with four more MRs",
+   "summary": "Evangelos Pistiolis-led Top Ships is adding another four MR tanker newbuildings at Guangzhou Shipyard International, lifting its newbuilding pipeline in the segment to 14 ships. The New York-listed Greek owner has agreed to acquire four related-party special purpose companies holding contracts for 50,000 dwt eco, scrubber-fitted, Ice Class 1A product tankers scheduled for delivery between …",
+   "url": "https://splash247.com/pistiolis-doubles-down-at-gsi-with-four-more-mrs/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-07T19:13:00+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Greece"
+   ]
+  },
+  {
+   "id": "d157b2aa2bd49c0a",
+   "title": "US approves over $2bn in weapons sales to Egypt, Kuwait and UAE",
+   "summary": "US approves over $2bn in weapons sales to Egypt, Kuwait and UAE Submitted by MEE staff on Wed, 10/07/2026 - 18:46 Egypt approved the purchase of Javelin anti-tank missiles while Kuwait purchases repair services for Patriot batteries, and UAE eyes laser-guided missile kits Egyptian army tanks are deployed along the border with the Gaza Strip in el-Arish, in the north Sinai Peninsula, on 4 July…",
+   "url": "https://www.middleeasteye.net/news/us-approves-over-2bn-weapons-sales-egypt-kuwait-and-uae",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T19:10:19+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Palestine",
+    "United Arab Emirates",
+    "Kuwait",
+    "Egypt",
+    "United States"
+   ]
+  },
+  {
+   "id": "e2d3858fd08c4363",
+   "title": "Trump says 'we don't think' Russian plague is bio-weapon",
+   "summary": "US President Donald Trump said Wednesday that the death of a Russian plague laboratory worker did not appear to be linked to a biological weapon. \"We don't think so. We're going to find out soon enough, but we don't think so,\" Trump told reporters in the Oval Office when asked if a \"bio-weapon\" was involved. Russia warned earlier against \"false\" information as reports emerged of a second…",
+   "url": "https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T19:04:48+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "537c0d6d4ef6b28b",
+   "title": "MARAD, TOTE and Hanwha Philly Finalize Deal to Build MDA's Tracking Ships",
+   "summary": "U.S. maritime conglomerate TOTE has accepted a contract with MARAD to manage the Missile Range Instrumentation Vessel (MRIV) project, a three-ship ser...",
+   "url": "https://maritime-executive.com/article/marad-tote-and-hanwha-philly-finalize-deal-to-build-mda-s-tracking-ships",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T19:04:45+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "7049908f40798483",
+   "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+   "summary": "Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada’s federal government said Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing euthanasia, an effort by the ruling Liberal party to address a clash in the country over who has access to physician-assisted death.…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T19:00:44+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "554ee30d89691e3e",
+   "title": "Charai for Newsmax: Wage War on Terrorism Within: Follow the Money, Share Intelligence",
+   "summary": "The post Charai for Newsmax: Wage War on Terrorism Within: Follow the Money, Share Intelligence appeared first on Atlantic Council .",
+   "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-newsmax-wage-war-on-terrorism-within-follow-the-money-share-intelligence/",
+   "source": "Atlantic Council",
+   "group": "Think tank",
+   "published": "2026-10-07T19:00:16+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f2e8a4a9aa935019",
+   "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
+   "summary": "Google/Alphabet (NASDAQ:GOOG) says it has contracted 3,590 megawatts of power from Constellation Energy (NASDAQ:CEG) in the largest US power grid, PJM Interconnection, which serves 67 million people across 13 states and Washington, D.C. New nuclear energy will account for about a quarter of that supply, or 890 megawatts. Artificial intelligence and data center expansion have drastically increased…",
+   "url": "https://oilprice.com/Energy/Energy-General/Google-Secures-890-MW-Of-Nuclear-Power-from-Constellation-Energy.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-07T19:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ea6485bacb302e47",
+   "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
+   "summary": "Rabbi Dov Lando's comments expose tensions over Zionism, conscription and Netanyahu's ultra-Orthodox allies.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T18:57:18+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "1182eb840dcf53d5",
+   "title": "Saudi Arabia says three dead at airports after Houthis claim attacks",
+   "summary": "Saudi Arabia says three dead at airports after Houthis claim attacks Saudi authorities said on Wednesday that three people were killed in attacks on two of the kingdom's international airports, including in the capital, Riyadh, after Yemen's Houthis claimed to have fired on both transport hubs. The Iran-aligned Houthis took responsibility earlier for a flurry of attacks that included firing a…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-three-dead-airports-after-houthis-claim-attacks",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T18:54:42+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "ffe989559a8519e5",
+   "title": "Opinion: Why Hamas believed the status quo was more dangerous than its 7 October gamble",
+   "summary": "Opinion: Why Hamas believed the status quo was more dangerous than its 7 October gamble The events of 7 October cannot be understood outside the long history of  Palestinian  dispossession, occupation, siege and struggle. They cannot be examined seriously by beginning with the premise that Palestinians must justify their right to resist a system that has dispossessed them for generations. That…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-why-hamas-believed-status-quo-was-more-dangerous-its-7-october",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T18:52:25+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "508fb7e41be8ce2e",
+   "title": "West and Central Africa Funding Update as of 30 September 2026 - UNHCR",
+   "summary": "West and Central Africa Funding Update as of 30 September 2026    UNHCR - The UN Refugee Agency",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXVtVkVZcTFFTnNNWkdQQXNKX1VBV1djcDZXV1lFbXVkRzJpb21zZkJFVlg2UWFKMzkyOVFHajk5S2I5MDBFTUgwZjBZRF9wSFNkbnZTRVVUU0dUMDFYZW5BWkZ6VmJDSVRvNkhwYW1zcjVIaGgwZE40aG4tc0FwbTF0dEl6UXBQM1pzcDhCR01zMF9rVU9wWV9ncVBaNnIxbk1vUW1LTENGSmd2d3c?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-07T18:51:19+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f9101e698aad9c18",
+   "title": "Unexpected beach guest: Elephant seal draws crowds in Rio",
+   "summary": "A southern elephant seal surprised Rio’s Copacabana beachgoers, drawing crowds, photos and social media buzz as officials set up barriers to protect it.",
+   "url": "https://www.euronews.com/video/2026/10/07/unexpected-beach-guest-elephant-seal-draws-crowds-in-rio",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T18:44:57+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "84066a038b6c9b3f",
+   "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
+   "summary": "Eritrea dismisses allegation as Ethiopia's pretext for more war.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T18:43:47+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia",
+    "Eritrea"
+   ]
+  },
+  {
+   "id": "7e261970ecbead3c",
+   "title": "Programme Director – Global Economy and Finance",
+   "summary": "Programme Director – Global Economy and Finance    Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW5lU1FCb0J5a3BQLTc2ajlZQ0JZTWtPbG9vNTJsNnRNRXNlaGlrYVd4aDRjWTRIWm5vYm83QVVyM3hCNnhodzAxa3JKaXJlWVlzeG1mcFlrNVNzMU9QdHFTTjBGcU9iYnRsd1QyRzZjZmtIZ1NWOEdHRWtSVzRaZFZrWVNNZWlGTVQzWTduZW8tSTdzemc?oc=5",
+   "source": "Chatham House",
+   "group": "Think tank",
+   "published": "2026-10-07T18:35:54+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
   {
    "id": "8ea22a51bea78436",
    "title": "Sanctioned 22-Year-Old Non-Ice-Class Tanker Makes Rare Late-Season Arctic Voyage",
@@ -17,6 +1142,58 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "09d33497b141804f",
+   "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
+   "summary": "Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation.",
+   "url": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-07T18:35:00+00:00",
+   "themes": [
+    "conflict",
+    "cyber"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "1beb10aac6130885",
+   "title": "At least 24 killed as Russia launches massive attack on Ukraine",
+   "summary": "Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T18:32:08+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "8c81b420095112a8",
+   "title": "Kenya on high alert amid concern over screening after first Ebola death",
+   "summary": "Kenya’s government has intensified Ebola preparedness efforts amid growing concern over lapses in border screening.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T18:31:57+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
   },
   {
    "id": "b729d4f8cf8acf10",
@@ -70,6 +1247,30 @@
     "Russia",
     "Ukraine",
     "South Korea"
+   ]
+  },
+  {
+   "id": "89a9d3fa3351f15d",
+   "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
+   "summary": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T18:29:34+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "africa"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen",
+    "Algeria",
+    "Morocco",
+    "Sudan"
    ]
   },
   {
@@ -285,6 +1486,44 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "6998f54d50106038",
+   "title": "Russia carried out sabotage against Danish defense firms, intelligence says",
+   "summary": "Russia carried out sabotage against Danish defense firms, intelligence says    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUdHOUpBdzdKQUp2ak5DV29hOWdseFY5TGk4WGRBV05CNjNOSGJab0MzTExWRGRxTzFEYXZrOHpzM3Y5WmRoUl9DYjdoRXdyN19yY1IyUFFsakpVQzJGbEo4bHFNRFhYNEZEUFgwTDVMaFZETmhmNEZQYWtQX2JSSWpFbEZQUGxqejRYcmhLb1JZRGlTS1habDJfdi1mV3dtVU52QzRn?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-07T17:55:54+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "Denmark"
+   ]
+  },
+  {
+   "id": "e8bc02c552867b42",
+   "title": "US Drops Three Pakistan-Linked Men From Sanctions List After 20 Years",
+   "summary": "US Drops Three Pakistan-Linked Men From Sanctions List After 20 Years    IndiaWest",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUFqSURWV0RubXNGY19qdlk2cHNaMHhRSTZwU3JGNUN5WXFRaTFrdGJiVnF6cHJ5NlM0ZWVEeTd6eEprVUNBWWhpaVFwbFFETWZId3VUREctdlA2X240Sjcxc2hyRFdvOVRYdVYxYkI5TTh2dFc1a2tPLUV3N25Ra3A5cWZwMTNxQ2o4aDRzSTFIcXFRZEMw?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-07T17:52:35+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
   },
   {
    "id": "d749f22b53055a87",
@@ -1744,6 +2983,24 @@
    ],
    "countries": [
     "United Kingdom"
+   ]
+  },
+  {
+   "id": "c09b266193112aac",
+   "title": "‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds",
+   "summary": "Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The drastic land use changes wreaked by colonisation created a “catastrophic wildfire loop” that rendered south-east Australia more susceptible to…",
+   "url": "https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T15:00:53+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
    ]
   },
   {
@@ -6313,6 +7570,24 @@
    ]
   },
   {
+   "id": "c0e1c2a56a6dc357",
+   "title": "Document - UNHCR CHAD Newsletter #01_2026",
+   "summary": "Document - UNHCR CHAD Newsletter #01_2026    UNHCR Operational Data Portal",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nckk4SERUZGRDNEZ2S0dNNm9GdWVCLUJZdmV0dnF0UFJqUmpPU0pjYkd0Rjc3c0FvLVVGVjVhbThHa0ZYa1ZTM2hBODh5enJTMUxsWFYwUXdsMGpDRS1z?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-07T05:47:46+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Chad"
+   ]
+  },
+  {
    "id": "d97174b2c500d323",
    "title": "Lionel Messi scores as Argentina beat Benin for his last international game",
    "summary": "Lionel Messi played his final match for Argentina, a 3-0 victory over Benin. A full tribute was paid to him before and after the match.",
@@ -10514,6 +11789,24 @@
    ]
   },
   {
+   "id": "4c2837381f9b6ca4",
+   "title": "Somalia Funding Update as of 30 September 2026 - UNHCR",
+   "summary": "Somalia Funding Update as of 30 September 2026    UNHCR - The UN Refugee Agency",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDhybWRtSkNYQ0o0M3hMZ08xd3l5MUl3a1JTektfOTh0NndyTFJUZC1tS0ltTDBsUVRmeTZlZFBjZ3RlckJkaExSQy1PT0VLa2UzTG94Qk1zRmtwS0FCX1UweFBsVUdLVTJwd2N3MlR2MjlxVlktaGlBXzA2QnRGTlB6R1N1aFBvUUlyUWNwLWJRQi1pZlZoWg?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-06T17:17:51+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Somalia"
+   ]
+  },
+  {
    "id": "b4254fd6767c2b43",
    "title": "Finland orders halt to work on two Google data centres",
    "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
@@ -10891,6 +12184,24 @@
    "countries": [
     "Russia",
     "United Kingdom"
+   ]
+  },
+  {
+   "id": "9f5f2712ec612984",
+   "title": "Document - UNHCR CHAD| CORE Situation d'urgence des Réfugiés Soudanais (05 oct. 2026)",
+   "summary": "Document - UNHCR CHAD| CORE Situation d'urgence des Réfugiés Soudanais (05 oct. 2026)    UNHCR Data Portal",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvT0FIQU1SdG04amVpdmkzQW9jMTRxeTBPeFJCbVlJd1RmaXdSVDJraWUwWXVWejVRc0JWQVZKaHNNcEdJRGktcVNNT05ZYTBlREcxZVRwSTBNaDVvSW9B?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-06T16:11:18+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Chad"
    ]
   },
   {
@@ -22974,6 +24285,22 @@
    "countries": []
   },
   {
+   "id": "f030327827016e77",
+   "title": "Hydropower electricity generation in selected countries of Latin America and the Caribbean, 2025 - IEA",
+   "summary": "Hydropower electricity generation in selected countries of Latin America and the Caribbean, 2025    IEA - International Energy Agency",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQk1NUFd4VzVkWkVsdGQyR1pFRW1XcndKZjZVN002cnNKMzl2SC1iWFZnekk2WUJyME5uVDZCYU96ZjBULWpNT0lHUWNDakV4b1FVVDczTmdGWjRMWFRBclJTMmtBT05aOC1aVEdPLVp2M0lmaWd5NEduWktsMGZEaXVSeHFKSGNfeUJaSFBQSlB5ejI2Rnd0SkZ0WWhpM2lrWllVbFZ1YXZTM3JWTEtDcm5ncUxRTDZQZVZxMEppdXBEMkUwS3E2NHpXZThQZTFiY2xHRlRYVWxFZw?oc=5",
+   "source": "IEA News",
+   "group": "Energy",
+   "published": "2026-09-29T07:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
    "id": "41f5e99cefd38ec4",
    "title": "Head Start Changes Would Harm Dual Language Learners and Their Families",
    "summary": "The Trump administration's proposed changes to Head Start, which include a mandate for English-only instruction, threaten Dual Language Learners (DLLs), who comprise one-third of all enrollees.",
@@ -23180,6 +24507,25 @@
    ],
    "countries": [
     "Turkey"
+   ]
+  },
+  {
+   "id": "fcf9329f5cbc2950",
+   "title": "Document - UNHCR Romania Ukraine Refugee Situation Update - 28 September 2026",
+   "summary": "Document - UNHCR Romania Ukraine Refugee Situation Update - 28 September 2026    UNHCR Data Portal",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02clB5a2ZtQXFwdDN2VHg3d082RGJTYjhJS1FzOW9OYktDcjloa2dUR3pRTDAzcnNBQXJ1LW5sWEVtWGlKZ0pqTFhoZXF2SGRQbzdrbmRzcVcyT0s1ZDhZ?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-09-28T16:31:25+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine",
+    "Romania"
    ]
   },
   {
@@ -24637,30 +25983,6 @@
     "global"
    ],
    "countries": []
-  },
-  {
-   "id": "c11540c832510cb4",
-   "title": "Building a multilateral cognitive warfare defense network: A collaborative framework for the United States, Japan, and Taiwan",
-   "summary": "Beijing is pressuring Japan, South Korea, Taiwan, and the Philippines not only with ships and aircraft but also in the cognitive domain—which no multilateral mechanism defends. This report explores what it would take to build a coordinated multilateral defense network to combat this threat across the first island chain. The post Building a multilateral cognitive warfare defense network: A…",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/building-a-multilateral-cognitive-warfare-defense-network/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-23T19:55:18+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "China",
-    "Taiwan",
-    "Japan",
-    "South Korea",
-    "Philippines",
-    "United States"
-   ]
   }
  ]
 }
