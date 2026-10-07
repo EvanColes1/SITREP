@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-07T11:20:48.305962+00:00",
+ "updated": "2026-10-07T11:21:24.356767+00:00",
  "items": [
+  {
+   "id": "2804f09d41e19bd7",
+   "title": "Freddie Jackson, romantic US singer with 10 R&B chart-toppers, dies aged 70",
+   "summary": "Celebrated for his earnest, dextrous voice, Jackson crossed into the pop charts with the hits Rock Me Tonight (For Old Times Sake) and You Are My Lady Freddie Jackson, the US singer whose smooth and romantic take on R&B found a huge audience in the 1980s, has died aged 70. A statement from his family on social media reads: “Freddie was more than a legendary voice. He was a kind, generous soul who…",
+   "url": "https://www.theguardian.com/music/2026/oct/07/freddie-jackson-romantic-us-singer-with-10-r-and-b-chart-toppers-dies-aged-70",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T11:14:56+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "6660d4cdb5b69116",
+   "title": "Ukraine accuses Russia of bombing apartment block as birthday gift for Putin",
+   "summary": "Building in Pryluky destroyed killing nine people including three children night before Russian president’s 74th birthday Volodymyr Zelenskyy has accused Russia’s military of deliberately killing civilians and bombing residential buildings as a macabre gift for Vladimir Putin, who celebrates his 74th birthday on Wednesday. Ukraine’s president described Russia’s overnight drone and missiles…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T11:14:24+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
   {
    "id": "4931d09bf56a0364",
    "title": "Massive Russian Attack Kills At Least 19, Devastates Pryluky Apartment Block",
@@ -149,6 +185,24 @@
    ]
   },
   {
+   "id": "f00683499ec29ec9",
+   "title": "US sets new demands for Iran deal: What are they?",
+   "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T10:58:23+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
    "id": "aee575ff61bb7224",
    "title": "France suspends stun grenade use at student protests ahead of PM speech",
    "summary": "France has suspended the use of stun grenades by police at student-led demonstrations, the interior minister said Wednesday, as allegations of police brutality mounted after days of sometimes violent demonstrations across the country. Tens of thousands of people took to the streets across France on Tuesday demanding better conditions in high schools. That same evening, President Emmanuel Macron…",
@@ -202,6 +256,22 @@
     "France",
     "Israel"
    ]
+  },
+  {
+   "id": "c88735e1c714259c",
+   "title": "Girl pleads for world leaders to save her country from climate change",
+   "summary": "A 13-year-old girl has called on world leaders to act on climate change and save her country, Tuvalu.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T10:55:05+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "8b3183e7286ef1bd",
