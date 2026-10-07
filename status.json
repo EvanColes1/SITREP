@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-07T03:33:28.950505+00:00",
+ "updated": "2026-10-07T03:34:57.660673+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 7,
+   "new": 2,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
@@ -201,15 +201,15 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "520 Server Error: <none> for url: https://therecord.media/feed"
   },
   {
    "name": "UNHCR News",

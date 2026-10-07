@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T03:33:28.950505+00:00",
+ "updated": "2026-10-07T03:34:57.660673+00:00",
  "items": [
   {
    "id": "524ad40a4ab80732",
@@ -15,6 +15,26 @@
    ],
    "countries": [
     "Australia"
+   ]
+  },
+  {
+   "id": "33b77fb1cc475bab",
+   "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+   "summary": "India's Foreign Ministry says 11 out of 12 injured crew members on board the On Peace are Indian nationals.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T03:16:32+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Oman",
+    "India"
    ]
   },
   {
@@ -34,6 +54,22 @@
     "United Kingdom",
     "Israel",
     "Palestine"
+   ]
+  },
+  {
+   "id": "b923ad2aa64496fb",
+   "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
+   "summary": "Lionel Messi played his final game for Argentina in a friendly against Benin, ending a 21-year international career.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T03:03:16+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Argentina"
    ]
   },
   {
