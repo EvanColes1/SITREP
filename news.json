@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:03:45.052229+00:00",
+ "updated": "2026-10-07T11:04:47.319474+00:00",
  "items": [
   {
    "id": "5f10a6fb0eca5a2b",
@@ -527,6 +527,20 @@
    "countries": [
     "South Africa"
    ]
+  },
+  {
+   "id": "979eef5a0d616040",
+   "title": "Africa: Africa's Non-Communicable Diseases Burden Continues to Rise, Latest Study Finds",
+   "summary": "[Africa CDC] A 2026 Lancet Global Health analysis using Global Burden of Disease (GBD) 2023 data finds that non-communicable diseases (NCDs) are accounting for a growing share of Africa's health burden.",
+   "url": "https://allafrica.com/stories/202610070280.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T10:18:22+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": []
   },
   {
    "id": "c7eb27aa06e7cee6",
