@@ -1,6 +1,504 @@
 {
- "updated": "2026-10-06T21:32:45.449143+00:00",
+ "updated": "2026-10-07T00:44:05.136035+00:00",
  "items": [
+  {
+   "id": "dfaf20de5e363c11",
+   "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+   "summary": "The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T00:35:57+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "3840c118563a1dc2",
+   "title": "After Russian Threats, Macron Puts Nuclear Deterrent at the Forefront",
+   "summary": "The administration of French President Emanuel Macron is putting new emphasis on France's nuclear deterrent, and specifically on its nuclear ballistic...",
+   "url": "https://maritime-executive.com/article/after-russian-threats-macron-puts-nuclear-deterrent-at-the-forefront",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T00:27:28+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "France"
+   ]
+  },
+  {
+   "id": "8bbd75c8f13ae11c",
+   "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+   "summary": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T00:26:47+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "e0fe510106ffa4e2",
+   "title": "Strikes reported in Yemen's Ibb, Taiz",
+   "summary": "Strikes reported in Yemen's Ibb, Taiz Saudi aircrafts bombed Mudhaykhirah district in Ibb and the Sharab district in Taiz early on Wednesday, according to media outlets associated with Yemen's Houthis.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strikes-reported-yemens-ibb-taiz",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T00:25:08+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "25b87eef33c3a74d",
+   "title": "Hunter Valley community group wins landmark high court climate change case",
+   "summary": "Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group says A Hunter Valley community group has won Australia’s first high court case to consider climate change, in a ruling advocates say sets a binding national precedent for fossil fuel projects in New South Wales. In a landmark judgment, the nation’s highest…",
+   "url": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T00:20:29+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Australia"
+   ]
+  },
+  {
+   "id": "3b0c1e068a471999",
+   "title": "South Sudan’s aid crisis deepens as food stocks run low",
+   "summary": "More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T00:13:59+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan",
+    "South Sudan"
+   ]
+  },
+  {
+   "id": "e772bf23c8e17c13",
+   "title": "French mayor tear-gassed after shielding protesters from police",
+   "summary": "Saint-Denis Mayor Bally Bagayoko was tear-gassed after shielding student protesters from riot police.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T00:10:56+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "1aef43ad81bdf015",
+   "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
+   "summary": "Latest model is launching in New York to target rich US buyers – and is more than 5.2 metres long and 2 metres wide It has no rear window, will not fit into a UK parking space and – starting at £130,000 – ($172,000) is aimed squarely at rich tech industry buyers driving the wide open roads of America. Jaguar’s electric car, the Type 01, was launched in New York on Tuesday night and marks the…",
+   "url": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T00:00:28+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United States"
+   ]
+  },
+  {
+   "id": "0d7635f654fdb20f",
+   "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+   "summary": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T00:00:00+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "def2859e261164cf",
+   "title": "Why $100 Oil Is Hard to Kill",
+   "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and even exceeded, pre-war levels. But if so much crude is leaving the Middle East again, why do Brent prices continue to hover around the $100…",
+   "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-07T00:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "869f80b2ed77ce6c",
+   "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
+   "summary": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart’s $89 smartglasses, following public outrage over the covert use of the…",
+   "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T23:58:23+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "1405e8f100a41d02",
+   "title": "Ghana: Two Dead, 14 Injured in Gunfire During Yam Festival At Nchiraa",
+   "summary": "[Ghanaian Times] Two people have died and 14 others, including a police officer, have sustained gunshot wounds following disturbances during the Yam Festival celebration at Nchiraa in the Wenchi Municipality of the Bono Region.",
+   "url": "https://allafrica.com/stories/202610060613.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-06T23:48:32+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ghana"
+   ]
+  },
+  {
+   "id": "ed99242932cda2ef",
+   "title": "Ghana: Education Ministry Salutes Ghanaian Teachers On World Teachers' Day",
+   "summary": "[Ghanaian Times] The Ministry of Education has congratulated teachers across Ghana as the country joins the rest of the world to celebrate World Teachers' Day 2026.",
+   "url": "https://allafrica.com/stories/202610060611.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-06T23:48:31+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ghana"
+   ]
+  },
+  {
+   "id": "8b3b9413c682bab1",
+   "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
+   "summary": "As Angelenos bemoan ‘sad situation’, those in San Diego say remark a ‘disservice’ to town with multiple naval bases Donald Trump’s extraordinary implication that Iran could “take out” Los Angeles and San Diego have sparked condemnation across the political spectrum. As residents of the two major west coast cities awoke on Tuesday to another sweltering day in a record-breaking heatwave, the…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T23:45:02+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "19ac3e8c03ca6e54",
+   "title": "Chemical Concerns Pause Plan to Dredge North Carolina Port Channel",
+   "summary": "Local media in North Carolina are reporting that concerns about potential so-called “forever chemicals” are causing the North Carolina State Ports Aut...",
+   "url": "https://maritime-executive.com/article/chemical-concerns-pause-plan-to-dredge-north-carolina-port-channel",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-06T23:44:10+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "2f411bafe18df417",
+   "title": "Two blasts reported nearby Aden International Airport",
+   "summary": "Two blasts reported nearby Aden International Airport Aljazeera is reporting two powerful explosions near the international airport in the southern port city of Aden.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-blasts-reported-nearby-aden-international-airport",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-06T23:42:28+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "61ba55cf28f6e92e",
+   "title": "Nigeria: NAF Crash - Can Demands Transparent Probe, Stronger Safety Measures",
+   "summary": "[Vanguard] The Christian Association of Nigeria (CAN) has condoled with the families of personnel killed in the Nigerian Air Force ATR-42 aircraft crash near Igbokoda, Ondo State, demanding a thorough and transparent investigation into the incident.",
+   "url": "https://allafrica.com/stories/202610060609.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-06T23:40:26+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "fdaf006fce6bf827",
+   "title": "Nigeria: Oil Spill Hits 216 Delta Communities, Fish Prices Rise",
+   "summary": "[Vanguard] Fish scarcity and rising prices have been reported in 216 communities affected by an oil spill along the Trans-Forcados Pipeline in Delta State, as Governor Sheriff Oborevwori ordered immediate medical checks for residents exposed to the pollution.",
+   "url": "https://allafrica.com/stories/202610060608.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-06T23:40:25+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "490df916ce86d2b1",
+   "title": "Smotrich calls for further annexations in Gaza and Lebanon",
+   "summary": "Smotrich calls for further annexations in Gaza and Lebanon Israeli Finance Minister Bezalel Smotrich called for Israel to permanently extend its sovereignty over territory held by Israeli forces in Gaza and Lebanon during an address at the National Conservatism Conference in Jerusalem.   \"That would demonstrate to our enemies the price of defeat and create a deterrent against future attacks on…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-calls-further-annexations-gaza-and-lebanon",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-06T23:37:54+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "9b44c5614f524f74",
+   "title": "Electric car bursts into flames at charging station in Turkiye",
+   "summary": "Turkiye’s first domestically produced electric SUV, the Togg T10X burst into flames at a charging station.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T23:33:33+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "3ac1cb24d11d2614",
+   "title": "Christa Pike regains consciousness after botched Tennessee execution attempt",
+   "summary": "Convicted murderer Christa Pike regained consciousness and began speaking Tuesday after surviving a botched execution by lethal injection. Pike, the first woman the state of Tennessee has attempted to put to death in 200 years, remains hospitalised with severe injuries to both arms.",
+   "url": "https://www.france24.com/en/americas/20261006-christa-pike-regains-consciousness-after-botched-tennessee-execution-attempt",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T23:30:18+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "6a98ffee31774b1b",
+   "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+   "summary": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last week The World Health Organization has said the risk of an epidemic in Russia is low after the sudden death of a lab technician who worked at a plague research institute in Siberia. Darya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she may have…",
+   "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T23:14:32+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "b40352b922c6905d",
+   "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
+   "summary": "Government report finds the country could be hit with more frequent and intense heatwaves, as well as damaging storms and cyclones New Zealand could be hit with more frequent and intense heatwaves and catastrophic glacier melts in the near future, as greenhouse gas levels hit record highs, a new report about the nation’s climate has revealed. Released on Wednesday, the Our Atmosphere and Climate…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T23:11:27+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "New Zealand"
+   ]
+  },
+  {
+   "id": "089812dff8a92012",
+   "title": "CMA CGM selects Wärtsilä 34DF Engines for 12 New Container Vessels",
+   "summary": "Technology group Wärtsilä will supply a total of 36 Wärtsilä 34DF dual fuel engines for 12 new 18,000 TEU container vessels being built for French op...",
+   "url": "https://maritime-executive.com/article/cma-cgm-selects-waertsilae-34df-engines-for-12-new-container-vessels",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-06T23:10:54+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "272a5ffef46faa5c",
+   "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+   "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+   "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T23:07:44+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4de7bad3af43983d",
+   "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
+   "summary": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
+   "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T23:05:38+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "297e9329f2d3763f",
+   "title": "FMC Threatens COSCO with Large Civil Penalty for Delayed Payment",
+   "summary": "The Federal Maritime Commission filed a Show Cause order at the end of last week against the Chinese-flagged carrier COSCO, which threatens the potent...",
+   "url": "https://maritime-executive.com/article/fmc-threatens-cosco-with-large-civil-penalty-for-delayed-payment",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-06T23:01:37+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f7b7b5807f6a4b7b",
+   "title": "Ikea to pilot online buyback service for secondhand furniture",
+   "summary": "Service to be tested in Spain and Portugal this year, with a UK rollout if successful, as pre-loved markets boom Ikea is to test an online version of its buy-back service where the retailer offers vouchers for unwanted secondhand furniture. The service will be tested in Spain and Portugal before the end of December and will be launched in the UK if it proves successful. Ikea already offers…",
+   "url": "https://www.theguardian.com/business/2026/oct/07/ikea-to-pilot-online-buyback-service-for-secondhand-furniture",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T23:01:26+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Spain",
+    "Portugal"
+   ]
+  },
+  {
+   "id": "fb9f125be8eb0c58",
+   "title": "Christa Pike lawyers say she is speaking one week after failed execution",
+   "summary": "The 50-year-old has regained consciousness and is receiving care nearly one week after being sent to the hospital.",
+   "url": "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T23:01:05+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
   {
    "id": "6e0d9cba0b20a021",
    "title": "Immigration and Integration Policymaking in a Shifting World: A Blue-Sky Conference to Mark MPI’s 25th Year",
@@ -16,6 +514,331 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "b9df54960de1f3d7",
+   "title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
+   "summary": "When Iran struck Qatar's Ras Laffan complex in March and knocked out 17% of the country's LNG export capacity, the trade seemed pretty straightforward. Buy the American exporters, sit back and wait for Europe and Asia to come knocking for cargoes that didn't need to sail through the Strait of Hormuz. Cheniere did exactly what everyone expected it to do, shipping more LNG than it did a year ago…",
+   "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-06T23:00:00+00:00",
+   "themes": [
+    "energy",
+    "maritime"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "Qatar",
+    "United States"
+   ]
+  },
+  {
+   "id": "34b353f71948f1a0",
+   "title": "Sarah Macdonald returns to ABC radio after being sacked in 2024",
+   "summary": "Manager who removed Macdonald announces she will replace the late James Valentine from March Get our breaking news email , free app or daily news podcast Two years after her shock axing, the ABC has backflipped and reinstated ABC Radio presenter Sarah Macdonald to Sydney’s local radio schedule, where she will replace the late James Valentine from March. The manager who had removed Macdonald…",
+   "url": "https://www.theguardian.com/media/2026/oct/07/sarah-macdonald-returns-abc-radio-james-valentine-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T22:59:14+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "ec311c55d166b7f1",
+   "title": "Trump says he will speak to Putin over reported plague death in Russia",
+   "summary": "US President Donald Trump said Tuesday he would speak “very soon” with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the World Health Organization pressed Moscow for greater transparency and clarity over conflicting accounts of the incident in Siberia.",
+   "url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T22:51:48+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "3bbee00e012d6348",
+   "title": "Iran's Central Bank says it has ‘no problem providing foreign currency’",
+   "summary": "Iran's Central Bank says it has ‘no problem providing foreign currency’ Iran’s Central Bank says Tehran supplied $2bn in foreign currency to the market, saying that the country has no shortage of foreign exchange, Iranian state broadcaster IRIB reported. “The reason we provided $2bn in foreign currency for the market was to make Trump and his Treasury secretary understand that we have no problem…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-central-bank-says-it-has-no-problem-providing-foreign-currency",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-06T22:41:35+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "bdcbe0108391cd4d",
+   "title": "Kosovo Elects President After Opposition Agrees To Last-Minute Deal",
+   "summary": "Parliament elected Justina Shiroka Pula as Kosovo's new president late on October 6 following a last-minute political deal that secured lawmakers' approval of legal changes restricting the powers of a Hague-based war crimes court.",
+   "url": "https://www.rferl.org/a/kosovo-elects-president-opposition-deal-war-crimes/33871583.html",
+   "source": "RFE/RL",
+   "group": "Regional",
+   "published": "2026-10-06T22:39:30+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Kosovo"
+   ]
+  },
+  {
+   "id": "364a55ec369d7c70",
+   "title": "Record high temperatures as southern California swelters under heatwave",
+   "summary": "Several cities shatter temperatures for time of year as extreme heat warnings in place along California coast An unprecedented heatwave has gripped southern California, boosting temperatures 15 to 20 degrees above normal for autumn. Monday was a notably sweltering day for several cities. Continue reading...",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/southern-california-heatwave-temperatures",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T22:38:50+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f0de806982da31ca",
+   "title": "Tropical depression in Gulf predicted to be Atlantic season’s first hurricane",
+   "summary": "First hurricane of the season has not formed this late since 1905 as scientists say possible US landfall on Saturday Tropical Depression Nine has been predicted to be the Atlantic season’s first hurricane and potentially the latest first hurricane to develop in over a century. The system was located Tuesday afternoon about 630 miles south-west of the mouth of the Mississippi River, with maximum…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/tropical-depression-gulf-hurricane",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T22:28:20+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "6adf613204882f5d",
+   "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+   "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+   "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T22:17:56+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fe9f94aae65f2149",
+   "title": "Three years after October 7, Israel is facing inward",
+   "summary": "A foiled flydubai attack has revived the sense of abandonment many Israelis felt almost exactly three years earlier. The post Three years after October 7, Israel is facing inward appeared first on Atlantic Council .",
+   "url": "https://www.atlanticcouncil.org/dispatches/three-years-after-october-7-israel-is-facing-inward/",
+   "source": "Atlantic Council",
+   "group": "Think tank",
+   "published": "2026-10-06T22:11:20+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "a414461989d68626",
+   "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+   "summary": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T22:07:44+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "73af366a57a9f30f",
+   "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+   "summary": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT. The US Department of Justice said Tuesday it had detained James…",
+   "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T22:06:04+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Canada"
+   ]
+  },
+  {
+   "id": "90f1f0412365a1fa",
+   "title": "Saudi-led coalition says it intercepted Houthi ballistic missile attacking Khamis Mushait, Saudi state TV says",
+   "summary": "Saudi-led coalition says it intercepted Houthi ballistic missile attacking Khamis Mushait, Saudi state TV says The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by Yemen's Iran-aligned Houthis towards the Saudi city of Khamis Mushait, Saudi state TV reported early on Wednesday. The coalition said Houthi missile threats originated from the group-controlled…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-06T22:04:05+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "nuclear"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "83b56c0b984c3ad4",
+   "title": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
+   "summary": "Following pressure from U.S. President Donald Trump, G7 leaders announced on Friday a coordinated release of 100 million barrels of emergency oil stocks through the IEA, to begin immediately and be completed over four months. Previously, Trump threatened to ban U.S. diesel exports in a bid to lower record-high domestic fuel prices ahead of the November 2026 midterm elections, with diesel prices…",
+   "url": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-06T22:00:00+00:00",
+   "themes": [
+    "energy",
+    "politics"
+   ],
+   "regions": [
+    "americas",
+    "global"
+   ],
+   "countries": [
+    "United States",
+    "G7 / G20"
+   ]
+  },
+  {
+   "id": "a12b2f6937d9f370",
+   "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+   "summary": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:57:03+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "5cc010a9af0f61f7",
+   "title": "Harry Kane equals England record, scores twice in 3-0 win over Czechia",
+   "summary": "England's Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.",
+   "url": "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:40:12+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Czechia"
+   ]
+  },
+  {
+   "id": "885a4883775c3fbd",
+   "title": "Former German spy chief detained over suspected treasonous espionage",
+   "summary": "Former German spy chief August Hanning was detained Tuesday on suspicion of treason and espionage after prosecutors accused him of paying for secret intelligence documents and using them to prepare an analysis for a foreign intelligence service, in a case that could strain Berlin’s ties with allied spy agencies.",
+   "url": "https://www.france24.com/en/europe/20261006-former-german-spy-chief-detained-over-suspected-treasonous-espionage",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T21:34:02+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "ede8aac8605a04a5",
+   "title": "CNN, CBS News now under one roof as Paramount-Warner Bros merger closes",
+   "summary": "The newly combined company is called Skydance and began trading on Wall Street on Tuesday.",
+   "url": "https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:33:59+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b77ba201deb079c7",
+   "title": "Palestinian Authority says Israel blocked election officials from Jerusalem, Gaza",
+   "summary": "Palestinian Authority says Israel blocked election officials from Jerusalem, Gaza Israel refused to allow Palestinian election officials access to East Jerusalem or Gaza ahead of legislative polls, according to the Palestinian news agency Wafa, increasing concerns that the vote will be postponed. The Palestinian legislative elections are due to take place on 28 November, a month after Israel's…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-says-israel-blocked-election-officials-jerusalem",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-06T21:32:46+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
   },
   {
    "id": "8cf0390e53806bdd",
@@ -34,6 +857,41 @@
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "9463add38ee9b137",
+   "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+   "summary": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
+   "url": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-06T21:28:35+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "8e95aff8676d1814",
+   "title": "Kenya reports first-ever Ebola death",
+   "summary": "In tonight's edition, Kenya records its first Ebola death after a man travelled from the DRC via Uganda. Also, Comoros is tightening the rules on who can do business. In South Africa, concerns are growing that xenophobia and hostility toward foreign nationals could be driving African tourists away.",
+   "url": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-06T21:28:01+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya",
+    "Uganda",
+    "DR Congo",
+    "South Africa"
    ]
   },
   {
@@ -81,6 +939,25 @@
    ],
    "countries": [
     "Russia"
+   ]
+  },
+  {
+   "id": "3f39e7295b36ecc4",
+   "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+   "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+   "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T21:22:22+00:00",
+   "themes": [
+    "energy",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
    ]
   },
   {
@@ -429,6 +1306,24 @@
    "countries": [
     "Israel",
     "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "3a5e3236467891b5",
+   "title": "Anduril and US Navy Invest $6.6B for New Submarine Manufacturing Yard",
+   "summary": "As part of the U.S. Navy’s push to expand shipbuilding capacity and accelerate construction, it has awarded a $2.9 billion contract to defense contrac...",
+   "url": "https://maritime-executive.com/article/anduril-and-us-navy-invest-6-6b-for-new-submarine-manufacturing-yard",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-06T20:42:22+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
     "United States"
    ]
   },
@@ -1174,6 +2069,20 @@
    "source": "The Guardian World",
    "group": "World news",
    "published": "2026-10-06T18:44:25+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fdc2649b6560b23f",
+   "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+   "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+   "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T18:42:58+00:00",
    "themes": [],
    "regions": [
     "global"
@@ -2690,6 +3599,24 @@
    ]
   },
   {
+   "id": "aecd6ea826f760f1",
+   "title": "Will US President Donald Trump Visit Central Asia?",
+   "summary": "No U.S. president has ever traveled to Central Asia while in office. Could Donald Trump be the first? Sure. But will he be? That’s a different question.",
+   "url": "https://thediplomat.com/2026/10/will-us-president-donald-trump-visit-central-asia/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-06T14:57:00+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
    "id": "95a715e42805e607",
    "title": "One student killed, eight wounded in Istanbul school stabbing attack",
    "summary": "A 15-year-old student disguised herself in the target school's uniform before attacking pupils at Şeyh Şamil Imam Hatip Secondary School in Başakşehir on Tuesday morning. The suspect, who attends a different school, was apprehended.",
@@ -3227,6 +4154,24 @@
    ]
   },
   {
+   "id": "70e34432fbdd21fe",
+   "title": "South Korea’s $60 Billion Semiconductor Exports to Drive the KOSPI’s Resurgence",
+   "summary": "South Korea’s economy has become intrinsically linked to the ongoing artificial intelligence boom.",
+   "url": "https://thediplomat.com/2026/10/south-koreas-60-billion-semiconductor-exports-to-drive-the-kospis-resurgence/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-06T14:01:00+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
    "id": "3c87b1008cdaad59",
    "title": "PM called on to act on communal grave revelations as NSW commits to urgent review",
    "summary": "‘All deceased persons should be treated with dignity and respect, regardless of their financial circumstances,’ authorities say after Guardian Australia investigation Find more from the Unmarked graves investigation here Get our breaking news email , free app or daily news podcast Anthony Albanese has been urged to use national cabinet to stop the use of unmarked communal graves to bury…",
@@ -3329,6 +4274,24 @@
    ],
    "countries": [
     "Iran"
+   ]
+  },
+  {
+   "id": "5c8d24531402e77a",
+   "title": "China’s Revised Defense Mobilization Law Touches Nearly Every Sector",
+   "summary": "The circumstances under which mobilization can be declared are wider than ever, and a large number of entities – including private firms – are legally obligated to the state during wartime.",
+   "url": "https://thediplomat.com/2026/10/chinas-revised-defense-mobilization-law-touches-nearly-every-sector/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-06T13:45:00+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
    ]
   },
   {
@@ -3688,6 +4651,23 @@
    "countries": [
     "Israel",
     "United States"
+   ]
+  },
+  {
+   "id": "39683c55b3f06cf9",
+   "title": "Farewell to Russia: The View From Kazakhstan",
+   "summary": "Karaganda and its environs are home to some of the largest-scale coal-mining on the planet. And once, the home to an immense gulag.",
+   "url": "https://thediplomat.com/2026/10/farewell-to-russia-the-view-from-kazakhstan/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-06T12:05:00+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Kazakhstan"
    ]
   },
   {
@@ -12013,60 +12993,6 @@
    ],
    "countries": [
     "United States"
-   ]
-  },
-  {
-   "id": "aa0846ce57872680",
-   "title": "AI data under the microscope: Accelerating and securing the AI data supply chain for the health and biopharmaceutical sectors",
-   "summary": "This report examines how health and biopharmaceutical companies interact with the data components of the AI supply chain, and how a fractured global regulatory landscape shapes their ability to innovate responsibly. The post AI data under the microscope: Accelerating and securing the AI data supply chain for the health and biopharmaceutical sectors appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/ai-data-under-the-microscope-accelerating-and-securing-the-ai-data-supply-chain-for-the-health-and-biopharmaceutical-sectors/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-22T23:40:05+00:00",
-   "themes": [
-    "trade"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "bdddba4f44a09687",
-   "title": "Options for a NATO Multinational Drone-Interception Squadron",
-   "summary": "A dedicated multinational NATO squadron of armed jet trainers could shoot down Russian drone incursions without burning through frontline fighters and scarce air-to-air missiles.",
-   "url": "https://www.rusi.org/explore-our-research/publications/commentary/options-nato-multinational-drone-interception-squadron",
-   "source": "RUSI",
-   "group": "Think tank",
-   "published": "2026-09-22T23:00:00+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "global"
-   ],
-   "countries": [
-    "Russia",
-    "NATO"
-   ]
-  },
-  {
-   "id": "571cf9ccd08111b7",
-   "title": "Somali Piracy in 2026 is Not Just a Resurgence of a Past Problem",
-   "summary": "Piracy off Somalia has surged in 2026. More than a ‘resurgence’ of a past problem, this reflects a rapidly evolving maritime security environment.",
-   "url": "https://www.rusi.org/explore-our-research/publications/commentary/somali-piracy-2026-not-just-resurgence-past-problem",
-   "source": "RUSI",
-   "group": "Think tank",
-   "published": "2026-09-22T23:00:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Somalia"
    ]
   }
  ]
