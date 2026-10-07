@@ -1,6 +1,700 @@
 {
- "updated": "2026-10-07T03:34:57.660673+00:00",
+ "updated": "2026-10-07T05:55:38.560623+00:00",
  "items": [
+  {
+   "id": "05fbb47538c2ccc6",
+   "title": "Twelve injured in latest Hormuz attack",
+   "summary": "Twelve seafarers have been injured after the Panama-flagged tanker On Peace was struck by a projectile while transiting the Strait of Hormuz yesterday, the latest casualty in what has become the most intense spell of attacks on commercial shipping since the US-Iran war began in February. The vessel, owned by Dubai-based Onex, was carrying 19 …",
+   "url": "https://splash247.com/twelve-injured-in-latest-hormuz-attack/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-07T05:55:16+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "d97174b2c500d323",
+   "title": "Lionel Messi scores as Argentina beat Benin for his last international game",
+   "summary": "Lionel Messi played his final match for Argentina, a 3-0 victory over Benin. A full tribute was paid to him before and after the match.",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T05:42:31+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "aa69aa7b1cafa521",
+   "title": "Mali: Junta Forces Retake Strategic Town of Kidal",
+   "summary": "[DW] Mali's military regained control of the strategic town of Kidal after forcing Tuareg separatists and al-Qaeda-linked jihadists to withdraw following an offensive backed by Russia's Africa Corps.",
+   "url": "https://allafrica.com/stories/202610070174.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T05:35:09+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "africa"
+   ],
+   "countries": [
+    "Russia",
+    "Mali"
+   ]
+  },
+  {
+   "id": "907b54c3573ceb6b",
+   "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
+   "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an Israel-bound plane, after police confirmed he underwent flight training there about a year after he abandoned a degree in…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T05:25:10+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia",
+    "New Zealand"
+   ]
+  },
+  {
+   "id": "f051c30cc4014400",
+   "title": "How Netanyahu survived the political fallout from the October 7 attacks",
+   "summary": "Three years after the deadly Hamas-led October 7 attacks in southern Israel, Prime Minister Benjamin Netanyahu is fighting for political survival ahead of legislative elections later this month. Reports that Arab leaders warned him of the assault in advance have undercut his claims that Israel's security chiefs are to blame, but his political base appears to be holding.",
+   "url": "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T05:24:03+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "877df606e83208bc",
+   "title": "Qatar says US, Iran still in talks to end war",
+   "summary": "Qatar says US, Iran still in talks to end war Mediator Qatar said the United States and Iran remain engaged in indirect talks aimed at ending the conflict, despite an apparent deadlock seven months into the US and Israel’s war on Iran.   “The talks are continuing and the exchange of messages between different parties is continuing via Qatar and the regional partners,” Qatari Foreign Ministry…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-still-talks-end-war",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T05:17:23+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Israel",
+    "Iran",
+    "Qatar",
+    "United States"
+   ]
+  },
+  {
+   "id": "2e7e9a56528cf299",
+   "title": "South Africa: Mandrax Lab Uncovered Near Hartbeespoort - South African News Briefs - October 7, 2026",
+   "summary": "[allAfrica]",
+   "url": "https://allafrica.com/stories/202610070173.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T05:13:54+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "d57fc4255795406c",
+   "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
+   "summary": "Eastern-based parliament votes to replace longtime speaker with Al-Salhin Abdelnabi al-Obeidi.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T05:12:55+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "266ec2c7dc9c6552",
+   "title": "Israeli forces shoot dead Palestinian civil defence member in Gaza",
+   "summary": "Israeli forces shoot dead Palestinian civil defence member in Gaza Israeli forces killed a Palestinian civil defence member, Gaza’s Ambulance and Emergency Services said. The member was shot dead during an attempt to evacuate people wounded by Israeli gunfire in Jabalia.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shoot-dead-palestinian-civil-defence-member-gaza",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T05:11:32+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "88c11efdf0f48126",
+   "title": "Yemen's Houthis claim attacks on Saudi airports, airbase",
+   "summary": "Yemen's Houthis claim attacks on Saudi airports, airbase Yemen's Houthis claimed missile and drone attacks on several sites across Saudi Arabia, there has been no confirmation from the kingdom's authorities.  The group said that they targeted the King Khalid International Airport in Riyadh with drones. They also said that missile and drone strikes were launched at the Abha International Airport…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attacks-saudi-airports",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T05:03:15+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "0f1516481fcfff89",
+   "title": "The Caspian Sea has been shrinking for decades. Now, a new island has emerged",
+   "summary": "Scientists warn that parts of the northern Caspian could face an Aral Sea-like scenario, while climate change and human water use are adding pressure on the region.",
+   "url": "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T05:02:49+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "a6842562217fda68",
+   "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+   "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+   "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T05:02:18+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "74ac8134e0745c85",
+   "title": "Three years of Israel’s genocide in Gaza: In numbers",
+   "summary": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T05:02:04+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f1968993f3897f16",
+   "title": "Tories delight as satirical tapestry pokes fun at ‘turncoat’ Robert Jenrick",
+   "summary": "Reminders of banished Reform UK defector were all around the Conservative party conference in Birmingham As Kemi Badenoch basked in the applause of the Tory faithful at the close of her pivotal speech at Conservative party conference last year, one member of her shadow cabinet looked less than enthused. Robert Jenrick, bested by Badenoch in the leadership contest a year earlier, looked on, and –…",
+   "url": "https://www.theguardian.com/politics/2026/oct/07/conservative-party-conference-satirical-tapestry-robert-jenrick",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T05:00:35+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "cfd34fe3fa8a26c3",
+   "title": "O2 signs record £200m deal to keep London venue’s naming rights",
+   "summary": "Exclusive: 10-year sponsorship extension at a 50% premium on last agreement crowns bonanza year for live venue O2 has struck a record £200m deal to retain the naming rights to the London venue the O2 in what is thought to be the largest renewal of its kind in UK history. The 10-year agreement will extend O2’s relationship until at least 2038. It cements the sponsorship as the second…",
+   "url": "https://www.theguardian.com/business/2026/oct/07/o2-signs-record-deal-london-venue-the-o2-naming-rights",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T05:00:35+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "037390b1f512eff5",
+   "title": "Wanted: children to rear harvest mice at home for wild release in Devon",
+   "summary": "Teenagers Eva Wishart and Emily Smith launch project to breed and release 250 of the tiny animals by September Children in Devon are being invited to become “citizen captive breeders”, rearing harvest mice at home for release into the wild to help revive endangered nature. Wild Pets, a new conservation project launched by two 14-year-old friends, is seeking 20 Devon-based children to rear…",
+   "url": "https://www.theguardian.com/environment/2026/oct/07/children-harvest-mice-wild-release-devon-uk",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T05:00:34+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e8858b81e9756fed",
+   "title": "Latest news bulletin | October 7th, 2026 – Morning",
+   "summary": "Catch up with the most important stories from around Europe and beyond this October 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "url": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-morning",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T05:00:32+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "31997d98d1648571",
+   "title": "Qatar eyes 2036 Olympics after it hosts Asian Games as F1 confirms Gulf races",
+   "summary": "Doha will host the Asian Games in 2030 and is among seven potential hosts for the 2036 Olympics, while Formula 1 says its Qatar and Abu Dhabi races will go ahead as scheduled, bringing much-needed relief after months of uncertainty.",
+   "url": "https://www.euronews.com/2026/10/07/qatar-eyes-2036-olympics-after-it-hosts-asian-games-as-f1-confirms-gulf-races",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T05:00:29+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "United Arab Emirates",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "638381cafb79864f",
+   "title": "The Republican candidates walking a Trump tightrope",
+   "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+   "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T05:00:21+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3ddba7d91e86bb64",
+   "title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure",
+   "summary": "Crude oil prices, which dipped on Tuesday, reversed their direction, with Brent ticking above $100 again earlier today following reports of fresh Houthi attacks on Saudi energy infrastructure. At the time of writing, Brent crude was trading at $101.49 per barrel and West Texas Intermediate was changing hands for $90.14 per barrel, despite a statement from Saudi Arabia’s energy minister, Prince…",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-07T05:00:00+00:00",
+   "themes": [
+    "energy",
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "b77b9caaade48b77",
+   "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
+   "summary": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T04:43:02+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "0e357085aaa13f68",
+   "title": "Former bishop sentenced to more than six years in prison for sexually abusing young Aboriginal men",
+   "summary": "Christopher Alan Saunders becomes highest-ranked Catholic in Australia convicted of sexual abuse over his time as member of clergy Get our breaking news email , free app or daily news podcast A former high-ranking Catholic known for hosting boozy parties will spend at least four and a half years behind bars for sexually abusing two young Aboriginal men. The ex-bishop of Broome Christopher Alan…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/07/christopher-alan-saunders-broome-bishop-sexual-abuse-aboriginal-men-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T04:42:52+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "1dd53edfd70fd147",
+   "title": "Pornhub returns to Australia but only for adults with Apple devices",
+   "summary": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T04:39:59+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "5b02fa90d30a3860",
+   "title": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+   "summary": "Russian officials said a Liberian-flagged tanker was attacked and a crew of 23 Indian nationals rescued An oil tanker off Russia’s Black Sea coast was struck by a naval drone, triggering a huge fire and black smoke cloud that blanketed parts of the resort city of Sochi, Russia’s transport ministry has said. The transport ministry said a Liberian-flagged tanker had been attacked and that “crude…",
+   "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T04:39:01+00:00",
+   "themes": [
+    "energy",
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Russia",
+    "India"
+   ]
+  },
+  {
+   "id": "4f024327d7990cd1",
+   "title": "Where is Spain headed after the snap election announcement?",
+   "summary": "Prime Minister Pedro Sanchez is taking a gamble by calling an early election in Spain. The housing crisis, migration and the rise of the right-wing populist Vox party are all likely to dominate the campaign.",
+   "url": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-07T04:33:00+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "9398c5726b0c1dcd",
+   "title": "Israel killed 263 journalists over three years, Gaza media official says",
+   "summary": "Israel killed 263 journalists over three years, Gaza media official says The director of the Gaza Government Media Office said Israel has killed 263 journalists and media workers during its genocide.  Ismail al-Thawabta told Anadolu Agency that 50 journalists had been detained in Israeli prisons, with 23 still in custody. \"Three journalists remain missing: Nidal Suheil al-Wahidi, Haitham Jamal…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-killed-263-journalists-over-three-years-gaza-media-official-says",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T04:24:04+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e92d63bbd1ed9c4f",
+   "title": "Tree nearly as old as US torn down to expand Mexico border wall",
+   "summary": "A 200-year-old cottonwood tree has been cut down to make way for a 44-km US-Mexico double border wall despite protests.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T04:20:28+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Mexico"
+   ]
+  },
+  {
+   "id": "f04e517dd32d0041",
+   "title": "Malawi: IMF Praises Malawi Reforms but Holds Off On New Financing Deal",
+   "summary": "[Nyasa Times] An International Monetary Fund team has concluded two weeks of talks in Malawi without reaching a final agreement on a new lending programme, though it praised the government's progress on economic reforms.",
+   "url": "https://allafrica.com/stories/202610070166.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T04:12:58+00:00",
+   "themes": [],
+   "regions": [
+    "africa",
+    "global"
+   ],
+   "countries": [
+    "Malawi",
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "d8b2ef36a07665fc",
+   "title": "South Africa: Stick-Wielding Vigilantes Harass Asylum Seekers",
+   "summary": "[GroundUp] Immigrants queuing at Home Affairs in Durban targeted by xenophobic group",
+   "url": "https://allafrica.com/stories/202610070138.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T04:01:34+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "0d5d5fc7b678802d",
+   "title": "Nigeria: Anti-Graft Agency Opposes Diezani's Move to Present Evidence of UK Court Acquittal in Abuja Case",
+   "summary": "[Premium Times] EFCC maintained that the UK judgement was irrelevant to the case Diezani filed in court for the recovery of her auctioned assets.",
+   "url": "https://allafrica.com/stories/202610070132.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T04:01:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "africa"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "817f54eb5f4660c0",
+   "title": "Namibia: President Nandi-Ndaitwah Addresses Foot-and-Mouth Disease Outbreak and Calls for National Cooperation",
+   "summary": "[Namibian] High-level address by H.E. Dr Netumbo Nandi-Ndaitwah, President of the Republic of Namibia, on the foot-and-mouth disease outbreak.",
+   "url": "https://allafrica.com/stories/202610070126.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T04:01:28+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Namibia"
+   ]
+  },
+  {
+   "id": "9d387e0b45fefbfe",
+   "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+   "summary": "Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese imports EU trade negotiators are heading to China for two days of crunch talks aimed at sealing a breakthrough deal tackling Beijing’s record £1bn-a-day trade surplus by curbing its exports of cheap hybrid electric cars into Europe. Trade commissioner Maroš Šefčovič and his team fly out on…",
+   "url": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T04:00:34+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "European Union",
+    "China"
+   ]
+  },
+  {
+   "id": "2c037be7f8fad769",
+   "title": "What Israeli schools teach",
+   "summary": "What Israeli schools teach",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T04:00:00+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "f014ed775c4ffd33",
+   "title": "South Africa: 12-Year Birth Certificate Battle Leaves Limpopo Girl Without Child Grant",
+   "summary": "[Health-e] Limpopo mother battles 12 years to get her daughter a birth certificate. Without it, her daughter cannot access a child support grant. Nearly 76,000 births were registered late in 2024 alone, latest figures show.",
+   "url": "https://allafrica.com/stories/202610070121.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T03:52:46+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "a1787c8476e2842e",
+   "title": "Africa: Africa CDC Expresses Solidarity With Kenya and Calls for Stronger Regional Ebola Preparedness",
+   "summary": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC) has reaffirmed its support to Kenya following confirmation of the country's first imported case of Bundibugyo Ebola Virus Disease and the subsequent death of the patient.",
+   "url": "https://allafrica.com/stories/202610070122.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T03:52:46+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "7bc790b50708e032",
+   "title": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count",
+   "summary": "[The Conversation Africa] Estimates of the number of people directly killed in Sudan's civil war vary widely, in part because counting casualties in active conflict zones is extremely difficult. In 2025, for instance, one conflict monitoring organisation reported around 19,000 direct deaths from political violence across Sudan. Other research teams put the toll at more than 70,000.",
+   "url": "https://allafrica.com/stories/202610070116.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T03:52:43+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "a16e92eb9e4c333d",
+   "title": "Congo-Kinshasa: 'Ebola Takes the People Children Depend On' - UNICEF",
+   "summary": "[UN News] The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones - with some succumbing to the deadly disease themselves, the UN Children's Fund (UNICEF) reported on Tuesday.",
+   "url": "https://allafrica.com/stories/202610070114.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T03:52:42+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "DR Congo"
+   ]
+  },
+  {
+   "id": "61d695768866a2cd",
+   "title": "Namibia: EU Suspends Beef Exports From Namibia Due to Foot and Mouth Disease",
+   "summary": "[RFI] The largest market for Namibian beef, the European Union, announced it has suspended imports after an outbreak of foot-and-mouth disease, which wreaked havoc in Europe 25 years ago.",
+   "url": "https://allafrica.com/stories/202610070115.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T03:52:42+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "africa"
+   ],
+   "countries": [
+    "European Union",
+    "Namibia"
+   ]
+  },
+  {
+   "id": "3f9d4de089f05c41",
+   "title": "Central Africa: When Streets Become Pharmacies - Booming Illicit Markets in Central Africa",
+   "summary": "[UN News] Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit market that thrives not simply despite the region's fragile health systems, but in part because of them.",
+   "url": "https://allafrica.com/stories/202610070112.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T03:52:40+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": []
+  },
+  {
+   "id": "8c46805090c79902",
+   "title": "US stock market hits all-time high as investors continue to bet on AI",
+   "summary": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
+   "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T03:27:20+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
   {
    "id": "524ad40a4ab80732",
    "title": "Former Australian bishop jailed for sexually abusing young men",
@@ -90,6 +784,27 @@
    "countries": [
     "Iran",
     "United States"
+   ]
+  },
+  {
+   "id": "a9a4f72c6e5ad8f1",
+   "title": "Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary",
+   "summary": "Two missiles launched by Yemen's Iran-aligned Houthi rebels targeted Aden's international airport early Wednesday, with no casualties reported, as Israel prepared to mark the third anniversary of the October 7, 2023 Hamas attacks. Follow our liveblog for the latest developments.",
+   "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T02:46:40+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Yemen"
    ]
   },
   {
@@ -1819,6 +2534,22 @@
    ]
   },
   {
+   "id": "34332c307e332fc0",
+   "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+   "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
+   "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T20:40:01+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
    "id": "c8a74e496be34c25",
    "title": "Jet drones are Putin’s secret weapon as he seeks to break Ukraine",
    "summary": "Russia’s air war against Ukraine has recently entered a deadly new phase with round-the-clock jet drone attacks on civilian targets across Kyiv as Vladimir Putin seeks to make the Ukrainian capital unlivable and break the country’s resistance, writes Mykola Bielieskov. The post Jet drones are Putin’s secret weapon as he seeks to break Ukraine appeared first on Atlantic Council .",
@@ -2131,6 +2862,20 @@
    "countries": [
     "Portugal"
    ]
+  },
+  {
+   "id": "f486fb72608e432c",
+   "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+   "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+   "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T19:53:45+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "bfcec466ec1d1b8d",
@@ -3799,6 +4544,22 @@
    ]
   },
   {
+   "id": "fe50533add06d046",
+   "title": "What is pneumonic plague and how does it spread?",
+   "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-06T15:35:22+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
    "id": "8f901fb0eb77383d",
    "title": "Why Britain is being forced to revisit the Balfour Declaration",
    "summary": "Why Britain is being forced to revisit the Balfour Declaration Submitted by Soumaya Ghannoushi on Tue, 10/06/2026 - 15:41 More than a century after promising the Jewish people a national home in Palestine, the document's fundamental contradiction has become inescapable Pro-Palestinian supporters march past Downing Street, in central London, at a demonstration marking the anniversary of the Nakba,…",
@@ -5314,6 +6075,22 @@
    ],
    "countries": [
     "Germany"
+   ]
+  },
+  {
+   "id": "49316d1f585c4f05",
+   "title": "Former UN food agency official claims he was fired for highlighting hunger in Gaza",
+   "summary": "Benjamin Davis appealing against dismissal from FAO, after being accused by director general of playing ‘political games’ A former senior UN food agency official has alleged he was fired last week for his work highlighting hunger in Gaza, and has launched an appeal against his dismissal. Benjamin Davis said the leadership of the Food and Agriculture Organization (FAO) had refused to renew his…",
+   "url": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-06T11:31:00+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Palestine"
    ]
   },
   {
