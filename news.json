@@ -1,6 +1,427 @@
 {
- "updated": "2026-10-07T00:45:27.166363+00:00",
+ "updated": "2026-10-07T03:33:28.950505+00:00",
  "items": [
+  {
+   "id": "524ad40a4ab80732",
+   "title": "Former Australian bishop jailed for sexually abusing young men",
+   "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face charges of this nature.",
+   "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T03:25:48+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "faa299b204e20fcf",
+   "title": "Is Zionism Racism?",
+   "summary": "Is Zionism Racism? Britain's Green Party has declared Zionism a form of racism. The motion, passed at its Brighton conference by 1,022 votes to 813, makes the party officially anti-Zionist and backs a single democratic state in historic Palestine.   The reaction was fierce. Former leader Caroline Lucas spoke against it. Most Green MPs rejected it. Israel banned party leader Zack Polanski, though…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/zionism-racism",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T03:08:30+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "fdde1e6ee4c9d124",
+   "title": "Vance says Iran must cut nuclear enrichment capacity to reach deal with US",
+   "summary": "Vance says Iran must cut nuclear enrichment capacity to reach deal with US US Vice President JD Vance said that Iran must make a \"meaningful\" reduction in its nuclear enrichment capacity to satisfy US demands and end the war.  \"If you don't want a nuclear weapon, then why do you need 60% enriched fuel? And if you want to show commitment to not building a nuclear weapon, don't build highly…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-cut-nuclear-enrichment-capacity-reach-deal-us",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T02:54:43+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "0991cdf5023fa305",
+   "title": "Beau Lamarre-Condon didn’t talk about Jesse Baird to friend in lead-up to alleged murders, court hears",
+   "summary": "NSW police officer has pleaded not guilty to murdering his ex and Luke Davies in a Sydney terrace in February 2024 Get our breaking news email , free app or daily news podcast Despite an alleged obsession with his ex, Beau Lamarre-Condon never spoke about him to a close friend in the three months before allegedly murdering him, a jury has heard. Lamarre-Condon, 31, has pleaded not guilty to…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T02:45:59+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "fc518e91b689387d",
+   "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+   "summary": "An explosion has ripped through Venezuela's second-largest oil refinery, causing it to suspend activities.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T02:23:03+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "c49493abeabcaace",
+   "title": "Why do airport and flight rules exist?",
+   "summary": "Everyone follows these rules, but few know why. Each one traces back to an incident that changed aviation security.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T02:20:17+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4d7ef7253aadbabe",
+   "title": "Australia top court rules against coal mine expansion, citing climate harm",
+   "summary": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T02:17:07+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "8a714618c861bafc",
+   "title": "Israel marks third anniversary of October 7 attack as election looms",
+   "summary": "Israel will mark the third anniversary of the October 7, 2023 Hamas attack on Wednesday with memorial events across the country, as heightened security surrounds the commemorations and voters prepare for an election in which the deadliest day in Israel’s history is expected to remain a central issue.",
+   "url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T02:14:22+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e2e718a023aa95c0",
+   "title": "Saudi-led coalition says it intercepted Houthi missile north of Riyadh",
+   "summary": "Saudi-led coalition says it intercepted Houthi missile north of Riyadh The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by the Houthis north of Riyadh.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missile-north-riyadh",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T02:08:13+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "2750d3f8128f826e",
+   "title": "Friends of Nolan Wells sue NFL Hall of Famer Terrell Owens for defamation",
+   "summary": "Owens sued over September Instagram post that suggested trio tampered with evidence in death of Mississippi teen Three friends of Nolan Wells , a Mississippi teen who died after a July boating trip, have sued NFL Hall of Famer Terrell Owens for defamation. On 26 September, Owens shared an Instagram video that suggested Wells’s friends Warren Hudson, Jax Pitalo and Morgan Seymour had deleted…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T02:04:38+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "626fb235d95eb5f4",
+   "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+   "summary": "Explosions near Aden International Airport after Yemen’s Saudi-backed gov't said two missiles were fired by the Houthis.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T01:59:15+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "d805259915e7f468",
+   "title": "Messi bids farewell to Argentina fans in emotional international finale",
+   "summary": "Lionel Messi said farewell to Argentina fans Tuesday in an emotional final international appearance, scoring in a 3-0 win over Benin at Buenos Aires' Monumental Stadium as 85,000 supporters celebrated the end of a career that brought the country its long-awaited 2022 World Cup triumph.",
+   "url": "https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T01:59:10+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "a574369265ce3d8d",
+   "title": "The agonising wait for Gaza’s missing",
+   "summary": "The agonising wait for Gaza’s missing Three years into Israel’s genocide in Gaza, Palestinian families are still searching for answers about thousands of relatives who vanished during the war. Some disappeared during Israeli ground attacks on their neighbourhoods or displacement camps. Others went missing while searching for aid, checking on their homes or travelling near the so-called Yellow…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/agonising-wait-gazas-missing-0",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T01:45:55+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "c7d80e1560da7dbd",
+   "title": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate",
+   "summary": "Republican challenged by Democrat Troy Jackson in critical Senate race says she opposes Iran war and Canada tariffs Susan Collins, the Republican senator for Maine, pointedly distanced herself from Donald Trump in a televised debate with Democratic challenger Troy Jackson on Tuesday, as she sought to present an image of independence in a state that has voted against Trump three times. Proclaiming…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/susan-collins-maine-debate-senate",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T01:43:25+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States",
+    "Canada"
+   ]
+  },
+  {
+   "id": "68c80a1a311983f5",
+   "title": "Seafarers Now Command Huge Bonuses for Hormuz Transits",
+   "summary": "Shipowners aren't the only ones making a fortune from million-dollar day rates for Hormuz transits. Far from being coerced or tricked into sailing int...",
+   "url": "https://maritime-executive.com/article/seafarers-now-command-huge-bonuses-for-hormuz-transits",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T01:38:07+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "37becb615a626054",
+   "title": "Aden official says Houthi missiles targeted Yemen's Aden airport",
+   "summary": "Aden official says Houthi missiles targeted Yemen's Aden airport Two missiles launched by the Houthis targeted Yemen's Aden international airport early on Wednesday, the media office of Aden's security department said. No casualties were reported in the attack.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/aden-official-says-houthi-missiles-targeted-yemens-aden-airport",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T01:24:50+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "661fd02d48c633d8",
+   "title": "Syrian embassy returns seized passport after 43 years",
+   "summary": "Syria's embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T01:20:11+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "Germany",
+    "Syria"
+   ]
+  },
+  {
+   "id": "3bb99d4cc946848c",
+   "title": "Comedian Dave Hughes to stop speaking at Liberal party events over political donation concerns",
+   "summary": "Entertainer alleges complaint made about ‘in-kind’ donations over Victorian fundraisers, where he has been railing against Labor Get our new political email , free app or daily news podcast Dave Hughes says he will no longer be taking the stage at Victorian Liberal events, claiming the party decided having him on the bill could run afoul of the state’s political donation laws. The comedian,…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T01:17:22+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "9fc77fffea25a03a",
+   "title": "Quick Action Stops OSV From Sinking at Dock in the Netherlands",
+   "summary": "The harbor master and local emergency services are reporting that a quick, coordinated action on Monday evening prevented a Spanish-flagged offshore s...",
+   "url": "https://maritime-executive.com/article/quick-action-stops-osv-from-sinking-at-dock-in-the-netherlands",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-07T01:12:18+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Netherlands"
+   ]
+  },
+  {
+   "id": "fa917a7149a567fa",
+   "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+   "summary": "Both Democrats and Republicans have expressed outrage at Trump's remarks that cities could be sacrificed in Iran war.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T01:07:21+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "e9a6a5dceb99e080",
+   "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
+   "summary": "Haiti has indefinitely postponed elections scheduled for December and February, the electoral council said Tuesday, citing technical and operational requirements as gang violence continues to disrupt preparations. The delay leaves Haitians without a vote as authorities struggle to register voters and secure areas needed for the poll.",
+   "url": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T01:06:11+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Haiti"
+   ]
+  },
+  {
+   "id": "57a8d3179726eceb",
+   "title": "What’s behind Israel’s growing shift to the right?",
+   "summary": "Three years after the October 7 attacks, the politics of Israeli society has shifted further right.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T00:58:21+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "4ee5af96a9b4cba7",
+   "title": "Iran says more than 100 petrochemical and pharmaceutical sites damaged by US attacks",
+   "summary": "Iran says more than 100 petrochemical and pharmaceutical sites damaged by US attacks US attacks have damaged 111 petrochemical and pharmaceutical facilities across Iran, according to the representative to the Organisation for the Prohibition of Chemical Weapons. \"The US military aggression against Iran’s chemical industries has affected supply chains and the implementation of the Chemical Weapons…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-100-petrochemical-and-pharmaceutical-sites-damaged-us",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T00:53:57+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "1d0dbf5bc9882374",
+   "title": "David Ellison denies he has ‘politicized’ Skydance despite close Trump links",
+   "summary": "Ellison admits ‘good relationship’ with administration in remarks to reporters about newly merged media company David Ellison, the chief executive of the newly formed media conglomerate Skydance, denied that he has “politicized” the company despite the close connection he has forged with Donald Trump’s White House over the 20 months of his administration. “We have a good relationship with this…",
+   "url": "https://www.theguardian.com/media/2026/oct/06/skydance-david-ellison-trump",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T00:45:45+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
   {
    "id": "dfaf20de5e363c11",
    "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
@@ -13008,24 +13429,6 @@
    "countries": [
     "Ukraine",
     "South Korea",
-    "United States"
-   ]
-  },
-  {
-   "id": "6b82a48bb5b70ebb",
-   "title": "A diesel export ban could disrupt US supply chains",
-   "summary": "There are second- and third-order consequences of a ban to consider, including what it would mean for Latin American countries. The post A diesel export ban could disrupt US supply chains appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/dispatches/a-diesel-export-ban-could-disrupt-us-supply-chains/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-23T01:40:04+00:00",
-   "themes": [
-    "trade"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
     "United States"
    ]
   }
