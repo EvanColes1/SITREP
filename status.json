@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:22:46.411101+00:00",
+ "updated": "2026-10-07T11:24:26.354606+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,7 +12,7 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -54,15 +54,15 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
-   "ok": false,
-   "new": 0,
-   "note": "404 Client Error: Not Found for url: https://kyivindependent.com/feed/"
+   "ok": true,
+   "new": 60,
+   "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
@@ -88,9 +88,9 @@
   {
    "name": "Americas Quarterly",
    "group": "Regional",
-   "ok": false,
-   "new": 0,
-   "note": "403 Client Error: Forbidden for url: https://americasquarterly.org/feed/"
+   "ok": true,
+   "new": 4,
+   "note": "via backup feed"
   },
   {
    "name": "Crisis Group",
@@ -102,9 +102,9 @@
   {
    "name": "Chatham House",
    "group": "Think tank",
-   "ok": false,
-   "new": 0,
-   "note": "403 Client Error: Forbidden for url: https://www.chathamhouse.org/rss.xml"
+   "ok": true,
+   "new": 32,
+   "note": "via backup feed"
   },
   {
    "name": "RUSI",
@@ -123,16 +123,16 @@
   {
    "name": "Carnegie",
    "group": "Think tank",
-   "ok": false,
-   "new": 0,
-   "note": "feed returned no articles"
+   "ok": true,
+   "new": 35,
+   "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
-   "ok": false,
-   "new": 0,
-   "note": "403 Client Error: Forbidden for url: https://ecfr.eu/feed/"
+   "ok": true,
+   "new": 13,
+   "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
@@ -214,9 +214,9 @@
   {
    "name": "UNHCR News",
    "group": "Migration",
-   "ok": false,
-   "new": 0,
-   "note": "403 Client Error: Forbidden for url: https://www.unhcr.org/rss/news.xml"
+   "ok": true,
+   "new": 55,
+   "note": "via backup feed"
   },
   {
    "name": "Migration Policy Institute",
@@ -235,9 +235,9 @@
   {
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
-   "ok": false,
-   "new": 0,
-   "note": "403 Client Error: Forbidden for url: https://thebulletin.org/feed/"
+   "ok": true,
+   "new": 12,
+   "note": "via backup feed"
   },
   {
    "name": "IAEA News",
@@ -257,11 +257,6 @@
    "name": "energy",
    "ok": true,
    "note": ""
-  },
-  {
-   "name": "conflict",
-   "ok": false,
-   "note": "ACLED_EMAIL / ACLED_PASSWORD not set (add them as GitHub Secrets)"
   }
  ]
 }
