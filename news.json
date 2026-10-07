@@ -1,6 +1,324 @@
 {
- "updated": "2026-10-07T05:55:38.560623+00:00",
+ "updated": "2026-10-07T06:38:50.252418+00:00",
  "items": [
+  {
+   "id": "5a7118b7efa324f9",
+   "title": "Aframax Rio blaze underscores widening Black Sea threat",
+   "summary": "The Aframax Rio was ablaze off Sochi on Tuesday after being struck by unmanned surface vessels, adding another tanker casualty to a rapidly worsening Black Sea security picture. Russia’s transport ministry said the Liberia-flagged aframax was attacked off the Russian resort city, triggering a major fire and an oil spill. All 23 crew, all Indian …",
+   "url": "https://splash247.com/aframax-rio-blaze-underscores-widening-black-sea-threat/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-07T06:34:51+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Russia",
+    "India"
+   ]
+  },
+  {
+   "id": "b6da7ca293e8b21f",
+   "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
+   "summary": "Chevron is evacuating workers from all its platforms in the Gulf of Mexico as meteorologists warn of a tropical storm approaching the area. For now, Chevron is only evacuating non-essential personnel, Reuters reported, saying that oil production at the facilities remains normal. Some analysts, however, see the storm warning as a further complication for already jittery oil markets. Shell is also…",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-07T06:30:00+00:00",
+   "themes": [
+    "energy",
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "a1e07ee47e97ac76",
+   "title": "How has Israel’s genocide changed Gaza?",
+   "summary": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T06:27:18+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "af91b2fe15d3e673",
+   "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+   "summary": "Russia’s Defence Ministry says its forces carried out a 'massive strike' on Kyiv and other Ukrainian regions.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T06:19:26+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "fda8554436d6b070",
+   "title": "Kenya: Nairobi Hospital Reassures Patients After Ebola Case, Says Facility Is Safe",
+   "summary": "[Capital FM] Nairobi -- The Nairobi Hospital remains open, safe and fully operational following confirmation that a patient treated at the facility had Ebola Virus Disease (EVD), Chief Executive Officer Felix Osano has said.",
+   "url": "https://allafrica.com/stories/202610070185.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T06:16:07+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "5ed6f4e926bd6998",
+   "title": "Kenya: Ruto Orders Enhanced Ebola Response As Kenya Traces 27 Passengers",
+   "summary": "[Capital FM] Nairobi -- President William Ruto has directed the National Security Council Committee (NSCC) to assess Kenya's Ebola situation and recommend additional measures following the death of the country's first confirmed imported Ebola Virus Disease (EVD) case.",
+   "url": "https://allafrica.com/stories/202610070188.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T06:16:07+00:00",
+   "themes": [],
+   "regions": [
+    "africa",
+    "global"
+   ],
+   "countries": [
+    "Kenya",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "81384b8165485cbc",
+   "title": "Kenya: Nairobi Hospital Says Ebola Patient Was Isolated From Main Facility",
+   "summary": "[Capital FM] Nairobi -- The Nairobi Hospital has moved to reassure patients and staff that its operations remain normal after the death of a patient who tested positive for Bundibugyo Ebola virus disease.",
+   "url": "https://allafrica.com/stories/202610070181.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T06:16:06+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "e0b5ad7f82541140",
+   "title": "Yemen’s displaced children dream of returning to school",
+   "summary": "More than 137,000 students in conflict zones lose access to education, deepening Yemen's already dire schooling crisis.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T06:15:44+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "b9006f07fd0ba089",
+   "title": "Zimbabwe: Mnangagwa Declares State of Disaster As 8,500 Homes Lose Roofs in Masvingo Hailstorm",
+   "summary": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa has declared a State of Disaster following a severe hailstorm that hit Masvingo on Monday, leaving thousands of homes and infrastructure damaged.",
+   "url": "https://allafrica.com/stories/202610070177.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T06:13:51+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Zimbabwe"
+   ]
+  },
+  {
+   "id": "a444b882180fcbe9",
+   "title": "Zimbabwe: Wreckage From Chivayo Helicopter Crash Moved for Forensic Examination - Report Expected Within 30 Days",
+   "summary": "[New Zimbabwe] INVESTIGATIONS into the helicopter crash that killed businessman Wicknell Chivayo, his wife Lucy Muteke and three others have entered the forensic examination phase, with government expecting a preliminary report in 30 days.",
+   "url": "https://allafrica.com/stories/202610070178.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-07T06:13:51+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Zimbabwe"
+   ]
+  },
+  {
+   "id": "9ad9595f0534dd2c",
+   "title": "Finland orders halt to work on Google data centre sites",
+   "summary": "Finnish opposition has called for measures to prevent power shortages, soaring energy prices caused by data centres.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T06:10:21+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Finland"
+   ]
+  },
+  {
+   "id": "535442e9dbd45b7e",
+   "title": "Morning update",
+   "summary": "Morning update Good morning Middle East Eye readers, Here are the latest developments:  Israeli forces killed a Palestinian civil defence member, Gaza’s Ambulance and Emergency Services said. The member was shot dead during an attempt to evacuate people wounded by Israeli gunfire in Jabalia. Yemen's Houthis claimed missile and drone attacks on several sites across Saudi Arabia. The group said…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-636",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-07T06:08:32+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "660b0a7f216b2f3a",
+   "title": "Christa Pike awake a week after lethal injection as her lawyers seek answers",
+   "summary": "Christa Pike remains shackled to her hospital bed with burned and blistered arms, while Tennessee has suspended executions and its prison chief has resigned.",
+   "url": "https://www.euronews.com/2026/10/07/christa-pike-awake-a-week-after-lethal-injection-as-her-lawyers-seek-answers",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T06:06:12+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "126aaa435c6ac2c0",
+   "title": "How Verifactu will affect Spanish SMEs and self-employed after its delay",
+   "summary": "The Government's delay in bringing the Verifactu e-invoicing system into force gives firms and the self-employed more time, but fuels uncertainty over its rollout.",
+   "url": "https://www.euronews.com/2026/10/07/how-verifactu-will-affect-spanish-smes-and-self-employed-after-its-delay",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-07T06:03:25+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "ac8ab54535b32ec4",
+   "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
+   "summary": "Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.",
+   "url": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
+   "source": "NPR World",
+   "group": "World news",
+   "published": "2026-10-07T06:02:57+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "095bfbf6aa80ae91",
+   "title": "FMC threatens COSCO with $16.7m penalty over delayed payment",
+   "summary": "COSCO is facing a potential civil penalty of up to $16.7m in the US after taking more than seven months to pay a comparatively small reparations award ordered by the Federal Maritime Commission (FMC). The FMC has issued an order to show cause asking the Chinese carrier to explain why it should not be penalised …",
+   "url": "https://splash247.com/fmc-threatens-cosco-with-16-7m-penalty-over-delayed-payment/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-07T06:02:09+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "c8c191789f4f44c1",
+   "title": "Scientists who put faith in technology less likely to take climate action",
+   "summary": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes needed Scientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study. The report from the London School of Economics found they are 23% less likelyto sign petitions or take part in protests than…",
+   "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T06:00:36+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "89b7a19aefd2cd60",
+   "title": "At least two killed in fire caused by 'massive strikes' on Kyiv",
+   "summary": "At least two people were killed in a fire in Kyiv after what President Volodymyr Zelensky described as\"massive strikes\" on the Ukrainian capital on Wednesday. Ukraine has come under increased attack in recent weeks as Russian attacks have targeted energy infrastructure and rail and road transport.",
+   "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-07T05:56:19+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
   {
    "id": "05fbb47538c2ccc6",
    "title": "Twelve injured in latest Hormuz attack",
@@ -18,6 +336,22 @@
    "countries": []
   },
   {
+   "id": "28f12e54dbaa0c37",
+   "title": "Lionel Messi’s last game for Argentina ends in triumph and tears",
+   "summary": "Messi scored a goal and created two others as Argentina bid farewell to its most decorated footballer with a 3-0 win.",
+   "url": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T05:54:10+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
    "id": "d97174b2c500d323",
    "title": "Lionel Messi scores as Argentina beat Benin for his last international game",
    "summary": "Lionel Messi played his final match for Argentina, a 3-0 victory over Benin. A full tribute was paid to him before and after the match.",
@@ -32,6 +366,39 @@
    "countries": [
     "Argentina"
    ]
+  },
+  {
+   "id": "cafdf832a7213ddf",
+   "title": "How three years of Israel’s genocidal war have changed Gaza",
+   "summary": "War has devastated Gaza’s economy, education, healthcare, infrastructure and public services, transforming life.",
+   "url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-07T05:41:54+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "8d3e558b766f29dd",
+   "title": "Queensland man charged with murder after three-month-old son dies from ‘significant internal injuries’",
+   "summary": "Uneeb Ullah, 28, from Logan, has been remanded in custody after his arrest on Tuesday evening for the alleged murder of the child Get our breaking news email , free app or daily news podcast A Queensland man has been charged with the murder of his three-month-old baby son, after the boy died in hospital this week. The infant, from the Ipswich area west of Brisbane, died almost a week after being…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/07/queensland-man-charged-murder-three-month-old-baby-son-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-07T05:39:57+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "aa69aa7b1cafa521",
@@ -13101,6 +13468,22 @@
    "title": "Primary energy intensity and annual improvement in ASEAN, 2010-2025 – Charts – Data & Statistics - IEA – International Energy Agency",
    "summary": "Primary energy intensity and annual improvement in ASEAN, 2010-2025 – Charts – Data & Statistics    IEA – International Energy Agency",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzdYZkw4Z2J2T3g2WUR2enBnMW1FdHBBVXd3Yy1nMXV0Q3JTRUEzOTRyVTdiWDlsSnNtXzRmeTl4Y3FoN0xDWkpnaFF4d0d3WkFhQ2haM19XNGNiRnhRVGxSTzdDSzdlWDBWUWs3S3NvMnZiR1dfTW1xTjNfcmN4a21jM0NXTjVMNTA2UDlpMFZWSVVSRG1wTVdUaEc1c2Y0QldnRWJiNGVaci1xUHFveGVrVQ?oc=5",
+   "source": "IEA News",
+   "group": "Energy",
+   "published": "2026-09-29T07:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e6da8f6e36e6606d",
+   "title": "Natural gas trade balance in ASEAN, 2015-2025 – Charts – Data & Statistics - IEA – International Energy Agency",
+   "summary": "Natural gas trade balance in ASEAN, 2015-2025 – Charts – Data & Statistics    IEA – International Energy Agency",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXhqaEI4NTA5eXNDN0hhY3NHc0tHYlhZMFlaMVVpYkpiMXhobGxoYm1DWF9pV3pwUWt3MEtNUGd2ZjZ5QmhjTXVCbzJjbGpobERiTjdWcWRLRmp4czMwMTJ4U1BCOTBHNE9WNExJVHRrSGJpWmZlVk9xYTBUT3Zla0NvenI5YVp5MEU5czNmdmpmNkx1UXc?oc=5",
    "source": "IEA News",
    "group": "Energy",
    "published": "2026-09-29T07:00:00+00:00",
