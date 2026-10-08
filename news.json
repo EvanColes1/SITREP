@@ -1,6 +1,1430 @@
 {
- "updated": "2026-10-08T12:44:29.696057+00:00",
+ "updated": "2026-10-08T15:38:15.101496+00:00",
  "items": [
+  {
+   "id": "11e77bb3c9e2cccb",
+   "title": "Nigeria: Bandit Kingpin Kachalla Mu'azu, Six Others Killed in Zamfara Clash",
+   "summary": "[Leadership] A notorious bandit kingpin, Kachalla Mu'azu, and six members of his gang have reportedly been killed during a clash between rival armed groups in Zamfara State.",
+   "url": "https://allafrica.com/stories/202610080514.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:34:34+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "caf9e6307cc3e5ca",
+   "title": "Nigeria: NAF Chief Visits Igbokoda Crash Site, Assures Families of Investigation",
+   "summary": "[Leadership] The Chief of the Air Staff (CAS), Air Marshal Sunday Kelvin Aneke, on Thursday, October 8, 2026, visited Igbokoda in Ondo State and assured the families of those who died in the NAF 931 crash of a thorough investigation.",
+   "url": "https://allafrica.com/stories/202610080513.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:34:16+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "f085721bafcc7d11",
+   "title": "East Africa: China's Malaria Success Offers Lessons for East Africa's 2030 Elimination Push",
+   "summary": "[Capital FM] Nairobi -- East Africa has four years to deliver on its 2030 malaria elimination ambition, but lessons from China's seven-decade journey suggest the region must move faster from broad malaria control to a far more targeted system built around finding, investigating, and responding to every case.",
+   "url": "https://allafrica.com/stories/202610080510.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:33:07+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific",
+    "africa"
+   ],
+   "countries": [
+    "China",
+    "Kenya"
+   ]
+  },
+  {
+   "id": "57ad1577d3f40779",
+   "title": "Turkey rules out launching attacks on Yemen from Saudi Arabia",
+   "summary": "Turkey rules out launching attacks on Yemen from Saudi Arabia Submitted by Ragip Soylu on Thu, 10/08/2026 - 15:28 Turkish foreign minister says Mecca pact is strictly defensive, as Ankara mulls deploying forces and equipment to Saudi Arabia against Houthi attacks (L-R) Pakistan’s Deputy Prime Minister and Minister for Foreign Affairs Ishaq Dar, Saudi Defence Minister Prince Khalid bin Salman Al…",
+   "url": "https://www.middleeasteye.net/news/turkey-rules-out-launching-attacks-yemen-saudi-arabia",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T15:31:09+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Yemen",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "abd117d7beba77b8",
+   "title": "‘A celebration of the hybrid form’: Anne Carson wins Nobel literature prize",
+   "summary": "Canadian poet, essayist and translator Anne Carson won the Nobel Prize in literature Thursday for playful, genre-blending works that fuse the classical and the modern. Artist, podcast host and writer Mia Funk joined France 24 to discuss Carson’s work.",
+   "url": "https://www.france24.com/en/video/20261008-a-celebration-of-the-hybrid-form-anne-carson-wins-nobel-literature-prize",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T15:30:21+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "France",
+    "Canada"
+   ]
+  },
+  {
+   "id": "3bbee3e9b2b9c15a",
+   "title": "Ethiopia: Rights Groups Urge UN Human Rights Council Special Session As Ethiopia Fighting Raises Atrocity Fears",
+   "summary": "[Addis Standard] Addis Abeba -- A coalition of human rights organizations has called on the United Nations Human Rights Council (HRC) to convene a special session on Ethiopia, warning that renewed large-scale hostilities could lead to a repeat of atrocities committed during the country's 2020-2022 war.",
+   "url": "https://allafrica.com/stories/202610080499.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:25:36+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa",
+    "global"
+   ],
+   "countries": [
+    "Ethiopia",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "9ae37f5425b3542e",
+   "title": "Heavy autumn snow paralyses roads in Russia’s Far East",
+   "summary": "Heavy autumn snowfall has paralysed roads in Russia’s Magadan region, leaving trucks struggling through snow and disrupting intercity bus services.",
+   "url": "https://www.euronews.com/video/2026/10/08/heavy-autumn-snow-paralyses-roads-in-russias-far-east",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-08T15:25:33+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "0822c0f769fde244",
+   "title": "BBC pays compensation to PinkNews couple over false sexual misconduct allegations",
+   "summary": "Broadcaster apologises after admitting claims against Benjamin Cohen and Anthony James were defamatory The BBC has apologised and paid “substantial” compensation to the couple behind the PinkNews website, after conceding that stories accusing them of sexual misconduct were false and defamatory. In a sweeping admission, the BBC accepted at the high court that a 2024 iPlayer documentary about the…",
+   "url": "https://www.theguardian.com/media/2026/oct/08/bbc-pays-compensation-pinknews-couple-false-sexual-misconduct-allegations-benjamin-cohen",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T15:23:31+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "0c2eac59fabf6f2a",
+   "title": "Student protesters 'showing no signs of backing down'",
+   "summary": "Students who have been protesting classroom conditions in France for days are \"not looking like they are willing to back down\", says France 24 reporter Claire Paccalin, despite promises by the French prime minister to bring in measures to address their grievances.",
+   "url": "https://www.france24.com/en/video/20261008-student-protesters-showing-no-signs-of-backing-down",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T15:23:20+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "422745acbed7ee4c",
+   "title": "Nigeria: Asaba Massacre - Obasanjo Urges Forgiveness, Reconciliation",
+   "summary": "[Premium Times] The Asagba of Asaba, Epiphany Azinge questioned former President Obasanjo's \"never again\" appeal, recalling that the Odi killings occurred during Obasanjo's administration as president.",
+   "url": "https://allafrica.com/stories/202610080495.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:21:31+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "e3ac22fc9c1c4551",
+   "title": "Exclusive: 'Key Targets': A Russian Blueprint For A Cold, Dark Winter In Ukraine",
+   "summary": "As Ukraine prepares for its fifth winter since the start of Russia’s full-scale invasion, a document obtained by RFE/RL sets out a potential blueprint for a campaign by Moscow to inflict enormous suffering on civilians with attacks aimed at sharply cutting supplies of power, heat, and water.",
+   "url": "https://www.rferl.org/a/ukraine-russia-energy-attacks-blueprint-exclusive/33872942.html",
+   "source": "RFE/RL",
+   "group": "Regional",
+   "published": "2026-10-08T15:21:19+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "d5ddff5c36e85623",
+   "title": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
+   "summary": "The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T15:20:39+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "e5d839867bf7e027",
+   "title": "Africa: African Defence Chiefs Meet in Kampala to Strengthen Cooperation On Non-Combat Operations",
+   "summary": "[Shabelle] Kampala -- The conference brought together military chiefs and senior officers from several African countries, as well as representatives of the African Union and regional organisations.",
+   "url": "https://allafrica.com/stories/202610080489.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:19:50+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Uganda"
+   ]
+  },
+  {
+   "id": "f133b62d501b5e56",
+   "title": "London voters go to polls for Holborn and St Pancras by-election",
+   "summary": "The vote in London's Holborn and St Pancras parliamentary seat tests whether Burnham can restore faith in Labour.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T15:19:46+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "b4885c8e06a4a0b9",
+   "title": "Somalia: Somalia Cabinet Approves Ebola Preparedness Measures, Forms Six-Ministry Committee",
+   "summary": "[Shabelle] Mogadishu -- Somalia's cabinet has approved measures to prepare for a possible Ebola outbreak and formed a six-ministry committee to coordinate the government's response, the government said.",
+   "url": "https://allafrica.com/stories/202610080488.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:18:36+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Somalia"
+   ]
+  },
+  {
+   "id": "ecb1329f92c2177f",
+   "title": "Somalia: South West State Steps Up El Niño Preparations Amid Flood Fears",
+   "summary": "[Shabelle] Baidoa -- Authorities in Somalia's South West state have stepped up preparations for possible flooding as seasonal rains linked to El Niño are expected to begin in the coming days, officials said.",
+   "url": "https://allafrica.com/stories/202610080487.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T15:18:16+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Somalia"
+   ]
+  },
+  {
+   "id": "c6d0f8504d2964f3",
+   "title": "Thousands to march in Madrid after death of evicted pensioner Maricarmen",
+   "summary": "Rally to remember woman, 87, whose rent battle with investment firm triggered nationwide protests over housing crisis Thousands of people are expected to march through the centre of Madrid on Thursday evening in memory of María del Carmen Abascal, the 87-year-old woman whose eviction from her flat in the capital a fortnight before her death triggered mass protests over Spain’s housing crisis .…",
+   "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T15:15:12+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "cfa56270ca7d4bf2",
+   "title": "Ex-police chief who had affairs with two officers guilty of gross misconduct",
+   "summary": "Scott Chilton, who led Hampshire and the Isle of Wight police force, barred from becoming a police officer again A former chief constable showed a sense of entitlement, dishonesty and lack of integrity by having sexual relationships with two subordinate officers, including engaging in sexual activity while on call to lead major incidents, a misconduct hearing has ruled. The panel found that the…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/08/former-police-chief-gross-misconduct-hampshire-uk",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T15:11:42+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "50c4b3f7c6789054",
+   "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+   "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+   "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T15:07:59+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "8495cff4bc01686e",
+   "title": "How long will the global energy crunch last?",
+   "summary": "High energy prices continue to drive inflation and stoke anger among voters around the world. But with more crude oil flowing through the Strait of Hormuz, and governments releasing more emergency fuel stockpiles, how long will the energy crunch last?",
+   "url": "https://www.france24.com/en/tv-shows/people-profit/20261008-how-long-will-the-global-energy-crunch-last",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T15:05:52+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b88bdb23fd75a301",
+   "title": "Search warrants used in Andrew Mountbatten-Windsor raids were unlawful, court rules",
+   "summary": "Judge makes ruling after former prince brought judicial review of operation linked to Jeffrey Epstein investigation Andrew Mountbatten-Windsor has won his legal challenge against Thames Valley police over search warrants that led to his arrest. The former prince brought a judicial review of the legality of the force’s actions and those of the central criminal court, which granted the warrants.…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/08/search-warrants-used-in-andrew-mountbatten-windsor-raids-were-unlawful-court-rules",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T15:05:40+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "0e661858bcd02381",
+   "title": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
+   "summary": "Reports that Trump aides were paid to advise Bosnian Serb leader ahead of parliamentary election raise alarm.",
+   "url": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T15:01:18+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Bosnia and Herzegovina",
+    "United States"
+   ]
+  },
+  {
+   "id": "c329c15473bb4d30",
+   "title": "French students vow to continue protests, saying ministers’ pledges not enough",
+   "summary": "Schools blockaded again across country as teenagers and teachers demand more investment and ‘concrete measures’ to improve conditions Europe live – latest updates High school students have again blockaded schools and marched through cities across France, promising to continue their campaign despite government pledges to address the grievances underlying 10 days of protests that have left hundreds…",
+   "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T15:00:03+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "7c60b8179a8db851",
+   "title": "Will the Chinese Sink the Grid?",
+   "summary": "Chinese longer duration batteries undercut the rationale for our present electricity grid. At the same time, foreign hackers and domestic-but-berserk AI programs could also accelerate the grid’s demise. Sounds extreme? Well, here’s the story. The long-distance, high-voltage transmission network developed: To bring low-cost power from distant resources (such as Niagara Falls or mine-mouth…",
+   "url": "https://oilprice.com/Energy/Energy-General/Will-the-Chinese-Sink-the-Grid.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-08T15:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "5518e42140befaff",
+   "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+   "summary": "Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T14:50:20+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "9eb0a1f11ccd92d6",
+   "title": "BBC axes long-running Radio 4 show You and Yours in push towards podcasts",
+   "summary": "Thinking Allowed, The Artificial Human and Free Thinking among other programmes hit by £500m cuts BBC Radio 4’s consumer rights show You and Yours is to be axed after more than 50 years, becoming one of the latest victims of the corporation’s £500m cuts plan. The programme, once described by the former Radio 4 controller Mark Damazer as “one of the most important” on the station, is one of a…",
+   "url": "https://www.theguardian.com/media/2026/oct/08/bbc-axes-radio-4-shows-you-and-yours-podcasts",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T14:48:33+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "8a9796b22d6ecb54",
+   "title": "Leaked chats show Russian extortion gang sending ‘agents’ into US law firms",
+   "summary": "In leaked chats, members track dozens of victims, haggle over multimillion-dollar payments and direct operatives based in the United States whom they call “agents.”",
+   "url": "https://therecord.media/leaked-chats-show-russian-extortion-gang-sending-agents-to-law-firms",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-08T14:46:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "0d2e664a3127a83c",
+   "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+   "summary": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T14:43:19+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "7972153f85095cae",
+   "title": "India faces water and power stress after weak monsoon",
+   "summary": "A weak monsoon is hitting farmers, water supplies and India's power system, while raising wider questions about increasingly erratic rainfall and its economic costs.",
+   "url": "https://www.dw.com/en/india-faces-water-and-power-stress-after-weak-monsoon/a-79599540?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-08T14:40:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "031d20e1d2d34c0a",
+   "title": "Russian Oil Flows to India Plunge to 310,000 Bpd",
+   "summary": "India is reducing its imports of crude oil from Russia, but mostly not because of the U.S. tariff threat for buying Russian oil. Economics have always been driving Indian refiners’ purchases, and the past few weeks haven’t been different. Russia is scaling back imports of Russian oil as the price of Russia’s flagship Urals grade loaded in the Baltic ports has jumped and now nearly equals the…",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Oil-Flows-to-India-Plunge-to-310000-Bpd.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-08T14:30:00+00:00",
+   "themes": [
+    "energy",
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "India",
+    "United States"
+   ]
+  },
+  {
+   "id": "c3fb1d7f1f2b50bc",
+   "title": "Equinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field",
+   "summary": "Equinor has discovered gas at the Gullfaks field, which would help maintain production and activity at the production license in the northern part of the North Sea. Operator Equinor on Thursday said that together with its partners Petoro and OMV, it had discovered gas at the Gullfaks South field, 190 kilometers (118 miles) northwest of Bergen. Estimates point to between 3.3 million and 10.3…",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Finds-New-Gas-at-Norways-40-Year-Old-Gullfaks-Field.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-08T14:30:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Norway"
+   ]
+  },
+  {
+   "id": "7478f47b5f9d7396",
+   "title": "Colombia to open embassy in Jerusalem next Wednesday",
+   "summary": "Colombia to open embassy in Jerusalem next Wednesday Israel's foreign minister Gideon Saar announced on Thursday that Colombia would join a small but growing list of countries to open an embassy in Jerusalem next week, while most other embassies in Israel remain in Tel Aviv. \"Next Wednesday, we are going to inaugurate... the Colombian embassy,\" Saar said at a conference, adding that the…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-open-embassy-jerusalem-next-wednesday",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T14:26:58+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Israel",
+    "Colombia"
+   ]
+  },
+  {
+   "id": "27d74beed4636f7d",
+   "title": "Tanker Attack Off Qatar Signals Wider Threat Beyond Hormuz",
+   "summary": "A chemical tanker was struck by multiple projectiles off the coast of Qatar on Wednesday, with casualties reported among its crew, in the latest attack on commercial shipping as violence...",
+   "url": "https://gcaptain.com/tanker-attack-off-qatar-signals-wider-threat-beyond-hormuz/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-08T14:25:15+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Qatar"
+   ]
+  },
+  {
+   "id": "e37a7778183449fb",
+   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias looked set to head towards the US Gulf coast with weather officials warning of dangerous storm surge, hurricane-force winds, heavy rainfall, and flooding. Isaias intensified into a…",
+   "url": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T14:22:19+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "9a01dd0065807f28",
+   "title": "French students clash with police as school protests continue",
+   "summary": "Students clash with police outside French schools as blockades, tear gas and fires mark a new nationwide mobilisation ahead of the 2027 election.",
+   "url": "https://www.euronews.com/video/2026/10/08/french-students-clash-with-police-as-school-protests-continue",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-08T14:22:01+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "428daffd435f8ad4",
+   "title": "Experts in Baku urge action as missing persons surge worldwide and in Ukraine",
+   "summary": "Around 280,000 people are registered as missing in Ukraine alone, with 10,000 new cases added each month, part of a 70% global rise since 2019. Forensic experts meeting in Baku said the obstacle was not forensic capacity but governmental reluctance.",
+   "url": "https://www.euronews.com/2026/10/08/experts-in-baku-urge-action-as-missing-persons-surge-worldwide-and-in-ukraine",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-08T14:21:34+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine",
+    "Azerbaijan"
+   ]
+  },
+  {
+   "id": "f2582da07b1f58fe",
+   "title": "UK refuses to comment after Israel freezes 'military dialogue and security cooperation'",
+   "summary": "UK refuses to comment after Israel freezes 'military dialogue and security cooperation' Submitted by Imran Mulla on Thu, 10/08/2026 - 14:01 Israel's foreign minister made the extraordinary claim on Thursday but UK government departments gave evasive responses to MEE's queries Britain's Foreign Secretary Ed Miliband leaves after meeting with his French counterpart during a visit to the Quai…",
+   "url": "https://www.middleeasteye.net/news/uk-wont-comment-after-israel-accuses-it-freezing-military-dialogue-and-security-cooperation",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T14:12:34+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "France",
+    "Israel"
+   ]
+  },
+  {
+   "id": "a4880280afeafbc6",
+   "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+   "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+   "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T14:10:58+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "0ef84a0ed37a300d",
+   "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
+   "summary": "The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia's shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route.",
+   "url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-08T14:10:23+00:00",
+   "themes": [
+    "sanctions",
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "africa"
+   ],
+   "countries": [
+    "Russia",
+    "United Kingdom",
+    "Senegal"
+   ]
+  },
+  {
+   "id": "b66e3ab0a6cc1ab5",
+   "title": "Search warrants for former prince Andrew's homes were unlawful, UK court rules",
+   "summary": "Police who searched the properties of Andrew Mountbatten-Windsor as part of investigations into his links to the late sex offender Jeffrey Epstein have agreed the search warrants were unlawful, a London judge said Thursday. The 66-year-old younger brother of King Charles II was arrested on February 19 on suspicion of misconduct in public office.",
+   "url": "https://www.france24.com/en/europe/20261008-search-warrants-for-former-prince-andrew-homes-were-unlawful-uk-court-rules",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T14:09:08+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "13572890a9aad01b",
+   "title": "A French-German non-paper could be a turning point in EU trade defense",
+   "summary": "What to know about the proposal for a quicker European trade-retaliation tool. The post A French-German non-paper could be a turning point in EU trade defense appeared first on Atlantic Council .",
+   "url": "https://www.atlanticcouncil.org/dispatches/a-french-german-non-paper-could-be-a-turning-point-in-eu-trade-defense/",
+   "source": "Atlantic Council",
+   "group": "Think tank",
+   "published": "2026-10-08T14:08:29+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "European Union"
+   ]
+  },
+  {
+   "id": "699bcde96a535c6a",
+   "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
+   "summary": "New York City’s Mayor Zohran Mamdani was met by crowds calling him a ‘traitor’ for attending a vigil for October 7.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T14:07:13+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "0c88bdc5d38f2f39",
+   "title": "Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter",
+   "summary": "Intensifying attacks by Russia and Ukraine ahead of the winter are further endangering navigational safety in the Black Sea, Turkish Foreign Minister Hakan Fidan said on Thursday, adding that world powers must not allow the region to be turned into a new front in the war.",
+   "url": "https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-08T14:05:18+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "4f20a94ee0aae6e6",
+   "title": "Shoot the People: Global Activism through Misan Harriman’s Lens",
+   "summary": "Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.",
+   "url": "https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T14:02:10+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "africa"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "7641113375908ada",
+   "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
+   "summary": "Israel's order to shut UK's Jerusalem consulate is the latest downturn in a relationship strained since before 1948.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T14:01:54+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Israel"
+   ]
+  },
+  {
+   "id": "513dd498d2591bf3",
+   "title": "‘This is a crisis of hope’: Echoes of 1968 as France’s students rise up",
+   "summary": "As in 1968, when student protests triggered nationwide strikes, today’s crisis is about generational discontent.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T14:01:13+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "89fde983b4a8a356",
+   "title": "Investigation Finds That Former High-Ranking Uzbek Security Official Acquired UAE Citizenship",
+   "summary": "According to a OCCRP and Ozodlik investigation, Otabek Umarov, the Uzbek president’s son-in-law, obtained Emirati citizenship in 2023, while he was deputy head of the Presidential Security Service.",
+   "url": "https://thediplomat.com/2026/10/investigation-finds-that-former-high-ranking-uzbek-security-official-acquired-uae-citizenship/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T14:01:00+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "Uzbekistan",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "856031d8bc7487d9",
+   "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
+   "summary": "The inflammatory clip shows the wild west of online politicking created by unrestricted access to AI – and why watchdogs need more powers to do something about it Get our new political email , free app or daily news podcast One Nation’s new AI-generated campaign video is a new low – even for them. The video – reportedly played at the party’s Victorian campaign launch over the weekend – is an…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T14:00:22+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "59942246efd91588",
+   "title": "Protest culture: Why do French students repeatedly rise up?",
+   "summary": "France is in the international spotlight as massive student protests show no sign of stopping. Demonstrating is something of a rite of passage for young people in France, a moment when teenagers discover politics and their collective voice. How has this \"protest culture\" manifested itself in recent French history? And why are some student protests effective at bringing about change and others…",
+   "url": "https://www.france24.com/en/tv-shows/french-connections/20261008-protest-culture-why-do-french-students-repeatedly-rise-up",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T14:00:10+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "d7051768e4a448ca",
+   "title": "Subcontinent Ports Benefiting from Geopolitical Disruptions",
+   "summary": "Today's trade flows resemble a windy waterpark slide more than the traditional waterway superhighway. The three-dimensional chess game being played by ocean carriers and tankers has delivered big bucks in day rates, container rates, and surcharges. But there is a group of winners not currently being highlighted.",
+   "url": "https://gcaptain.com/subcontinent-ports-benefiting-from-geopolitical-disruptions/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-08T14:00:01+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "ec54d854b43966a6",
+   "title": "UAE Joins Kazakhstan, Uzbekistan in Push for Trans-Afghan Railway",
+   "summary": "It appears Kazakhstan and Uzbekistan may have found a way to finance a trans-Afghan railway that would enable Central Asian exports to gain access to seaports in Pakistan. Transport officials from the two Central Asian states have signed a memorandum of understanding with the United Arab Emirates covering “the practical development” of the railway, according to a Kazakh government statement.…",
+   "url": "https://oilprice.com/Energy/Energy-General/UAE-Joins-Kazakhstan-Uzbekistan-in-Push-for-Trans-Afghan-Railway.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-08T14:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Kazakhstan",
+    "Uzbekistan",
+    "United Arab Emirates",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "195dd387c62d197d",
+   "title": "Hackers target two South Korean megachurches, potentially exposing congregant data",
+   "summary": "Two of South Korea's largest Protestant churches are investigating cyberattacks that may have exposed sensitive information about hundreds of thousands of members, including personal details, financial records and internal documents.",
+   "url": "https://therecord.media/south-korea-hackers-megachurches",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-08T13:55:56+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "414b23a766df952d",
+   "title": "Polish SIM cards found in Russian drones downed in Poland",
+   "summary": "Polish SIM cards found in Russian drones downed in Poland    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlI5Y2xyR3p2dVlVSVRsRDFYRDVOal80dXZULVVmZ3BJWG1GNURQY1hHdGhhVC1aT2V0R1RydnhsNmtkNmV6Sk5tRzJoa0stTy0yZ05EOWxfZ1pkUUtNVktnMTlPMnV5dnVaNzBNT3VYMmw3YmI1Vlk2c0F0QmlVNVhqQndBLUw2WGowc2kzYw?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-08T13:54:32+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "Poland"
+   ]
+  },
+  {
+   "id": "66f04e06c1fa96f5",
+   "title": "Canadian Anne Carson wins 2026 Nobel Prize in Literature",
+   "summary": "The Swedish Academy praised the 76-year-old poet and essayist's work for being 'bold and inventive'.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T13:51:46+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Sweden",
+    "Canada"
+   ]
+  },
+  {
+   "id": "68048b5acf727f6b",
+   "title": "Iran strikes tankers outside Hormuz in signs of expanding campaign",
+   "summary": "Two commercial vessels were hit within 24 hours — one off Qatar, the first attack in that area in six months, and one off Fujairah in the Gulf of Oman — as IRGC-affiliated outlets suggested Tehran had extended operations beyond the crucial strait.",
+   "url": "https://www.euronews.com/2026/10/08/iran-strikes-tankers-outside-hormuz-in-signs-of-expanding-campaign",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-08T13:49:25+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran",
+    "United Arab Emirates",
+    "Qatar",
+    "Oman"
+   ]
+  },
+  {
+   "id": "6a5d455ee10f5c94",
+   "title": "The hidden health issue sending seafarers home",
+   "summary": "Musculoskeletal problems are responsible for a significant proportion of crew repatriations, but earlier intervention could help prevent many cases from reaching that stage says Ronald Spithout, MD oneHealth by VIKAND. Working at sea is physically demanding, so aches and pains can easily be accepted as part of the job. A sore back after lifting, a …",
+   "url": "https://splash247.com/the-hidden-health-issue-sending-seafarers-home/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-08T13:48:55+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "5b78f9d00b045d0d",
+   "title": "SPM Shipping plays the market",
+   "summary": "With only a few months in gas, Dubai-based SPM Shipping, a shipowner, operator and offshore player, has now added its third VLGC, according to sources. The fast-growing owner is ambitious and moving comfortably in the largest segments in shipping, first placing money in both the cape and VLCC segments, an uncommon move for a relative …",
+   "url": "https://splash247.com/spm-shipping-plays-the-market/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-08T13:46:51+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "812139bde7cdcdce",
+   "title": "Microsoft brings more AI to PCs as it challenges Apple",
+   "summary": "Microsoft unveiled on Wednesday an AI coding model that can run directly on personal computers and new security technology to prevent AI agents from accessing data without permission, challenging Apple's push to bring more AI into personal devices.",
+   "url": "https://www.france24.com/en/video/20261008-microsoft-brings-more-ai-to-pcs-as-it-challenges-apple",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T13:45:21+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "d6446e3e9debd607",
+   "title": "French PM vows changes as students keep up school protests",
+   "summary": "French PM Sebastien Lecornu has promised to address student concerns as protests force hundreds of schools to close.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/french-pm-vows-changes-as-students-keep-up-school-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T13:45:10+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "27641a55ad8b90d8",
+   "title": "30 dead in strike on Ukraine bus as Russian attacks intensify",
+   "summary": "Thirty people were killed and at least 18 were injured by Russian strikes in eastern Ukraine that included an attack on a public bus, authorities said Thursday, as an intensive pre-winter wave of attacks continued.",
+   "url": "https://www.france24.com/en/video/20261008-30-dead-in-strike-on-ukraine-bus-as-russian-attacks-intensify",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T13:44:30+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "9009b24cb9969d0e",
+   "title": "'They killed her': Evicted pensioner who sparked Spain housing protests dies",
+   "summary": "The 87-year-old whose eviction last month sparked nationwide protests in Spain has died. Maricarmen Abascal was evicted from her home of more than 70 years last month, after it was bought by an investment fund. After news of her passing, some who took to the streets say they believe her death was brought on by the stress of the eviction.",
+   "url": "https://www.france24.com/en/video/20261008-they-killed-her-evicted-pensioner-who-sparked-spain-housing-protests-dies",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T13:43:12+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "14fc8f1a5f1d8370",
+   "title": "Italian opposition cries foul as Meloni’s electoral reform passed in secret ballot",
+   "summary": "Parties vow to challenge law in court, arguing that extra reward for those with 42% of support distorts public representation Europe live – latest updates A controversial overhaul to electoral law that critics say is aimed at boosting Giorgia Meloni’s chances of clinging on to power in elections next year has been given final approval by the Italian parliament. Meloni, the Italian prime minister,…",
+   "url": "https://www.theguardian.com/world/2026/oct/08/giorgia-meloni-italy-wins-bonus-seat-electoral-reform-vote",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T13:42:50+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "fd982b62e6d41a00",
+   "title": "High school student protests continue in France",
+   "summary": "#France: high school students continue to protest Thursday in the face of what they say is the government’s failure to respond to their demands. Follow the fourth day of protests on FRANCE 24",
+   "url": "https://www.france24.com/en/video/20261008-high-school-student-protests-continue-in-france",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T13:40:26+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "b38e5002c995bd19",
+   "title": "Rubio praises nationalism and ties ‘America First’ values to ancient Greece",
+   "summary": "US Secretary of State Marco Rubio urged Western nations to prioritise their own interests in a speech in Athens.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/rubio-praises-nationalism-and-ties-america-first-values-to-ancient-greece?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T13:38:03+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Greece",
+    "United States"
+   ]
+  },
+  {
+   "id": "a1e9aaa6edd760fc",
+   "title": "The Afghan Taliban’s Growing Drone War Against Pakistan",
+   "summary": "For Pakistan, the most worrying possibility is small, relatively cheap drone systems falling into the hands of terrorist groups.",
+   "url": "https://thediplomat.com/2026/10/the-afghan-talibans-growing-drone-war-against-pakistan/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T13:35:00+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan",
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "8db9877cf36b24de",
+   "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
+   "summary": "British Foreign Secretary Miliband said the consulate building would remain but would be called 'UK Mission, Jerusalem'.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T13:32:32+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Israel"
+   ]
+  },
+  {
+   "id": "aabd423a98054e38",
+   "title": "Supertanker Rates Hit Record $1.4 Million a Day",
+   "summary": "The oil crisis has extended into the shipping sector with a large tanker fleet tied up in ship-to-ship transfers outside the Strait of Hormuz, pushing global freight rates to record highs and reducing vessel availability for other routes. Supertanker rates have soared in recent weeks, and hit a record-high of $1.4 million per day on the Gulf to East Asia trip, according to data compiled by…",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Hit-Record-14-Million-a-Day.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-08T13:30:00+00:00",
+   "themes": [
+    "maritime",
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fddcb0f0a6b95bee",
+   "title": "New Paris exhibition explores Ireland's housing crisis through contemporary art",
+   "summary": "Huge demonstrations have been held over the last few weeks in Spain over its housing crisis, but the issue is not restricted to Spain. Many other countries also have a huge problem with housing, including Ireland, with experts saying that for every street of 10 houses, the country actually needs 12. Now a new exhibition in Paris at the Irish Cultural Centre is trying to reflect the issue. In…",
+   "url": "https://www.france24.com/en/tv-shows/perspective/20261008-new-paris-exhibition-explores-ireland-s-housing-crisis-through-contemporary-art",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T13:29:50+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ireland",
+    "France",
+    "Spain"
+   ]
+  },
+  {
+   "id": "e9042d7c0973ac78",
+   "title": "US scientist’s children erupt in joy after hearing he won Nobel",
+   "summary": "Video shows US scientist Karl Deisseroth breaking the news to his son and two daughters that he won the Nobel Prize.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-scientists-children-erupt-in-joy-after-hearing-he-won-nobel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T13:20:02+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ef3492e64977c4c8",
+   "title": "Russian Strike On Ukrainian Buses Kills More Than 30 Passengers In Kramatorsk",
+   "summary": "More than 30 people were killed and several dozen others injured after a Russian attack on two passenger buses in Kramatorsk, according to Ukrainian authorities. Two buses were destroyed in the strike and public transportation was suspended.",
+   "url": "https://www.rferl.org/a/russian-strike-ukrainian-buses-kills-passengers-kramatorsk/33872867.html",
+   "source": "RFE/RL",
+   "group": "Regional",
+   "published": "2026-10-08T13:12:07+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "e857640395390105",
+   "title": "Turkey assesses defensive support for Saudi Arabia amid Houthi attacks",
+   "summary": "Turkey assesses defensive support for Saudi Arabia amid Houthi attacks Turkey is assessing how it can help Saudi Arabia defend against attacks by Yemen’s Iran-aligned Houthi movement under a joint defence pact with Pakistan, Foreign Minister Hakan Fidan said on Thursday, ruling out Turkish participation in offensive operations. Turkey, Pakistan and Saudi Arabia signed the Mecca Joint Defence…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-assesses-defensive-support-saudi-arabia-amid-houthi-attacks",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T13:07:34+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Yemen",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "07931fc003ba4122",
+   "title": "Thousands of cheap Android phones shipped with ad-fraud malware",
+   "summary": "\"It’s on the phone before the owner switches it on for the first time, and it can’t be uninstalled,\" researchers at Bitdefender said about ad fraud malware found on thousands of cheap Android devices.",
+   "url": "https://therecord.media/cheap-androids-shipped-with-ad-fraud-malware",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-08T13:00:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f47470d1dc269332",
+   "title": "West Africa: The Burden of Heart Diseases in Nigeria",
+   "summary": "[Leadership] The growing burden of cardiovascular diseases (CVDs) in Nigeria is becoming increasingly difficult to ignore, with hypertension, diabetes, unhealthy lifestyles and inadequate access to sustained medical care contributing to preventable deaths across the country.",
+   "url": "https://allafrica.com/stories/202610080437.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T12:56:15+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "e596936581957783",
+   "title": "Nigeria: NAF Plane Crash - Huriwa Dismisses Presidential Investigation",
+   "summary": "[Leadership] A civil rights advocacy group, Human Rights Writers Association of Nigeria (HURIWA), has dismissed President Bola Ahmed Tinubu's order of investigation of the crash of NAF 931 plane in Igbokoda area of Ondo State.",
+   "url": "https://allafrica.com/stories/202610080435.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-08T12:56:13+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "54cc40511e4e161f",
+   "title": "France student protests: What measures is the government taking?",
+   "summary": "French Prime Minister Sebastien Lecornu said in a televised address Wednesday evening that the country could not be \"indifferent\" to the concerns of protesting high school students, acknowledging that the \"anger of young people does not come from nowhere\". He denied that security forces have \"orders to confront\" the young people, and promised the government would present a plan to respond to the…",
+   "url": "https://www.france24.com/en/video/20261008-france-student-protests-what-measures-is-the-government-taking",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T12:54:23+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "476e26bfd002e353",
+   "title": "Conflict in Yemen: What are the Houthis’ aims?",
+   "summary": "Saudi authorities said Wednesday three people were killed in attacks on two of the kingdom's international airports, including in the capital Riyadh, after Yemen's Houthis claimed to have fired on both transport hubs. The Iran-backed Houthis have claimed a wave of attacks on Saudi civilian infrastructure in recent weeks, which came as Riyadh-backed forces pressed a counter-offensive against the…",
+   "url": "https://www.france24.com/en/video/20261008-conflict-in-yemen-what-are-the-houthis-aims",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T12:52:30+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "66ebac9e35b6e22e",
+   "title": "Boston Ballet returns to Paris and builds lasting legacy",
+   "summary": "In this edition of Entre Nous we speak to Mikko Nissinen, the artistic director of the Boston Ballet, which is performing this week at the historic Théâtre des Champs-Elysées in Paris. He tells us what it means to come back to Paris and what the French audience can expect from works by Alexander Ekman and Akram Khan.",
+   "url": "https://www.france24.com/en/tv-shows/entre-nous/20261008-boston-ballet-returns-to-paris-and-builds-lasting-legacy",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T12:51:50+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "b18de1f319bf79a8",
+   "title": "French teens keep up school blockades despite prime minister's pledge to act",
+   "summary": "French teenagers blockaded some high schools and marched through cities on Thursday after the government promised to address their grievances about teacher shortages and dilapidated school buildings. Reporting from Paris, France 24's Jamie Smith-Maillet says protesters he has spoken to see the government measures as lacking detail and have vowed to continue demonstrations until concrete action is…",
+   "url": "https://www.france24.com/en/video/20261008-french-teens-keep-up-school-blockades-despite-prime-minister-s-pledge-to-act",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T12:48:22+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "e7bbbe444e49da65",
+   "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
+   "summary": "Eight survivors rescued from the rubble as fears of further collapse slow operations in Istanbul’s Maltepe district.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T12:44:52+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "f61b610f3354805b",
+   "title": "South Korea to recall Ukraine envoy in diplomatic row over POWs",
+   "summary": "South Korea recalls envoy from Kyiv amid diplomatic tensions over alleged transfer of North Korean soldiers to Seoul.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T12:44:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific"
+   ],
+   "countries": [
+    "Ukraine",
+    "South Korea",
+    "North Korea"
+   ]
+  },
   {
    "id": "16c67f2bd64ec614",
    "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
@@ -58,6 +1482,37 @@
     "Saudi Arabia",
     "Yemen"
    ]
+  },
+  {
+   "id": "12d04ffd50eca9b9",
+   "title": "Beyond Deference: India’s Bangladesh Reckoning",
+   "summary": "A course correction is needed in New Delhi.",
+   "url": "https://thediplomat.com/2026/10/beyond-deference-indias-bangladesh-reckoning/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T12:33:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India",
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "1bbee11531502fcd",
+   "title": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says",
+   "summary": "Recovery marks a dramatic turnaround for Pike, who remains in hospital after a botched execution in Tennessee Christa Pike is “up and walking” in hospital, her lawyer said, just more than a week after she survived two lethal injections during a botched execution in Tennessee. The recovery marks a dramatic turnaround after Pike was declared brain dead on Monday, before waking up and beginning to…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T12:32:46+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "4c64d76fc33d0eaa",
@@ -146,6 +1601,23 @@
    ]
   },
   {
+   "id": "9fc8da530a593492",
+   "title": "Afghanistan and the BLA’s Evolving Capabilities",
+   "summary": "Reported discussions in Kandahar point to a possible expansion of the BLA’s external support networks as the group comes under pressure in Pakistan.",
+   "url": "https://thediplomat.com/2026/10/afghanistan-and-the-blas-evolving-capabilities/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T12:30:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Pakistan",
+    "Afghanistan"
+   ]
+  },
+  {
    "id": "67360708a19001cc",
    "title": "First Thing: Trump endures protests in Texas as DNC sues over adverts",
    "summary": "The president was repeatedly interrupted at a rally and faces a legal challenge over taxpayer-funded adverts. Plus Jonathan, the giant tortoise who may have the secret to longevity Good morning. Donald Trump suffered a torrid night at a rally in Texas that was rocked by repeated protests . The US president briefly stepped away from the microphone after one protester appeared to approach the…",
@@ -224,6 +1696,24 @@
    "title": "S. Korea warns of AI-aided hacking after bank data breaches",
    "summary": "Seoul is alarmed after a recent breach of South Korean banks' cyber defenses that reportedly involved AI-assisted hacking. Officials warn such methods could be used to also target other sectors and government agencies.",
    "url": "https://www.dw.com/en/s-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-08T12:17:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "4dc5bdc86ea3aea0",
+   "title": "South Korea warns of AI-aided hacking after bank data breaches",
+   "summary": "Seoul is alarmed after a recent breach of South Korean banks' cyber defenses that reportedly involved AI-assisted hacking. Officials warn such methods could be used to also target other sectors and government agencies.",
+   "url": "https://www.dw.com/en/south-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-world-4025-rdf",
    "source": "DW",
    "group": "World news",
    "published": "2026-10-08T12:17:00+00:00",
@@ -384,6 +1874,59 @@
    ]
   },
   {
+   "id": "5f65295b1f6d10e5",
+   "title": "US, Russia confirm Trump's latest Ukraine peace push is falling apart",
+   "summary": "US, Russia confirm Trump's latest Ukraine peace push is falling apart    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY29XdE4yYTB1Wk9wOC1oM1hXMURibm1VdzJFZDc2OWQ2Wk1nRkJESGNOcmpVdzVSTnBicDNWbEFXdnVsV2dpNzUzZXhpWlBCbDJuZmEwTW8xRkpOY1FJSXh6c0lEVTNfZWI3U08yQnpuNUtsV0RFQkZaOFRUNkhORVNvQlRQaVlzOFZVWGN3NTF6MXU1cDZVck1ZbU4?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-08T12:09:47+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "c3b39eea450fbbfe",
+   "title": "Document - UNHCR Bangladesh - Operational Update July August 2026",
+   "summary": "Document - UNHCR Bangladesh - Operational Update July August 2026    UNHCR Data Portal",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92MlpLc3dOVlpZbnhBMkpvU2Y2WmM5VEY5TkJVMmR1S1BHUEV2Y092U1FLOTdJb1lxQ2ZxMWpKUjNNaDQ1Y3UzdEVRTXVfd3FQa3RTdlY0Rzh0Mk03QjJV?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-08T12:09:02+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "b0c46143236ac767",
+   "title": "13 OPERATIONAL UPDATE 200.6 M 1,204,492",
+   "summary": "13 OPERATIONAL UPDATE 200.6 M 1,204,492    UNHCR Data Portal",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52NFdZT2laU3FfOFpQRzdvSVRTelp6UXFyQnhSNGpKSm55cGdCelBZdGI5R2hxS2FBTjNzQkp0bjZhT21zeEJyRTlaSFl2R2szdFI3eVZKeXo0V3lNanlHaA?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-08T12:09:01+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
    "id": "ab6bc73a37e7de1b",
    "title": "Africa: United States Accused of Exploiting Migrant Suffering With Africa Deportations",
    "summary": "[RFI] The United States is violating international law by deporting migrants to African countries where they have no ties, NGO Human Rights Watch said on Thursday, accusing Washington of using deportation to remote destinations as a deterrent to immigration.",
@@ -417,6 +1960,22 @@
    "countries": [
     "United States",
     "Mozambique"
+   ]
+  },
+  {
+   "id": "fdcfd2225324cd4c",
+   "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+   "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T12:04:25+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Indonesia"
    ]
   },
   {
@@ -667,6 +2226,22 @@
    "countries": [
     "United States",
     "Liberia"
+   ]
+  },
+  {
+   "id": "296207a6e5ecafcd",
+   "title": "The EU’s Middle-Power Puzzle",
+   "summary": "The EU’s Middle-Power Puzzle    Carnegie Endowment for International Peace",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGF4MGxrQnFEVE0yYndCT25UNWxRQ2wxY0E0ZWdXMzY3SXFPQUtGbzhENmM5N0JxR2l5N2FraTRRTUpuN2p5Wk5ndjM1cE9DYUNycl9hSDM2WTk4a0NWdTlsekJaa3V5NTdCRVNiVTlqTG5tNkxBLWpZYUFGNEh3b3Jjb1VlMG1waVVDblR4eE1fUUk?oc=5",
+   "source": "Carnegie",
+   "group": "Think tank",
+   "published": "2026-10-08T11:50:52+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "European Union"
    ]
   },
   {
@@ -1634,6 +3209,22 @@
    ]
   },
   {
+   "id": "371a471287106fd0",
+   "title": "Can Latin America and the Caribbean’s workforce keep pace with the energy boom? - IEA",
+   "summary": "Can Latin America and the Caribbean’s workforce keep pace with the energy boom?    IEA - International Energy Agency",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUEyUXYxV3NwbjNsQVA3VUw3VzVsVGlOT2tzZ3JrbUhYMElyV1ItalN6RFByRjcxRzFjcUFSMGp6cmRzZkVZa1JJRFVqOGF6blljVFMyQ1JlTTZ5OFFMS1VrZE1YMi1lbkpnQ2hfd1Ywd3JjOGdFOHhYODc3SEFYRGJLWnZ2dnJPS1ZoeWdpcjNJTi1sSEpmdVNwdzlpWURjNTZkemNRU3RvOFRmOUlV?oc=5",
+   "source": "IEA News",
+   "group": "Energy",
+   "published": "2026-10-08T09:41:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
    "id": "c1184bcdcfc74035",
    "title": "UK police charge Royal Navy member accused of working with foreign power",
    "summary": "Police say the incident is not connected to ongoing investigations at the RAF Fairford airbase.",
@@ -2432,6 +4023,24 @@
    ]
   },
   {
+   "id": "4c3a98a3f5371916",
+   "title": "France's Le Pen opposes Ukraine EU membership over farming fears",
+   "summary": "France's Le Pen opposes Ukraine EU membership over farming fears    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEtlcURteklGWncydHptOU5nWmQwb29HMzRzUDhLZnpPb0QyU1V6b1JQNGd4dHMzSTl3Nzh3b0Z1bFE2ZDVTb29qS0hiUVE0TTJqZmtWOFNzTkVOOFB1b041Wk1lek9IdGo0ZjVBZHJmckxFQ1RXRTZQQ041THlrWVQxZ1p0SWdSSEtjTER5SGpudExPRnQ0?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-08T07:31:00+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine",
+    "France",
+    "European Union"
+   ]
+  },
+  {
    "id": "86d73efe7f36a8fe",
    "title": "Achieving Breakthrough: Maneuver Warfare in the Face of Robotic Mass",
    "summary": "In 1914, European armies entered a war with forces designed to move. Within months, they were digging themselves into the earth. Ffires from newly introduced machine guns and heavy artillery made movement across exposed ground a proposition far more deadly than in any war that had ever afflicted humanity. More than a century later, armies are confronting an unsettling echo of that experience in…",
@@ -2968,6 +4577,22 @@
    "countries": []
   },
   {
+   "id": "6776368e64216f4a",
+   "title": "Gen Z Women Take to the Streets Over Spate of Rapes in India’s Capital",
+   "summary": "Urban Indian women are refusing to be cowed down or slut shamed or policed for their attire or forced to stay indoors in the evenings to ensure their safety.",
+   "url": "https://thediplomat.com/2026/10/gen-z-women-take-to-the-streets-over-spate-of-rapes-in-indias-capital/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T05:58:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
    "id": "76b4ae2ece97eb86",
    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
    "summary": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
@@ -3034,6 +4659,22 @@
    ],
    "countries": [
     "France"
+   ]
+  },
+  {
+   "id": "cff3c43b9228a86c",
+   "title": "Anwar is Bargaining Myanmar Lives For Political Gain – And He Will Lose",
+   "summary": "Min Aung Hlaing should not be trusted to resolve a refugee crisis that is a direct result of his own past policies.",
+   "url": "https://thediplomat.com/2026/10/anwar-is-bargaining-myanmar-lives-for-political-gain-and-he-will-lose/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T05:39:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Myanmar"
    ]
   },
   {
@@ -3215,6 +4856,44 @@
    "countries": [
     "United Kingdom",
     "Israel"
+   ]
+  },
+  {
+   "id": "1d4d72e564eed3fd",
+   "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+   "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T05:06:09+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "185d00da1fc7e0af",
+   "title": "In a Diplomatic Shift, Malaysian PM Hosts Myanmar’s Min Aung Hlaing",
+   "summary": "While the talks focused on the repatriation of refugees, Anwar also appeared to endorse Myanmar's reintegration into ASEAN.",
+   "url": "https://thediplomat.com/2026/10/in-a-diplomatic-shift-malaysian-pm-hosts-myanmars-min-aung-hlaing/",
+   "source": "The Diplomat",
+   "group": "Regional",
+   "published": "2026-10-08T05:04:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Myanmar",
+    "Malaysia"
    ]
   },
   {
@@ -3533,6 +5212,42 @@
    ],
    "countries": [
     "Italy"
+   ]
+  },
+  {
+   "id": "92a722202456eb1f",
+   "title": "Immigrant Physicians Help Sustain U.S. Health Care as Policy Changes Add Pressure to Already Strained Workforce",
+   "summary": "",
+   "url": "https://www.migrationpolicy.org/press-release/immigrant-physicians-policy-change",
+   "source": "Migration Policy Institute",
+   "group": "Migration",
+   "published": "2026-10-08T04:00:00+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "5cf17e0dc50d78a3",
+   "title": "Physicians in an Era of Changing Immigration Policy: The Case of Nephrology",
+   "summary": "The care of kidney disease in the United States relies heavily on international medical graduates (IMGs). Recent policy changes could deepen specialist shortages and limit access to care.",
+   "url": "https://www.migrationpolicy.org/publication/physicians-immigration-nephrology",
+   "source": "Migration Policy Institute",
+   "group": "Migration",
+   "published": "2026-10-08T04:00:00+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
    ]
   },
   {
@@ -6558,6 +8273,24 @@
    ]
   },
   {
+   "id": "8c5338254c30c3f4",
+   "title": "War in Ukraine spreads across 3 different dimensions",
+   "summary": "War in Ukraine spreads across 3 different dimensions    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm0ycS1BdVhPN3pfYjdGM0NaSzV5aXhTQzRfN3FyZ19xOGZJUUlReFJxaTFQMGl5YmRkYWlzRjBsZ3dZVTNlTnJqWU5KN2ZuYjYtTFhCV2M3TzZKWExQaUNzbjdxUHdqRThlR1huVlMtQmxFRlVJdURweF9VTVdZT0VMU2ctbVVq?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-07T17:52:13+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
    "id": "d749f22b53055a87",
    "title": "'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'",
    "summary": "Angela Diffley is pleased to welcome Dr. Danny Brom, Founding Director of METIV, the Israel Psychotrauma Center in Jerusalem. According to Dr. Brom, as Israelis and Jewish people around the world continue to mourn the largest loss of Jewish life on a single day since the Holocaust, their fundamental sense of collective security has also been shattered. What strikes him, however, is the resilience…",
@@ -9162,6 +10895,23 @@
    ],
    "countries": [
     "France"
+   ]
+  },
+  {
+   "id": "88a78ed4539efc50",
+   "title": "Russian attacks kill at least 28, injure more than 138 over past day, rescue efforts continue in Pryluky",
+   "summary": "Russian attacks kill at least 28, injure more than 138 over past day, rescue efforts continue in Pryluky    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck5JM0VIZ2UtYW5IOW1jZkd3QmhGeENULTNJM0k4YW5ON2lzSlVjUnhTTlZoSEZYTnhjWjJOMG9UZm8zZjJzOHlqNTY4Z3VwYm1QTnVDU3kwU2J0TUFldWIyN1R3UVZLXzlVMGFyS3NINHRwY1B1Sk85TW9lZkRlaVp4VjBsUy1nb3dUQjlFcUZIOXFIZC01NnRTTThhb2VyQzlhQ3A5cGlhU3JOSmJmdEh4SEpzaWRROE1Tb21TclZZUVYtVkJXNXhNbw?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-07T13:21:11+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -20707,6 +22457,42 @@
    ]
   },
   {
+   "id": "b8ba75bfccc77b51",
+   "title": "Three Years After October 7th: Costs and Consequences",
+   "summary": "Three Years After October 7th: Costs and Consequences    Carnegie Endowment for International Peace",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMVhPYmpEcndNRUNoSE9LdTl3OU42Y0J5bUo1ekNWT19qdzZrQXZoa2hUbmoxYXVRUEJZa2FVajQyUmVnaGJOZ2F5MEpPdm1yNGItUVlTcHJOdFdyNG1zLXROQjR1VVFzNTRPaHZjd1V6ZmVnUjhnM2dCWEtfOVp0NGJpdmxGemM4Z3BCNVZfeXhIbDlTMFRSdEFvUQ?oc=5",
+   "source": "Carnegie",
+   "group": "Think tank",
+   "published": "2026-10-06T07:00:00+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "8ebc2ef63352a4bd",
+   "title": "UK, EU and US sanctions on Russia",
+   "summary": "UK, EU and US sanctions on Russia    Fieldfisher",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkR0OE4zakg3ajgzTUI1UTg0cnk5LUlWU3VfcmdYb3VwSWJYVE43U3lXWHBGb0Vza0huN2xZN1BOM1dtZFg5YWFSYUU4T3p2TlRuUUl4RlB2cDV1QjdNVGJ3SDRTOWZkUUFpMVByc1F5TV9GWHFNV2REempsczhtRlFzNUJKZ093WTJVX0I2bDlDRl9IbGJ2NjhPbXZHV3JZRWQ5cXpJakpWYlRSVnpOSGlJbw?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-06T07:00:00+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "United Kingdom",
+    "European Union",
+    "United States"
+   ]
+  },
+  {
    "id": "e770d3f31a3b82d8",
    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
    "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
@@ -24771,1783 +26557,6 @@
    "countries": [
     "Russia",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "c3ed27b32eff9268",
-   "title": "- Chatham House",
-   "summary": "Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzUzExSEhXWnQ4c3lXaFJJX1hhbUxtRXVpWV9IcEFhUm16TUx4X0g4RmVjS0dfUTlQc0Q3TVBxUE90Wk9qSGJYV3kyNFZSUFA1SzFGZE40UWpUcmM0RnVrckE0bk5zQnRQekpOTFBnbw?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-03T20:46:45+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "3c6f1d3d6d648712",
-   "title": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3",
-   "summary": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUZ1TWQzbmU4Qkp5dGprZFVyMXB3QnozMEZWQ0RZUjFFdnN2alg3TGIxWnJ5TFJUUEtWQXVQc1ByVmd2akF5djVLR2sxQnV1QWNjeXVhZFluODJSak56Y1J4VEtNU0xvSTFISWd4blQwUWJYWVZwVW9RNExIRG1DZTdKUHlZRW02czF1bzFVY2UwSTVzdVRXdVhSVlpZZlBFUFZkcXVpQ1g?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T19:28:47+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8194c38cea874a97",
-   "title": "Azerbaijan, Turkey and Uzbekistan join forces in major military exercise",
-   "summary": "Thousands of military personnel from Azerbaijan, Turkey and Uzbekistan, as well as other nations participating as observers, including Iran, joined forces in the “Power of Unity, 2026” military exercise for the first time, in the Hojavend district of Azerbaijan’s Karabakh region.",
-   "url": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-03T19:26:46+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "Azerbaijan",
-    "Uzbekistan",
-    "Turkey",
-    "Iran"
-   ]
-  },
-  {
-   "id": "8cc4d79df600f60b",
-   "title": "Tens of thousands take to Madrid streets demanding housing action",
-   "summary": "Tens of thousands of protesters marched through Madrid demanding affordable housing and stronger protections for renters, a day after lawmakers rejected emergency housing measures.",
-   "url": "https://www.euronews.com/video/2026/10/03/tens-of-thousands-take-to-madrid-streets-demanding-housing-action",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-03T19:11:03+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "d11bed2e03dad376",
-   "title": "HX Expeditions Closes Arctic Season, Largest-Ever Science Data Collection",
-   "summary": "The Arctic’s largest expedition cruise operator reports 26,491 citizen science contributions, new use of science AI for whales and announces extension...",
-   "url": "https://maritime-executive.com/article/hx-expeditions-closes-arctic-season-largest-ever-science-data-collection",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-03T18:32:17+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "79984b7ed94a9eca",
-   "title": "Moscow unveils 'new doctrine' targeting Ukrainian civilians, Zelensky vows to respond with more energy strikes",
-   "summary": "Moscow unveils 'new doctrine' targeting Ukrainian civilians, Zelensky vows to respond with more energy strikes    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQWNCaGtUV1R4S1BaVXladGN3MndtODY1NjZlaGNmRWY3TUZyNW9TbmZfbmFGRDMtUEtNZTItaWNkNklwcDBkOVJvcXpTNW5OQ3hLWF9VN3NhZlAzczZzdVRQLXVqdHhYU1dVY0dyR3JwZm5VbUg4VmdnWHBKeEszbGdMc2M2TXFTVkY5RngzYk5mRURGUm16aGt3VTN1anVOSjN1REllX1BmSnItZ21FRV9ZNHBnTVU4aVgzUVdYbUxQQXdwb1N4T1VGRGFyZTk5WEE?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T18:14:45+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8e6a47e6b1013821",
-   "title": "CMA CGM Group Completes Acquisition of FedEx Supply Chain",
-   "summary": "• Advances CMA CGM Group’s long-term strategy to build integrated, end-to-end logistics solutions.• Reinforces the Group’s investment commitment...",
-   "url": "https://maritime-executive.com/article/cma-cgm-group-completes-acquisition-of-fedex-supply-chain",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-03T16:43:35+00:00",
-   "themes": [
-    "trade",
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "191d0881e4417b89",
-   "title": "Pontoon crossings coming to Kyiv following Russian strikes on key bridges, media reports",
-   "summary": "Pontoon crossings coming to Kyiv following Russian strikes on key bridges, media reports    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0R2NDFPX1VDNmZMMm1HM0F0VDc0eGFZVzlRNV9HelBFRURQeWJtTFBtZV84anNRWWRTY3ItQVFJcVAtaGF6WjRyTXg1YjB1VFUzaS1mWjQxYURkSkgwT0FpdTZDeTY4SWdjT2k4LU5VX2hKaFl2dDhkUGprd3M2UktVVy1hdE95aV9GaUhabkx5b2JoMldfUnBBNExWOGxQLUVxWFFFZXVfVktDZTE2Wko3TTFHVmM?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T16:33:36+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "4234e40d2f953755",
-   "title": "Belgrade Showcases Lethal Chinese Tech",
-   "summary": "Armed with rockets and storming target buildings, Chinese \"robot dogs\" have made their debut in Serbian military drills, signaling the expansion of defense and industrial ties between Belgrade and Beijing right on Europe’s doorstep.",
-   "url": "https://www.rferl.org/a/armed--robot-dogs-serbia/33869656.html",
-   "source": "RFE/RL",
-   "group": "Regional",
-   "published": "2026-10-03T13:48:40+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Serbia",
-    "China"
-   ]
-  },
-  {
-   "id": "ed30498e390ad933",
-   "title": "Series of drone attacks disrupt power supply near Zaporizhzhia Nuclear Plant, IAEA says",
-   "summary": "Series of drone attacks disrupt power supply near Zaporizhzhia Nuclear Plant, IAEA says    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkpqN0VrRDc5Y29XTmpNTjB5Z1hXQnZySkdEZTZPdDh3Z3o2cnhzOWNhUzY4dGNnUHlsclM4RW92WDNrVm5Xa1R5NW1jbl9nN2R1TktKOTMxTHd4Rm1aTHdGUVR2OTAtX1RWbThQbTBUOGxhd3lmRzR0bDBKdHp6bFBWMHpJM1JQNmYtNVpWQjY0eFZvUUR0QkVfbXdlVTdmNldqa3dKejQ0UGFqVlMtMVhyLWtFUQ?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T13:45:35+00:00",
-   "themes": [
-    "conflict",
-    "nuclear"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ba75000bc30f2ed3",
-   "title": "5 Russian missiles and drones exploded on Moldova's territory in overnight attack against Ukraine, Sandu says",
-   "summary": "5 Russian missiles and drones exploded on Moldova's territory in overnight attack against Ukraine, Sandu says    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPay1GWmRaMmRCSWg5UldMeG1Ield6dkxMQWNOSjJXWFNmT0FWSFN3NmFFMlhfRWhhNlJnZWEtLWdzZkYzNDdWNlZBc3Z4MlBBYm1OUFh3N29fNHRVV3diRjBxV3JINDBLVDduemxMSTZQUlJsXzZrQVF1Y0k1NHc3c1ZucmwyNXBOdThCdHFzb0Nra3o4MUFYbVlIUXJiUENMUDlN?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T10:03:27+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "Moldova"
-   ]
-  },
-  {
-   "id": "45645b86948d2678",
-   "title": "US Treasury Targets Hamas Financing Network, Imposes Sanctions on Five Individuals and Entities - IBG News",
-   "summary": "US Treasury Targets Hamas Financing Network, Imposes Sanctions on Five Individuals and Entities    IBG News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVNFUnlWLWlibzJDMlVKWkdJdVNpTWowUXJycFl1aElTcWc1eXNPcTZqbWRobkZVbzNOZGhCZjBWWG5FSXVuY1ZtVTk4OTR6SFl3bzBMam4tTmtLX1RFbVFidHEzeXREa1JaemQ1Nks0U1VfYTFNRmhYMVBZbTdoVmRlU0FlVlhrMGlvalc3TkQ5Rzg0dlZDdHBpY2t4OHI3dll0WW0wYWhtaDcwRXJDNFRBaUtFN1VaOEliaGlONkxnbTBk?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-03T09:25:09+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Palestine",
-    "United States"
-   ]
-  },
-  {
-   "id": "2bf72f65011ad2f7",
-   "title": "General Staff: Russia has lost 1,538,950 troops in Ukraine since Feb. 24, 2022",
-   "summary": "General Staff: Russia has lost 1,538,950 troops in Ukraine since Feb. 24, 2022    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzc2dHdlVjI5WTgwYU41bGNPRExIMzFjSnBrMzk3RTYxbV9RRFRuN19jN1l4djdTaW41UE1LOTlFbW55T21zazhPbDQ5M180WV9SVXM3LVBETHpoLWZlT0prVk9mVnFzVHZnZTlqalYwRTN3YTVVMkdSNEZ1UXpXNlNJSDBsV2phS2d6MVFLYUF1TzZ4TVMyVWo0bGxyZkZPM1VWYVRPenJtQQ?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T06:59:56+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "7b78804233307e86",
-   "title": "IMO Secretary-General Mourns Seafarers Killed in Rescue of Hijacked Ships",
-   "summary": "While three hijacked vessels have been freed after months in captivity, five seafarers have reportedly died in the crossfire of rescue operations. IMO...",
-   "url": "https://maritime-executive.com/article/imo-secretary-general-mourns-seafarers-killed-in-rescue-of-hijacked-ships",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-03T01:37:45+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "fb6ea5124ecd7163",
-   "title": "US-Ukrainian fund unveils first critical minerals deal",
-   "summary": "US-Ukrainian fund unveils first critical minerals deal    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc19ndHlaTmtSNGJrM1cwWjZseWRzMDM3WGtIT1pYaHpJbU5wa2RLOHN4VXE5WncyUFBZSG9aSEEzbWNLM3NoTjN0emg2V2U2Rmp6cnc0djFOdmg2aExINmFNUjRsUTl4QW5RLTJnUl9rT1JBU0xlSGwzb0pIakx6SjhFZU1adTNUbkJR?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-03T01:36:52+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "96b4d492c7cfc65f",
-   "title": "World News - LatestLY",
-   "summary": "World News    LatestLY",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaldLNUR5eEZrY21uc2RwaHZVR0hfM3pRTnIxdEFwYWsxUU90Z1VTTVBFZlZ2SVlPbGRmbzF5dE9IZ1lsT1UzaHBHbENCeDFUSEhqTkJLWEJKbEFMZl9KbFJDZ2c2dndLRzh5REFFeDZDQlBlWEtwT3lXV0pTYVhKT2FnRHBxWXBudVlsLU5CYmREbEpKeTk2UjhENm9QRWZ6WnVpQWxvUEhfUk9TUDRsT0ZjTVU3bWVqWTREN2dITGdpRGxJOUtOQ3BKRU52NXVWVGhaQ1JPcGdVNkZwbV9HdzdxR3BfVzJfbllmcEQ5Z1FjbmPSAfgBQVVfeXFMUGVwYjJpcDRTSzN1eWE3alk1S3AwVl96REgyN1ZOSDFraUZ4X0QwTk9zZHNpMUV1dzhWeUJuS2F1NFFqUWE0UEYyQjZIQ1hVcnZyNFFBVEVwSDdmUEMyT0hPN1dKalFOdVNrMzRKRmIzY0lMeUItLTBXVTZZeUVBclZpUTFCVWlORFpKWGVta0xEeUx3NmZRMW1GOFA4M1BfazdMRlRRcnNGYmM3UzZ3dDVoaE53anZqRXZldkRFYjh1Wk1XRng2TDBhTGRyQzQ3bk1OaW5LaGVuRTlLOS1nQVE5Y1RjbmhZdGJaalJ3dG5McFprR21acy0?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-03T00:56:16+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "6b26ae7e0e9475db",
-   "title": "India to Get Its First Port-Based E-Methanol Production Facility",
-   "summary": "India is making further progress in positioning itself as a global leader in the export of alternative fuels in shipping. Ports Minister Sarbananda So...",
-   "url": "https://maritime-executive.com/article/india-to-get-its-first-port-based-e-methanol-production-facility",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T23:15:46+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "f88cf23f97201c11",
-   "title": "Other Operations in the Middle East Funding Update as of 30 September 2026 - UNHCR",
-   "summary": "Other Operations in the Middle East Funding Update as of 30 September 2026    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFRGVEZERW15cHRnNWRWempJbmU4c181VkFyWE9TREJsQnByRy1RcjdVN2RhQVhTTXZSMjNRVmlQQVRYbzV6NnpsOEdhVzVZa0VFOC1PTDk1bzdTU2NxNTdLNzk0OW4wRU9RX0hlOHk5WjVuMmFNaUJ1RElaeHlTcHZmakJUTENmUl8tSnI5d1l0dDZWTFlKMGg4cUZpWF9UNnlseVVKanRmLWlDUlNQRmNQbGlyQTktNjBJNlFn?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T23:00:17+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "fb27a2846e7b9ab0",
-   "title": "ITF Calls for Panama Canal to Address Fatigue Following Tug Captain’s Death",
-   "summary": "The issue of fatigue among tug operators at the Panama Canal is again attracting attention after the captain of a tugboat is said to have died due to...",
-   "url": "https://maritime-executive.com/article/itf-calls-for-panama-canal-to-address-fatigue-following-tug-captain-s-death",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T22:49:58+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Panama"
-   ]
-  },
-  {
-   "id": "9cceda579b073de0",
-   "title": "'Every fallen hero will be found' — Kyiv to speed up identification of fallen Ukrainians, Budanov says",
-   "summary": "'Every fallen hero will be found' — Kyiv to speed up identification of fallen Ukrainians, Budanov says    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVI4aWFPLXMwRUtTQXo4NTg1UHFuekxQVEtUZm0tSW9xamVBd3pEbUR2TFFNSXc5cVVDQnVZTDJkNWoyeVk1aUhGUDhfN3RrR053czFDTmNZRnR4M014Rl9fWkxTbURtNkFVM2p4VF9hRVN0c01WREMzank2emZQQmEtRmpvVF81bGZjTjVUa3Zybk1rYnZjQTRRUEZRaGdCTmJBVXJHc2tGWGFfak1Hc1RZWXdNMTZqVEVYbVFmY0ZIZ3Za?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T22:37:44+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9c78cc701442e9dc",
-   "title": "Gaps in Awareness, Poor Communication Caused Tug, Barge, Workboat Collision",
-   "summary": "Marine investigators in Canada released a report outlining how gaps in situational awareness and a breakdown in communication caused a collision invol...",
-   "url": "https://maritime-executive.com/article/gaps-in-awareness-poor-communication-caused-tug-barge-workboat-collision",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T22:36:08+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "a1a6779e6b95cb94",
-   "title": "US sanctions three individuals and two charities over alleged Hamas financing - The Guardian",
-   "summary": "US sanctions three individuals and two charities over alleged Hamas financing    The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbk5IUnNOS1FxWUhkZFZMWWFqOE8yd1RHY1Q1QkswWVZBVC1KZV85MVR3WjhUM3dXdDc0MjVHVXJYbWZtTXZmS0hhRWZRVUphc2xQZHQ2czI0Yi15b2kzUjd4d0ZTV1htN2dLemc4eXpLLVI1cWJpXzRaZ2hFNktRb2E5QjhMdDF0MEh1ag?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T22:25:00+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Palestine",
-    "United States"
-   ]
-  },
-  {
-   "id": "1a0d6f9d9e42aac9",
-   "title": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week",
-   "summary": "Multiple sources are confirming that two more tankers reported strikes, bringing the total to six ships in one week and 110 incidents directly related...",
-   "url": "https://maritime-executive.com/article/two-more-tankers-in-hormuz-report-strikes-bringing-total-to-six-in-a-week",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T21:40:25+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "0239315f05b2dcff",
-   "title": "Embassies not planning to evacuate Kyiv amid Russia's bombardment, Foreign Ministry confirms",
-   "summary": "Embassies not planning to evacuate Kyiv amid Russia's bombardment, Foreign Ministry confirms    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUZyRDZYNExKYnpKNVlQR2hpUENGbXVQQV9NWTJTUTM0TndOUDVCbWQzdWRoTUdNblg5NHc3TVpxWGhpZHRYcWVBLUdCYWZGWlZoUTJjTmluN3VhSW9oclNTUzh4Wm1KYThacENIR3d4eV9tanhKQTQ4eXdEWWZpYTN2S1o5Zk14NUZCTXRXdE1tX0ZVQTZrcGZvNXB1ekd0RUx4NUZ0cVpSN3JlTUtCYzdkYWhXUlItbmpN?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T20:56:20+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "824614250e772266",
-   "title": "Proposal to establish financial regulations for UNHCR – 82nd meeting of the Standing Committee - UNHCR",
-   "summary": "Proposal to establish financial regulations for UNHCR – 82nd meeting of the Standing Committee    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTm0zTWR5SWxzdUlyWVI5N2gyMlVYcFpXR3hFR1R3ZmY4M0piY2MxanpNYmFtNUNwLVhadjVNaGNkU0lNeXphT1I3VmJHOUd4UHcxU2NOcFlEWkxwbjFYX1RHWDU0Z0loN0ItQUEyWW9PcURNVVhRQTVoQXZaN28yQndsekJyTmd5eHZ0TUJvUUZJc0djcFF3ckJBVWtMVEFKWExzSGwwVU85Zw?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T20:41:26+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "488c159c8ca54f2d",
-   "title": "It’s not just misuse: AI-enabled biological research also runs the risk of accidents",
-   "summary": "Accidental releases are already a serious vulnerability at a time when AI is accelerating biological research. The post It’s not just misuse: AI-enabled biological research also runs the risk of accidents appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/dispatches/its-not-just-misuse-ai-enabled-biological-research-also-runs-the-risk-of-accidents/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T20:37:40+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "3373db753f130ae5",
-   "title": "What the US gains by keeping a military presence in Kosovo",
-   "summary": "A US withdrawal would be read as disengagement from the Western Balkans and, with it, from the regional security architecture that it helped shape. The post What the US gains by keeping a military presence in Kosovo appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/dispatches/what-the-us-gains-by-keeping-a-military-presence-in-kosovo/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T20:20:51+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "Kosovo",
-    "United States"
-   ]
-  },
-  {
-   "id": "05c5c0b70ca1ccdb",
-   "title": "Treasury Dismantles Major Hamas Financing Network - EIN Presswire",
-   "summary": "Treasury Dismantles Major Hamas Financing Network    EIN Presswire",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWg4UUZCR3hEQ0VQMjgzRmhkUGdFT0tBT0RIVW9aNUxkdmg2YkVDbko2MVViQk9WN28tOE45SnEzVmJmeFFzRWVTZ1I3WnRIcUhJY3ktV2lxVUZTNEQ4YzNSN3BONDJST1NnRUFIRy1yRHIyUy1HbmV6Mm5rTEx1TUFzSlp3X2FFWDNpRFhVbndzb0haeXVLR1R2YWM?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T20:03:00+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "057c3aeceeed3ebb",
-   "title": "Video: Taiwan Coast Guard Uses Water Cannon on Chinese Fishing Boat",
-   "summary": "The Taiwan Coast Guard used a water cannon on a Chinese fishing boat that it reports illegally entered Taiwan’s waters and refused to respond to comma...",
-   "url": "https://maritime-executive.com/article/video-taiwan-coast-guard-uses-water-cannon-on-chinese-fishing-boat",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T19:33:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China",
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "0b387305669deec1",
-   "title": "Russian billionaires 'volunteer' to fund state budget after closed-door meeting with Putin, Reuters reports",
-   "summary": "Russian billionaires 'volunteer' to fund state budget after closed-door meeting with Putin, Reuters reports    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTZ1U1BlMko2NXVCSXNlSzF5SVBLcE1EVG9YTlVwckw0NjdWZmV5eEpsZk1JdHZRNmotT3ZqeFNOV0dIUER5Z002b04xS3Z3MEoxdDNoVmY2ZEVBNW9KcTZUcHRpbkNPTEVwZi1YQ2FTNTRQWkphdTVEMTZ2UWw3dXp2X2lZa2RKZWJiOFluT25UQ2tDNHFjalA4R1BfUmZCQUxXNGx5MG9tV0V2b2tDRmRucV9zaEE4clB0bFF4VllMOGRaakZDZk9ra0liQQ?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T19:26:02+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8a493fac29d4cb8a",
-   "title": "Mapping of Displaced and Migrant Populations in Chad by Province (Sept. 2026)",
-   "summary": "Mapping of Displaced and Migrant Populations in Chad by Province (Sept. 2026)    UNHCR Data Portal",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rU05KRVRUQjFyanB0VVVQRTlja2J2U2RJWnNHd2pxTWxPNEZqem9fN3RqWnhlMDFiekl6TmxUZVplOThGZnAzdDBzdklvWl9yVnRabTRPRnFuRGhxZUIw?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T18:39:48+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Chad"
-   ]
-  },
-  {
-   "id": "ce807394a5d9413e",
-   "title": "Swedish Court Finds Captain and Pilot Negligent in Summer Boating Accident",
-   "summary": "The District Court in Gothenburg, Sweden, found both the captain of the cargo vessel Misje Verde and the pilot who was aboard guilty of negligence in...",
-   "url": "https://maritime-executive.com/article/swedish-court-finds-captain-and-pilot-negligent-in-summer-boating-accident",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T18:38:13+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Sweden"
-   ]
-  },
-  {
-   "id": "50458983fcd6b507",
-   "title": "The risks of the strategic petroleum reserve’s four-decade low",
-   "summary": "The US Strategic Petroleum Reserve has reached a historic low. As oil markets continue to tighten, refilling the reserve will become increasingly difficult. The post The risks of the strategic petroleum reserve’s four-decade low appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-risks-of-the-strategic-petroleum-reserves-four-decade-low/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T18:30:30+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "6ffdb0c9f26787b1",
-   "title": "UNHCR TCHAD| Cartographie des Populations Déplacées de force et Migrantes au Tchad par Province(Sept. 2026)",
-   "summary": "UNHCR TCHAD| Cartographie des Populations Déplacées de force et Migrantes au Tchad par Province(Sept. 2026)    UNHCR Operational Data Portal",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QMVRfRGdHNDUzWUNWNC01c3MzbldnSkVZX1M4ZkpZR2hjWDNFU3VyWExPUkFTblYzWU5ISHp0TWxGTVcyQ3Z4Y1VUUFB2TC1FMDJQUEg0bnREd1k0UVVr?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T18:29:25+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "921cc63cf785b723",
-   "title": "Executive Director participates in G7 Leaders’ meeting on energy security and markets - IEA – International Energy Agency",
-   "summary": "Executive Director participates in G7 Leaders’ meeting on energy security and markets    IEA – International Energy Agency",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUpkSmUxTUUwV3B1eEhFUHA0YjVJRE9IVGdsc1k1amlsdmFadWxBVE5raUlfM2lZZ0Nxb2M2ZlFKbTJ5aWNJdE5uS2d1NVFSSHgzZmphd0tEcXVFVzM4a1lZRG1WdnRJaXZ5MThYeHA5bmZsdDUxLWxCd0tYY2o3Q2Z0bnJTMi11TFZ6azllTTVoc3VfR0w4ZUtaOVJMSHFFN0ZXcnZiVG5HRU9LbFE?oc=5",
-   "source": "IEA News",
-   "group": "Energy",
-   "published": "2026-10-02T18:13:38+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": [
-    "G7 / G20"
-   ]
-  },
-  {
-   "id": "1ea4f92f9db0d532",
-   "title": "US Department Exposes Multi-Million Dollar Hamas Financing Network, Sanctions Key Operatives In France, Gaza - Sahara Reporters",
-   "summary": "US Department Exposes Multi-Million Dollar Hamas Financing Network, Sanctions Key Operatives In France, Gaza    Sahara Reporters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFRQY3pHVHQ5VC1kYWxRNTlGYWgtMWZnY01iN3ZvVU1XTDJpcmlHRmJaQll1TWxpTElwOXRCX29mbXZLa2xxYVRmVGNIa3BUSW96YzQ5OHRLNXRBT0hxTE5TcjdlTTAycVl4Vm05VTZWdFdDSnpTTGRZQ0NzcTJnVmFIZzZqOTc0YlRVZThpWGxONkh5RlQ4NnJqT3pEWWM5WklKeG5TSU5jUWxRZEVPcV9MS0FOLVdZaVFv?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T18:08:21+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "France",
-    "Palestine",
-    "United States"
-   ]
-  },
-  {
-   "id": "123348083b063a21",
-   "title": "What could make AI self-regulation work?",
-   "summary": "For the new AI accord to work, industry self-regulation will need to be buttressed by binding enforcement or federal oversight. The post What could make AI self-regulation work? appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/dispatches/what-could-make-ai-self-regulation-work/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T18:07:46+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "db3c4d45ddb41f2e",
-   "title": "Carbon Costs Put Marine Engine Performance Under Scrutiny",
-   "summary": "With bunker prices having increased by 76% since the US war on Iran, together with an ageing fleet operating longer voyages as ships navigate around c...",
-   "url": "https://maritime-executive.com/article/carbon-costs-put-marine-engine-performance-under-scrutiny",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T17:52:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "47c7ffabfa775f7a",
-   "title": "📚 Important Education Update for Non-Lebanese Students for 2026–2027 - UNHCR",
-   "summary": "📚 Important Education Update for Non-Lebanese Students for 2026–2027    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWs0Ti1NaFFDTFVMX3J1SDc1Yjd2a1FkaW5aZkZQYlFES0c4VmZMMUNvZThjbHF0ZkNzNkRZREEwY2EzRmxtRVpoTXdIbER1RHZzMkhCQUpTQTg5VnRLX2F6MFh5WjFjeEduMGZXSm9BWk9vT2JMTWMyempSdnU4ck1sQlRVb016LTJuSFhxWGo5RzlCaHlaNm92SEk2RWhxS1g1d2trYWdlZklsMkNRMVBn?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T17:30:55+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "e91f9d0ab853a517",
-   "title": "MSC Says Water Ingress Caused Precautionary Evacuation of Container Vessel",
-   "summary": "MSC Mediterranean Shipping Company released a statement on the incident aboard its vessel MSC Hermes III a week and a half ago off Vietnam. The compan...",
-   "url": "https://maritime-executive.com/article/msc-says-water-ingress-caused-precautionary-evacuation-of-container-vessel",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T17:21:33+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Vietnam"
-   ]
-  },
-  {
-   "id": "02640600de6095e9",
-   "title": "New Successful Pilot at the Valenciaport Sandbox",
-   "summary": "The Valenciaport Sandbox adds a new pilot to its track record as a testing ground for innovation in the port and logistics environment. This time, the...",
-   "url": "https://maritime-executive.com/article/new-successful-pilot-at-the-valenciaport-sandbox",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T17:05:54+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "744a961bbf5ef4c4",
-   "title": "U.S. Treasury designates fugitive oligarch Ilan Shor’s Russia-linked A7 payment network as a transnational criminal organization - https://theins.press/en",
-   "summary": "U.S. Treasury designates fugitive oligarch Ilan Shor’s Russia-linked A7 payment network as a transnational criminal organization    https://theins.press/en",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGNElGNTVpRnRfVnBfTTQ5bW42emlWdWJXUEVWTTdIRFlRMGV1QUpqYXJuYkdMMkkxbWpVTGtkYWsyMzVXTldWeGN6OA?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T16:38:11+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "ded52ebc89c42f4a",
-   "title": "UNHCR CHAD| Mapping of Displaced and Migrant Populations in Chad by Province (Sept. 2026)",
-   "summary": "UNHCR CHAD| Mapping of Displaced and Migrant Populations in Chad by Province (Sept. 2026)    UNHCR Data Portal",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiUXpueE1rUmlVcEVVZVU0VTZVZDByREI1Qk1ja3JuSmx2MFRWY2lGWHp6TjZGVmZpVm43bWtMMDZJMkhzTDZqN2ZHcTBMbjNmdnB2NXZJZUk1SEhyQ1A0?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T16:29:44+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Chad"
-   ]
-  },
-  {
-   "id": "96a91b4ad5f48865",
-   "title": "The ideas of Israel",
-   "summary": "The ideas of Israel    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qZXVBODhpblJJTDZNMHBFWTg0QVVoWTVXUVM2TzhSMEFmcU00RS1KWkVnaFhhZ3RYOHVQVTdPdnI4Y1ZOWlNFTVBKU09WWFE0R05Uem85SQ?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-10-02T16:27:03+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "cbacc69593f90d33",
-   "title": "USTreasury’s OFAC Uncovers Multi-Year Scheme Funding Hamas - Coinfomania",
-   "summary": "USTreasury’s OFAC Uncovers Multi-Year Scheme Funding Hamas    Coinfomania",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ2dQZUNWcmJoVlByQzFrTmdOSmd4bmNoajRKVW9JV25IbkhuXzg5cGJOXzl5eWtOVlpXYWs2SndaeHZRYktFT2w3ZHV4bUFXRF9kZ1drVzNoRVdnOUpJWmlIeGE5UWQxdG9SYjlIcUM5V1ZZWnJldGJqa0F3a2VPZkEtNGQ2cWxmMGc?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T16:15:01+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "cf69220f7cba96b8",
-   "title": "Russian soldiers 'had to drink urine to survive' after being abandoned by commanders, POWs say",
-   "summary": "Russian soldiers 'had to drink urine to survive' after being abandoned by commanders, POWs say    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWUtWENKM1JaNk9QOFVnYkNZSUcxN0dPZkNnSjZwdjE4TGVtT0piQ1ZjUUpPUWhhM01pLXl0aXk2aGJ6bl9YV0NXNUZBUW5DN1pvMGVvaEZ5U0RiN0w3dkVaeUZXZFJIa2pvMUpUWmpIUzBkaEFCQUVFZEQwS0RONFVhcXRzdFdYVmk5U1Y0cWdrTnBYbU9FdmRRb0hTeU1VUXVRbVZveWp6emtIc2R3QXNhY1NKUUxSUlBLOQ?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T16:04:53+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ef964b12a6ca6535",
-   "title": "Latvia votes with Russia threat looming large",
-   "summary": "Latvia votes with Russia threat looming large    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EREIzbk1rZVRPZWJvVkJ0a3dtWTlwZ1ZPSU16dTU4T0NDa1gwZ1RGVVhIbmpvZzJncGk2eDZpR3NoS2twZEktaEtTMkRteDVFTVpNNGZmRlZpU1FhNXNlRDVTNDY2bk9PczdELWY2eVNaWWFhZEtwWE1iT2w4R1E?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T15:37:36+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "Latvia"
-   ]
-  },
-  {
-   "id": "502e9f6a07703765",
-   "title": "US Coast Guard Has Stopped Vessels Carrying Oil to Cuba",
-   "summary": "The U.S. Coast Guard confirmed that it has been stopping vessels transporting oil to Cuba, with two ships stopped earlier in the summer. It has resume...",
-   "url": "https://maritime-executive.com/article/us-coast-guard-has-stopped-vessels-carrying-oil-to-cuba",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T15:09:35+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States",
-    "Cuba"
-   ]
-  },
-  {
-   "id": "c9b5c32ccce06f13",
-   "title": "US Allied Shipbuilding Gains Momentum, But Ambitions May Collide",
-   "summary": "Japan, South Korea, and the U.S. appear to have given little thought to which country should build what, or who controls the key technologies that every shipyard depends on.",
-   "url": "https://thediplomat.com/2026/10/us-allied-shipbuilding-gains-momentum-but-ambitions-may-collide/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T14:56:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "Japan",
-    "South Korea",
-    "United States"
-   ]
-  },
-  {
-   "id": "8bfecbb9d674a3bc",
-   "title": "India’s Cockroach movement launches new protests over changes to voter roll",
-   "summary": "Thousands gather in Mumbai with heavy police presence as concerns mount that millions will be denied voting rights India’s youth-led Cockroach movement kicked off more nationwide protests on Friday as thousands of people gathered in Mumbai, amid mounting concerns that millions of citizens are being unfairly stripped of their vote. The movement, which calls itself the Cockroach Janta party (CJP)…",
-   "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-02T14:42:16+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "00a403d4676c7f1c",
-   "title": "AI doesn’t need ‘superintelligence’ or evil intent to start a nuclear war",
-   "summary": "AI doesn’t need ‘superintelligence’ or evil intent to start a nuclear war    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzdLNHpjakIwSElqYzlaVUcxVkphNnB5TzlsQ0hqOFpUVFlrLU5PdjR3SkZweVlHX25ZZllBZmdrbE5DQ1FFY0tPMHY0bFg3YnRDaURrQzlzSnd4RDVwX0Mwb2x3czNiRmVmQnhoMnZVOFZ5ei1Ya0pTUEY0aFVzVVpzUzFuRjQ4cW5oWlllUVRRQWpnR0RlelMzZG81Qm44NUtiZy1R?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-10-02T14:33:56+00:00",
-   "themes": [
-    "conflict",
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d75d287ad14a9948",
-   "title": "The Best Kind of American: A True Story of Murder, War, and America’s Undoing in the Middle East",
-   "summary": "The Best Kind of American: A True Story of Murder, War, and America’s Undoing in the Middle East    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG03aGg0dVIyOGJUcEN6cHBpOWoydXdES3M3S3hrVHpCY2NGSXc1alkwZE9SOVkwYTBDbEctZVNyUl9BLS15a1EwN0xqVTFVQVR4NVFGU0NFVHNMS0ZodXRJbVZmRlVVNFU5eWtmcmgzZDg2OUw4bHE3ckZsajFGWEhVSGVscXZGZDdkMk1udFF5dV9UQTFGS3NvQTRjZV9ma1VnVFp4d2x3WmxVMWZCRUY2UHdicXdy?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-02T14:31:31+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "fcc541646c35cc39",
-   "title": "Pakistan’s GSP+ Advantage Is Fading. Competitiveness Must Come Next",
-   "summary": "Preferential access has taken Pakistan about as far as it can without deeper reforms at home.",
-   "url": "https://thediplomat.com/2026/10/pakistans-gsp-advantage-is-fading-competitiveness-must-come-next/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T14:23:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dc2e45e00c872dba",
-   "title": "The U.S. Is Targeting Tehran's Remaining Financial Lifelines With New Sanctions - inkl",
-   "summary": "The U.S. Is Targeting Tehran's Remaining Financial Lifelines With New Sanctions    inkl",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGc5ZHgyZzV1d0NLTFFLZzdhMXdDSHFCSnJnTl9KRzFKUFJRb3ZxSzJrc0hVMjdRYUp1MVhXSmI0VVdmWTdFNG01V0d2Y3pzUVhpaUwzNklwMml1WDBwZnM1QjVyZ1ZVR0twcjBrcVp3TXpWM19sbWVDZVIwS1FCbElZOGdpc3QzekZrUHBBQ2cwRU9yY1hLbG05SW5fMjRvblVVZ1pB?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T14:20:09+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "e19050dcd03f59a7",
-   "title": "The U.S. Is Targeting Tehran’s Remaining Financial Lifelines With New Sanctions - International Business Times",
-   "summary": "The U.S. Is Targeting Tehran’s Remaining Financial Lifelines With New Sanctions    International Business Times",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2FmT3ZDcHF4dk1ZX0NwdzJ3aW1iWlJJaHlMY0FvYlpXd0pGZ3l0cjJBNERhT29KSlRHZmdyZnVZdHlMX3hHaEc3Z1NBcFNLTVY1T3BhRDJjSHF6dUV6dFhTR1NNQkRkNGdUUW5RSldIZnVhLVRDS0lWRlhZZldyRWRHVmNMV05NUEpLY2t5amc0THdFY1ItZ3E4TTg?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T14:20:09+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "b5677be91072b932",
-   "title": "Investing in Europe’s next growth engine",
-   "summary": "With Western European investment becoming less dependable, Central and Eastern Europe faces a choice: attract new foreign capital, or do more to mobilize the investment potential within the region itself. The post Investing in Europe’s next growth engine appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/blogs/econographics/investing-in-europes-next-growth-engine/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T14:15:07+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "85d3f1de96ceb810",
-   "title": "Inside the Race to Replace Humans with AI",
-   "summary": "Inside the Race to Replace Humans with AI    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNei02V2NNYTVRY1NTQWVXLW9nS1hhaHYyWEowZktEbS11Q1ZXMkNUdGs4Q0JGTk5BdGJWdFNlQ3AyeGk5UnlaZU5sZ0IybnJCc0taT1FXd2FOT0VjZlcxZmpXTWwxbGZaVU9ZazZjQVBSbEJkd2ZGX2lEZm5nZkZjSEhoYWw4RVJ0YURaSnZtX1oyMjBaWDNPRHlYQ21qX0FP?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-02T14:03:46+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "408000beafbd0623",
-   "title": "US Sends Third Carrier Strike Group to the Gulf",
-   "summary": "US officials in Washington have briefed the press that a third US Carrier Strike Group, led by the USS Theodore Roosevelt (CVN-71), is on its way to t...",
-   "url": "https://maritime-executive.com/article/us-sends-third-carrier-strike-group-to-the-gulf",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T13:23:39+00:00",
-   "themes": [
-    "conflict",
-    "maritime"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "20175e11de3fe1c2",
-   "title": "Treasury Sanctions Financial Networks of Foreign Terrorist Organization Tren de Aragua - VOA - Voice of America English News",
-   "summary": "Treasury Sanctions Financial Networks of Foreign Terrorist Organization Tren de Aragua    VOA - Voice of America English News",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakZnYTcweVV1NUtoMXEybVdoek4yM21aUzJpUUNtUVVWZVFJMDB1cXg5TmVrdkN5cjJGdXFxUlV4eTY2aEVTY0MtME9POFd6ZTNlbC1CU3FMdndFcGJTeFk0VTg5NmRyUWsxbHo0SWoyQlFFS3RNc1FwRkVkYUZ0enhFaE93RkFvVTlCNGQ2MWRieF9WamhfUmxQN0xWVFZRaUQwLUFFMDhWNHhuSmtRVkIwOGk2eGpZdG8waEZxWEFkQ1FqX0Y00gHKAUFVX3lxTFA3aGQxeTJMRnA5d0lKQ0VVblhzTGpDRnlEdktJTlN0dm1UcEQweXVmX1NDZTJkeFFmSUZaY0p5N25JcUt1ZUR2WXF5em5uQi1lNlpjRUdMd0ZtZkY3R09qX1p4RHZEYy0wREU1WnByVGxPR005UGNKdl8zb2xXMEN3OHNNcWJVTWVYekExa09JNXJ6NkF0ejB5cHZFVk5ZSDgxVnJ1bFBnUFFuM29iUUpzV2s1eWV4bE5vbXQwNXkxYlozODdGTldqR3c?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T13:23:00+00:00",
-   "themes": [
-    "sanctions",
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "59af8f6ad5799aaa",
-   "title": "Chhangani quoted in Fortune on mBridge and dollar dominance",
-   "summary": "Read the full article here The post Chhangani quoted in Fortune on mBridge and dollar dominance appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-new-york-times-on-the-prospects-of-de-dollarization-3/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T13:21:00+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "7161b9000b790ccb",
-   "title": "Nikoladze quoted in a National Intelligence University monograph on the geoeconomic implications of the Israel-Hamas conflict",
-   "summary": "Read the full article here The post Nikoladze quoted in a National Intelligence University monograph on the geoeconomic implications of the Israel-Hamas conflict appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-2/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T13:20:22+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d39fb809a21d76d4",
-   "title": "Singh featured in Financial Times on Saudi Arabia’s withdrawal from mBridge",
-   "summary": "Read the full article here The post Singh featured in Financial Times on Saudi Arabia’s withdrawal from mBridge appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-new-york-times-on-the-prospects-of-de-dollarization-2/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T13:19:09+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "4f2fe71f8d894ff4",
-   "title": "Taiwan’s New F-16s: Why They Still Matter",
-   "summary": "The Republic of China Air Force waited 20 years for these aircraft. What are they for?",
-   "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T13:10:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China",
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "a1485f8d11299552",
-   "title": "Braw in POLITICO on Russia’s gray-zone war with Europe",
-   "summary": "On October 2, Elisabeth Braw was interviewed on POLITICO’s Brussels Playbook Podcast on how Europe should respond to Russian sabotage, arson, cyberattacks, and attacks on critical infrastructure. The post Braw in POLITICO on Russia’s gray-zone war with Europe appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/commentary/braw-in-politico-on-russias-gray-zone-war-with-europe/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-02T12:27:50+00:00",
-   "themes": [
-    "conflict",
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Belgium"
-   ]
-  },
-  {
-   "id": "a0e890b55e1f96a2",
-   "title": "A Celebration or Funeral in Iraq?",
-   "summary": "A Celebration or Funeral in Iraq?    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3QxRkdoR0FOMXF1VWhxSk9YRlNWZzJzazBLd1dFOWRUOHJoZnpveVl4NlpXV19ibXU1Y3pZLS1rZHl3UmRJVUFKc0tRbzdQOGloS2FtYXEtQjQ2NFBfWFNEcGR6M2poQUZXUUxCWWZwREJJRWlXUTAtQTZlRWJMLTBfTklqR196aW9ZQWc0Si1mUQ?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-02T12:21:59+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "5a15dcce4e23d57f",
-   "title": "Concerns About ‘WWII Allies’ at US-China Summit",
-   "summary": "How China is weaponizing WWII history",
-   "url": "https://thediplomat.com/2026/10/concerns-about-wwii-allies-at-us-china-summit/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T11:50:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "050997b74335a452",
-   "title": "Ukraine Situation - Moldova : UNHCR - CDA Mapping of Stateless and Undocumented People in Moldova (RO)",
-   "summary": "Ukraine Situation - Moldova : UNHCR - CDA Mapping of Stateless and Undocumented People in Moldova (RO)    UNHCR Operational Data Portal",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEZV9uaEZyWk1Wa3R0a2VoWjd2NlRxUUVhUmppbXNOVWZlSTY5TWRDZHN0SG9BdlpiaWJyMy1MaU5xNHJoT2RPLUNTUUhlYnpOdVBySVdkbl92cVhaMkow?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T11:47:32+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Ukraine",
-    "Moldova"
-   ]
-  },
-  {
-   "id": "ea7e760a8dc49cf4",
-   "title": "OFAC Sanctions Tren de Aragua Jackpotting Network: TRM Traces USD 6.1 Million on TRON - TyN Magazine",
-   "summary": "OFAC Sanctions Tren de Aragua Jackpotting Network: TRM Traces USD 6.1 Million on TRON    TyN Magazine",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREx0SVlqVXVlRDJmRmo3d2VyM0F0WHcxbnRlOUcwX0RkUDJXenlkM3RXTXU4SVRiUzI5eDczYmJxSDd3bkgwS0NkWlJZZkNLcV85MXlyUnJOejB0LTRnX3lxSUdPUEszckhKb2ltS3I0YmRNQWtiVHdtdWhHRnlXc0doWmR3U3R4eWZZUkpqdHVYZUxMaGFnd29seXl6cmZxTGQ5Q3ZEZloyNnFkWnc?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T11:03:48+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d9be2dbbc021c0bd",
-   "title": "India’s Foreign Minister Jaishankar Openly Calls Out the US",
-   "summary": "Previously, India sorted out its differences with friendly nations quietly. Last week, it aired its grievance with Washington publicly.",
-   "url": "https://thediplomat.com/2026/10/indias-foreign-minister-jaishankar-openly-calls-out-the-us/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T10:39:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "India",
-    "United States"
-   ]
-  },
-  {
-   "id": "2c1207f910e58cef",
-   "title": "Why the Houthis' Red Sea power play makes Iran even stronger",
-   "summary": "Why the Houthis' Red Sea power play makes Iran even stronger    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbW5vUzBnWW1TVkZOR19aQTB1Vmc2UGV2cXRhdW5lN0o0djF0elA1WkExRGVaU0ZoSkR4bFcyTGNjZVpyV21EUTRQOGI0UXlZLVpFQTlEV1FOdlhZbFZwSHVZRkdVWG1xZ2JkZUhsbkJobHRWbjZkVV9XR1BmSm1TMlRkVVExVTRDQTlVZ21ZdWxfWHBOa3BFcncyWDZSX1ZBUHFfdmlGZm13VlJLcWRaX0NR?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-02T10:30:19+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Iran",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "6648beff7166d979",
-   "title": "South Korean president warns of 'additional measures' if Ukraine doesn't apologize for POW dispute",
-   "summary": "South Korean president warns of 'additional measures' if Ukraine doesn't apologize for POW dispute    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNm5jT05OdUh4MUhVZlJEbFl2MTJLYU9GeXlWcGllaXJlbVNsT0dYTmx4UGt5cUNLbENKeW0yRVhYdDdranVuNURjVTUyNEFLSUhWYTgtcG5ldzVoZTRpRVlnNG9hNi1UekFYZC1vOVl3S3ppM1U5YVVkR0VrYUJoU0xQWnM5WnVEcC14aG5PMjdwWUlFNlVlbUlVME9FTlZkVm03Wmg0WmJuZGpRUEhmRHNJTjVWamtEUlBVbjl1MW9BZw?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T09:27:27+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Ukraine",
-    "South Korea"
-   ]
-  },
-  {
-   "id": "fe4c36b34d3ef5cf",
-   "title": "Faction fight: How Europeans can better influence American foreign policy battles",
-   "summary": "Faction fight: How Europeans can better influence American foreign policy battles    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3NqeW1KbjU2d1JZUnFYNUNSNGw3SHZ4R2FDbEpxYXdZUVFKOFlfbmhNSW5vUm5qbzJBV2JNb0RPaTc0QzFKTUJUMjRRTWNnVWE1WV90SFdSemFtNUZBaXEyekxUWGZNSHpaaGdRYktrV3FuTGdYTFJ2SUNHczE5VHdZMGZLeGxwZFdnbUxfR3daR2pzQnNoTkRyN2FueE5VWG13V3hHcUjSAa4BQVVfeXFMTS1wZEpIUkI5dnlZTE92dGMzT1JzT1doVVJtTmRRTlE0SEk2NEQtY1g1RnZvUHVrOHQ0RDlQWmZtRTlSTGdDUXRvMVBCcy1tZmtINXRVVE84SVFzWTBaQVM3N1RJUy1ad09iZnhvaU9ISjgtTjllZ2RxMndRMHJLQ25Hbkt3Skt3M3lrZURPem4zQ1ZRQmpVN1k2NjdyM1RNcmNzNG1qTW1ZSDNhUV93?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-10-02T09:20:05+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "8953a915d9fcec41",
-   "title": "Eastern Spain braces for torrential rain and flooding",
-   "summary": "Up to 300mm of rain could fall in places, while extreme downpours bring landslides and deaths in Nepal Torrential rain and potentially damaging flooding are forecast in eastern Spain over the coming days, as cold upper air moves over the warm, humid surface air of the Mediterranean Sea, fuelling violent, slow-moving thunderstorms near Spain’s east coast. The weather pattern, known as a Dana,…",
-   "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-02T08:58:10+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Spain",
-    "Nepal"
-   ]
-  },
-  {
-   "id": "2e72daecbe4b5f0c",
-   "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-   "summary": "Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’ The Indian pilot who helped thwart an apparent attempt to crash a flydubai flight to Tel Aviv said his faith and his desire to save his passengers allowed him to make a “last push” to open the cockpit door as he fought for his life. Capt Smit Machchhar, who was recovering in…",
-   "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-02T08:39:40+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Israel",
-    "India"
-   ]
-  },
-  {
-   "id": "8b2583edc1cbb53c",
-   "title": "How Closed Airspace Threatens U.S. Military Mobility Across Eurasia",
-   "summary": "For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a continuous physical infrastructure between its point of departure and its destination. Routes could change, aircraft could move between markets, and hubs could rise and decline. If economics justified…",
-   "url": "https://warontherocks.com/how-closed-airspace-threatens-u-s-military-mobility-across-eurasia/",
-   "source": "War on the Rocks",
-   "group": "Think tank",
-   "published": "2026-10-02T07:30:03+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "c823fb4fa50f53d8",
-   "title": "Treasury Sanctions Tren de Aragua ATM Jackpotting Network Linked to $40.7 Million in Losses - CyberSecurityNews",
-   "summary": "Treasury Sanctions Tren de Aragua ATM Jackpotting Network Linked to $40.7 Million in Losses    CyberSecurityNews",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUk1zNzNvSGV0RW1Vb0NOQmZISjBoU2F0djN5aVNDb0RtakM3Mm5NblBIUVYyMnYxeFUzYXB2YVRlbFhKb1E0T29ZWXVpbGw3aG9NOGNHRnBkSWYzWXpNdzV5b1NtWmNveWVWOUJB0gFzQVVfeXFMT2Q0WWFVOTh0dW1wY3BsRWlKTTVXdmh2ZDlBcHhmQktBaTkxN2VYWVVyYmRHbEF3Y3NUUXo4Sl80VGZuOEFrS1FiaDhZS2d6SE45LUFqTUFZV3NfSXFGVmVQU3Rqcy15eFpRZVg1MENXVWhFNA?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T07:28:04+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "8898b992d38099e7",
-   "title": "Cyber Operators Are Deployed in Place. The Pentagon Should Treat Them That Way",
-   "summary": "A cyber operator can spend a shift tracking an adversary halfway around the world, walk to the parking lot, and be home in time for dinner. There is no flight home, no demobilization, and no transition from an operational mission back to ordinary life. The war zone is a commute away. That arrangement looks like one of the advantages of cyber warfare. It is also becoming one of its human…",
-   "url": "https://warontherocks.com/cyber-operators-are-deployed-in-place-the-pentagon-should-treat-them-that-way/",
-   "source": "War on the Rocks",
-   "group": "Think tank",
-   "published": "2026-10-02T07:15:31+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "7e64d4f1c06ffad9",
-   "title": "Who Is Funding Russia’s War in the 2027 Budget?",
-   "summary": "Who Is Funding Russia’s War in the 2027 Budget?    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMHh6cWNUcGR6bTRoV0JsRVNOdXVLUjdWcDk2YmY5Sml5T1RqVG1NbTgxc1JjNTVvYUJxY0xxYlFfVGVYaGxxZzFiQUxQN0NIN1dYYjRSVVlqV0kyVVRKbEF3MXJDNDV3UWxTUHUzcFQwUlh6X1NuUU5UemE3VGhQRENoTjZGWkxuajYwRmNTb3lhWHA2NjB6dGtLZG04V1dUbnNYV3pwdHpFS1A3U01xQm4xWjRCYU1xRkljVGV6RWc1LUsxbnA0N1ROeGRQdjhJdGY4eDJuNV9tWWFhSnpzV0VhZzEzTWc2WGs4QXFSOVc0MnhYdUNINVFHdVFEQnZBY1pUQW1QSzEwZ29hY1gzR0psWTRrX3RDdDZ1TFkwTHh5b3ZlaHZr?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-02T07:00:00+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "e6964ca05a2e0fdb",
-   "title": "Enri Hide",
-   "summary": "Enri Hide    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqYkZJQ3BNWEU0eUhPOHhmbkRvTnpsakIwX3RYOGlFb2taVmR0eUxLYkdZMUQ5aUNMMDRjQlV4UUVlSTEtcURFWGhn?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-10-02T07:00:00+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "ab5410ba9fbdd4a8",
-   "title": "Indonesia Needs to Do More to Tackle the Region’s Transboundary Haze Problem",
-   "summary": "Under Prabowo Subianto, leadership on the issue has been lacking – and tens of millions are suffering as a result.",
-   "url": "https://thediplomat.com/2026/10/indonesia-needs-to-do-more-to-tackle-the-regions-transboundary-haze-problem/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T05:33:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "10c8eecb40d55eb2",
-   "title": "U.S. sanctions A7 Network after $17B in transfers - Crypto News",
-   "summary": "U.S. sanctions A7 Network after $17B in transfers    Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6QkZrWWk3emh4V1ptOW5pWl9sNzA0NXdqa0xqWXB6bkRRc012UFI0N1RXeElmNnlRWlBZejIwbEdKY2h4WExZSW0xUzNKVm1LYUltbUtSSS0tczJyS3ktMlNxbm9Xdk1LNWRxR0xDWXFYY0J0LUk4?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-02T05:19:00+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "983fbd965189d682",
-   "title": "Philippines Rejects Chinese Claim to ‘Sovereign Rights’ Over Waters Around Batanes",
-   "summary": "The Chinese activities around the Philippines' northernmost province represent the opening of a new front in the maritime struggle between the two nations.",
-   "url": "https://thediplomat.com/2026/10/philippines-rejects-chinese-claim-to-sovereign-rights-over-waters-around-batanes/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T05:10:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China",
-    "Philippines"
-   ]
-  },
-  {
-   "id": "847bbbaa54bf84bf",
-   "title": "Albania: The Flamingo Revolution explained",
-   "summary": "Albania: The Flamingo Revolution explained    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGxBUkdyY0g0NmY1TG9Ec19UdjJWY1lRSXJ4TVN1VkZJdW1Pa3M4ZU1iUWh5bGtHZkpfV0hJY3FOQlE5NEl2NHU0RmhTOEVVdWIyNWMwRGVzRTNnZkJLWS1Eel94VFlZMUxmSzFxZl9WQ2w0TTRCeUp1bk5xQ1c3Tw?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-10-02T05:00:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Albania"
-   ]
-  },
-  {
-   "id": "d045980f6f4e62ed",
-   "title": "Japan and Australia: Toward a More Autonomous and Resilient Partnership",
-   "summary": "As Washington’s reliability wavers, Tokyo and Canberra are learning to depend on each other.",
-   "url": "https://thediplomat.com/2026/10/japan-and-australia-toward-a-more-autonomous-and-resilient-partnership/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T04:45:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "Japan",
-    "Australia",
-    "United States"
-   ]
-  },
-  {
-   "id": "64b8063edbf0fe70",
-   "title": "UNHCR: 5.8 million refugee children still out of school as funding cuts threaten hard-won progress - UNHCR",
-   "summary": "UNHCR: 5.8 million refugee children still out of school as funding cuts threaten hard-won progress    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlZZR2N1SEppalY4UGZRZDlSRVFWMUlSX3JhUnBCb19YRF9nQjU5MlhKVDF5UjhmdGZ1b2RZc2h4czFPdldCTlAtdzJCVHNHV3ZiZUlLbzNmM2xJMW1WS2N0RGlCaTdWR0I4WFlHcnZ5R09jMnM0RGxDRjZPdHNHZlBLaUNzQi1zUi1fdHA3NG5EeDNWOW5feV9IZkRvYWFubEdqRjhZSlR5Z3k1Y1Bkb3pQbGpNRmpJVENwbA?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-02T04:44:06+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "eb55586d6132d6e9",
-   "title": "Philippine Coast Guard \"Chases Off\" Unauthorized Chinese Research Operation",
-   "summary": "The Philippine Coast Guard reported Monday that it had \"disrupted\" and chased off a Chinese vessel that was conducting unauthorized research within th...",
-   "url": "https://maritime-executive.com/article/philippine-coast-guard-chases-off-unauthorized-chinese-research-operation",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T03:37:30+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China",
-    "Philippines"
-   ]
-  },
-  {
-   "id": "2368095220d27e18",
-   "title": "Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu",
-   "summary": "The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has...",
-   "url": "https://maritime-executive.com/article/explosion-and-fire-reported-at-yanbu",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T03:29:36+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "3c5d94102261f0c3",
-   "title": "ABS Joins Korea-US Initiative to for Next-Generation Shipbuilding Workforce",
-   "summary": "ABS signed a memorandum of understanding (MOU) with leading Korean shipbuilding and research organizations to advance workforce development, technical...",
-   "url": "https://maritime-executive.com/article/abs-joins-korea-u-s-initiative-to-build-next-generation-shipbuilding-workforce",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T03:09:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "de9533bce297582b",
-   "title": "New Rail Service Boosts Swedish Forest Exports Through Port of Gothenburg",
-   "summary": "Today, the first train on a new rail service for Swedish timber producer Fiskarheden departs from Malungsfors for the Port of Gothenburg, carrying saw...",
-   "url": "https://maritime-executive.com/article/new-rail-service-boosts-swedish-forest-exports-through-the-port-of-gothenburg",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T02:09:55+00:00",
-   "themes": [
-    "maritime",
-    "trade"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Sweden"
-   ]
-  },
-  {
-   "id": "509a724e63587542",
-   "title": "JAXPORT Board Honors Late Chief Operating Officer",
-   "summary": "The JAXPORT Board of Directors has approved construction of a new western entrance and security plaza at Blount Island Marine Terminal and named the r...",
-   "url": "https://maritime-executive.com/article/jaxport-board-honors-late-chief-operating-officer-names-new-blount-island-roadway-james-bennett-way",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T02:07:48+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "95e27ef6f12ee8ac",
-   "title": "U.S. Navy Orders $25 Billion Worth of Missile Interceptors",
-   "summary": "The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series...",
-   "url": "https://maritime-executive.com/article/u-s-navy-orders-25-billion-worth-of-missile-interceptors",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T01:56:29+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "4312f20bf5de4a10",
-   "title": "Op-Ed: People Are the Powerbase of the Shipping Business",
-   "summary": "Decarbonisation, digitalisation, shifting patterns of global trade and an increasing level of influence from Asia are continuing to reshape the shippi...",
-   "url": "https://maritime-executive.com/article/people-are-the-powerbase-of-the-shipping-business",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T01:55:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "aacfc1838e6c5ac4",
-   "title": "Proliferation News October 1, 2026",
-   "summary": "Proliferation News October 1, 2026    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0ZSd2lJeURIOTVvMzRCV2p3MHBxN0w0aFh0ZHYwaDJnTDM1S0RfR050UkpVcHpnbmplcmlLMHZvMmVscUExc2RBaTRGU21hRE9xM0gyZUxFYmlRWERWSk1PZ3VOZXNvSmE4QTYzakJDcHpYODhwdTFxY3Q0aUw2YVhUZlBJbnB0aFhGcEJHZ21UaS16QU95dkF4MjVSVlI0SXlpYjl4ZC1SZw?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-02T01:40:13+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "5f93ccfa743c88b4",
-   "title": "Ukraine prepares sanctions on 20-plus Russian oligarchs in response to EU delistings",
-   "summary": "Ukraine prepares sanctions on 20-plus Russian oligarchs in response to EU delistings    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHo0S1JfQ0FNN3oxa0F0NjZHeHctZzNPSWdDRE9IaF9lV1lPM2FVNERqM2I2RDRtc0xRZ3c0bHNHSnQ3QWREdld2VEYyc2NfNjhqYWdaN21xOG5UNENmVFpoeXFrWlVQUHpmMGRfYlVtbFZyQy0wV0RnQ3BKcjYtT1VBRzlkNXdvSjhTb0s4d2RSQ0M4QWhiRUxBT2lmT0U1c09zTU1GUzRqMThMQVNhbTZxdw?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-02T01:37:33+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "European Union"
-   ]
-  },
-  {
-   "id": "aa74e62a1fcf67f6",
-   "title": "Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges",
-   "summary": "The government of Pakistan has agreed to work with the country’s manufacturers and shippers to explore obtaining a dedicated containership. Like other...",
-   "url": "https://maritime-executive.com/article/pakistan-explores-buying-or-chartering-boxship-due-to-shipping-challenges",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T01:22:31+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "49c854a5e51385b4",
-   "title": "Russia’s Navy Shows Its Reach Around Japan’s Southwestern Islands",
-   "summary": "Vladimir Putin’s first-ever visit to a northern territory claimed by Japan comes amid a steady uptick in Russian naval activity near Japan’s southernmost islands.",
-   "url": "https://thediplomat.com/2026/10/russias-navy-shows-its-reach-around-japans-southwestern-islands/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T00:54:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Russia",
-    "Japan"
-   ]
-  },
-  {
-   "id": "5764f687d44c3f61",
-   "title": "‘A Tower of Jelly’",
-   "summary": "The United Nations, U Thant, and the 1967 Arab-Israeli War.",
-   "url": "https://thediplomat.com/2026/10/a-tower-of-jelly/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T00:39:00+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": [
-    "United Nations"
-   ]
-  },
-  {
-   "id": "f36789794797c898",
-   "title": "Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker",
-   "summary": "Japan completed what it is calling a world’s first as it successfully demonstrated a coastal tanker using a hydrogen-fired 4-stroke high-speed engine....",
-   "url": "https://maritime-executive.com/article/japan-conducts-demonstration-voyage-of-a-hydrogen-fueled-tanker",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T00:20:54+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Japan"
-   ]
-  },
-  {
-   "id": "e23c677e45e96843",
-   "title": "ABS Grants Nuclear-Powered 15K TEU Containership AIP with KRISO and KAERI",
-   "summary": "(SEOUL) ABS has awarded approval in principle (AIP) for a concept design for a nuclear-powered 15,000 TEU containership developed in collaboration wit...",
-   "url": "https://maritime-executive.com/article/abs-grants-aip-for-nuclear-powered-15k-teu-containership-developed-with-kriso-and-kaeri",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-02T00:19:03+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "South Korea"
-   ]
-  },
-  {
-   "id": "fcfa1cba1d87eccb",
-   "title": "What Canada Knows About American Power",
-   "summary": "What Canada Knows About American Power    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmVDR1hHQUNLanBTT01XeURkS1I1d1VuUDRrbm16RGxtMjRrdkJwWG54Z2YyNy10TjVzcV9neXZwQ3VybGFDVnQ5LXlYY3lPWC1SRUN0SGlvb2V5RFlRSTlMaUhHOVFFMEVZMXRnUnk3Y2RjVUNCalBpNm92WlM4ZEhJc3N1MXYwVzcxQWpB?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-02T00:08:06+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States",
-    "Canada"
-   ]
-  },
-  {
-   "id": "dde93e27b1bd5d72",
-   "title": "Indonesian President Replaces Foreign Minister With Career Diplomat",
-   "summary": "The appointment of Arrmanatha Nasir is likely to result in a reassertion of the Foreign Ministry's role in Indonesian foreign policymaking.",
-   "url": "https://thediplomat.com/2026/10/indonesian-president-replaces-foreign-minister-with-career-diplomat/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-02T00:00:00+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Indonesia"
    ]
   }
  ]
