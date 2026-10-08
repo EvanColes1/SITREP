@@ -1,6 +1,402 @@
 {
- "updated": "2026-10-08T00:46:07.744553+00:00",
+ "updated": "2026-10-08T03:36:00.259972+00:00",
  "items": [
+  {
+   "id": "0aff05be87186684",
+   "title": "Yemen's Houthis claim attack on Riyadh airport",
+   "summary": "Yemen's Houthis claim attack on Riyadh airport Yemen's Houthis said they attacked the King Khalid International Airport in the Saudi capital Riyadh with a ballistic missile. \"Our armed forces successfully targeted King Khalid International Airport in Riyadh with a ballistic missile, which accurately struck its target and disrupted airport operations,\" Houthi military spokesperson Yahya Saree said…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-riyadh-airport",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T03:35:15+00:00",
+   "themes": [
+    "maritime",
+    "conflict",
+    "nuclear"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "f93ce557c6b0c57a",
+   "title": "Houthis say Saudi drone shot down over Taiz",
+   "summary": "Houthis say Saudi drone shot down over Taiz Yemen’s Houthis said they downed a Saudi drone while it was carrying out what they described as \"hostile missions\" over Taiz. Houthi military spokesperson Yahya Saree said the drone was, a Turkish-made Bayraktar Akinci armed reconnaissance drone, was brought down using an \"appropriate weapon\".",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-drone-shot-down-over-taiz",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T03:31:24+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "c476ccd628ca2029",
+   "title": "Live: French high school, university students call for fresh protests as funding demands grow",
+   "summary": "French high school and university students were called out to protest again on Thursday, two days after a large turnout demanding more funding, as the government made a series of conciliatory gestures aimed at ending the crisis. Follow our liveblog for all the latest developments.",
+   "url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T03:28:21+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "e34abbbb9e55c696",
+   "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+   "summary": "Demonstrators have taken to streets across the world to demand an end to Israeli attacks on Gaza and the West Bank.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T03:25:47+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "5f09d9e7fb34a6ec",
+   "title": "Saudi Arabia strikes back after deadly Houthi attacks on Riyadh and airports",
+   "summary": "Saudi authorities said Wednesday three people were killed and 36 wounded in attacks on Abha and Riyadh’s King Khalid international airports claimed by Yemen’s Iran-backed Houthis. The Saudi-led coalition said it destroyed the ballistic missile launch platform used to attack Riyadh, as fighting with the Houthis intensified across the region.",
+   "url": "https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-08T03:02:35+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "8369764bb3705096",
+   "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+   "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+   "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T03:02:06+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "972c7b28bf2536fc",
+   "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
+   "summary": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+   "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T03:00:50+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "fb78c47dcf697630",
+   "title": "US bars Fiji-based man over corruption tied to China",
+   "summary": "The State Department has accused the man of paying bribes to Fijian citizens to advance Chinese interests.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T02:50:17+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "df6d7062087a9ad6",
+   "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+   "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T02:48:25+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "6592b61b75c48260",
+   "title": "Donald Trump’s Texas rally rocked by repeated protests",
+   "summary": "Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled Senate candidate Ken Paxton. At least half a dozen demonstrators interrupted the US president during his remarks in San Antonio, with some led away by police. One…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T02:36:58+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "eb720872d7b7c9ef",
+   "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+   "summary": "Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast OpenAI used AI to help write the email to the Australian government advising that its AI agent had hacked into key departmental websites, Guardian Australia can reveal. On Tuesday, one of the company’s…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T02:05:33+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "63bc0e88be2bb893",
+   "title": "Why is Guantanamo prison still open?",
+   "summary": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T01:49:11+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Afghanistan",
+    "United States"
+   ]
+  },
+  {
+   "id": "15899675ce290fbf",
+   "title": "Jurors in Beau Lamarre-Condon murder case shown photos of decomposed bodies",
+   "summary": "Former NSW police officer has pleaded not guilty to the February 2024 murders of Jesse Baird and Luke Davies in Sydney Get our breaking news email , free app or daily news podcast Photographs of the decomposed bodies of Jesse Baird and Luke Davies have been shown to 15 jurors tasked with deciding whether the two men were murdered. Former police officer Beau Lamarre-Condon, 31, has pleaded not…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T01:48:38+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "1eeee2f9d721a595",
+   "title": "Israeli army attacks outskirts of village in Syria’s Quneitra province",
+   "summary": "Israeli army attacks outskirts of village in Syria’s Quneitra province Israeli troops late on Wednesday shelled the outskirts of a village in Syria’s southern Quneitra province, the SANA news agency reported.  Two artillery rounds landed in agricultural areas surrounding the al-Samdaniya al-Sharqiya village. No injuries were reported.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-attacks-outskirts-village-syrias-quneitra-province",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T01:38:06+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Syria"
+   ]
+  },
+  {
+   "id": "f95f2ebf0d00a53a",
+   "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
+   "summary": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T01:21:26+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "1bb6d17346726a06",
+   "title": "Death of 87-year old sparks furious Spain housing protests",
+   "summary": "Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T01:15:27+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "2fdc285c8670853a",
+   "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
+   "summary": "Yemeni government forces said in a social media post that they carried out 2,103 'precise targeting operations'.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T01:02:07+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "aa406432f6011d92",
+   "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut",
+   "summary": "Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our breaking news email , free app or daily news podcast The momentum behind Firmus Technologies’ high-flying valuation is showing severe cracks just weeks out from its anticipated ASX debut. Multiple sources briefed on the matter told Guardian Australia the AI datacentre company is slashing its…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-08T00:57:58+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "c2b4c5106cdb0d0b",
+   "title": "Trump will not let Iran 'manipulate' him, White House official says",
+   "summary": "Trump will not let Iran 'manipulate' him, White House official says A White House official said that US President Donald Trump will not allow the Iranian government to \"manipulate\" him as he claimed Tehran did with previous US presidents. The official told Al Jazeera that Trump was \"comfortable letting Iran’s inevitable collapse take its course\", adding that the US was in a powerful position…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-will-not-let-iran-manipulate-him-white-house-official-says",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-08T00:48:41+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "309669013ac02f7f",
+   "title": "How kidnappings are hitting Nigeria’s Borno families hard",
+   "summary": "Across Borno, abductions are leaving families with depleted savings, missing loved ones and disrupted education.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/how-kidnappings-are-hitting-nigerias-borno-families-hard?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T00:47:32+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "c4b0071f5d7a6992",
+   "title": "Republic of Türkiye Funding Update as of 30 September 2026 - UNHCR",
+   "summary": "Republic of Türkiye Funding Update as of 30 September 2026    UNHCR - The UN Refugee Agency",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUURGWmlCUkhUWjJOdnpueHVqSGtmRXlZRXg4cWdTWWM5NG1EM1BpZy1lOEhQU1AxaHBMRGx3MWV5cWhTSzhvMlVOOUtBNF8zNG1oenMzckw4RFhXZVd2VTFhTnVNU3d1UTNSY2VaQjJUdWxxWUZCNWMxMGdSVzluczZfVXpqTnFVc0lqQmZWZDlMazZNZnJkWVU4VVVyRUhkekZ5VUV4Y0M?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-10-08T00:46:42+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "da6e1d45759f653f",
+   "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+   "summary": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
+   "url": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T00:46:36+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
   {
    "id": "17af93929c641199",
    "title": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90",
@@ -14,6 +410,27 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "9518a4c9978bac52",
+   "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+   "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T00:33:03+00:00",
+   "themes": [
+    "energy",
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
   },
   {
    "id": "b34469544f5db8eb",
@@ -33,6 +450,42 @@
    "countries": [
     "Iran",
     "United States"
+   ]
+  },
+  {
+   "id": "e32d86e798ba7cb5",
+   "title": "Russia dismisses reports of second plague case as ‘false information’",
+   "summary": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
+   "url": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T00:16:41+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "0bbcce320311be3a",
+   "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+   "summary": "Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-08T00:16:25+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -182,6 +635,22 @@
    ]
   },
   {
+   "id": "ee1eadee3f975b78",
+   "title": "She made India fall in love with women's cricket - now her era as captain is over",
+   "summary": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T23:31:00+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
    "id": "7a8345602dde5cc3",
    "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
    "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened.",
@@ -268,6 +737,25 @@
    ]
   },
   {
+   "id": "24616613318aaa36",
+   "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+   "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
+   "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T22:50:00+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
    "id": "40bfd44846bb26b7",
    "title": "Greenpeace Warns of Environmental Fallout From Tanker Attack in Black Sea",
    "summary": "Smoke from the burning tanker off the resort town of Sochi, Russia petered out on Wednesday, less than 24 hours after the vessel was hit by one or mor...",
@@ -323,6 +811,20 @@
    ]
   },
   {
+   "id": "bcbb4d2eaba522fe",
+   "title": "'House of Horrors': California couple accused of abusing surrogate-born children",
+   "summary": "The BBC's Madeline Gerber describes the conditions of the mansion where the children - some as young as two months old - were living.",
+   "url": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T22:20:03+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
    "id": "f48e4f0430eb7897",
    "title": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
    "summary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil's presidential run-off.",
@@ -336,6 +838,23 @@
    ],
    "countries": [
     "Brazil"
+   ]
+  },
+  {
+   "id": "d6334e94c33e6040",
+   "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+   "summary": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
+   "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-07T22:10:20+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Singapore",
+    "Indonesia"
    ]
   },
   {
@@ -12461,6 +12980,25 @@
    ]
   },
   {
+   "id": "9f6d1390820d3660",
+   "title": "Shadow fleet tanker reportedly ablaze near Russian port city Sochi",
+   "summary": "Shadow fleet tanker reportedly ablaze near Russian port city Sochi    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0xzZjJ5SEFZa3hlVGlsX053ODFjemJPWFFpNHNia19tNUNRbmQzbDNEZWtTc3A2TlptN0JXS3lhLTZoU2l6S1ZZamxtVlQtSFhYTWQ0M1BrTEk1OGo0R0hjTFYtNVZ6bWdQVmFpc0hKalV2MHVGb1R1ZzdzbC1lU3NrNU9QaHgzT05KejNqdWEyNlVlUXBGcmZVNA?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-06T17:36:35+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
    "id": "6c20ee152b3dddb1",
    "title": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
    "summary": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
@@ -24079,6 +24617,24 @@
    ]
   },
   {
+   "id": "9e8997999685e443",
+   "title": "Document - Myanmar UNHCR Displacement Overview 31 Aug 2026",
+   "summary": "Document - Myanmar UNHCR Displacement Overview 31 Aug 2026    UNHCR Data Portal",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FbEdwdTM5SEFaUXNtUkJMTVhNU1puekR1LTdCc1FWdlJ1OUFxcThhY3F0Tk02c2tVS0hUekk2d05FSTA2TGppNkNlV216XzY2XzQwcEJITWswZTFaZkEw?oc=5",
+   "source": "UNHCR News",
+   "group": "Migration",
+   "published": "2026-09-30T09:08:57+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Myanmar"
+   ]
+  },
+  {
    "id": "b73997b433978d3d",
    "title": "Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure",
    "summary": "“We want to stop the North Koreans as far from Pusan as we can. Block the main road as far north as possible. Contact General Church. If you can’t locate him, go to Taejon and beyond if you can. Sorry I can’t give you more information. That’s all I’ve got. Good luck to you, and God bless you and your men.” -Maj. Gen. William F. Dean, orders to Lt. Col. Charles B. Smith, July 1, 1950, four days…",
@@ -25868,524 +26424,6 @@
    "countries": [
     "United States",
     "United Nations"
-   ]
-  },
-  {
-   "id": "7ade2aa40e2094c9",
-   "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-   "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.… The post ‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak appeared first on Carbon Brief .",
-   "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-   "source": "Carbon Brief",
-   "group": "Energy",
-   "published": "2026-09-25T12:45:39+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d4573192cf7489a1",
-   "title": "Nuclear Energy Archives - Page 71 of 71",
-   "summary": "Nuclear Energy Archives - Page 71 of 71    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kWF94QjdHTDRPNmFhYjRlcndxN0FKSVB3Sm1CWHVOSVRBODktbk5TUk04ZDA1ZHdLZjRIZWo0NWM2bzdPNHhkcEEyR184YXBaVXI0UnpiTWJuQmNkQWpyWk9rREN6NTFEOEdSdg?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-09-25T12:15:14+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "af017a4e2cb0ca1f",
-   "title": "Alexander Wimmers",
-   "summary": "Alexander Wimmers    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BYXBPdFZOU19kQzNjQ1FZcWV3X0U4VWhnVkJMWVg1STR4ZzhjODlwNUwtcF9aN2FObUxwaUcxWUlIbS1uaFlMWkdDQXVwSTVidF9ucktHZ1RqQXF6dUI3V1Bn?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-09-25T11:41:58+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "cce8ac0a5c8666eb",
-   "title": "AnnaJulia Yates",
-   "summary": "AnnaJulia Yates    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qNDdqODlGSnBXUmxkS2I1WldjN1I3LVlQTzVMLU9IUFZMMWhzUEloSEhIUnE5ZEZCNWhaU0o4czFTN1oxazUtTTJXcE5WTDA0SjkweUEzX1JXSkFPVkM0?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-09-25T11:41:53+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "fa9fcd56cd341336",
-   "title": "Tracing the Future Soldier’s Tech Stack",
-   "summary": "Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the “future soldier,” you’d likely picture the genetically engineered super soldiers that have captivated — and horrified — audiences for decades. Soldiers have been depicted as being engineered or bred for super strength or speed, intense rage or cold calculation, and even half-human,…",
-   "url": "https://warontherocks.com/cogs-of-war/tracing-the-future-soldiers-tech-stack/",
-   "source": "War on the Rocks",
-   "group": "Think tank",
-   "published": "2026-09-25T08:00:28+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "4d4c754838def243",
-   "title": "North Korea’s Irregular Warfare After Ukraine",
-   "summary": "Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996 submarine incursion as the most pressing examples. More often than not, North Korea failed to achieve the intended objectives of its missions and lost its commandos. Despite failures, the regime pressed on, and now, over thirty years after the sub…",
-   "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
-   "source": "War on the Rocks",
-   "group": "Think tank",
-   "published": "2026-09-25T07:30:29+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Ukraine",
-    "North Korea"
-   ]
-  },
-  {
-   "id": "eebdc95e04db2288",
-   "title": "New energy and trade routes could bypass Hormuz and change the Middle East. But major challenges remain",
-   "summary": "New energy and trade routes could bypass Hormuz and change the Middle East. But major challenges remain    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWllWNkMyZENSWmFibFQzUXhxS3BCaGhhQ2dqM2JIZGpLazJweGRDdElJMi1lM2VxMkN1a0ZSOUE4YkltTjZTVlo0VEZNczlHbE5OR05wTXBvSGhBdmR6d2NmLU03em01VHFGQWVmOHJLaU9MNDZra3VjSmNEd1hfQWNfaWRWb1pIdlZQNmtEb1gtNEZlR2Q3eHpOUE5uOWwyMWVjN2lnZEhxY1IyRzdzYzd6YmlZRzlrZDJTYjhSQzByUQ?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "55dba3c631cf927c",
-   "title": "China rising, America in decline? The Trump-Xi summit",
-   "summary": "China rising, America in decline? The Trump-Xi summit    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVAxV0xUb1BPXzRsNWhVYTFmMWY3YzBUYnZoU3VjMFd0OWFwUEFsbWtJWG9FRkJIZklYblQ5OWdnTzluSkhRLVllYjAxek1QUGlyRHltSUxwejNXZk1uenN0a05ISGwwWEhEM0pRODZIRmZqWjFNbFZYSFdaTGt5WlJQdHlwY0R3VXJPU3FjYmZTeEpSUmtnUmJOSGJtbEtmMDVTYV9tN0xwVTVPN1lv?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "3685913f2fd971a8",
-   "title": "The Climate Briefing: Contested waters in international politics",
-   "summary": "The Climate Briefing: Contested waters in international politics    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnJCTkQ4ZmpsMDJmLURXWWVvVHdTelpPV0VacTVwMEZnMGVrWVZfc3FhQ01ZczNpbG1vSjI5X1ZZYmg0anpocV9rWnlIQkdFWmFCdFlLcnFsZXd6N2VQRzBpN05ZY2pqd2R6T2g1SDJfcGNnQm5haWNTVmZGRmJQVFFlbTlTaFRHcmtrdml6U3J3NXhSWmtpeA?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "e1c3dd18224bece1",
-   "title": "The Plaza Accord and Its Relevance for China",
-   "summary": "The Plaza Accord and Its Relevance for China    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUV6cVZxLVBzUTRob3VxVVhBVGJHZWRYVFZGQXZ5UHlJZnhnLU5sczNKMVV6Y0w2VG0xNVZORl91T28yclJKQkFHRFh3LW8yWENoWFk4WWtGeXVUNzAxMC12WjZKbDdMZkVYWDl5TUl2UFB6YkhtdTlWNGlDeDJDdWU5RHpnMWxjdmltWkRqUXBRcUF4V2pzeDZEcHh2ZzEtLUpOMmliY1JZZw?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "bfbf475a9d1bc941",
-   "title": "UNHCR: In its fourth year, Sudan conflict drives new displacement into Chad as funding falls short - UNHCR",
-   "summary": "UNHCR: In its fourth year, Sudan conflict drives new displacement into Chad as funding falls short    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHUtaGVkUGlHOF9ZUGRXbzFhUDNmX1pMY1RrWGlvdG8tMG9SOURZYkF4NFNWejBzQkRSRW14ajVJRnhkM3ZLbFdpaGw0ajdfZFBrOGptSjYtQ2lMSXNSc0RVUy0wLUVkRDBkSTZNZXh0VzBoNDlNS29SbUVRcTNfV2xRU25QRzVwOTRiakRQNGFqTFQ5Y2E3emxEY2hydVV0VGVfWC1fcHYyR1FwYkIzaC10cmY5R3FSOVhuUmN3?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Sudan",
-    "Chad"
-   ]
-  },
-  {
-   "id": "65321e29a86ec6e9",
-   "title": "Why the world’s top nuclear nation is sitting out the hype on small reactors",
-   "summary": "Why the world’s top nuclear nation is sitting out the hype on small reactors    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUtZaGJTRlRpS0dXMEV0dkxsZzFOYTdnOHZKUVA1aGkyVGVNcVc3QkxsZ0QweDFiZks1ZVJ6aHBfZXpSeFlMWkZpeW9qYXh6TWJXcDg3NFM3NENlMGdEc0p5dUZ3azM3aWlQa2VWLXJRdFkteDJKaTZNTG9jbF96akdQVVhndWdEdnQ1UzdJTlQtbktjSmNqME4tS3hhbVhVdnNrNlBucGlTdUc5?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b1a02023684c00d2",
-   "title": "Thomas Graham Jr. helped build an arms control system now under strain",
-   "summary": "Thomas Graham Jr. helped build an arms control system now under strain    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWQ3UFNxejZ1OTNHbndGR2RBTU5lTjh2WlFoUVg4cWJ1bDBpQl9kTldXbUVsUE9sLXR2UFFueno4eF9VZ2JVQ3NtV1BkVGJQTGo4bzNNZHNkYzJrc3lmNkFiOTJxVmRoUkRfR2NqVnVZVkdUV2diOTFmWk9QWUJxajlPQ1ZPSDFYSWducUYtazRDMlJmd1VPVGNnQWxqWmRmOWUtXw?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-09-25T07:00:00+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "8c11db7bf05af45e",
-   "title": "RETA Global Roundtable and IEA Secure Electricity Systems Workshop - IEA – International Energy Agency",
-   "summary": "RETA Global Roundtable and IEA Secure Electricity Systems Workshop    IEA – International Energy Agency",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanFnZTI0cFNHTHNXWTY1Z2JHNjJZNUUzU2xSeGhzaHA0OXBBRmFkNVJnekdUejJ0cG9VRTNlNjFjSVEzRlRtWXpLSmRpOHNFTWRPUjlJRUlFU19meFZBQzlENHk4ZzgzLWZ5N1dPNHFscmt5WWpsZ25OeHotXzFCLTlhWTNTMTRTdHQ2RXhTeVZlUHJvMG16eg?oc=5",
-   "source": "IEA News",
-   "group": "Energy",
-   "published": "2026-09-25T06:52:34+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "00ee14e91f493506",
-   "title": "Turkey’s place in Europe",
-   "summary": "Turkey’s place in Europe    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45SXJjSkZwV3V2cG1mNlhjYnI0Ym9kdWNVMENhUWp5cjhRRjBObmxOV2hXTTVMVlJCODdjaG1tRk9nSHVsX3hRYV9WVXhkVGQ3Zkp5Q2VoMEVWdDQtc3JsczJQSWNjZ2E3?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-09-25T05:03:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "fc29372f06b9e48b",
-   "title": "Could a Super El Niño Displace Millions from Their Homes?",
-   "summary": "The 2026 El Niño is expected to be historic, potentially prompting disasters that force millions of people from their homes.",
-   "url": "https://www.migrationpolicy.org/podcast-episode/could-super-el-nino-displace-millions-their-homes",
-   "source": "Migration Policy Institute",
-   "group": "Migration",
-   "published": "2026-09-25T04:00:00+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "4e0fc9b593327dd0",
-   "title": "Charai for The National Interest: Donald Trump’s New York State of Mind",
-   "summary": "The post Charai for The National Interest: Donald Trump’s New York State of Mind appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-national-interest-donald-trumps-new-york-state-of-mind/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-25T01:15:08+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "772e79eb88338162",
-   "title": "IAEA and Inter-American Development Bank Sign Partnership Agreement on Nuclear Energy for Development",
-   "summary": "",
-   "url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-inter-american-development-bank-sign-partnership-agreement-on-nuclear-energy-for-development",
-   "source": "IAEA News",
-   "group": "Nuclear",
-   "published": "2026-09-25T00:00:00+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "fdb66be2e243bab8",
-   "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
-   "summary": "",
-   "url": "http://www.iaea.org/newscenter/news/turkiye-protects-its-citrus-harvests-with-nuclear-science",
-   "source": "IAEA News",
-   "group": "Nuclear",
-   "published": "2026-09-25T00:00:00+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "a26ee3e6ba671dca",
-   "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
-   "summary": "",
-   "url": "http://www.iaea.org/newscenter/pressreleases/update-368-iaea-director-general-statement-on-situation-in-ukraine",
-   "source": "IAEA News",
-   "group": "Nuclear",
-   "published": "2026-09-25T00:00:00+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "fdeb40072dafaf8c",
-   "title": "Europe’s Diesel Vulnerability to US Export Restrictions",
-   "summary": "Europe’s reliance on US energy exports was meant to insulate the continent from Russia. But it may result in new and potentially equally powerful vulnerabilities.",
-   "url": "https://www.rusi.org/explore-our-research/publications/commentary/europes-diesel-vulnerability-us-export-restrictions",
-   "source": "RUSI",
-   "group": "Think tank",
-   "published": "2026-09-24T23:00:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "d3624bd50c2e27e0",
-   "title": "The Saudi economy can hold out through year’s end—even if oil exports drop to zero",
-   "summary": "First the Strait of Hormuz closed, so Saudi Arabia started sending more oil over land through its East-West Pipeline. Then drone strikes damaged the pipeline, and the Iran-backed Houthis fired missiles near the pipeline’s Red Sea terminus. Does Saudi Arabia need to plan for a near term without meaningful oil exports? The post The Saudi economy can hold out through year’s end—even if oil exports…",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-saudi-economy-can-hold-out-through-years-end-even-if-oil-exports-drop-to-zero/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-24T18:08:50+00:00",
-   "themes": [
-    "energy",
-    "maritime",
-    "conflict",
-    "trade"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "0ce0e63509c6a75a",
-   "title": "Ukraine’s defense tech sector must offer investors more than innovation",
-   "summary": "Since the start of Russia’s full-scale invasion in 2022, Ukraine has built one of the world’s most dynamic defense tech ecosystems under conditions few industries ever face. However, innovation alone will not be enough to win over potential investors, writes Olga Usenko. The post Ukraine’s defense tech sector must offer investors more than innovation appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-defense-tech-sector-must-offer-investors-more-than-innovation/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-24T17:59:40+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "72bd0632d5cea393",
-   "title": "Braw in Sky News on a National Resilience Corps for the UK",
-   "summary": "On September 24, Elisabeth Braw was interviewed on Sky News to discuss the possibility of forming a national resilience corps for the UK. The post Braw in Sky News on a National Resilience Corps for the UK appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/commentary/braw-in-sky-news-on-a-national-resilience-corps-for-the-uk/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-24T14:54:10+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "f1f7e012b1243ee6",
-   "title": "Braw in Foreign Policy on the Far Right’s Threat to the Laws of the Sea",
-   "summary": "On September 24, Elisabeth Braw was published in Foreign Policy in an article on how the far right wants to abandon stranded seafarers. The post Braw in Foreign Policy on the Far Right’s Threat to the Laws of the Sea appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/commentary/braw-in-foreign-policy-on-the-far-rights-threat-to-the-laws-of-the-sea/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-09-24T14:53:56+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "8e98b5223770446e",
-   "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
-   "summary": "Almost three-quarters of the 72 five-year plans published by China this year include policies or targets related to climate change… The post Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy appeared first on Carbon Brief .",
-   "url": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
-   "source": "Carbon Brief",
-   "group": "Energy",
-   "published": "2026-09-24T14:00:00+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "c8de3a26ebc73012",
-   "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
-   "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive… The post Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK appeared first on Carbon Brief .",
-   "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-   "source": "Carbon Brief",
-   "group": "Energy",
-   "published": "2026-09-24T11:49:03+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "5a84ca8e78a19838",
-   "title": "Renewables 2026 - IEA – International Energy Agency",
-   "summary": "Renewables 2026    IEA – International Energy Agency",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMi1oUjJkLTh1eUQ3TkhyYjhwY2NMdjJ4NWhjWEh0SE90cldickNsTG1qWUdnQU9zVjNWWmhMQ0ZRU1BNWHBTSVI2bEd6cGVCZ1pGRw?oc=5",
-   "source": "IEA News",
-   "group": "Energy",
-   "published": "2026-09-24T09:40:54+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "7c18edd289bfbfb7",
-   "title": "7th Electricity Security Advisory Board High-Level Meeting - IEA – International Energy Agency",
-   "summary": "7th Electricity Security Advisory Board High-Level Meeting    IEA – International Energy Agency",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWJHTkh3S2YyTXdaWEN0dHpvN1hsUnRJTzZ5NUNVNE43dV9tcXZiclpIVzh3VFdWNFUydXB2bFJhSDM4b2U0LVRxQTRzOFZTQ3llRW9lQk1yWkF1bEotWnhsRldJSjBXTGpuZ3VBRllwdDRCRHczd1VUVEwtY000NG8xdS1sd2VFcjJJMTdn?oc=5",
-   "source": "IEA News",
-   "group": "Energy",
-   "published": "2026-09-24T09:36:08+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "c26743499f08e0b3",
-   "title": "Power, Prudence, and Restraint in Fénelon’s Telemachus",
-   "summary": "“If one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made of a single book; never has any writing been read by so many people.” -Pierre-Valentin Faydit in La Télémacomanie (1700), snidely critiquing the “mania” surrounding the initial publication of The…",
-   "url": "https://warontherocks.com/power-prudence-and-restraint-in-fenelons-telemachus/",
-   "source": "War on the Rocks",
-   "group": "Think tank",
-   "published": "2026-09-24T07:30:45+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "0fc38fe8014b277b",
-   "title": "The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home",
-   "summary": "Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical and legal systems that followed — including the Department of Veterans Affairs’ own adjudication frameworks — took years to catch up.Drone warfare is doing it again. And the gap between battlefield…",
-   "url": "https://warontherocks.com/the-new-signature-wounds-how-drone-warfare-is-reshaping-the-injuries-veterans-bring-home/",
-   "source": "War on the Rocks",
-   "group": "Think tank",
-   "published": "2026-09-24T07:15:36+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
    ]
   }
  ]
