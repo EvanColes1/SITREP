@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:48:21.079427+00:00",
+ "updated": "2026-10-09T03:36:28.884100+00:00",
  "items": [
   {
    "id": "4242802e5ac55a96",
@@ -16,6 +16,289 @@
     "americas"
    ],
    "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f017826fccf18312",
+   "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+   "summary": "Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia.",
+   "url": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-10T00:55:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "95ec2385725b12af",
+   "title": "Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Greens leader – UK politics live",
+   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost them votes in the byelection. Councillors for both Labour the Liberal Democrats told the Press Association that voters had informed them they would not be backing the Green party after it…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T03:06:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "c75ea885ce58233b",
+   "title": "Brazil’s Flavio Bolsonaro wins third-place candidate’s support against Lula",
+   "summary": "Brazil's right-wing presidential candidate Flavio Bolsonaro secured third-place finisher Augusto Cury's endorsement on Thursday, strengthening his position against incumbent Luiz Inacio Lula da Silva ahead of the runoff. Cury won nearly three percent in Sunday's first round. A Datafolha poll put Bolsonaro ahead with 52 percent against Lula's 48 percent.",
+   "url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T02:34:06+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "5461ea696c34c76c",
+   "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+   "summary": "Saudi Arabia has not commented on claims, but confirmed three killed in airport strikes earlier this week Yemen’s Iran-aligned Houthis say they have struck Saudi Arabia’s Riyadh ⁠airport with a ballistic missile, badly damaging a plane and leading some airlines to suspend flights to the capital. The group provided no evidence, and Saudi Arabia did not immediately comment on the claim. Continue…",
+   "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T02:28:58+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "2553eea4b7f1d35f",
+   "title": "Israeli forces kill at least seven Palestinians in separate attacks across Gaza",
+   "summary": "Israeli forces kill at least seven Palestinians in separate attacks across Gaza At least seven Palestinians, including a child, were killed in separate Israeli strikes throughout the day, Gaza’s civil defence rescue service said on Thursday. Strikes were reported in Gaza City, the al-Sudaniya area, al-Mawasi in Rafah, Bani Suheila, and northeastern Khan Younis. Gaza’s health ministry said that as…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-least-seven-palestinians-separate-attacks-across",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T02:14:16+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f1542e01d8ca9511",
+   "title": "Christa Pike case underscores prevalence of botched executions in US",
+   "summary": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
+   "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T02:05:00+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e4474826fa21b9f9",
+   "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
+   "summary": "Victory by Sagal Abdi-Wali in north London seat will be a relief for Andy Burnham in high-stakes battle for the left of British politics Labour has won the Holborn and St Pancras byelection in a high-stakes battle for the left of British politics. The byelection, called after the former prime minister Keir Starmer resigned the seat in September, was considered a two-horse race between the Labour…",
+   "url": "https://www.theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T02:03:41+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "6359001450b23658",
+   "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
+   "summary": "Democrat Abdul El-Sayed and Republican Mike Rogers are locked in a toss-up race for the US Senate.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T02:00:31+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "63357afb905e2399",
+   "title": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
+   "summary": "Thousands expected to march in Delhi on Saturday, as anger mounts over controversial changes to voter lists in world’s largest democracy India’s Cockroach Janta Party (CJP), which began as a satirical movement but is now emerging as a political force among gen Z’s, says authorities have begun detaining its members en masse days before a major anti-government protest in Delhi. Opposition parties,…",
+   "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T01:55:34+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "94aba18b3fca3dd7",
+   "title": "British prime minister criticises Green Party’s motion on 'Zionism is racism', says it is 'terrible judgement'",
+   "summary": "British prime minister criticises Green Party’s motion on 'Zionism is racism', says it is 'terrible judgement' UK Prime Minister Andy Burnham said that the Green Party’s decision declaring that Zionism is a form of racism was \"completely wrong\". Burnham told journalists during a trip to Berlin that the motion shows \"terrible judgement on behalf of the Green Party\" and said that the decision…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/british-prime-minister-criticises-green-partys-motion-zionism-racism",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T01:24:30+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Germany"
+   ]
+  },
+  {
+   "id": "61c5de176fdb7dc5",
+   "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+   "summary": "Thousands of protesters honour Maricarmen Abascal's life, while tributes in Spanish parliament spark debate.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T01:15:49+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "a4b5c55c61129747",
+   "title": "Sydney festival 2027: 11 international dance works to headline ‘once-in-a-lifetime’ program",
+   "summary": "Making its southern hemisphere debut, Dance Reflections will feature collaborators of Rosalía, Madonna and Beyoncé – and a high-wire takeover of the Cutaway Get our weekend culture and lifestyle email A “once-in-a-lifetime” program of dance works of scale will be coming to Sydney in January, including 11 international works from France, Belgium, South Africa and beyond making their Australian…",
+   "url": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T01:00:34+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific",
+    "africa"
+   ],
+   "countries": [
+    "France",
+    "Belgium",
+    "Australia",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "3f1f0031b21f3c84",
+   "title": "USS Abraham Lincoln returns after record-breaking deployment",
+   "summary": "Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T00:57:45+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "ba7c7789eb3e2e42",
+   "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+   "summary": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T00:50:38+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific",
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "Russia",
+    "China",
+    "United States",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "58387f2953e05290",
+   "title": "Jim Chalmers overrules ATO’s controversial ban on credit card payments following business outcry",
+   "summary": "Treasurer earmarks funds for year-long transition period for tax office, delaying ban’s 30 November start date Get our new political email , free app or daily news podcast A controversial ban on credit card payments on tax bills will be delayed by more than six months, after the federal government overruled the tax office and announced new stopgap funding. The treasurer, Jim Chalmers, announced…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T00:45:19+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "86e783fdc508a6c2",
+   "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+   "summary": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T00:39:20+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
     "United States"
    ]
   },
@@ -106,6 +389,38 @@
    "countries": [
     "Israel",
     "Palestine"
+   ]
+  },
+  {
+   "id": "a6d67ddac4447cde",
+   "title": "Can Nuclear Fuel Be Delivered in Time to Power Advanced Nuclear Reactors?",
+   "summary": "Can Nuclear Fuel Be Delivered in Time to Power Advanced Nuclear Reactors?    Carnegie Endowment for International Peace",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnYwS19nWXZCUGRLckd1emxycE1CeEthTkliN3k5RDhBcV9OanRYYXVSNzg5dEczVFZCRGd2NW51T0VWOGUtLTVsWlZMMndoakJsS1BKUHFCMklyaUZsNmdnaDBrNURlZjRkYjdfQmc1bEpCWGFlSlFqR01HTEpxZ1ZObGNqekJ1VXhMd0hMV2VITXZCbG40UkNRSjZZSzVhVXZJMWRBNHNLcVJYbzhOOFY2NVJObmZ1YmU4?oc=5",
+   "source": "Carnegie",
+   "group": "Think tank",
+   "published": "2026-10-09T00:08:48+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "5d4bba0799385201",
+   "title": "Jordan’s Border Economy: Even Amid Transformation, the Drug Trade Endures",
+   "summary": "Jordan’s Border Economy: Even Amid Transformation, the Drug Trade Endures    Carnegie Endowment for International Peace",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXdCdWVXbXZPdzlNZFdhWGFvSUpRWEpIYmxleWFpVDJWRXBNc24yZXo5MGlCSGVEVThYSkhSQVZYbTRheWFHZEpvY29leEFqc3FoYzdSbHpOUVJoX2pNV083bHlrU1o3RjVEYnRnWDZsTUNoNUkyNjBKQnBxSkdUTV83TUZFRlU0S0VGUHI0S3h1azJIN1NGWmNfbEFmNmRqdWxidXhUcHBaSkVWY1dUZThRa21wZVF6MDBzUHBVbmhzNnh0NWdyaw?oc=5",
+   "source": "Carnegie",
+   "group": "Think tank",
+   "published": "2026-10-09T00:08:48+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Jordan"
    ]
   },
   {
@@ -1746,6 +2061,23 @@
    "countries": [
     "China",
     "Philippines"
+   ]
+  },
+  {
+   "id": "90e3f14866bd77f2",
+   "title": "Russia lifts quarantine in Irkutsk region, where lab worker allegedly died of plague",
+   "summary": "Russia lifts quarantine in Irkutsk region, where lab worker allegedly died of plague    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTQwejlKZ0twcndZalRZSFNsUmdQbzJvT3E3TkRrZnJnSXZUeHNEMDVpRlJvRFZZUmJXYU85bkpXR3BSMk80ZmxDalh4NF9nandna3BwVHpvQ21xLVNBN0RBU3Y5U1JUckxGVnlOekFJcGxkTmNwRDhjZUlCRHhZSEk3WV9wUnhKRG95cm4tUk9VU2R6aEhhS0lGNlBhNEExNjJsRG5OVjdkRi1QVzVScHBB?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-08T18:33:52+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -7750,6 +8082,22 @@
    "countries": [
     "France"
    ]
+  },
+  {
+   "id": "6e6ed50c57064156",
+   "title": "AI doom Archives",
+   "summary": "AI doom Archives    Bulletin of the Atomic Scientists",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iZ1BYb1RoYmRHeGdZMTlkSGEzNzYzMXQ0bl9hMU5YdllXZnpFemZiM0xWNE1HbFhBOWJiYkRSTU94cHdTaF9GTU5aV2k?oc=5",
+   "source": "Bulletin of the Atomic Scientists",
+   "group": "Nuclear",
+   "published": "2026-10-08T06:26:35+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "59cedbb35913e133",
@@ -26197,363 +26545,6 @@
     "Iran",
     "Sri Lanka",
     "United States"
-   ]
-  },
-  {
-   "id": "34513ede21a44a7a",
-   "title": "Romania Funding Update as of 30 September 2026",
-   "summary": "Romania Funding Update as of 30 September 2026    UNHCR Data Portal",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Y19oZU1INUhneEk5NGNET0ZmdHhnNlc0ODBFbnQ4Rkw1RW1CMm5yS0l2VV9aUlhPZ29SZ3pERWw0Qk4yN2R6S1Y4Y2hwMnVCSDNrLUlxT1JTQlpaZ2NrZA?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-06T05:17:01+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Romania"
-   ]
-  },
-  {
-   "id": "966238041a0f12fd",
-   "title": "Study Suggests Deep Sea Mining Could Be a Loss-Making Proposition",
-   "summary": "Any deep-ocean seabed operation is an expensive proposition, as research vessel operators and offshore drilling companies are well aware. Deep-sea min...",
-   "url": "https://maritime-executive.com/article/study-suggests-deep-sea-mining-could-be-a-loss-making-proposition",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T05:10:24+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "310e03a69dc96e6b",
-   "title": "3 Iranians Accused Of Spying On UK Journalists For Iran",
-   "summary": "As the conflict in the Persian Gulf continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
-   "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
-   "source": "RFE/RL",
-   "group": "Regional",
-   "published": "2026-10-06T05:03:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Iran"
-   ]
-  },
-  {
-   "id": "de3a11907de76309",
-   "title": "Latest news bulletin | October 6th, 2026 – Morning",
-   "summary": "Catch up with the most important stories from around Europe and beyond this October 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "url": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-morning",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-06T05:00:33+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "a5b4d0b3584d3880",
-   "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-   "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks. Renewed conflict erupted on 23 September between Ethiopia’s federal…",
-   "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T05:00:02+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "751373978c670fb6",
-   "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
-   "summary": "Police have said it is “strongly suspected” that the incident was caused by a gas leak.",
-   "url": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T04:57:16+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "e1afc2d202bd662a",
-   "title": "Quebec separatists vow independence referendum after winning local elections but falling short of majority",
-   "summary": "Canada’s Prime Minister Mark Carney has pledged to work with the incoming separatist government in Quebec to address the needs and issues of the province, including resisting a hostile US administration, creating jobs and building housing.",
-   "url": "https://www.euronews.com/2026/10/06/quebec-separatists-vow-independence-referendum-after-winning-local-elections-but-falling-s",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-06T04:37:15+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States",
-    "Canada"
-   ]
-  },
-  {
-   "id": "3a97c3f0655dfff4",
-   "title": "Urban Rail in Southeast Asia Is Booming",
-   "summary": "Due to rapid economic growth and Chinese knowhow, public transit in the region's cities is entering something of a golden age.",
-   "url": "https://thediplomat.com/2026/10/urban-rail-in-southeast-asia-is-booming/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-06T04:34:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "883529523760960f",
-   "title": "Nigeria: Tinubu Declares 3 Days of Mourning As 32 Die in Military Plane Crash",
-   "summary": "[This Day] President Bola Tinubu yesterday mourned the death of 32 passengers onboard the Nigerian Air Force (NAF) ATR-42 Jet that crashed near a naval base in Igbokoda area of Ondo State, instructing that a probe into the crash should be conducted, and ordering a three-day national mourning period for the deceased.",
-   "url": "https://allafrica.com/stories/202610060087.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T04:01:58+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "c0b6f37559ce6ed8",
-   "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
-   "summary": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.",
-   "url": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
-   "source": "The Record",
-   "group": "Cyber",
-   "published": "2026-10-06T04:00:00+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "f611c67772e83639",
-   "title": "Trump says US moved their B-1 bombers from RAF Fairford airbase after additional threats were made",
-   "summary": "Trump detailed that additional threats received by Washington prompted their moving of the military aircraft from the UK base they were deployed in.",
-   "url": "https://www.euronews.com/2026/10/06/trump-says-us-moved-their-b-1-bombers-from-raf-fairford-airbase-after-additional-threats-w",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-06T03:54:02+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "United Kingdom",
-    "United States"
-   ]
-  },
-  {
-   "id": "ad4ee703b4c88251",
-   "title": "Laos Replaces Prime Minister in Major Leadership Reshuffle",
-   "summary": "Saleumxay Kommasith, a former foreign minister and permanent representative to the UN, has been appointed to the top job.",
-   "url": "https://thediplomat.com/2026/10/laos-replaces-prime-minister-in-major-leadership-reshuffle/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-06T03:45:00+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Laos"
-   ]
-  },
-  {
-   "id": "476fdcc4958474c5",
-   "title": "The European agenda and UK–EU relations: a French perspective on a changing world",
-   "summary": "The European agenda and UK–EU relations: a French perspective on a changing world    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3dxWUFVeDV2R1c5eTliUFNoSUVadDBYb2RPVlJmdWNCZURBZnIzWXVzUlg4VF80NlVYUmxsSjNGYU5qeENFY0huM3g1bERCRko2ZzlvSVBWT285S21pb1R4RmJobzVBczFpdmVYcWxVdy1MWjNJWkhTVDBGbmhpY3psd1ZjeFJzZEc3V29QZ3JvZEZCU2NVM3gzQ1ZEdzMtQ2kwRHlLUkdMUXZBb3EtU0ZEM1RiNk5yT1JWeDBtS01TQQ?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-06T03:41:20+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "France",
-    "European Union"
-   ]
-  },
-  {
-   "id": "4230de595e14eac1",
-   "title": "What are financial markets telling us?",
-   "summary": "What are financial markets telling us?    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemdET2pwbVhobDhtOGJhMnFOaEt2OUgxUElqNnJpUDdLXzNDcDN5M1lBZXBWRndZSGZkbjd2Y3VYZTdiNWtSVWpwd3l5ZDFCUm0yT1JrVWFrLVpvYUZZaFRSTVA3N2gxeWtXejNWYnpya0lZMXNHcmt4Y2NkbUE3bG9CWkZQeVZkOFNVRVRVZ2VrMEU5Nkpv?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-06T03:41:06+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "50588858c6905d45",
-   "title": "Making peace last: Lessons from Colombia and Northern Ireland",
-   "summary": "Making peace last: Lessons from Colombia and Northern Ireland    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVNzRjdFdHVhbmlHQXR2djRsRnBKSG4yeE5ZS205bnlRYXF4ZWFaOHBfYjNfMGNZM01mb2x5cG92SkozMXFqR2tWb1BGSnF2aElCX2N3NWxRTWZzNjB6aEowT21mSTR2V0NKM29uXzdSaS1maVpCQlJnX1pZOUItWXRDNWgxSHdEZnNUMVd3cXVnU2x0bzh4bnVHdEZHUDRvaC1rb01IeXNZX1BQM1Fr?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-06T03:41:06+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Ireland",
-    "Colombia"
-   ]
-  },
-  {
-   "id": "1b112145329e4198",
-   "title": "Malawi: Bid to Block Vice-Presidents From Automatic Rise to Malawi Presidency",
-   "summary": "[Nyasa Times] A Lilongwe resident has submitted a draft Constitutional Amendment Bill to Parliament proposing far-reaching reforms to Malawi's Vice-Presidency, including ending the automatic succession of a Vice-President to the presidency and making the office entirely appointive and removable by the President, Nyasa Times has learnt.",
-   "url": "https://allafrica.com/stories/202610060013.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T03:31:52+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Malawi"
-   ]
-  },
-  {
-   "id": "ce0f875014fe86d1",
-   "title": "Vance Acknowledges \"Details\" to be Resolved on Alaska LNG Investment",
-   "summary": "Just days after President Donald Trump unveiled a multi-billion-dollar South Korean investment in the Alaska LNG pipeline megaproject, officials in Se...",
-   "url": "https://maritime-executive.com/article/vance-acknowledges-details-to-be-resolved-on-alaska-lng-investment",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T03:26:41+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "South Korea",
-    "United States"
-   ]
-  },
-  {
-   "id": "e8905d6372781ac8",
-   "title": "South Korea shipped fuel to Russia via sanctioned vessels, media reports",
-   "summary": "South Korea shipped fuel to Russia via sanctioned vessels, media reports    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemRpQ01HOUhYaFozNUJ4LXVBNGl1NDN5dzUzYXplY1I5SkE2YnprSlROaTlCMWFuU3BHdHFYZWZkNnZVQnY3dVY1STFjZV8xS25qR1hfSVUxVElLZVhwQ1JPUW9yWG9HN25rTElYa2RXZmYwZDM1SUxJcUsyTnhBZUotZFBOWm42MjRxay1EX2tLUkYzZ1B5eWJCVlhIb0I5d2hN?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-06T03:13:48+00:00",
-   "themes": [
-    "sanctions",
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "South Korea"
-   ]
-  },
-  {
-   "id": "14494c969adb4b26",
-   "title": "OBT Expands Into Mauritania as Demand for Shipping Continues to Grow",
-   "summary": "Growing activity across Mauritania’s mining, energy, offshore, infrastructure, oil and gas, renewable energy and development sectors has prompted Afri...",
-   "url": "https://maritime-executive.com/article/obt-expands-into-mauritania-as-demand-for-shipping-and-project-logistics-continues-to-grow",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T03:13:00+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Mauritania"
-   ]
-  },
-  {
-   "id": "8c144312d7b34b0e",
-   "title": "DP World Research: Supply Chain Chiefs Shift from Cost to Choice",
-   "summary": "DUBAI, UNITED ARAB EMIRATES – 5 October 2026: Supply chain leaders are redesigning their networks around greater choice and flexibility, as resilience...",
-   "url": "https://maritime-executive.com/article/dp-world-research-supply-chain-chiefs-shift-from-cost-to-choice",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T03:12:00+00:00",
-   "themes": [
-    "trade",
-    "maritime"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "United Arab Emirates"
    ]
   }
  ]
