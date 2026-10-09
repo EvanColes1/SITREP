@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:36:03.137450+00:00",
+ "updated": "2026-10-09T18:38:43.557867+00:00",
  "items": [
   {
    "id": "4242802e5ac55a96",
@@ -36,6 +36,1308 @@
    "countries": []
   },
   {
+   "id": "a382270f159b3223",
+   "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+   "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+   "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T18:36:18+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "ab049856cf97f36b",
+   "title": "Trump picks conservative commentator Katie Zacharia to be next press secretary",
+   "summary": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump has chosen conservative commentator Katie Zacharia to be the next White House press secretary, according to a White House official. Zacharia will replace Karoline Leavitt, who left the role at the end of August after the birth to her second child. Continue reading...",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T18:31:16+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3ed9906e11802506",
+   "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
+   "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a car in which his five-year-old son was sitting, sparking fierce protests . At least seven shots were reportedly fired…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T18:29:56+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0c8ec1f01398db93",
+   "title": "Flydubai co-pilot planned suicide attack in Tel Aviv airport inspired by 9/11",
+   "summary": "The Omani co-pilot was previously barred from flying in Oman over extremist views.",
+   "url": "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T18:29:39+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Oman"
+   ]
+  },
+  {
+   "id": "d3bfc37a6fdb0168",
+   "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+   "summary": "Hazardous waves are possible in Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey (USGS). The quake hit along the southern coast of Panama, the USGS said, and was felt strongly ​in the ⁠Panamanian…",
+   "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T18:29:26+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Mexico",
+    "Guatemala",
+    "El Salvador",
+    "Nicaragua",
+    "Costa Rica"
+   ]
+  },
+  {
+   "id": "c75423a3ce51d561",
+   "title": "Enabling NATO’s technological transformation",
+   "summary": "NATO faces persistent challenges in translating technological potential into operational capability. Recent analysis of NATO innovation efforts suggests that the limiting factor is often the ability of organizations and operators to adopt, experiment with, and implement new capabilities effectively. The post Enabling NATO’s technological transformation appeared first on Atlantic Council .",
+   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/enabling-natos-technological-transformation/",
+   "source": "Atlantic Council",
+   "group": "Think tank",
+   "published": "2026-10-09T18:24:04+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "NATO"
+   ]
+  },
+  {
+   "id": "5f9c18e77679354c",
+   "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+   "summary": "Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T18:15:06+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "049b116a1e235ac7",
+   "title": "Investigating the Hidden Costs of World’s Farmed Seafood",
+   "summary": "For nearly a decade, the Outlaw Ocean Project, the non-profit journalistic organization that I founded, has produced high-impact investigative stories...",
+   "url": "https://maritime-executive.com/article/how-we-investigated-the-hidden-costs-of-world-s-farmed-seafood",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-09T18:09:00+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "7b18c81d7b144c82",
+   "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+   "summary": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T18:06:48+00:00",
+   "themes": [
+    "sanctions",
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d353a23bae3434cb",
+   "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
+   "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the US Federal Reserve governor, over allegations that she committed mortgage fraud, renewing his efforts to oust her despite a June supreme court ruling that her earlier firing was…",
+   "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T18:05:12+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "2b6a097d3672ed1f",
+   "title": "More Tankers Struck as IRGC Expands Threat Against Non-Compliant Vessels",
+   "summary": "The Iranian Revolutionary Guards Corps Navy issued a statement on Friday, taking credit for a series of recent attacks on tankers, saying it was incre...",
+   "url": "https://maritime-executive.com/article/more-tankers-struck-as-irgc-expands-threat-against-non-compliant-vessels",
+   "source": "The Maritime Executive",
+   "group": "Maritime",
+   "published": "2026-10-09T17:57:44+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "658e99e03ec658b8",
+   "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
+   "summary": "Tories said to be ready to fight in Clacton, with standards investigation rumoured to be nearing its end Nigel Farage’s rivals are gearing up for a byelection in Clacton in the months ahead, amid speculation that the standards inquiry into his £5m gift is nearing a conclusion. Conservative sources said the party was ready to fight in Farage’s seat, although senior figures in the shadow cabinet…",
+   "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T17:52:17+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "804dd12f7256c9cb",
+   "title": "Rare waterspouts slam western Sicily, wrecking homes and a school",
+   "summary": "A rare pair of waterspouts swept ashore in western Sicily on Friday, damaging homes, vehicles and a school. The two funnels formed off the coast near Marsala before moving inland towards Trapani, hitting the town of Petrosino along the way.",
+   "url": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T17:49:59+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "0f432294b10cf5d0",
+   "title": "UN chief condemns US sanctions on ICC as international backlash grows",
+   "summary": "UN chief condemns US sanctions on ICC as international backlash grows UN secretary general Antonio Guterres on Friday condemned the US decision to impose sanctions on the International Criminal Court, saying he was \"deeply alarmed by the expected impact\" of the measures. \"Today's decision marks a serious blow to our collective pursuit of international criminal justice, of which the ICC is a key…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-condemns-us-sanctions-icc-international-backlash-grows",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T17:49:38+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas",
+    "global"
+   ],
+   "countries": [
+    "United States",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "895b07c2da06d755",
+   "title": "Two Latvians arrested at RAF base in Cambridgeshire released on bail",
+   "summary": "Men found inside RAF Molesworth, used by US and Nato for intelligence, freed on strict conditions as police continue investigation Two Latvian men have been released on bail after being arrested at an RAF base in Cambridgeshire used by the US military and Nato. The two men, aged 32 and 26, were arrested at 2am on Thursday after they were discovered inside RAF Molesworth in Cambridgeshire, which…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/09/two-latvians-arrested-at-raf-molesworth-base-in-cambridgeshire-released-on-bail",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T17:46:16+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Latvia",
+    "United States"
+   ]
+  },
+  {
+   "id": "4a93d4d6cca3ccc5",
+   "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+   "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+   "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T17:43:03+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United States"
+   ]
+  },
+  {
+   "id": "0e05a16de40cfc21",
+   "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+   "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T17:37:05+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "909eaf61d64e1100",
+   "title": "US immigration officials defend ICE agents who shot man in same car as child",
+   "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+   "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T17:36:09+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "933214fe58538a5a",
+   "title": "Shows of Strength and Signs of Strain",
+   "summary": "Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memorandum of understanding they struck in June fell apart. On Oct. 8, U.S. President Donald Trump said…",
+   "url": "https://warontherocks.com/shows-of-strength-and-signs-of-strain/",
+   "source": "War on the Rocks",
+   "group": "Think tank",
+   "published": "2026-10-09T17:34:47+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Iran",
+    "China",
+    "North Korea",
+    "United States"
+   ]
+  },
+  {
+   "id": "b8ffd67c15713c36",
+   "title": "Florida execution called off after DeSantis withdraws death warrant for first time",
+   "summary": "Governor halts execution of William Lee Thompson, after Christa Pike survived failed lethal injections Ron DeSantis cancelled a planned execution in the state on Friday, days before a 74-year-old man was due to be killed by lethal injection. The move – the first time Florida’s governor has withdrawn a death warrant in his nearly eight years in office – comes just over a week after the botched…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/desantis-halts-florida-execution",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T17:32:18+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "0f7157ab832b2f1b",
+   "title": "U.S. Oil Drilling Continues to Inch Upward",
+   "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 603, up 56 from this same time last year. The number of active oil rigs rose by 6, reaching 462 during the latest reporting period, according to the data. This is 44 above this same time last year.…",
+   "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-09T17:31:16+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "63aec07a1d47274d",
+   "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
+   "summary": "Haxie Meyers-Belkin is pleased to welcome Rosa Freedman, Professor of Law Conflict and Global Development at the University of Reading. Navi Pillay's career represents a remarkable contribution to international law and human rights, from her pioneering role in post-apartheid South Africa to her work at the United Nations. Yet her legacy also raises difficult questions about political…",
+   "url": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T17:27:56+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa",
+    "global"
+   ],
+   "countries": [
+    "South Africa",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "f04062e659b35f6e",
+   "title": "Container Surge Continues At The Port Of Long Beach",
+   "summary": "The Port of Los Angeles reported its best single month in its history. In a media briefing, port executive director Gene Seroka announced the port processed 1,042,652 TEUs, 23k TEUs more than the July 2025 record.",
+   "url": "https://gcaptain.com/container-surge-continues-at-the-port-of-long-beach/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-09T17:25:12+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "978d1fb6071163f5",
+   "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+   "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T17:19:43+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "426499edc1825b4c",
+   "title": "Trump promises 'big news' on diesel as prices near record highs",
+   "summary": "Trump promises 'big news' on diesel as prices near record highs US President Donald Trump said on Friday there would be \"big news\" on diesel, as fuel prices remain near record highs in the weeks before the November congressional elections. \"We have, I think, some big news on that diesel situation. We're going to be knocking the hell out of it,\" Trump said at a White House event without…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-promises-big-news-diesel-prices-near-record-highs",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T17:18:09+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d7528ef91e9402de",
+   "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+   "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+   "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T17:14:44+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "c912bf3c8f04deeb",
+   "title": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
+   "summary": "",
+   "url": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T17:09:59+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "584aa1b4ae07ffcc",
+   "title": "Labour byelection win shows party starting to win back voters on left",
+   "summary": "Party now polling 15 points above Greens, who had been ahead of Labour before Keir Starmer resigned as PM Labour is starting to win back voters on the left who became disillusioned under Keir Starmer’s leadership, the party’s deputy leader has claimed after it saw off Zack Polanski and the Greens to win the Holborn and St Pancras byelection. Labour’s Sagal Abdi-Wali took 45% of a relatively low…",
+   "url": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T17:08:19+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "d4624423e63d2fb5",
+   "title": "'Satanic:' Hegseth's move to live-stream execution shocks even pro-death penalty advocates",
+   "summary": "'Satanic:' Hegseth's move to live-stream execution shocks even pro-death penalty advocates Submitted by MEE staff on Fri, 10/09/2026 - 16:45 Hegseth said he wants people to watch the execution of Army Major Nidal Malik Hasan, who was convicted of the Fort Hood killings US Secretary of War Pete Hegseth is seen on the South Lawn of the White House in Washington, DC, on 6 October 2026 (Anna…",
+   "url": "https://www.middleeasteye.net/news/satanic-hegseths-move-livestream-execution-shocks-even-pro-death-penalty-advocates",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T17:07:06+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d35a3372afce9d16",
+   "title": "Palestinians seek protection from violent settlers during olive harvest",
+   "summary": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T17:05:25+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "4de6b517f135b326",
+   "title": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
+   "summary": "Ukraine’s counter-offensive on the Lyman axis collapsed the northern arm of a Russian pincer movement aimed at surrounding Ukrainian-held Donetsk, liberating up to 176 square kilometres and forcing Russian units onto the defensive, the Washington-based think tank said.",
+   "url": "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T17:04:36+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "13e17fcdf42c1238",
+   "title": "Flydubai co-pilot plotted 9/11-style attack on Tel Aviv airport, UAE prosecutor says",
+   "summary": "Flydubai co-pilot plotted 9/11-style attack on Tel Aviv airport, UAE prosecutor says An Omani flydubai co-pilot had planned to seize a Dubai-Tel Aviv flight and crash it into a terminal at Israel’s Ben Gurion airport on 30 September - before being thwarted by his fellow pilot, the UAE attorney general said on Friday, according to the state news agency WAM. UAE public prosecutors believe the plan…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/flydubai-co-pilot-plotted-911-style-suicide-attack-tel-aviv-airport-uae",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T17:03:50+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "United Arab Emirates",
+    "Oman"
+   ]
+  },
+  {
+   "id": "24f4832e2479bedd",
+   "title": "Unweaving Jeffrey Epstein’s web: What the files have revealed",
+   "summary": "On January 30, 2026, the US Justice Department released 3 million documents. Photos, videos, emails, text messages, court records... All connected to one man: Jeffrey Epstein. Since then, media outlets around the world have brought to light the vast amount of people that appear in the Epstein files. Eight months on, what what do these revelations tell us about Jeffrey Epstein’s network? How did…",
+   "url": "https://www.france24.com/en/video/20261009-unweaving-jeffrey-epstein-s-web-what-the-files-have-revealed",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T17:00:07+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "fccd558a0171d8a1",
+   "title": "States Bet on Virtual Power Plants to Cut Grid Costs",
+   "summary": "The United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid. When coordinated, a group of hundreds or thousands of households and businesses can use the latent potential of their…",
+   "url": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-09T17:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "352a1402ccd03634",
+   "title": "Why the UK capitulated to Israel in consulate surrender deal",
+   "summary": "Why the UK capitulated to Israel in consulate surrender deal Submitted by Peter Oborne on Fri, 10/09/2026 - 16:30 Miliband's principled policy was undermined from the moment Powell set off to negotiate with Israeli officials British National Security Adviser Jonathan Powell and Foreign Secretary Ed Miliband are pictured at the UN General Assembly in New York, on 22 September 2026 (Toby…",
+   "url": "https://www.middleeasteye.net/opinion/why-uk-capitulated-israel-consulate-surrender-deal",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T16:47:42+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena",
+    "global"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Israel",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "ffcaa07d48ac61b0",
+   "title": "Ed Davey faces growing revolt against leadership as senior Lib Dem MP quits",
+   "summary": "Treasury spokesperson Charlie Maynard reportedly resigned in attempt to unseat leader as party slips in polls Ed Davey is facing a growing revolt against his leadership of the Liberal Democrats, after the resignation of a senior frontbench figure on Friday. Charlie Maynard, the Liberal Democrat Treasury spokesperson, has resigned in an attempt to unseat Davey after months of frustration over…",
+   "url": "https://www.theguardian.com/politics/2026/oct/09/ed-davey-faces-growing-revolt-against-leadership-as-senior-lib-dem-mp-quits",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T16:46:29+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fe951c347d4779f7",
+   "title": "Did Russia play by the rules in reporting lab worker's death?",
+   "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
+   "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+   "source": "NPR World",
+   "group": "World news",
+   "published": "2026-10-09T16:43:45+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "aeab269675586420",
+   "title": "Chatham House Prize 2026: The women of Afghanistan",
+   "summary": "Chatham House Prize 2026: The women of Afghanistan    Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVDBTVmtYQkpoUUVvOUE0dDhNWk9jcDE0b2pSNzNTeUR0RWlrYmYwbno0Q2NhQW45LXNZbXNBQXEzUDdWVHZ1TjNXMkhnZ2YydzBRQnBpVzFWQ0FkcmVvNDA3SzQyWUhtcGdZREdZdjBIc1hVSkZVd0w3cl9sX0phb2V0VzhOMGxlRWNZX1JfbjlaUGJaR203UXZGdW41Zw?oc=5",
+   "source": "Chatham House",
+   "group": "Think tank",
+   "published": "2026-10-09T16:39:40+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "9862baafc7e5ade9",
+   "title": "Powerful tornado rips through western Sicily",
+   "summary": "A powerful tornado tore through western Sicily, causing destruction across the cities of Marsala and Petrosino.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T16:37:33+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "bc810ed50e7dc0e2",
+   "title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
+   "summary": "A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing multiple sources.",
+   "url": "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-09T16:37:26+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "bd6f5be53882b45a",
+   "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+   "summary": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T16:36:31+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "c9d6581aa955fa14",
+   "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+   "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eastern blaze, vowing not to attack Iran before the mid-term elections just as oil prices were nearing the $110 per barrel mark amidst a deteriorating security situation in Saudi…",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-09T16:35:22+00:00",
+   "themes": [
+    "energy",
+    "conflict",
+    "climate"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "Saudi Arabia",
+    "United States"
+   ]
+  },
+  {
+   "id": "dbe1a3444d2692ce",
+   "title": "Comprehensive Sanctions on the International Criminal Court Require Collective Pushback",
+   "summary": "Comprehensive Sanctions on the International Criminal Court Require Collective Pushback    Charity & Security Network",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWlOaGg3Q2pVazE2YjdSZmx3QmdSYjVMSW9BcXRuM2FLdjRzck1MQkNwcFZiZ0FTQnRoUkJZcTYxbUUyNWdlY1dtM3ZZV0tHRVl0NXlUdHBibjNFbnU5bWdELUJkUGZhNThuX3FFUVBrWmktbURDMWdDN1JwNGpLQnVGZDVibHRsZlhWcVEwaWpkclgwbFgzYmhmS2p2N1lSRllLMm9GQ09JaWZ6ejRLOE5qa0VkYldjYWJ0czZGeWl2UQ?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-09T16:33:40+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "a27e94e8e7cdb9fc",
+   "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+   "summary": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T16:33:26+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "global"
+   ],
+   "countries": [
+    "Latvia",
+    "Lithuania",
+    "NATO"
+   ]
+  },
+  {
+   "id": "30ca7b42c669fc23",
+   "title": "Does Polanski have to go? Greens at the crossroads after Holborn and St Pancras",
+   "summary": "Pressure is building on the party leader after byelection defeat, a damaging row over Zionism and polls that show him less popular than Nigel Farage When Zack Polanski addressed his campaigners flush with victory after the Gorton and Denton byelection in February, he declared: “Labour’s electoral stranglehold is over.” The election of Hannah Spencer as the new Green MP for the Greater Manchester…",
+   "url": "https://www.theguardian.com/politics/2026/oct/09/zack-polanski-future-as-green-party-leader-holborn-st-pancras-byelection-defeat",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T16:32:30+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "5719ad0fbdbc2f7e",
+   "title": "Man named Hitler Mussolini elected mayor in Peru",
+   "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+   "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T16:32:22+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Peru"
+   ]
+  },
+  {
+   "id": "da51291b5833e22e",
+   "title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
+   "summary": "The past fortnight has delivered a clear reminder that the industry’s regulatory problem is no longer a shortage of rules. It is the widening distance between what is agreed in London and Brussels and what can actually be demonstrated on deck, in the engine room and in a ship’s emissions data.",
+   "url": "https://gcaptain.com/from-policy-to-practice-shippings-regulatory-autumn-puts-proof-on-trial/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-09T16:21:35+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Belgium"
+   ]
+  },
+  {
+   "id": "a6cbc20c2ea2be68",
+   "title": "Nigeria: Customs Uncovers ₦3.67bn Drug Haul in Imported Cars, Spare Parts",
+   "summary": "[Vanguard] The importation of illicit drugs concealed in used vehicles and automobile spare parts has come under scrutiny following the interception of two 40-foot containers containing suspected narcotics worth an estimated ₦3.67 billion at Tin Can Island Port, Lagos.",
+   "url": "https://allafrica.com/stories/202610090602.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:21:16+00:00",
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "6a21f750b5ce3327",
+   "title": "How Iranian Operatives Used AI To Publish Fake Stories In US Media",
+   "summary": "OpenAI has said Iranian operatives used ChatGPT to create fake journalist personas and push anti-American narratives. RFE/RL looks at one of the personas.",
+   "url": "https://www.rferl.org/a/openai-chatgpt-iran-fake-stories/33873679.html",
+   "source": "RFE/RL",
+   "group": "Regional",
+   "published": "2026-10-09T16:21:03+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "447de7e07b948902",
+   "title": "Ethiopia: Ethiopia to Observe Seventh National Cybersecurity Month",
+   "summary": "[ENA] Addis Ababa -- Ethiopia is set to observe its seventh National Cybersecurity Month from October 11 to November 9, 2026.",
+   "url": "https://allafrica.com/stories/202610090601.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:20:06+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "49316414611448af",
+   "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+   "summary": "Protests against sexual violence took place across more than 40 US states on 8 October.",
+   "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T16:19:36+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ea09b68773ea2730",
+   "title": "Liberia: Charged in U.S.$30,500 Land Deal, Eric Wowoh Denies Fraud and Challenges Police Allegations",
+   "summary": "[Liberian Investigator] MONROVIA -- Eric W. Wowoh, the Liberian businessman charged in connection with a disputed US$30,500 property transaction involving a Liberian-American couple, has broken his silence, strongly denying allegations of fraud and unlawful land conveyance while challenging the financial claims and property ownership documents at the center of the criminal case.",
+   "url": "https://allafrica.com/stories/202610090600.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:19:35+00:00",
+   "themes": [],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "Liberia"
+   ]
+  },
+  {
+   "id": "ab2a89e4153dd00f",
+   "title": "Nigeria: Police Chief Speaks On Alleged Ransom Payment for Freed 20 NYSC Members",
+   "summary": "[Premium Times] The police reaction followed widespread claims of ransom payments by some parents of the 20 prospective NYSC members who were released on Wednesday, exactly one week after they were abducted on 1 October.",
+   "url": "https://allafrica.com/stories/202610090599.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:18:44+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "c1d5d8ae09a82134",
+   "title": "Nigeria: American Lobbying Firms Disagree Over $57m U.S. Lawsuit Against Tinubu",
+   "summary": "[Premium Times] DCI Group has rejected allegations in a $57 million US lawsuit against President Bola Tinubu and others, while Femi Fani-Kayode's office says he has not been formally served.",
+   "url": "https://allafrica.com/stories/202610090598.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:18:22+00:00",
+   "themes": [],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "30f26ae69c2b206f",
+   "title": "Nigeria: FG Targets Five Million Nigerians for Poverty Exit",
+   "summary": "[Vanguard] ...trains 700 Oyo youths in AI, vocational skills",
+   "url": "https://allafrica.com/stories/202610090597.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:16:55+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "8c084b92d3af1eda",
+   "title": "Kenya: U.S. Report Flags Kenya's Failure to Act On Officials Linked to Human Trafficking",
+   "summary": "[Capital FM] Nairobi -- Kenya has failed to report meaningful enforcement action against public officials and recruitment agencies allegedly linked to human trafficking, with a new United States report warning that official complicity continues to undermine the country's efforts to prosecute the crime.",
+   "url": "https://allafrica.com/stories/202610090596.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:16:29+00:00",
+   "themes": [],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "Kenya"
+   ]
+  },
+  {
+   "id": "382d760ddcc2edfc",
+   "title": "South Africa: High Court Orders ANC to Reinstate Andile Lungisa After Unlawful Removal",
+   "summary": "[Daily Maverick] With elections less than a month away, the high court has ruled that the ANC's removal of Andile Lungisa from its Nelson Mandela Bay candidate list is unlawful, ordering the party to reinstate his name and pay his legal costs.",
+   "url": "https://allafrica.com/stories/202610090594.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T16:15:00+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "f36f026194ce5d46",
+   "title": "Isaias Puts 500,000 Barrels a Day of Refining Capacity at Risk",
+   "summary": "Nearly 500,000 barrels a day of oil-refining capacity sit in the projected path of Hurricane Isaias, raising the risk that a US fuel market with no supplies to spare will lose critical output.",
+   "url": "https://gcaptain.com/isaias-puts-500000-barrels-a-day-of-refining-capacity-at-risk/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-09T16:11:58+00:00",
+   "themes": [
+    "energy",
+    "maritime"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d820635acafec5f2",
+   "title": "Global Oil Tanker Shortage is Getting Worse By the Day",
+   "summary": "For a sign of just how extraordinary oil shipping costs have become, consider this: It’s now more expensive to hire a tanker from the US to China than to launch a rocket into space.",
+   "url": "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/",
+   "source": "gCaptain",
+   "group": "Maritime",
+   "published": "2026-10-09T16:08:41+00:00",
+   "themes": [
+    "energy",
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "9273d245da537df3",
+   "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+   "summary": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T16:07:29+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Belgium"
+   ]
+  },
+  {
+   "id": "10b8bb252112bd70",
+   "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+   "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
+   "url": "https://therecord.media/irhythm-data-breach-reports",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-09T16:06:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "18c9215142f8bc9b",
+   "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+   "summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.",
+   "url": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-09T16:06:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "350f991a90a12ff5",
+   "title": "Netanyahu hails US sanctions on ICC and calls Nobel laureate jurist 'bigot'",
+   "summary": "Netanyahu hails US sanctions on ICC and calls Nobel laureate jurist 'bigot' Israeli Prime Minister Benjamin Netanyahu on Friday praised the US  for imposing sanctions on the International Criminal Court (ICC), which has issued a warrant for his arrest over war crimes in Gaza. \"The ICC is not a court. It is a political body that poses a mortal threat to law-abiding democracies worldwide and to the…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-hails-us-sanctions-icc-calls-nobel-laureate-jurist-bigot",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T16:04:53+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "db4e372b141da3f5",
+   "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+   "summary": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
+   "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T16:01:37+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b2b21054c3403f12",
+   "title": "Latest news bulletin | October 9th, 2026 – Evening",
+   "summary": "Catch up with the most important stories from around Europe and beyond this October 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "url": "https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-evening",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T16:00:26+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "557659f202c26304",
+   "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
+   "summary": "Unable to persuade Armenia to abandon its efforts to join the European Union, Russia is now signaling that it is adopting a harder line. Armenian Prime Minister Nikol Pashinyan evidently is taking the menacing tone of recent Russian statements seriously. It appears the price of keeping the Kremlin at bay for now is the suspension of a nuclear cooperation deal with the United States and an…",
+   "url": "https://oilprice.com/Geopolitics/International/Pashinyans-Nuclear-U-Turn-Gives-Moscow-an-Opening-in-Armenia.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-09T16:00:00+00:00",
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Armenia",
+    "European Union",
+    "United States"
+   ]
+  },
+  {
+   "id": "c3da6cf3d840f623",
+   "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+   "summary": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T15:59:04+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "aa76910a75662f24",
+   "title": "EU vows to protect ICC from US sanctions as governments rally behind court",
+   "summary": "EU vows to protect ICC from US sanctions as governments rally behind court The European Union on Friday condemned US sanctions on the International Criminal Court as “deeply regrettable” and pledged to take “any necessary measures” to ensure The Hague-based tribunal can continue its work. In a statement, the European Commission said it would work closely with the ICC to safeguard its operations.…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-vows-protect-icc-after-us-sanctions",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T15:53:23+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "United States"
+   ]
+  },
+  {
+   "id": "a021342efcfb9fc8",
+   "title": "Le Pen's top ally Bardella faces fresh claims he sought to cover up past anti-Semitic comments",
+   "summary": "France's far-right National Rally leader Jordan Bardella deleted data from a former activist Facebook account as soon as allegations surfaced that he wrote anti-Semitic comments in his youth, French investigative weekly Le Canard enchaîné said Friday, piling pressure on the top ally of presidential frontrunner Marine Le Pen.",
+   "url": "https://www.france24.com/en/france/20261009-le-pen-top-ally-bardella-faces-fresh-claims-he-sought-to-cover-up-past-anti-semitic-comments",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T15:53:11+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "France",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "85b86db0733e523e",
+   "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
+   "summary": "2020 was an annus horribilis. Covid stalked the land. Lockdowns, curfews and social distancing were the order of the day. But there was a silver lining: European countries showed themselves to be capable of great solidarity, jointly procuring vaccines and then agreeing on a mammoth post-Covid recovery fund, the Recovery and Resilience Facility (RRF). That fund has disbursed €450 billion in grants…",
+   "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T15:51:06+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "European Union"
+   ]
+  },
+  {
+   "id": "b1f88fcee018e0d6",
+   "title": "Security guard in Palestine Action case tells court he ‘felt like Indiana Jones’",
+   "summary": "Security guard in Palestine Action case tells court he ‘felt like Indiana Jones’ Submitted by Katherine Hearst on Fri, 10/09/2026 - 15:01 Five defendants are facing charges in connection with a break-in at an Elbit Systems arms factory near Bristol in 2024 Protesters outside Woolwich Crown Court in London, where alleged Palestine Action activists are on trial, 17 November 2025 (AFP) Off Jurors in…",
+   "url": "https://www.middleeasteye.net/security-guard-palestine-action-indiana-jones-elbit-systems",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T15:47:59+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "11704ea3660945e9",
+   "title": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?",
+   "summary": "The 2026 Nobel Peace Prize was awarded to South African Navanethem “Navi” Pillay on Friday, October 9, 2026. The 85-year-old South Africa-born served as United Nations High Commissioner for Human Rights and chair of the Independent International Commission of Inquiry on the Occupied Palestinian Territories.",
+   "url": "https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T15:47:45+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "africa",
+    "global"
+   ],
+   "countries": [
+    "Palestine",
+    "South Africa",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "0419de820a0c85c8",
+   "title": "FBI touts another ShinyHunters arrest in response to data breach",
+   "summary": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
+   "url": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+   "source": "The Record",
+   "group": "Cyber",
+   "published": "2026-10-09T15:41:00+00:00",
+   "themes": [
+    "cyber"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "c1054c46a0789796",
+   "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+   "summary": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T15:28:10+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
    "id": "25db98ac0d915719",
    "title": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality",
    "summary": "We bring you all the latest from Paris Fashion Week. For Weinsanto, audacity is about finding a lightness, as embodied by the LGBTQ+ community. At Issey Miyake, it's about sensuality rooted in the Japanese concept of Ma, the space that bridges the gap between fabric and skin. It's a similar story at Yohji Yamamoto who, at 83, is still on the hunt for emotions.",
@@ -51,6 +1353,24 @@
    "countries": [
     "France",
     "Japan"
+   ]
+  },
+  {
+   "id": "b307eeccf4e4dbd6",
+   "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+   "summary": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T15:25:27+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
    ]
   },
   {
@@ -90,6 +1410,61 @@
     "Palestine",
     "Rwanda",
     "South Africa"
+   ]
+  },
+  {
+   "id": "b4285eb654117f46",
+   "title": "Eritrean troops in Ethiopia raise fears of a regional war",
+   "summary": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
+   "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-09T15:20:00+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Ethiopia",
+    "Eritrea"
+   ]
+  },
+  {
+   "id": "cfd9f7ee04849b5b",
+   "title": "International Criminal Court faces 'test of resilience' as US imposes sweeping sanctions",
+   "summary": "The Trump administration has imposed sweeping new sanctions on the International Criminal Court as part of its campaign to dismantle what it describes as a \"rogue\" tribunal, threatening to cripple its operations. Following the move, ⁠the European Union said it was \"ready to take any necessary measures to enable the court to carry out its work\".",
+   "url": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T15:19:41+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "United States"
+   ]
+  },
+  {
+   "id": "f13c922745067f00",
+   "title": "Macron and Steinmeier struggle to revive Franco-German ties",
+   "summary": "Presidents Frank-Walter Steinmeier and Emmanuel Macron are about to step down from their offices. Their meeting in France made it clear how urgently the Franco-German partnership needs new momentum.",
+   "url": "https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-09T15:17:00+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
    ]
   },
   {
@@ -309,6 +1684,24 @@
    ]
   },
   {
+   "id": "863f2418afee639c",
+   "title": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
+   "summary": "The US has announced new sanctions on the International Criminal Court. It's the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental organization.",
+   "url": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "group": "World news",
+   "published": "2026-10-09T14:53:00+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
    "id": "a11f89f6a36e92f5",
    "title": "Navi Pillay dedicates Nobel Peace Prize to 'survivors of international crimes'",
    "summary": "Navi Pillay dedicates Nobel Peace Prize to 'survivors of international crimes' South African jurist Navi Pillay, who has been awarded the Nobel Peace Prize 2026, dedicated the prize to “survivors of international crimes”.  She made the remarks at a press conference in Nuremberg, Germany, where Nazi leaders were prosecuted after World War Two. “Let me dedicate this award to all of the survivors of…",
@@ -376,6 +1769,22 @@
    ],
    "countries": [
     "France"
+   ]
+  },
+  {
+   "id": "a792ad63d12b5ed5",
+   "title": "Filling the Void as Syria’s Transitional Justice Stalls",
+   "summary": "Filling the Void as Syria’s Transitional Justice Stalls    Carnegie Endowment for International Peace",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzJraXF4OTYzUm1EVXdrZXBWb205QWo5UHoxMXBHQmE2d194QnB6OHZmVEpOU2dqOVhNZzlkYXhyZDF0MnFFcmkxYW5UOHpkZTNULVY5Y3g4SF9QQ0U4a0MzVF9TU2p0VVUzSnNUVm94NWw2c3pFWlFkRXJmNDVmM1oweHRMeWkxU3BYU1lvZmNYY0ozZ25vTkEwUFZ0b2VfandSelVUZXZseTJLdnRN?oc=5",
+   "source": "Carnegie",
+   "group": "Think tank",
+   "published": "2026-10-09T14:42:22+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Syria"
    ]
   },
   {
@@ -1063,6 +2472,26 @@
    ]
   },
   {
+   "id": "3659933e29ebe4bb",
+   "title": "Liberia: Gongloe Demands Full Accounting of Boakai's 23-Day U.S. Trip",
+   "summary": "[Liberian Investigator] MONROVIA -- Opposition leader Tiawan Saye Gongloe has called on President Joseph Nyuma Boakai to disclose what his 23-day trip to the United States cost, who went, why, and what Liberia got in return.",
+   "url": "https://allafrica.com/stories/202610090499.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T13:19:46+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "Liberia"
+   ]
+  },
+  {
    "id": "10f6cf3c8b47c5c6",
    "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
    "summary": "Exclusive: Chancellor urged to reverse Rishi Sunak’s tax surcharge cuts to claw back billions in lost revenue Business live – latest updates Tax cuts for big banks have deprived the UK government of £6bn in revenues, according to campaigners, who are calling on the chancellor, John Healey, to increase taxes and force lenders to pay their “fair share” in the budget. Calculations by the Trades…",
@@ -1076,6 +2505,24 @@
    ],
    "countries": [
     "United Kingdom"
+   ]
+  },
+  {
+   "id": "53954563b05b1956",
+   "title": "Liberia: Bility - U.S.$1 Billion in Revenue Has Changed 'Nothing'",
+   "summary": "[Liberian Investigator] MONROVIA -- Opposition leader Musa Hassan Bility said Thursday that the government's collection of more than US$1 billion in domestic revenue has done nothing to improve ordinary Liberians' lives. He called it \"growth without development.\"",
+   "url": "https://allafrica.com/stories/202610090498.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T13:18:51+00:00",
+   "themes": [],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "Liberia"
    ]
   },
   {
@@ -2261,6 +3708,27 @@
    ],
    "countries": [
     "Brazil"
+   ]
+  },
+  {
+   "id": "47c9f66a54aab9c9",
+   "title": "Exclusive: Putin puts a price on Trump's Ukraine energy truce — Kyiv fears the cost",
+   "summary": "Exclusive: Putin puts a price on Trump's Ukraine energy truce — Kyiv fears the cost    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmJqTXpqY19oSWFid2xZbDVUbWx3UEFZYmhFUG02VmRSUUtMSWE0d05LTk9WZDRqbExDelJGRGJKWG41ZGdZNUR6WU5KLTR1QWxKNEFES1RmNnd3cDBNT01mS3dOLUZ0eVZZWU5VRFI5X3FYd1hBUVF4S3BHOHZYX0NSNm4?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-09T11:08:31+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
    ]
   },
   {
@@ -6101,6 +7569,24 @@
    ]
   },
   {
+   "id": "835f35616195746d",
+   "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+   "summary": "",
+   "url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
+   "source": "IAEA News",
+   "group": "Nuclear",
+   "published": "2026-10-09T00:00:00+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
    "id": "46a6a4749449eb37",
    "title": "Plans for Sydney’s controversial new public square in doubt after NSW government intervention",
    "summary": "State planning minister declares project ‘state significant’, wresting approval process away from local council Plans for a grand new public square in centre of Sydney are in doubt after the New South Wales planning minister declared the project “state significant”, wresting the approval process away from the City of Sydney. The lord mayor, Clover Moore, released renders in August for the plaza…",
@@ -6188,6 +7674,24 @@
    ]
   },
   {
+   "id": "516ff1080979b408",
+   "title": "UK service member charged with spying for Russia makes first court appearance",
+   "summary": "UK service member charged with spying for Russia makes first court appearance    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUl1M1hUS2NGVXNZUU1xOGFHYWtfaGFRSXA5SERLcFJ3Z1ZPU0xDdmd4T3dUMVl4ZHcwc3N1MkgtU2xBdnVBVXA0SkFIM01nN09pTzI5T0dHU1hoc0RHYkxNQWlGRFMwWThndmFuU0pXVklaMU91VVNYdW04bkNUV0pWbUhPT0ZnOUo3VUdRNlhEWWU1ZFNrR3NRM3lPeWpXamUwUGhnSXRUQQ?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-08T23:42:55+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United Kingdom"
+   ]
+  },
+  {
    "id": "0194cb78f92a0102",
    "title": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
    "summary": "OpenAI said Thursday it shut down Russian and Iranian influence operations that used ChatGPT to create fake journalist personas and support a purported think tank spreading anti-Ukraine propaganda. The Iranian operation involved seven profiles posing as Western journalists to place lengthy articles in media outlets worldwide, the AI company said.",
@@ -6203,6 +7707,24 @@
    "countries": [
     "Russia",
     "Iran"
+   ]
+  },
+  {
+   "id": "bd84841abd720392",
+   "title": "Israel’s election: What will it mean for neighbours and allies?",
+   "summary": "Israel’s election: What will it mean for neighbours and allies?    Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHJ2ejkxeVZ4QWlEclc1TmJ1bWh6YlFTcjJKVE14bzRBbzFkOVZoQ0pzVnRPdFBjQlVoRXJtRTNiU3A5SDZBWUt2TXJfQnl3REp2SU9nOHZvYmtNZjNYNUw3Ti1fckZGRkRibGZiUE9jOGNIc3ViNDFmMzZDb3dBOUJYcmYwRlNCMFhweXFMTG9aQTJ6X216dXhSeExvNGUyUUhFeHlGNUxBSnVnMEF5Rg?oc=5",
+   "source": "Chatham House",
+   "group": "Think tank",
+   "published": "2026-10-08T23:40:31+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
    ]
   },
   {
@@ -16057,6 +17579,25 @@
    ]
   },
   {
+   "id": "8baecf605aff53b1",
+   "title": "Russia hits another Kyiv apartment building after day of deadly strikes, injuring 4",
+   "summary": "Russia hits another Kyiv apartment building after day of deadly strikes, injuring 4    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkRHNTRnTkFYdWg2Mk1YTjNzVzZhMUtUUjAtZFpCM25veWdCV3M5YjFiRm1FSnBNOEx2RGNrckJYZDdnQ3Bzc3o3Mm4zUmNKMTB4NVdUazFlX2V5bnBOOVRjQWxpY0FBMDVtc05JZkxFY2tONFhCZ212d3ZWSElDVkY1X1VoRHZGWUxv?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-07T22:00:49+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
    "id": "8840b8e5f021023d",
    "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices",
    "summary": "The world is nearly out of buffers to cushion the supply shock of the Iran war, which raises the floor under oil prices each time re-escalation threatens oil supply from the Middle East, top industry executives said this week. Global oil stocks have been depleted as the war enters its eighth month, leaving the market more vulnerable to the next supply shock. Despite numerous estimates that the…",
@@ -24969,6 +26510,26 @@
    "countries": []
   },
   {
+   "id": "89507558924588e2",
+   "title": "Treasury Sanctioned a Hamas Crowdfunding Network. Its French Front Should Be Next.",
+   "summary": "Treasury Sanctioned a Hamas Crowdfunding Network. Its French Front Should Be Next.    Foundation for Defense of Democracies",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHdxMzlZcDY2eVY2YU5CcnIxdlF2RGVJa0lEZHZrRlZMVW8wXzAyQ3NUdklLMVVjRjhHZGRFUWU1RzREV21XMTQ0SG1XWE9yVkpIandPeDNjWElhRkk2UWJfM0ZkVnh4bjk5VkVlZkVSc252blNaeWVWVkQ3blRKSm1KVG5HekxmeS1OY1YwRUFjZ3JwLVhTMy1lTnQ4UEo4SkFoak9DWVhxakpkdjlGakJPbjBwenVQaWJxNXBR?oc=5",
+   "source": "OFAC and US Treasury sanctions",
+   "group": "Sanctions",
+   "published": "2026-10-07T03:36:27+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "France",
+    "Palestine"
+   ]
+  },
+  {
    "id": "8c46805090c79902",
    "title": "US stock market hits all-time high as investors continue to bet on AI",
    "summary": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
@@ -24999,1539 +26560,6 @@
    "countries": [
     "Australia"
    ]
-  },
-  {
-   "id": "cad9783b90e7b6ad",
-   "title": "Saudi Bypass Pipeline Quickly Rebounded After Attack, Export Data Shows",
-   "summary": "Operations at Saudi Arabia's Red Sea loading terminals have rebounded more swiftly than expected, according to a new analysis from Kpler. The consulta...",
-   "url": "https://maritime-executive.com/article/saudi-bypass-pipeline-quickly-rebounded-after-attack-export-data-shows",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-07T03:17:32+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "33b77fb1cc475bab",
-   "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
-   "summary": "India's Foreign Ministry says 11 out of 12 injured crew members on board the On Peace are Indian nationals.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T03:16:32+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "mena",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Oman",
-    "India"
-   ]
-  },
-  {
-   "id": "02e5e090a9a9d1e4",
-   "title": "Pakistan’s Solar Revolution is Reshaping its Power Sector",
-   "summary": "Solar power generation has expanded rapidly in recent years and has overtaken nuclear power generation for the first time.",
-   "url": "https://thediplomat.com/2026/10/pakistans-solar-revolution-is-reshaping-its-power-sector/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-07T03:14:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "617c1ea8f4e43215",
-   "title": "U.S. removes three deceased former Chavista officials from OFAC sanctions list",
-   "summary": "U.S. removes three deceased former Chavista officials from OFAC sanctions list    Binance",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40NnNJeWRwMEh4ZExrdmFWSHJyUzk3SXVISEhwTFVCSjVFXzg2bGpBNF9fX2QyX2hwMTcxemNwZGdKYzZaMDhHLWpuTDc1cktBR1NOUUZzSkZpaFVmd1pxNlFNRjM?oc=5",
-   "source": "OFAC and US Treasury sanctions",
-   "group": "Sanctions",
-   "published": "2026-10-07T03:13:53+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "faa299b204e20fcf",
-   "title": "Is Zionism Racism?",
-   "summary": "Is Zionism Racism? Britain's Green Party has declared Zionism a form of racism. The motion, passed at its Brighton conference by 1,022 votes to 813, makes the party officially anti-Zionist and backs a single democratic state in historic Palestine.   The reaction was fierce. Former leader Caroline Lucas spoke against it. Most Green MPs rejected it. Israel banned party leader Zack Polanski, though…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/zionism-racism",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T03:08:30+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "b923ad2aa64496fb",
-   "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
-   "summary": "Lionel Messi played his final game for Argentina in a friendly against Benin, ending a 21-year international career.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T03:03:16+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Argentina"
-   ]
-  },
-  {
-   "id": "fdde1e6ee4c9d124",
-   "title": "Vance says Iran must cut nuclear enrichment capacity to reach deal with US",
-   "summary": "Vance says Iran must cut nuclear enrichment capacity to reach deal with US US Vice President JD Vance said that Iran must make a \"meaningful\" reduction in its nuclear enrichment capacity to satisfy US demands and end the war.  \"If you don't want a nuclear weapon, then why do you need 60% enriched fuel? And if you want to show commitment to not building a nuclear weapon, don't build highly…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-cut-nuclear-enrichment-capacity-reach-deal-us",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T02:54:43+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "a9a4f72c6e5ad8f1",
-   "title": "Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary",
-   "summary": "Two missiles launched by Yemen's Iran-aligned Houthi rebels targeted Aden's international airport early Wednesday, with no casualties reported, as Israel prepared to mark the third anniversary of the October 7, 2023 Hamas attacks. Follow our liveblog for the latest developments.",
-   "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T02:46:40+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel",
-    "Palestine",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "0991cdf5023fa305",
-   "title": "Beau Lamarre-Condon didn’t talk about Jesse Baird to friend in lead-up to alleged murders, court hears",
-   "summary": "NSW police officer has pleaded not guilty to murdering his ex and Luke Davies in a Sydney terrace in February 2024 Get our breaking news email , free app or daily news podcast Despite an alleged obsession with his ex, Beau Lamarre-Condon never spoke about him to a close friend in the three months before allegedly murdering him, a jury has heard. Lamarre-Condon, 31, has pleaded not guilty to…",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T02:45:59+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "92c69e96dc2950ea",
-   "title": "Solstad Offshore exercises $125m CSV purchase option",
-   "summary": "Norwegian offshore vessel owner Solstad Offshore has exercised an option to buy the 2016-built Normand Maximus CSV. A subsidiary of Solstad Offshore entered into a bareboat charterparty for the vessel on October 7, 2022, with the vessel’s owner and a subsidiary of Solstad Maritime, Maximus Shipping. Under the deal, Solstad Offshore is entitled to purchase …",
-   "url": "https://splash247.com/solstad-offshore-exercises-125m-csv-purchase-option/",
-   "source": "Splash247",
-   "group": "Maritime",
-   "published": "2026-10-07T02:40:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Norway"
-   ]
-  },
-  {
-   "id": "fc518e91b689387d",
-   "title": "Explosion shutters Venezuela’s second-largest oil refinery",
-   "summary": "An explosion has ripped through Venezuela's second-largest oil refinery, causing it to suspend activities.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T02:23:03+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "c49493abeabcaace",
-   "title": "Why do airport and flight rules exist?",
-   "summary": "Everyone follows these rules, but few know why. Each one traces back to an incident that changed aviation security.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T02:20:17+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "4d7ef7253aadbabe",
-   "title": "Australia top court rules against coal mine expansion, citing climate harm",
-   "summary": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T02:17:07+00:00",
-   "themes": [
-    "energy",
-    "climate"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "8a714618c861bafc",
-   "title": "Israel marks third anniversary of October 7 attack as election looms",
-   "summary": "Israel will mark the third anniversary of the October 7, 2023 Hamas attack on Wednesday with memorial events across the country, as heightened security surrounds the commemorations and voters prepare for an election in which the deadliest day in Israel’s history is expected to remain a central issue.",
-   "url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T02:14:22+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "e2e718a023aa95c0",
-   "title": "Saudi-led coalition says it intercepted Houthi missile north of Riyadh",
-   "summary": "Saudi-led coalition says it intercepted Houthi missile north of Riyadh The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by the Houthis north of Riyadh.",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missile-north-riyadh",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T02:08:13+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "2750d3f8128f826e",
-   "title": "Friends of Nolan Wells sue NFL Hall of Famer Terrell Owens for defamation",
-   "summary": "Owens sued over September Instagram post that suggested trio tampered with evidence in death of Mississippi teen Three friends of Nolan Wells , a Mississippi teen who died after a July boating trip, have sued NFL Hall of Famer Terrell Owens for defamation. On 26 September, Owens shared an Instagram video that suggested Wells’s friends Warren Hudson, Jax Pitalo and Morgan Seymour had deleted…",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T02:04:38+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "626fb235d95eb5f4",
-   "title": "Two Houthi missiles target Yemen’s Aden International Airport",
-   "summary": "Explosions near Aden International Airport after Yemen’s Saudi-backed gov't said two missiles were fired by the Houthis.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T01:59:15+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "d805259915e7f468",
-   "title": "Messi bids farewell to Argentina fans in emotional international finale",
-   "summary": "Lionel Messi said farewell to Argentina fans Tuesday in an emotional final international appearance, scoring in a 3-0 win over Benin at Buenos Aires' Monumental Stadium as 85,000 supporters celebrated the end of a career that brought the country its long-awaited 2022 World Cup triumph.",
-   "url": "https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T01:59:10+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Argentina"
-   ]
-  },
-  {
-   "id": "a574369265ce3d8d",
-   "title": "The agonising wait for Gaza’s missing",
-   "summary": "The agonising wait for Gaza’s missing Three years into Israel’s genocide in Gaza, Palestinian families are still searching for answers about thousands of relatives who vanished during the war. Some disappeared during Israeli ground attacks on their neighbourhoods or displacement camps. Others went missing while searching for aid, checking on their homes or travelling near the so-called Yellow…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/agonising-wait-gazas-missing-0",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T01:45:55+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "c7d80e1560da7dbd",
-   "title": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate",
-   "summary": "Republican challenged by Democrat Troy Jackson in critical Senate race says she opposes Iran war and Canada tariffs Susan Collins, the Republican senator for Maine, pointedly distanced herself from Donald Trump in a televised debate with Democratic challenger Troy Jackson on Tuesday, as she sought to present an image of independence in a state that has voted against Trump three times. Proclaiming…",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/susan-collins-maine-debate-senate",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T01:43:25+00:00",
-   "themes": [],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States",
-    "Canada"
-   ]
-  },
-  {
-   "id": "68c80a1a311983f5",
-   "title": "Seafarers Now Command Huge Bonuses for Hormuz Transits",
-   "summary": "Shipowners aren't the only ones making a fortune from million-dollar day rates for Hormuz transits. Far from being coerced or tricked into sailing int...",
-   "url": "https://maritime-executive.com/article/seafarers-now-command-huge-bonuses-for-hormuz-transits",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-07T01:38:07+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "37becb615a626054",
-   "title": "Aden official says Houthi missiles targeted Yemen's Aden airport",
-   "summary": "Aden official says Houthi missiles targeted Yemen's Aden airport Two missiles launched by the Houthis targeted Yemen's Aden international airport early on Wednesday, the media office of Aden's security department said. No casualties were reported in the attack.",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/aden-official-says-houthi-missiles-targeted-yemens-aden-airport",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T01:24:50+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "661fd02d48c633d8",
-   "title": "Syrian embassy returns seized passport after 43 years",
-   "summary": "Syria's embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T01:20:11+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "Germany",
-    "Syria"
-   ]
-  },
-  {
-   "id": "3bb99d4cc946848c",
-   "title": "Comedian Dave Hughes to stop speaking at Liberal party events over political donation concerns",
-   "summary": "Entertainer alleges complaint made about ‘in-kind’ donations over Victorian fundraisers, where he has been railing against Labor Get our new political email , free app or daily news podcast Dave Hughes says he will no longer be taking the stage at Victorian Liberal events, claiming the party decided having him on the bill could run afoul of the state’s political donation laws. The comedian,…",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T01:17:22+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "9fc77fffea25a03a",
-   "title": "Quick Action Stops OSV From Sinking at Dock in the Netherlands",
-   "summary": "The harbor master and local emergency services are reporting that a quick, coordinated action on Monday evening prevented a Spanish-flagged offshore s...",
-   "url": "https://maritime-executive.com/article/quick-action-stops-osv-from-sinking-at-dock-in-the-netherlands",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-07T01:12:18+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Netherlands"
-   ]
-  },
-  {
-   "id": "fa917a7149a567fa",
-   "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-   "summary": "Both Democrats and Republicans have expressed outrage at Trump's remarks that cities could be sacrificed in Iran war.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T01:07:21+00:00",
-   "themes": [],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "e9a6a5dceb99e080",
-   "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
-   "summary": "Haiti has indefinitely postponed elections scheduled for December and February, the electoral council said Tuesday, citing technical and operational requirements as gang violence continues to disrupt preparations. The delay leaves Haitians without a vote as authorities struggle to register voters and secure areas needed for the poll.",
-   "url": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T01:06:11+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "57a8d3179726eceb",
-   "title": "What’s behind Israel’s growing shift to the right?",
-   "summary": "Three years after the October 7 attacks, the politics of Israeli society has shifted further right.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T00:58:21+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "4ee5af96a9b4cba7",
-   "title": "Iran says more than 100 petrochemical and pharmaceutical sites damaged by US attacks",
-   "summary": "Iran says more than 100 petrochemical and pharmaceutical sites damaged by US attacks US attacks have damaged 111 petrochemical and pharmaceutical facilities across Iran, according to the representative to the Organisation for the Prohibition of Chemical Weapons. \"The US military aggression against Iran’s chemical industries has affected supply chains and the implementation of the Chemical Weapons…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-100-petrochemical-and-pharmaceutical-sites-damaged-us",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T00:53:57+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "1d0dbf5bc9882374",
-   "title": "David Ellison denies he has ‘politicized’ Skydance despite close Trump links",
-   "summary": "Ellison admits ‘good relationship’ with administration in remarks to reporters about newly merged media company David Ellison, the chief executive of the newly formed media conglomerate Skydance, denied that he has “politicized” the company despite the close connection he has forged with Donald Trump’s White House over the 20 months of his administration. “We have a good relationship with this…",
-   "url": "https://www.theguardian.com/media/2026/oct/06/skydance-david-ellison-trump",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T00:45:45+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "dfaf20de5e363c11",
-   "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-   "summary": "The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T00:35:57+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "7410673309bf155f",
-   "title": "HD Hyundai Delivers World's First \"Lashing-Free\" Containership to CMA CGM",
-   "summary": "South Korean shipbuilding group HD Hyundai is reporting the delivery of its first container vessel using the company’s newly developed \"Lashing-Free\"...",
-   "url": "https://maritime-executive.com/article/hd-hyundai-delivers-world-s-first-lashing-free-containership-to-cma-cgm",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-07T00:34:24+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "South Korea"
-   ]
-  },
-  {
-   "id": "0977ac7cab800e58",
-   "title": "Pornhub returns to Australia after banning access due to age verification rules",
-   "summary": "Australian adults again able to access the world’s most popular porn site after parent company introduces age checking via Apple devices Get our breaking news email , free app or daily news podcast Australian adults will be able to access Pornhub once again after the site brought in age-checking on Apple devices in response to legal requirements that initially saw the site block users . In March,…",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/07/pornhub-returns-australia-apple-age-verification-rules-child-safety-ntwnfb",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T00:28:14+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "3840c118563a1dc2",
-   "title": "After Russian Threats, Macron Puts Nuclear Deterrent at the Forefront",
-   "summary": "The administration of French President Emanuel Macron is putting new emphasis on France's nuclear deterrent, and specifically on its nuclear ballistic...",
-   "url": "https://maritime-executive.com/article/after-russian-threats-macron-puts-nuclear-deterrent-at-the-forefront",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-07T00:27:28+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "France"
-   ]
-  },
-  {
-   "id": "8bbd75c8f13ae11c",
-   "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
-   "summary": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T00:26:47+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "e0fe510106ffa4e2",
-   "title": "Strikes reported in Yemen's Ibb, Taiz",
-   "summary": "Strikes reported in Yemen's Ibb, Taiz Saudi aircrafts bombed Mudhaykhirah district in Ibb and the Sharab district in Taiz early on Wednesday, according to media outlets associated with Yemen's Houthis.",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strikes-reported-yemens-ibb-taiz",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T00:25:08+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "25b87eef33c3a74d",
-   "title": "Hunter Valley community group wins landmark high court climate change case",
-   "summary": "Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group says A Hunter Valley community group has won Australia’s first high court case to consider climate change, in a ruling advocates say sets a binding national precedent for fossil fuel projects in New South Wales. In a landmark judgment, the nation’s highest…",
-   "url": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T00:20:29+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Australia"
-   ]
-  },
-  {
-   "id": "76f1bd968e79de9a",
-   "title": "Maritime Uses AI Every Day. The Harder Part is Trusting it to Act.",
-   "summary": "New Thetius and Marcura research finds AI is already embedded in maritime workflows, but organisations are still working out how to assess the full hu...",
-   "url": "https://maritime-executive.com/article/maritime-is-using-ai-every-day-now-comes-the-harder-part-trusting-it-to-act",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-07T00:18:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "3b0c1e068a471999",
-   "title": "South Sudan’s aid crisis deepens as food stocks run low",
-   "summary": "More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T00:13:59+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Sudan",
-    "South Sudan"
-   ]
-  },
-  {
-   "id": "e772bf23c8e17c13",
-   "title": "French mayor tear-gassed after shielding protesters from police",
-   "summary": "Saint-Denis Mayor Bally Bagayoko was tear-gassed after shielding student protesters from riot police.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T00:10:56+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "1aef43ad81bdf015",
-   "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
-   "summary": "Latest model is launching in New York to target rich US buyers – and is more than 5.2 metres long and 2 metres wide It has no rear window, will not fit into a UK parking space and – starting at £130,000 – ($172,000) is aimed squarely at rich tech industry buyers driving the wide open roads of America. Jaguar’s electric car, the Type 01, was launched in New York on Tuesday night and marks the…",
-   "url": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T00:00:28+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "United Kingdom",
-    "United States"
-   ]
-  },
-  {
-   "id": "0d7635f654fdb20f",
-   "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-   "summary": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T00:00:00+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Iran",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "def2859e261164cf",
-   "title": "Why $100 Oil Is Hard to Kill",
-   "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and even exceeded, pre-war levels. But if so much crude is leaving the Middle East again, why do Brent prices continue to hover around the $100…",
-   "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-07T00:00:00+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "2f770bf757b8208d",
-   "title": "IAEA Helps Countries Mobilize Investment to Expand Radiotherapy Services",
-   "summary": "",
-   "url": "http://www.iaea.org/newscenter/news/iaea-helps-countries-mobilize-investment-to-expand-radiotherapy-services",
-   "source": "IAEA News",
-   "group": "Nuclear",
-   "published": "2026-10-07T00:00:00+00:00",
-   "themes": [
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "e922de3c5bba948f",
-   "title": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
-   "summary": "",
-   "url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
-   "source": "IAEA News",
-   "group": "Nuclear",
-   "published": "2026-10-07T00:00:00+00:00",
-   "themes": [
-    "energy",
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "869f80b2ed77ce6c",
-   "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
-   "summary": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart’s $89 smartglasses, following public outrage over the covert use of the…",
-   "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T23:58:23+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "1405e8f100a41d02",
-   "title": "Ghana: Two Dead, 14 Injured in Gunfire During Yam Festival At Nchiraa",
-   "summary": "[Ghanaian Times] Two people have died and 14 others, including a police officer, have sustained gunshot wounds following disturbances during the Yam Festival celebration at Nchiraa in the Wenchi Municipality of the Bono Region.",
-   "url": "https://allafrica.com/stories/202610060613.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T23:48:32+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ghana"
-   ]
-  },
-  {
-   "id": "ed99242932cda2ef",
-   "title": "Ghana: Education Ministry Salutes Ghanaian Teachers On World Teachers' Day",
-   "summary": "[Ghanaian Times] The Ministry of Education has congratulated teachers across Ghana as the country joins the rest of the world to celebrate World Teachers' Day 2026.",
-   "url": "https://allafrica.com/stories/202610060611.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T23:48:31+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ghana"
-   ]
-  },
-  {
-   "id": "8b3b9413c682bab1",
-   "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
-   "summary": "As Angelenos bemoan ‘sad situation’, those in San Diego say remark a ‘disservice’ to town with multiple naval bases Donald Trump’s extraordinary implication that Iran could “take out” Los Angeles and San Diego have sparked condemnation across the political spectrum. As residents of the two major west coast cities awoke on Tuesday to another sweltering day in a record-breaking heatwave, the…",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T23:45:02+00:00",
-   "themes": [],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "19ac3e8c03ca6e54",
-   "title": "Chemical Concerns Pause Plan to Dredge North Carolina Port Channel",
-   "summary": "Local media in North Carolina are reporting that concerns about potential so-called “forever chemicals” are causing the North Carolina State Ports Aut...",
-   "url": "https://maritime-executive.com/article/chemical-concerns-pause-plan-to-dredge-north-carolina-port-channel",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T23:44:10+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "5f396976c88f1a0e",
-   "title": "Request for Proposal, No, AKIS/UNHCR/RFP/3555, UNHCR's CLOUD ERP NEGOTIATION # PAKIS/UNHCR/RFP/3555. Engineering/Architectural Consultancy Services for the Technical Assessment and Design of Corrective Works to Upgrade…",
-   "summary": "Request for Proposal, No, AKIS/UNHCR/RFP/3555, UNHCR's CLOUD ERP NEGOTIATION # PAKIS/UNHCR/RFP/3555. Engineering/Architectural Consultancy Services for the Technical Assessment and Design of Corrective Works to Upgrade UNHCR Faciliti    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEdEdHp1R3VJSF9fWWoya1RBNFlGYnFOY0doNm91MDdveVJqLXd0UW1fbzdiSE1OUlBLS0lISXNyR0Y1Y3NQelY2Tnk3UG5uZUNkQTUycWNSQkVnVnduWktxQTU3VUJZeG1OYkwzVDNGelhzWVBBZHlnQ2FwUDZNU0FkWDFhV09JQUJtOWoxYldaNXBNamlXeFZJajBOOXpXNnZWc2RqZGlRdDY1M2FJaElrYWF5eEVxNW5VaQ?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-06T23:43:38+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "500f7ca2239c2e06",
-   "title": "C:\\Users\\HAIDERI\\OneDrive - UNHCR\\Desktop\\D Drive\\2026\\2026 Islamabad Office\\20260507 Islamabad Office UNHCR (1) - UNHCR",
-   "summary": "C:\\Users\\HAIDERI\\OneDrive - UNHCR\\Desktop\\D Drive\\2026\\2026 Islamabad Office\\20260507 Islamabad Office UNHCR (1)    UNHCR - The UN Refugee Agency",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjg3UldOTldBN2IwRmRwUzBkbGVmd25SVy1xVjdudEp6S21pZGtpZGZGd3hlLTFWY1otdTJXczFtVGstWExxWmdSaUd5MVZUM19KeTZwZDJMbTc1eE0zclhyZXllZU81MmxhZlFsOXNNR3hlYXBGS1JBMndWTVZIX09LMktJRndLMXB0SVgxNjlNX3Qz?oc=5",
-   "source": "UNHCR News",
-   "group": "Migration",
-   "published": "2026-10-06T23:43:36+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "85adc5b9c297e7be",
-   "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-   "summary": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
-   "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T23:42:35+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "2f411bafe18df417",
-   "title": "Two blasts reported nearby Aden International Airport",
-   "summary": "Two blasts reported nearby Aden International Airport Aljazeera is reporting two powerful explosions near the international airport in the southern port city of Aden.",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-blasts-reported-nearby-aden-international-airport",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-06T23:42:28+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "61ba55cf28f6e92e",
-   "title": "Nigeria: NAF Crash - Can Demands Transparent Probe, Stronger Safety Measures",
-   "summary": "[Vanguard] The Christian Association of Nigeria (CAN) has condoled with the families of personnel killed in the Nigerian Air Force ATR-42 aircraft crash near Igbokoda, Ondo State, demanding a thorough and transparent investigation into the incident.",
-   "url": "https://allafrica.com/stories/202610060609.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T23:40:26+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "fdaf006fce6bf827",
-   "title": "Nigeria: Oil Spill Hits 216 Delta Communities, Fish Prices Rise",
-   "summary": "[Vanguard] Fish scarcity and rising prices have been reported in 216 communities affected by an oil spill along the Trans-Forcados Pipeline in Delta State, as Governor Sheriff Oborevwori ordered immediate medical checks for residents exposed to the pollution.",
-   "url": "https://allafrica.com/stories/202610060608.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T23:40:25+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "490df916ce86d2b1",
-   "title": "Smotrich calls for further annexations in Gaza and Lebanon",
-   "summary": "Smotrich calls for further annexations in Gaza and Lebanon Israeli Finance Minister Bezalel Smotrich called for Israel to permanently extend its sovereignty over territory held by Israeli forces in Gaza and Lebanon during an address at the National Conservatism Conference in Jerusalem.   \"That would demonstrate to our enemies the price of defeat and create a deterrent against future attacks on…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-calls-further-annexations-gaza-and-lebanon",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-06T23:37:54+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel",
-    "Palestine",
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "9b44c5614f524f74",
-   "title": "Electric car bursts into flames at charging station in Turkiye",
-   "summary": "Turkiye’s first domestically produced electric SUV, the Togg T10X burst into flames at a charging station.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T23:33:33+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "3ac1cb24d11d2614",
-   "title": "Christa Pike regains consciousness after botched Tennessee execution attempt",
-   "summary": "Convicted murderer Christa Pike regained consciousness and began speaking Tuesday after surviving a botched execution by lethal injection. Pike, the first woman the state of Tennessee has attempted to put to death in 200 years, remains hospitalised with severe injuries to both arms.",
-   "url": "https://www.france24.com/en/americas/20261006-christa-pike-regains-consciousness-after-botched-tennessee-execution-attempt",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-06T23:30:18+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "6a98ffee31774b1b",
-   "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
-   "summary": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last week The World Health Organization has said the risk of an epidemic in Russia is low after the sudden death of a lab technician who worked at a plague research institute in Siberia. Darya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she may have…",
-   "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T23:14:32+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "b40352b922c6905d",
-   "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
-   "summary": "Government report finds the country could be hit with more frequent and intense heatwaves, as well as damaging storms and cyclones New Zealand could be hit with more frequent and intense heatwaves and catastrophic glacier melts in the near future, as greenhouse gas levels hit record highs, a new report about the nation’s climate has revealed. Released on Wednesday, the Our Atmosphere and Climate…",
-   "url": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T23:11:27+00:00",
-   "themes": [
-    "energy",
-    "climate"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "New Zealand"
-   ]
-  },
-  {
-   "id": "089812dff8a92012",
-   "title": "CMA CGM selects Wärtsilä 34DF Engines for 12 New Container Vessels",
-   "summary": "Technology group Wärtsilä will supply a total of 36 Wärtsilä 34DF dual fuel engines for 12 new 18,000 TEU container vessels being built for French op...",
-   "url": "https://maritime-executive.com/article/cma-cgm-selects-waertsilae-34df-engines-for-12-new-container-vessels",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T23:10:54+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "272a5ffef46faa5c",
-   "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-   "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-   "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T23:07:44+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "4de7bad3af43983d",
-   "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
-   "summary": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
-   "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T23:05:38+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "297e9329f2d3763f",
-   "title": "FMC Threatens COSCO with Large Civil Penalty for Delayed Payment",
-   "summary": "The Federal Maritime Commission filed a Show Cause order at the end of last week against the Chinese-flagged carrier COSCO, which threatens the potent...",
-   "url": "https://maritime-executive.com/article/fmc-threatens-cosco-with-large-civil-penalty-for-delayed-payment",
-   "source": "The Maritime Executive",
-   "group": "Maritime",
-   "published": "2026-10-06T23:01:37+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "f7b7b5807f6a4b7b",
-   "title": "Ikea to pilot online buyback service for secondhand furniture",
-   "summary": "Service to be tested in Spain and Portugal this year, with a UK rollout if successful, as pre-loved markets boom Ikea is to test an online version of its buy-back service where the retailer offers vouchers for unwanted secondhand furniture. The service will be tested in Spain and Portugal before the end of December and will be launched in the UK if it proves successful. Ikea already offers…",
-   "url": "https://www.theguardian.com/business/2026/oct/07/ikea-to-pilot-online-buyback-service-for-secondhand-furniture",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T23:01:26+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Spain",
-    "Portugal"
-   ]
-  },
-  {
-   "id": "fb9f125be8eb0c58",
-   "title": "Christa Pike lawyers say she is speaking one week after failed execution",
-   "summary": "The 50-year-old has regained consciousness and is receiving care nearly one week after being sent to the hospital.",
-   "url": "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T23:01:05+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "6e0d9cba0b20a021",
-   "title": "Immigration and Integration Policymaking in a Shifting World: A Blue-Sky Conference to Mark MPI’s 25th Year",
-   "summary": "Join us for this anniversary conference with leading thinkers examining what makes for effective immigration and integration policy in an increasingly turbulent world.",
-   "url": "https://www.migrationpolicy.org/event/blue-sky-conference-mpi-25th",
-   "source": "Migration Policy Institute",
-   "group": "Migration",
-   "published": "2026-10-06T23:00:00+00:00",
-   "themes": [
-    "migration"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b9df54960de1f3d7",
-   "title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
-   "summary": "When Iran struck Qatar's Ras Laffan complex in March and knocked out 17% of the country's LNG export capacity, the trade seemed pretty straightforward. Buy the American exporters, sit back and wait for Europe and Asia to come knocking for cargoes that didn't need to sail through the Strait of Hormuz. Cheniere did exactly what everyone expected it to do, shipping more LNG than it did a year ago…",
-   "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-06T23:00:00+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "Qatar",
-    "United States"
-   ]
-  },
-  {
-   "id": "0d950fe32aa2d683",
-   "title": "The Putin Tax and the Cost of Russian Hostility to Britain",
-   "summary": "Britain repeatedly uses sanctions to impose costs on Russia. But what does Russian hostility cost Britain? A new report asks a question government must answer.",
-   "url": "https://www.rusi.org/explore-our-research/publications/commentary/putin-tax-and-cost-russian-hostility-britain",
-   "source": "RUSI",
-   "group": "Think tank",
-   "published": "2026-10-06T23:00:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "34b353f71948f1a0",
-   "title": "Sarah Macdonald returns to ABC radio after being sacked in 2024",
-   "summary": "Manager who removed Macdonald announces she will replace the late James Valentine from March Get our breaking news email , free app or daily news podcast Two years after her shock axing, the ABC has backflipped and reinstated ABC Radio presenter Sarah Macdonald to Sydney’s local radio schedule, where she will replace the late James Valentine from March. The manager who had removed Macdonald…",
-   "url": "https://www.theguardian.com/media/2026/oct/07/sarah-macdonald-returns-abc-radio-james-valentine-ntwnfb",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T22:59:14+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "ec311c55d166b7f1",
-   "title": "Trump says he will speak to Putin over reported plague death in Russia",
-   "summary": "US President Donald Trump said Tuesday he would speak “very soon” with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the World Health Organization pressed Moscow for greater transparency and clarity over conflicting accounts of the incident in Siberia.",
-   "url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-06T22:51:48+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "04fa549146312563",
-   "title": "Governance Compared: Autocracy and Democracy in Africa",
-   "summary": "Governance Compared: Autocracy and Democracy in Africa    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFc0TzQwbmFXTmpMMVdXU1FGYlgxYnk0bDFkbWxycExqbHprOUtNVzdJRkJ5d3Z5WlhOTnBHSWtubDlJTmtkZC05amM1N1lidVVHUWN5UmdDeFlqb1FqOERqdFlzV25OUnVPTGFENXh3emtHZks0OFAyc2lKUFJrcUxuN2piaEJHN29JUzJQNHl0czVHZjItMU1Db1hKMnRLakE?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-06T22:44:55+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "3bbee00e012d6348",
-   "title": "Iran's Central Bank says it has ‘no problem providing foreign currency’",
-   "summary": "Iran's Central Bank says it has ‘no problem providing foreign currency’ Iran’s Central Bank says Tehran supplied $2bn in foreign currency to the market, saying that the country has no shortage of foreign exchange, Iranian state broadcaster IRIB reported. “The reason we provided $2bn in foreign currency for the market was to make Trump and his Treasury secretary understand that we have no problem…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-central-bank-says-it-has-no-problem-providing-foreign-currency",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-06T22:41:35+00:00",
-   "themes": [],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "bdcbe0108391cd4d",
-   "title": "Kosovo Elects President After Opposition Agrees To Last-Minute Deal",
-   "summary": "Parliament elected Justina Shiroka Pula as Kosovo's new president late on October 6 following a last-minute political deal that secured lawmakers' approval of legal changes restricting the powers of a Hague-based war crimes court.",
-   "url": "https://www.rferl.org/a/kosovo-elects-president-opposition-deal-war-crimes/33871583.html",
-   "source": "RFE/RL",
-   "group": "Regional",
-   "published": "2026-10-06T22:39:30+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Kosovo"
-   ]
-  },
-  {
-   "id": "364a55ec369d7c70",
-   "title": "Record high temperatures as southern California swelters under heatwave",
-   "summary": "Several cities shatter temperatures for time of year as extreme heat warnings in place along California coast An unprecedented heatwave has gripped southern California, boosting temperatures 15 to 20 degrees above normal for autumn. Monday was a notably sweltering day for several cities. Continue reading...",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/southern-california-heatwave-temperatures",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T22:38:50+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "f0de806982da31ca",
-   "title": "Tropical depression in Gulf predicted to be Atlantic season’s first hurricane",
-   "summary": "First hurricane of the season has not formed this late since 1905 as scientists say possible US landfall on Saturday Tropical Depression Nine has been predicted to be the Atlantic season’s first hurricane and potentially the latest first hurricane to develop in over a century. The system was located Tuesday afternoon about 630 miles south-west of the mouth of the Mississippi River, with maximum…",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/tropical-depression-gulf-hurricane",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T22:28:20+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "6adf613204882f5d",
-   "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-   "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
-   "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T22:17:56+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "fe9f94aae65f2149",
-   "title": "Three years after October 7, Israel is facing inward",
-   "summary": "A foiled flydubai attack has revived the sense of abandonment many Israelis felt almost exactly three years earlier. The post Three years after October 7, Israel is facing inward appeared first on Atlantic Council .",
-   "url": "https://www.atlanticcouncil.org/dispatches/three-years-after-october-7-israel-is-facing-inward/",
-   "source": "Atlantic Council",
-   "group": "Think tank",
-   "published": "2026-10-06T22:11:20+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "a414461989d68626",
-   "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-   "summary": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T22:07:44+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Argentina"
-   ]
-  },
-  {
-   "id": "73af366a57a9f30f",
-   "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
-   "summary": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT. The US Department of Justice said Tuesday it had detained James…",
-   "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T22:06:04+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States",
-    "Canada"
-   ]
-  },
-  {
-   "id": "90f1f0412365a1fa",
-   "title": "Saudi-led coalition says it intercepted Houthi ballistic missile attacking Khamis Mushait, Saudi state TV says",
-   "summary": "Saudi-led coalition says it intercepted Houthi ballistic missile attacking Khamis Mushait, Saudi state TV says The Saudi-led coalition said it intercepted and destroyed a ballistic missile launched by Yemen's Iran-aligned Houthis towards the Saudi city of Khamis Mushait, Saudi state TV reported early on Wednesday. The coalition said Houthi missile threats originated from the group-controlled…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-06T22:04:05+00:00",
-   "themes": [
-    "maritime",
-    "conflict",
-    "nuclear"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "ad7e24e9e357cb39",
-   "title": "Why Clean Air Is So Hard to Deliver in India",
-   "summary": "Why Clean Air Is So Hard to Deliver in India    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHFYMXpHdVljWFdsSEsxOHd6M19EVHlGNEhsYUpGeUlURDg5R1RkSlFrSTk4Z2F5SDdKQ1ZqRjJKWFhPMkJKSm5ZM3dIQVYxczE1eXpOZ3VyVGdxYVdYQVdKcTRsNGdwelNEeU5FMFJ5UnJ3b2x2b2NsZ2VoQlZFX0QtcFNqV2tMWGJVU1RxYjNiSko0QkNjdEhmSFFLdw?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-06T22:00:02+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "83b56c0b984c3ad4",
-   "title": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
-   "summary": "Following pressure from U.S. President Donald Trump, G7 leaders announced on Friday a coordinated release of 100 million barrels of emergency oil stocks through the IEA, to begin immediately and be completed over four months. Previously, Trump threatened to ban U.S. diesel exports in a bid to lower record-high domestic fuel prices ahead of the November 2026 midterm elections, with diesel prices…",
-   "url": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-06T22:00:00+00:00",
-   "themes": [
-    "energy",
-    "politics"
-   ],
-   "regions": [
-    "americas",
-    "global"
-   ],
-   "countries": [
-    "United States",
-    "G7 / G20"
-   ]
-  },
-  {
-   "id": "a12b2f6937d9f370",
-   "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
-   "summary": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T21:57:03+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "5cc010a9af0f61f7",
-   "title": "Harry Kane equals England record, scores twice in 3-0 win over Czechia",
-   "summary": "England's Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.",
-   "url": "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T21:40:12+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Czechia"
-   ]
-  },
-  {
-   "id": "885a4883775c3fbd",
-   "title": "Former German spy chief detained over suspected treasonous espionage",
-   "summary": "Former German spy chief August Hanning was detained Tuesday on suspicion of treason and espionage after prosecutors accused him of paying for secret intelligence documents and using them to prepare an analysis for a foreign intelligence service, in a case that could strain Berlin’s ties with allied spy agencies.",
-   "url": "https://www.france24.com/en/europe/20261006-former-german-spy-chief-detained-over-suspected-treasonous-espionage",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-06T21:34:02+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "ede8aac8605a04a5",
-   "title": "CNN, CBS News now under one roof as Paramount-Warner Bros merger closes",
-   "summary": "The newly combined company is called Skydance and began trading on Wall Street on Tuesday.",
-   "url": "https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-06T21:33:59+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
   }
  ]
 }
