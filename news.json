@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:56:52.756090+00:00",
+ "updated": "2026-10-09T06:43:45.313571+00:00",
  "items": [
   {
    "id": "4242802e5ac55a96",
@@ -34,6 +34,325 @@
     "global"
    ],
    "countries": []
+  },
+  {
+   "id": "db1dac7c2b4c4b97",
+   "title": "Maine’s latest fleet is fresh from the vegetable patch",
+   "summary": "Shipbuilders in Maine are preparing to launch a fleet that has spent most of its life growing in a field. Damariscotta’s annual Pumpkinboat Regatta returns this Sunday, with costumed competitors racing hollowed-out giant pumpkins across the town’s harbour. Some rely on paddles. Others attach outboard motors, giving the vegetable patch its own powerboat division.  Boat …",
+   "url": "https://splash247.com/maines-latest-fleet-is-fresh-from-the-vegetable-patch/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-09T06:40:46+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "a1012cdf28bca670",
+   "title": "October 7th never ended for Gaza, Palestinian journalist says",
+   "summary": "October 7th never ended for Gaza, Palestinian journalist says Palestinian journalist Mahmoud Mushtaha said October 7th is not an anniversary because its aftermath never ended for Gaza. Mushtaha told MEE’s Mathilda Mallinson how the conditions in the besieged enclave continue to worsen, as Israeli forces occupy more of the land, continue strikes across the territory and restrict the entry of vital…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/october-7th-never-ended-gaza-palestinian-journalist-says",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T06:39:16+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "d40d8d4f29bd9f00",
+   "title": "South Africa: Home Affairs Withdraws Asylum Directive After Violent Anti-Immigration Protests",
+   "summary": "[allAfrica] The Department of Home Affairs (DHA) has withdrawn a directive on the intake of asylum applications following violent anti-immigration protests in Durban and Soweto, as the government seeks to find a way to implement a Constitutional Court ruling without further escalating tensions.",
+   "url": "https://allafrica.com/stories/202610090210.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T06:35:22+00:00",
+   "themes": [
+    "politics",
+    "migration"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "b4da55339bd02fd9",
+   "title": "Old LNG carriers keep changing hands",
+   "summary": "Sales of vintage large LNG carriers remain brisk as the secondhand market keeps ageing LNG tonnage afloat after the Strait of Hormuz conflict escalated in late February, with disruptions to regional LNG exports adding uncertainty to global supply.  The latest sale has been completed by South Korean shipowner and manager Kmarin Group, selling the 18-year-old, …",
+   "url": "https://splash247.com/old-lng-carriers-keep-changing-hands/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-09T06:22:17+00:00",
+   "themes": [
+    "energy",
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "1ce36caa6c8fec6f",
+   "title": "Trump says US will not strike Iran before midterm elections",
+   "summary": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T06:22:07+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "23d3a9b430bc26c9",
+   "title": "Iranian lawmaker says Tehran not seeking production of nuclear weapons",
+   "summary": "Iranian lawmaker says Tehran not seeking production of nuclear weapons Iranian lawmaker Alaeddin Boroujerdi indicated that Tehran is not aiming for the production of nuclear weapons after remarks made by US Vice President JD Vance. Speaking to NourNews agency, Boroujerdi said that Iran's nuclear programme is pursued  according to the nuclear Non-Proliferation Treaty. Iran’s enrichment activities…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmaker-rejects-vances-remarks-tehran-seeking-nuclear-weapons",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-09T06:21:32+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "8d425b965c150c74",
+   "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
+   "summary": "Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.",
+   "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T06:19:56+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "dd7b7427062dd0d5",
+   "title": "'Modern-day Thomas Edison': Trump awards Elon Musk top US science medal",
+   "summary": "Despite the president's glowing words at the award ceremony, Trump and Musk have navigated a rather volatile relationship in recent years.",
+   "url": "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T06:16:12+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "9101fe4ce3d3c0d9",
+   "title": "US military will livestream the firing squad execution of Fort Hood shooter",
+   "summary": "The convicted military base shooter Nidal Hasan will have his execution by firing squad livestreamed, announced US Defence Secretary Pete Hegseth. The first US military execution carried out by a firing squad since World War II.",
+   "url": "https://www.euronews.com/2026/10/09/us-military-will-livestream-the-firing-squad-execution-of-fort-hood-shooter",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T06:14:41+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "9008593bb9a82df2",
+   "title": "HD Hyundai snaps up Goltens in $247m ship repair deal",
+   "summary": "South Korea’s HD Hyundai is making a major move in the global ship repair market, agreeing to acquire Goltens Worldwide for $247.5m in a deal that significantly expands its international engineering and aftermarket capabilities. The acquisition, announced on Thursday through HD Hyundai Marine Solution, brings one of the world’s best-known independent marine engineering and repair …",
+   "url": "https://splash247.com/hd-hyundai-snaps-up-goltens-in-247m-ship-repair-deal/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-09T06:12:20+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "4f88405700180750",
+   "title": "Europe Today: French students 'retake Bastille', Trump 'unwilling' to help Ukraine",
+   "summary": "French students have “retaken the Bastille”, says Jean-Luc Mélenchon, after a mass rally in Paris. Volodymyr Zelenskyy accuses the US of “unwillingness” to help Ukraine. And former New Zealand PM Helen Clark joins us on critical minerals as MEP Rima Hassan faces fallout over flags row.",
+   "url": "https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-09T06:02:46+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Ukraine",
+    "France",
+    "New Zealand",
+    "United States"
+   ]
+  },
+  {
+   "id": "7018e03ddc623cd1",
+   "title": "Tories overstate net zero cost by nearly £500bn in apparent spreadsheet error",
+   "summary": "Exclusive: Badenoch’s flagship conference policy document cites £957bn estimate, twice the total in climate advisers’ data Kemi Badenoch’s flagship party conference policy document overestimated the cost of net zero by nearly £500bn, seemingly after someone accidentally double-counted figures on a spreadsheet. The apparent error appears in a chapter on net zero in The Right Way , a 100-page…",
+   "url": "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T06:00:41+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "6a2cc2194dfc4aa3",
+   "title": "Virgin unveils its future cross-Channel train as it gears up to take on Eurostar",
+   "summary": "Group plans to launch services from London in 2030 and hopes to outshine competitor with design inspiration from its airline, cruise and hotel arms Flash interiors, fancy food and maybe even a bar: Virgin has unveiled a mock-up of its future cross-Channel train, with a pledge to create “something genuinely new”. The group is planning to launch rail services from London to the continent in 2030,…",
+   "url": "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T06:00:39+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "ea190cd8fa544d4e",
+   "title": "South Africa: Four Killed in Germiston Shack Fire - South African News Briefs - October 9, 2026",
+   "summary": "[allAfrica]",
+   "url": "https://allafrica.com/stories/202610090192.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T06:00:19+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "51c655f1d00210d8",
+   "title": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
+   "summary": "A booklet published by the UK’s opposition Conservative party includes a “cost of net-zero” that appears to have been doubled… The post Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder appeared first on Carbon Brief .",
+   "url": "https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder",
+   "source": "Carbon Brief",
+   "group": "Energy",
+   "published": "2026-10-09T06:00:00+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "41c57004f861fac2",
+   "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+   "summary": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email , free app or daily news podcast A Sydney currency trader who was sacked for working from Singapore without approval has won an unfair dismissal case, but failed to be awarded compensation. The Fair Work Commission ruled on Wednesday that Charles Graham had been…",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-09T05:55:27+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Singapore",
+    "Australia"
+   ]
+  },
+  {
+   "id": "3c56765a72170f70",
+   "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
+   "summary": "As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
+   "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T05:53:04+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "4a502054ff2aec9d",
+   "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
+   "summary": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-09T05:52:49+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Palestine",
+    "Lebanon"
+   ]
   },
   {
    "id": "9a531555d5d4f7b8",
@@ -211,6 +530,25 @@
     "France",
     "Rwanda",
     "United Nations"
+   ]
+  },
+  {
+   "id": "50588858c6905d45",
+   "title": "Making peace last: Lessons from Colombia and Northern Ireland",
+   "summary": "Making peace last: Lessons from Colombia and Northern Ireland    Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVNzRjdFdHVhbmlHQXR2djRsRnBKSG4yeE5ZS205bnlRYXF4ZWFaOHBfYjNfMGNZM01mb2x5cG92SkozMXFqR2tWb1BGSnF2aElCX2N3NWxRTWZzNjB6aEowT21mSTR2V0NKM29uXzdSaS1maVpCQlJnX1pZOUItWXRDNWgxSHdEZnNUMVd3cXVnU2x0bzh4bnVHdEZHUDRvaC1rb01IeXNZX1BQM1Fr?oc=5",
+   "source": "Chatham House",
+   "group": "Think tank",
+   "published": "2026-10-09T05:28:04+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Ireland",
+    "Colombia"
    ]
   },
   {
@@ -554,6 +892,22 @@
    "countries": [
     "Iran",
     "United States"
+   ]
+  },
+  {
+   "id": "153b71c672c5516d",
+   "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+   "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+   "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T04:44:22+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
    ]
   },
   {
@@ -1159,6 +1513,22 @@
    ]
   },
   {
+   "id": "f2cda0a8c0efa564",
+   "title": "Families reunited as USS Lincoln returns from troubled 10-month deployment",
+   "summary": "The USS Lincoln docked in California on Thursday ending a record deployment of 265 days of uninterrupted time at sea marked by reports of deteriorating conditions onboard. Crew members were reunited with family they had not seen in nearly a year after their mission was prolonged by the war in Iran.",
+   "url": "https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-09T00:13:02+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
    "id": "da28e9af67288095",
    "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
    "summary": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
@@ -1533,6 +1903,22 @@
    "countries": []
   },
   {
+   "id": "0aa7a7dff1945e21",
+   "title": "- Bulletin of the Atomic Scientists",
+   "summary": "Bulletin of the Atomic Scientists",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1nWXN3clctWV9wMmgxNEpFdWxRY1pCQU5rVF9FbVpmLTJxVFU5bUlJTEdFQ3EtZVh1a1JENFVoVUE?oc=5",
+   "source": "Bulletin of the Atomic Scientists",
+   "group": "Nuclear",
+   "published": "2026-10-08T23:03:17+00:00",
+   "themes": [
+    "nuclear"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
    "id": "bba7bfb5b217ec92",
    "title": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
    "summary": "Peter Fonagy lauds courage of young people and warns of consequences of rising prevalence of mental illness Full report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds Explainer | What has the Fonagy review found and what does it recommend? Eighteen months ago, in an off-the-cuff remark during a discussion on disability benefit cuts, Wes Streeting said…",
@@ -1685,6 +2071,24 @@
     "Russia",
     "Turkmenistan",
     "Iran"
+   ]
+  },
+  {
+   "id": "5305591339e53b17",
+   "title": "​​USS Lincoln docks in San Diego after 10-month mission",
+   "summary": "The US aircraft carrier was set to return in May but the war with Iran has kept it at sea on one of the longest deployments ever.",
+   "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-08T22:26:10+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
    ]
   },
   {
@@ -2356,6 +2760,22 @@
     "United States",
     "Sudan",
     "United Nations"
+   ]
+  },
+  {
+   "id": "201132bec2bd1fd1",
+   "title": "Sovereignty is not solitude: Canada’s strategy for democratic technology leadership",
+   "summary": "Sovereignty is not solitude: Canada’s strategy for democratic technology leadership    Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkkwNFpKXzFBVmFnbmlfbTJsNngtRy1ra3pVSzVEME84QmxSVFpqbjdBN1o3V19zRnNRV082ZE5NWUVNX3k5Zk80d0VYMWNYcHJydXRiUU8yNUlFbnYxUl9nRkdUWUtXYzByVXI4OXJndTdxWWpJNW1tdlhXU2YyTEMwTDd0UU93OVVvM3ItU1FIbURVX3lOVVF3OV9Xb0w4WnRRejJMYjBIT196YUliM0xlNWhRRFpqNFE?oc=5",
+   "source": "Chatham House",
+   "group": "Think tank",
+   "published": "2026-10-08T20:18:40+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Canada"
    ]
   },
   {
@@ -26099,408 +26519,6 @@
    ],
    "countries": [
     "Australia"
-   ]
-  },
-  {
-   "id": "5a8fb389ae828578",
-   "title": "Fact check: Misleading claims spark plague fears in Russia",
-   "summary": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
-   "url": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "group": "World news",
-   "published": "2026-10-06T11:07:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "35549f3e17029ec9",
-   "title": "The Return of the \"Desvisados\"",
-   "summary": "The Return of the \"Desvisados\"    Americas Quarterly",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Qek9nOUJqTGVpRmU0S3NvRDVJQzBwX0JNdkV6aTZYM1laZE9nSWQydEZ0YTZYUFlmQWE3aWcxelZfWXdzY2pUek1FQjZwbVlTdGUtR3pfNGFPbEJ3dm1mUlVMRm5xYndzQlNua2o3enl3OFNuRVE?oc=5",
-   "source": "Americas Quarterly",
-   "group": "Regional",
-   "published": "2026-10-06T11:03:42+00:00",
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": []
-  },
-  {
-   "id": "de42468a39319f53",
-   "title": "Nigeria: Peter Obi Wants to Destroy APGA That Made Him - Opara",
-   "summary": "[Vanguard] The All Progressives Grand Alliance (APGA) has warned its members against supporting former Anambra State governor, Peter Obi, accusing him of working to undermine the party he once belonged to.",
-   "url": "https://allafrica.com/stories/202610060249.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T11:01:25+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "7162d8bab8112ecf",
-   "title": "What voters in 6 key states could tell us about the 2026 midterms",
-   "summary": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-   "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-   "source": "NPR World",
-   "group": "World news",
-   "published": "2026-10-06T11:00:00+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "95a909291f530731",
-   "title": "SFL enters ammonia carrier market with twin newbuild order",
-   "summary": "John Fredriksen-backed SFL Corporation has ordered a pair of 93,000 cbm very large ammonia carriers. The vessels will carry a wide range of petrochemical gases and feature dual-fuel propulsion and the latest technology for fuel efficiency and cargo intake optimisation.  Delivery is scheduled for the second quarter of 2028, and aggregate yard construction costs are …",
-   "url": "https://splash247.com/sfl-enters-ammonia-carrier-market-with-twin-newbuild-order/",
-   "source": "Splash247",
-   "group": "Maritime",
-   "published": "2026-10-06T11:00:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d073ad57d59902b3",
-   "title": "Liberia: Findley Puts Running Mate Role On Table",
-   "summary": "[New Dawn] MONROVIA -- Grand Bassa County Senator Gbehzohngar Milton Findley has signaled openness to serving as a vice-presidential candidate in the 2029 elections, saying he would consider any offer that emerges from political negotiations with presidential hopefuls and parties.",
-   "url": "https://allafrica.com/stories/202610060243.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T10:58:40+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Liberia"
-   ]
-  },
-  {
-   "id": "76fd0cccf3778099",
-   "title": "Richard Morecroft, veteran ABC news presenter, dies age 70 after cancer diagnosis",
-   "summary": "Michael Rowland and Leigh Sales lead tributes to newsreader who read the ABC’s 7pm bulletin for 20 years Get our new political email , free app or daily news podcast Former ABC news presenter Richard Morecroft has died at the age of 70. Morecroft presented ABC’s 7pm news bulletin for almost 20 years until 2002. Continue reading...",
-   "url": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-06T10:44:48+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "992acc9349159cb1",
-   "title": "Nigeria: Air Force Unveils Identities of Ondo Crash Victims",
-   "summary": "[Daily Trust] The Nigerian Air Force (NAF) has released the identities of the people who died in the crash involving an NAF ATR 42 aircraft in the Igbokoda area of Ondo State, on Monday.",
-   "url": "https://allafrica.com/stories/202610060218.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T10:40:14+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "62bdb35946d2395d",
-   "title": "Escape from Oleshky — 12 people reached Ukraine-controlled territory in September, official says",
-   "summary": "Escape from Oleshky — 12 people reached Ukraine-controlled territory in September, official says    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTA5V2diVG9ybGQ4d3NjX3l6N0x6RGJfekZTRzczdmc2OG9yZ0FrM296dDBlS2QwcGRjcGZwOUw4bklfMkhXM05kQ0UtZThtdHM1cXVCQWpyT0ZES2Z2NWFvaUNwOEtWZV9UcDVtemJLWHVrVzJud2hQeXY0Qm12d1dEWGhEZkpjMFlpNnp1S0hJYW9FRWhjRGFHSlZuWU5SWlZ0Qng0U09MakpyVWpGX2l1aTEta0tISUVVdHpySQ?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-06T10:32:50+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9730bdd8e9eb7efc",
-   "title": "South Korea says it received 'insufficient' apology from Ukraine over North Korean POWs, mulls envoy recall",
-   "summary": "South Korea says it received 'insufficient' apology from Ukraine over North Korean POWs, mulls envoy recall    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdlFSSzhpTEg2dXczbjJGZzAzX05KU21KZGxXU1ZxX2FqVVg2d0hWR3FHcGRGVHU1S3gyWEsydEdnUUlOajRNbHlBUXpac3RraU5wTWN4ODV6RXVPRDNQTFVTQjFxWG5UOXpXVF93TUMwc3Bkb3dsSXRfRjRfZ2phc2tmOUZ1NnktczBra3BvQnlGRmlULS1HVlVIS2R0VmU3OFh1THlhdzFzbTg2WkZkR2RubEtWcHIyTzhKWnFfZlo2QkdXWWlYZnM1WWVXUQ?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-06T10:30:29+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Ukraine",
-    "South Korea",
-    "North Korea"
-   ]
-  },
-  {
-   "id": "99fdfa1f33721888",
-   "title": "China Accelerates Ultra-Deep Drilling to Boost Domestic Oil Supply",
-   "summary": "China is accelerating efforts to produce more oil from ultra-deep formations to boost domestic supply amid continued global market turmoil. State-owned giant PetroChina has produced more than 26 million tons of oil equivalents from reservoirs dug 6,000 meters (19,685 ft) below the surface in the Hade-Fuman oilfield in the western region of Xinjiang, state media report. Reservoirs at 6,000 meters…",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Accelerates-Ultra-Deep-Drilling-to-Boost-Domestic-Oil-Supply.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-06T10:30:00+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "f2fc73d8e3adfaf7",
-   "title": "ADNOC L&S lines up three more VLGCs for $324m",
-   "summary": "Abu Dhabi-listed ADNOC Logistics & Services is investing AED1.19bn ($324m) in three 90,000 cu m VLGC newbuildings as it continues one of shipping’s more aggressive fleet expansion programmes. The three ships are scheduled for delivery in the second half of 2029 and have already been secured on seven-year contracts with ADNOC Global Trading. The yard …",
-   "url": "https://splash247.com/adnoc-ls-lines-up-three-more-vlgcs-for-324m/",
-   "source": "Splash247",
-   "group": "Maritime",
-   "published": "2026-10-06T10:30:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "9851e55d576c919c",
-   "title": "Russia testing Europe's defenses below threshold of open war, experts say",
-   "summary": "Russia testing Europe's defenses below threshold of open war, experts say    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOW91TDFqYkZkS1ExT1hOMU9uZThZanBhMVZ0ZzFUYV9BdDYyRkpXT2tZU0g2aW5HNU1DQlNhNUdmMEtyajFDLW9MZ2p2UGVLZ0t1Y2Zhbjg4UGd1OGtFNzN3TDdMSWU3RldxVGN5enZMd1RHVkdfUWtGejc2c2RQLTJRbVVPNmk1bDZwa3IyWHViSVF6ckZjUkltclc0bEFPVUE?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-06T10:29:35+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "a4b316fdcc8299fb",
-   "title": "Ghana: Cabinet Approves Establishment of Ghana Space Agency - Minister",
-   "summary": "[Ghanaian Times] THE government is advancing plans to transform the Ghana Space Science and Technology Institute (GSSTI) into a fully-fledged Ghana Space Agency to strengthen the country's participation in the emerging global space economy.",
-   "url": "https://allafrica.com/stories/202610060187.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T10:26:22+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ghana"
-   ]
-  },
-  {
-   "id": "399f91c7259dd146",
-   "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-   "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
-   "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-   "source": "NPR World",
-   "group": "World news",
-   "published": "2026-10-06T10:16:28+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Belgium"
-   ]
-  },
-  {
-   "id": "0acebc5279273dc9",
-   "title": "Ethiopia: Four African Countries Call for De-Escalation of Tension in Ethiopia",
-   "summary": "[Premium Times] This call comes amid the growing tension between Ethiopia's federal government and authorities in the northern Tigray region.",
-   "url": "https://allafrica.com/stories/202610060177.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T10:15:34+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "1d7808beba0a720b",
-   "title": "Nigeria: Military Aircraft Crash - How Naval Personnel and Residents Try to Rescue Victims - Gov Aiyedatiwa",
-   "summary": "[Premium Times] \"So, immediately, the Nigerian Navy men, from the information I got, stayed back a bit so that there wouldn't be an explosion or fire outbreak. When they realised it was just an area and saw no sign of fire, they moved in, trying to rescue the people. Then the local emergency management agency from the local government also tried to move in with residents...\"",
-   "url": "https://allafrica.com/stories/202610060176.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-06T10:14:14+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "6b094b95e20ffa31",
-   "title": "Former German spy chief arrested for espionage and treason",
-   "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-   "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T10:05:42+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "349146704d27933b",
-   "title": "Indian opposition MPs detained in protest against election chief",
-   "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T10:05:22+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "d6b4d05fc23db4f4",
-   "title": "Wider Europe Briefing: The New EU Enlargement Strategy",
-   "summary": "In this week's Wider Europe, Rikard Jozwiak drills down on two issues: the EU's new enlargement strategy and the EU's game plan to keep Russia (and Belarus) out of sports.",
-   "url": "https://www.rferl.org/a/wider-europe-briefing-the-new-eu-enlargement-strategy/33871257.html",
-   "source": "RFE/RL",
-   "group": "Regional",
-   "published": "2026-10-06T10:01:08+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Belarus",
-    "European Union"
-   ]
-  },
-  {
-   "id": "f411679186572ede",
-   "title": "Latest news bulletin | October 6th, 2026 – Midday",
-   "summary": "Catch up with the most important stories from around Europe and beyond this October 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "url": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-midday",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-06T10:00:15+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "acb4d44d16dd784a",
-   "title": "Exmar confirms lucrative suezmax resale",
-   "summary": "Belgium’s Exmar has confirmed the sale of the first suezmax in its four-ship newbuilding programme at South Korea’s DH Shipbuilding, crystallising a profit of around $22m on the transaction. The Antwerp-listed company said it has signed an agreement to sell the first tanker under construction, with the vessel to pass to its buyer simultaneously with …",
-   "url": "https://splash247.com/exmar-confirms-lucrative-suezmax-resale/",
-   "source": "Splash247",
-   "group": "Maritime",
-   "published": "2026-10-06T10:00:00+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Belgium",
-    "South Korea"
-   ]
-  },
-  {
-   "id": "35b87d96530aecef",
-   "title": "ASEAN Energy Security Review",
-   "summary": "ASEAN Energy Security Review    IEA – International Energy Agency",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56czJzUUl2VDhmT1RPVEFQR1hKeVJxR0daVko1SkZlUS1KcXhDVW1vU0FKMG5CRUs0SlJlZW44MDBnRzFwa0U3RDFGb0JYbUpaT3IwUGVndGFLeUhzSjIxUEVVUUozZw?oc=5",
-   "source": "IEA News",
-   "group": "Energy",
-   "published": "2026-10-06T10:00:00+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "77b11184248e640e",
-   "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-   "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-   "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-06T09:48:37+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
