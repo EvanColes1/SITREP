@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:39:55.100690+00:00",
+ "updated": "2026-10-10T15:33:05.241402+00:00",
  "items": [
   {
    "id": "4242802e5ac55a96",
@@ -16,6 +16,728 @@
     "americas"
    ],
    "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "9010f2c293729d7f",
+   "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+   "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T15:28:10+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "068525c293e60db3",
+   "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+   "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T15:23:47+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e4256e6327a70194",
+   "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+   "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+   "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T15:05:55+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "8505953885784531",
+   "title": "Israeli settlers kidnap three Palestinian farmers west of Bethlehem",
+   "summary": "Israeli settlers kidnap three Palestinian farmers west of Bethlehem Israeli settlers, under the protection of Israeli forces, attacked Palestinian farmers in the town of Qaffin, north of Tulkarm, on Saturday, stealing olive crops and harvesting equipment and abducting three farmers, Wafa news and Al Jazeera correspondents reported. The Wall and Settlement Resistance Commission reported at least…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-kidnap-three-palestinian-farmers-west-bethlehem",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T15:05:07+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "fd60d9941de8f88b",
+   "title": "Camden council was warned about paedophile nursery worker years before arrest",
+   "summary": "Vincent Chan went on to abuse children after being cleared of ‘significant concerns’ following council-overseen inquiry A paedophile nursery worker was cleared by an investigation overseen by a local authority three years before he was arrested. In February, Vincent Chan was jailed after pleading guilty to 56 offences , including assault by penetration on three-year-old girls in his care at a…",
+   "url": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T15:00:01+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "64d0ee540b7524e4",
+   "title": "The Iran War Is Fueling a Boom in Clean Energy",
+   "summary": "The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the international energy system. Restrictions on trade through the Strait of Hormuz have underscored just how dependent many countries are on this waterway for fossil fuel imports,…",
+   "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
+   "source": "OilPrice.com",
+   "group": "Energy",
+   "published": "2026-10-10T15:00:00+00:00",
+   "themes": [
+    "conflict",
+    "energy"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "66bd6aef8720d087",
+   "title": "Woman injures three people in third Poland school knife attack in a week",
+   "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+   "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T14:58:55+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "9bd37328e01c9dc4",
+   "title": "Israeli forces strike southern Lebanon’s Marjayoun district",
+   "summary": "Israeli forces strike southern Lebanon’s Marjayoun district Israeli aircraft struck the town of Talloussah, in the southern Lebanese district of Marjayoun, on Saturday, according to Lebanon’s National News Agency (NNA), without elaborating as to whether the attack caused any casualties or damage. The town has been targeted with aerial attacks multiple times by Israeli forces, and comes amid…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-southern-lebanons-marjayoun-district",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T14:57:18+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "57fdd6ba4cadea9e",
+   "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+   "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+   "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T14:49:32+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Sudan",
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "495ff983bc7e7e8e",
+   "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+   "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for Kyiv Russia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow’s war. The Ukrainian president has expressed…",
+   "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T14:45:15+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "5a68935bd05626fa",
+   "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens",
+   "summary": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens US President Donald Trump on Friday left open the possibility of further military action against Iran as fighting intensifies in Yemen and Houthi attacks on Saudi Arabia have led to a renewed offensive. Asked why possible US military action against Iran might be delayed until after the 3 November midterm elections rather than carried…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-failing-badly-conflict-yemen-widens",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T14:44:39+00:00",
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "Saudi Arabia",
+    "Yemen",
+    "United States"
+   ]
+  },
+  {
+   "id": "41a2e73a708e50c7",
+   "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
+   "summary": "Arsenal come from behind to beat Leeds United moving them joint top of the Premier League with Manchester City.",
+   "url": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T14:42:39+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "d2a3e4c22f8998ae",
+   "title": "EU urges US to reverse proposed sanctions against ICC",
+   "summary": "EU urges US to reverse proposed sanctions against ICC The European Union issued a statement on Saturday calling on the US to reverse their decision to impose sanctions on the International Criminal Court (ICC). In the statement on behalf of the bloc, EU foreign policy chief Kaja Kallas reaffirmed the EU's support for the rules-based international order and respect for international law, stressing…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-urges-us-reverse-proposed-sanctions-against-icc",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T14:41:58+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "European Union",
+    "United States"
+   ]
+  },
+  {
+   "id": "9005e70b557443e8",
+   "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+   "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T14:39:53+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "72a62a29e407f410",
+   "title": "Mexican judge sentences three men for murders of Australian, US surfers",
+   "summary": "The trial in Baja California had revealed chilling details of the triple homicide of the surfers.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T14:37:26+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific",
+    "americas"
+   ],
+   "countries": [
+    "Australia",
+    "United States",
+    "Mexico"
+   ]
+  },
+  {
+   "id": "7c2a1b22d32a302c",
+   "title": "Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+   "summary": "Deaths came from falling trees as nearly a million people are without power and rain and flooding remain a concern Two people have died amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane, according to authorities. Both of those deaths occurred after trees fell on homes, one in Escambia county, Florida, and another in Birmingham, Alabama, as the…",
+   "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T14:34:15+00:00",
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f54d6af072fe47bf",
+   "title": "Why is the US sanctioning the International Criminal Court?",
+   "summary": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T14:19:43+00:00",
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "a755c80f5d01b5e1",
+   "title": "Abbas postpones Palestinian legislative elections to September 2027",
+   "summary": "November 2026 vote delayed; joint presidential and legislative elections set for next year, president says in decree.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T14:18:09+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "76acd55fead2c14f",
+   "title": "Lens see off Lyon as Ligue 1 season resumes after international break",
+   "summary": "Lens put an end to a four-match winless run by beating Lyon 2-1 on Friday night, in what was the first Ligue 1 fixture after a three-week international break. Paris Saint-Germain head coach Luis Enrique has brushed off concerns about Ousmane Dembélé's recent form, having rested the forward for Saturday's match against promoted side Le Mans.",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-10T14:10:33+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "355b8be775755c3a",
+   "title": "Has Yemen returned to ‘full-scale war’?",
+   "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T14:10:24+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "c33bd7a3fccdb2dd",
+   "title": "Thousands detained in New Delhi as police crack down on 'cockroach' movement",
+   "summary": "Police detained “cockroach movement” leader Abhijeet Dipke and two others as hundreds of protesters defied a heavy security clampdown in New Delhi.",
+   "url": "https://www.euronews.com/2026/10/10/thousands-detained-in-new-delhi-as-police-crack-down-on-cockroach-movement",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-10T14:06:06+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "4bc8dfa65f84dfe1",
+   "title": "Palestinian President Abbas postpones legislative elections until September 2027",
+   "summary": "On Friday, Israeli Foreign Minister Gideon Sa'ar accused Abbas of \"fooling the international community by canceling once again promised elections\" as rumours of the postponement circulated.",
+   "url": "https://www.euronews.com/2026/10/10/palestinian-president-abbas-postpones-legislative-elections-until-september-2027",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-10T14:04:51+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "102a8a123e8e68e0",
+   "title": "Portugal hits Ronaldo with provisional suspension for walking out on national team",
+   "summary": "Portuguese Football Federation announced on Saturday that it has provisionally suspended star attacker Cristiano Ronaldo and opened disciplinary proceedings against the 41-year-old over his decision to walk out on the national team last month.",
+   "url": "https://www.france24.com/en/sport/20261010-portugal-hits-ronaldo-with-provisional-suspension-for-walking-out-on-national-team",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-10T14:02:06+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Portugal"
+   ]
+  },
+  {
+   "id": "dccd963c2aefb2e4",
+   "title": "People being evacuated from Riyadh's international airport",
+   "summary": "People being evacuated from Riyadh's international airport People at Riyadh's international airport were being evacuated from the facility on Saturday, three witnesses told AFP, as officials issued a travel alert urging travellers to confirm their flight status before heading there. Reuters reported earlier that several eyewitnesses and people briefed on the matter had heard a loud explosion at…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/people-being-evacuated-riyadh-airport",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T14:01:09+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "058b5b8510183345",
+   "title": "‘People are leaving’: New York City’s EMS workers are struggling to make ends meet",
+   "summary": "EMS workers, who make life-or-death decisions in emergencies, are the lowest paid first responders After 31 years in New York City’s emergency medical services, Oren Barzilay has started giving young New Yorkers advice he never imagined giving when he began his EMS career. “Don’t come here,” he tells them. “You are only going to hurt yourself.” It is a striking reversal for Barzilay, the recently…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/10/ems-workers-nyc-low-pay",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T14:00:58+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b0b260b45766972d",
+   "title": "Nobel peace laureate Pillay calls ICC sanctions 'unacceptable'",
+   "summary": "Nobel peace laureate Pillay calls ICC sanctions 'unacceptable' The winner of this year's Nobel Peace Prize, Navi Pillay, a South African judge and former UN rights chief, called the US sanctions on the International Criminal Court (ICC) \"unheard of, unacceptable\" on Saturday. \"There is so much tension and anxiety over the continued existence of international courts, mainly the International…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nobel-peace-laureate-pillay-calls-icc-sanctions-unacceptable",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T13:57:29+00:00",
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "3da60bdded952c8d",
+   "title": "When streets become a workplace: Gaza workers convert tents into offices",
+   "summary": "A real estate crisis in Gaza has forced professionals to use tents as surgeries and offices.",
+   "url": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T13:50:05+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "2b39380c7306a051",
+   "title": "Austria's anti-terror laws are turning journalism about Palestine into a crime",
+   "summary": "Austria's anti-terror laws are turning journalism about Palestine into a crime Submitted by Hossam Shaker on Thu, 10/08/2026 - 04:35 Mustafa Ayyash's prolonged detention over Gaza Now's coverage threatens to set a precedent for silencing Palestinian accounts of Israel's genocide A man holds a Palestinian flag beside a sign reading 'Do not give up Gaza' during a protest in Vienna on 12 May 2026…",
+   "url": "https://www.middleeasteye.net/opinion/austria-anti-terror-laws-turning-journalism-about-palestine-crime",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T13:45:32+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "Austria",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "492f488977ef3cb2",
+   "title": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
+   "summary": "Yemen said Saturday that forces were advancing against the Houthis around the Bab al-Mandab strait, a week after the country's Saudi-backed government announced that it was initiating a counter-offensive to take back territory seized by the pro-Iran group during last month's lightning offensive. In Riyadh, diplomatic sources reported a missile attack on the civilian airport, with at least five…",
+   "url": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
+   "source": "France 24",
+   "group": "World news",
+   "published": "2026-10-10T13:45:14+00:00",
+   "themes": [
+    "maritime",
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "26b675b81f04bf63",
+   "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+   "summary": "War-driven prices for silver are threatening nagra makers in northern India.",
+   "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T13:25:35+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "ffbbce679691d73a",
+   "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
+   "summary": "India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov't march.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T13:23:42+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "22cdc4aedc57a5c9",
+   "title": "Sanaa airport hit by four air strikes, large blast heard at Riyadh airport",
+   "summary": "Sanaa airport hit by four air strikes, large blast heard at Riyadh airport Yemen's Sanaa International Airport has been hit by four air strikes, Houthi-affiliated media is reporting, after forces loyal to Yemen’s Saudi-backed government announced they have been carrying out air strikes across Houthi-held areas. The same media also reported three air strikes targeting communications networks in…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sanaa-airport-hit-four-air-strikes-large-blast-heard-riyadh-airport",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T13:19:13+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "500353208dbb0a23",
+   "title": "Pezeshkian says Iran ‘not afraid’ of US threats",
+   "summary": "Pezeshkian says Iran ‘not afraid’ of US threats Iranian President Masoud Pezeshkian said on Saturday that the people of Iran were “not afraid of the enemy’s threats”, despite mounting economic pressure from Washington. In comments made at the International Exhibition of Rural and Nomadic Capabilities in Tehran, Pezeshkian proclaimed that as long as Iranians are alive, they will “remain servants…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-not-afraid-us-threats",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T13:11:06+00:00",
+   "themes": [],
+   "regions": [
+    "mena",
+    "americas"
+   ],
+   "countries": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "c706aa7d22c5e0a0",
+   "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+   "summary": "Rubio says threats to Western civilisation today 'every bit as real as they were on the dramatic stage of antiquity'.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T13:09:09+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "00f163c972399cb4",
+   "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
+   "summary": "Max Verstappen's sprint race win was ​Dutchman's first of any kind in Singapore as he finished ahead of Lewis Hamilton.",
+   "url": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T13:08:35+00:00",
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "Singapore"
+   ]
+  },
+  {
+   "id": "3ff2aaa2f6f49147",
+   "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
+   "summary": "Koos Bekker’s Newt estate encompasses luxury hotels, pubs and high street business, with local concerns including flooding When South African billionaire Koos Bekker bought an old country estate in a sleepy corner of Somerset to turn it into a luxury hotel, residents thought it was a sign their area was on the up. Walking through his peaceful manicured gardens, which feature a maze of apple trees…",
+   "url": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T13:00:58+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "e2c65c491e7cca20",
+   "title": "Eight Palestinians killed in Israeli attacks on Gaza during anniversary of US-brokered 'ceasefire'",
+   "summary": "Eight Palestinians killed in Israeli attacks on Gaza during anniversary of US-brokered 'ceasefire' Al Jazeera has reported that at least eight Palestinians have been killed by Israeli forces in several areas of the Gaza Strip since dawn on Saturday, including an eight-year-old Palestinian girl. The deaths come on the first anniversary of a US-brokered \"ceasefire\" in Gaza, during which more than…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-palestinians-killed-israeli-attacks-gaza-during-anniversary-us",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T12:55:35+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "fc931f81819b2cf6",
+   "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+   "summary": "Indian police crackdown appears to have prevented mass protests against the country's election chief from taking place.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T12:50:34+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "e9357441f3eb4a1f",
+   "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+   "summary": "At least 1,481 Palestinians killed in Israeli attacks since last year's 'ceasefire', Gaza's Health Ministry says.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T12:40:57+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "1af67b98dfa80827",
+   "title": "England international Cole Palmer signs new Chelsea deal until 2034",
+   "summary": "Attacking midfielder Palmer has become a key figure in Chelsea's squad since his arrival from Man City in 2023.",
+   "url": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T12:37:14+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "f838c6a6840059f9",
+   "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+   "summary": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T12:33:07+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
     "United States"
    ]
   },
@@ -38,6 +760,38 @@
    ]
   },
   {
+   "id": "73216079835b51ce",
+   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+   "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T12:29:31+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "9e1fe3e03aab71dc",
+   "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+   "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+   "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-10T12:28:51+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
    "id": "1fade6ab171efb7a",
    "title": "Iran's Araghchi says Netanyahu is a 'wanted war criminal' with 'no regard for his own people'",
    "summary": "Iran's Araghchi says Netanyahu is a 'wanted war criminal' with 'no regard for his own people' Iranian Foreign Minister Seyed Abbas Araghchi accused Israeli Prime Minister Benjamin Netanyahu of being a \"wanted war criminal\" with \"blood on his hands\" and \"no regard for his own people\" in a post on X on Saturday.  Araghchi shared an interview with Netanyahu's former military secretary Avi Gil, who…",
@@ -54,6 +808,43 @@
    "countries": [
     "Israel",
     "Iran"
+   ]
+  },
+  {
+   "id": "c2273e1c366c85f3",
+   "title": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
+   "summary": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T12:17:30+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "94992181e8ecf064",
+   "title": "Why is US turning to Russia for diesel despite sanctions?",
+   "summary": "President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+   "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T12:16:12+00:00",
+   "themes": [
+    "sanctions",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "Russia",
+    "United States"
    ]
   },
   {
@@ -266,6 +1057,24 @@
    "countries": [
     "Palestine",
     "United States"
+   ]
+  },
+  {
+   "id": "5463e9e7164c4ad3",
+   "title": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+   "summary": "Authorities impose strict lockdown in capital to try to stop rally against removal of 130m names from electoral roll Indian authorities have placed Delhi under a severe lockdown and detained tens of thousands of people, including the leader of the youth-led “Cockroach” movement, in an attempt to stop an anti-government protest. Thousands of people from across India were blocked from attending the…",
+   "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T11:17:38+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
    ]
   },
   {
@@ -1829,6 +2638,26 @@
    ],
    "countries": [
     "Israel"
+   ]
+  },
+  {
+   "id": "88c43c2ca155046e",
+   "title": "Major fire reported at oil terminal linked to Russia's Novoshakhtinsk refinery after suspected drone strike",
+   "summary": "Major fire reported at oil terminal linked to Russia's Novoshakhtinsk refinery after suspected drone strike    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONWU2RWJiVUNmUUxzMHQwNm5DVjRmaVpYbVR1ME9GTW5SVzFnU04wRlVoeHFMSkRDbG1qR3JYOWZYZ1gxRTFPdGdGY2R2V3VYNWNPOVlSUHBMRjc1bFE0SFRxQzlERkYtRUFjbkh3X2NRRm5yWlhZUEpZREVuem9RSjBhRHhiaGN1YlhpM185M2NmQ09YeF9qdXNDaXhXVE0tNFZBRmRta1dTeTRBcWlEclE5RXZMVUg2Zng5bFdTRWh5WVhXb1R3Ty0ydEM0MWF0?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-10T03:22:53+00:00",
+   "themes": [
+    "energy",
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -7473,6 +8302,23 @@
    "countries": [
     "Indonesia",
     "Kenya"
+   ]
+  },
+  {
+   "id": "7e3add55d69400b4",
+   "title": "Russia forcibly removes 25 Ukrainian civilians, including children, from occupied Kharkiv Oblast, ombudsman says",
+   "summary": "Russia forcibly removes 25 Ukrainian civilians, including children, from occupied Kharkiv Oblast, ombudsman says    The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEMwZFA4Mk94a0xLVzhCNzdDM1BqMVZkaTV6N2VURkpXYlNOUTEycFNqM0R3TU81WXV5WktCb0J4T3pLSlZxUHd1dTk3el9ZS0FjZlAxYU1XOFE4YjFldkZaVXhxNS10dGVLTkdXd1F3T1FXMWNMbG5CeEIxOFpyVzd5MUFHeEl0TlFySENWZ3JlR1RwRmJFd2ZHUzJBOVN6SXg1VnZrOXloZkc5cUFNNEFVRU1XR0dUN1g5dE1SVXExajN0cFZwcTR5VTZ5XzItU1pmbA?oc=5",
+   "source": "Kyiv Independent",
+   "group": "Regional",
+   "published": "2026-10-09T12:22:20+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -25773,872 +26619,6 @@
    "countries": [
     "France",
     "South Africa"
-   ]
-  },
-  {
-   "id": "d2ae16e07c3d0d7e",
-   "title": "Russia’s Wildberries Finding Fertile Ground in Central Asia",
-   "summary": "The Russian e-commerce retailer has announced yet another new logistics facility, this time in Uzbekistan.",
-   "url": "https://thediplomat.com/2026/10/russias-wildberries-finding-fertile-ground-in-central-asia/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-07T14:22:00+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Uzbekistan"
-   ]
-  },
-  {
-   "id": "501eb2a4737f5814",
-   "title": "Brit adventurer back on UK soil after 28-year round-the-world walk",
-   "summary": "British adventurer on a 50,000-kilometre, 28-year trek home from South America without using any transport has set foot on UK soil after swimming the Channel, his publicists said Tuesday. Karl Bushby, a 57-year-old former paratrooper, set off from Punta Arenas, Chile, in November 1998, vowing to reach his mother's home near Hull in northern England without travelling on planes, trains, boats,…",
-   "url": "https://www.france24.com/en/video/20261007-brit-adventurer-back-on-uk-soil-after-28-year-round-the-world-walk",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T14:19:06+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Chile"
-   ]
-  },
-  {
-   "id": "c2e1c6d15f03c5f4",
-   "title": "Statement by IEA Executive Director on meeting of IEA Member governments on 7 October 2026",
-   "summary": "Statement by IEA Executive Director on meeting of IEA Member governments on 7 October 2026    IEA – International Energy Agency",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemV4UTAzVG12bUw2UjZ1Rm1FeHBCWlhaa0w0U1FZMjNxblpGN28yOTdGOU9yRVNEZUM2RXdLRDVTdENrOGtabzZVTjk2Q25Cak5OX3NIdFQ2WGJhZkZZMF91RW5ncHd3cnAzc1NvSjlacGxMYWRtbmxDSkZ4TmFydG5LTE14eHpYQXpLeGVmVVJSZWFyeWVDRjJYWUlKOGpyYmFOUTF0UzFsMW1kN3hoTDJFVG5zZw?oc=5",
-   "source": "IEA News",
-   "group": "Energy",
-   "published": "2026-10-07T14:19:02+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b14905097c1fceff",
-   "title": "New Comoros law bans foreign nationals from certain jobs",
-   "summary": "A new law in the Comoros bans foreign nationals from running certain small-scale businesses, threatening the livelihoods of thousands of people, most of them Malagasy. A measure that mirrors a growing wave of economic protectionism targeting migrant workers across the continent.",
-   "url": "https://www.france24.com/en/video/20261007-new-comoros-law-bans-foreign-nationals-from-certain-jobs",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T14:17:30+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "060929890c47fb16",
-   "title": "Guidance: OFSI General Licence INT/2026/8893924",
-   "summary": "Details for OFSI General Licence INT/2026/8893924, Maritime Mutual Re-Insurance Wind Down General Licence",
-   "url": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
-   "source": "UK Financial Sanctions (OFSI)",
-   "group": "Sanctions",
-   "published": "2026-10-07T14:14:57+00:00",
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "7dc382ff08e70f85",
-   "title": "A new 'Les Mis': This week in French film",
-   "summary": "This week on arts24, film critic Manon Kerjean takes us through some of the latest French cinema releases, starting with a new adaptation of Victor Hugo's \"Les Misérables\". Vincent Lindon plays Jean Valjean, opposite Tahar Rahim as Inspector Javert in a three-hour epic that brings a thriller-like tension to the classic story.",
-   "url": "https://www.france24.com/en/tv-shows/arts24/20261007-a-new-les-mis-this-week-in-french-film",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T14:12:35+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "562d8cb2e5f400d4",
-   "title": "What we know about espionage, treason allegations against Germany's ex-spy chief",
-   "summary": "A court on Wednesday ordered the former head of Germany's foreign intelligence service August Hanning to remain in pretrial detention after his arrest on suspicion of espionage and treason, along with a former deputy who allegedly supplied him with secret files. Here's what we know about one of the biggest security breaches in German history.",
-   "url": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T14:06:59+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "849594f7f0601fd0",
-   "title": "JD Vance: Iran needs 'meaningful' reduction in enrichment to end war",
-   "summary": "JD Vance: Iran needs 'meaningful' reduction in enrichment to end war US Vice President JD Vance said in an exclusive interview with Reuters that Iran must make a “meaningful” reduction in its nuclear enrichment capacity to satisfy US demands and end the countries’ seven-month war , even as Washington was unsure how Tehran makes decisions in negotiations. Vance, a longtime skeptic of US…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-iran-needs-meaningful-reduction-enrichment-end-war",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T14:04:34+00:00",
-   "themes": [
-    "conflict",
-    "nuclear"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "65da7bbf388591f0",
-   "title": "Iran threatens pre-emptive strikes as US questions who runs Tehran",
-   "summary": "Iran's army spokesman said Tehran's forces were prepared to strike first \"should circumstances require it,\" while IRGC officials claimed tighter control of Hormuz, and Washington publicly pondered how much authority Pezeshkian and Araghchi actually wielded.",
-   "url": "https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-07T14:04:19+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "2d9bc4bcaef935ec",
-   "title": "Cyber experts call on CISA to create mandatory federal OT rules",
-   "summary": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.",
-   "url": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
-   "source": "The Record",
-   "group": "Cyber",
-   "published": "2026-10-07T14:03:00+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "1785b5eac30e43ea",
-   "title": "Millions of Pakistanis get government fuel relief but some miss out",
-   "summary": "Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T14:02:40+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "59b4f581f7e0d6d0",
-   "title": "Overseas, Albanese sees ‘the very definition of climate injustice’ – but at home, he still wants coal",
-   "summary": "It isn’t hard to see a contradiction between the PM’s message in Fiji and his opposition to legal action to stop a NSW coalmine Get our new political email , free app or daily news podcast There are unlikely to be many bigger moments in Australian action on the climate crisis this year than a judgment by the high court on Wednesday. In what is likely to prove a historic victory, the court sided…",
-   "url": "https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T14:00:52+00:00",
-   "themes": [
-    "energy",
-    "climate"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Australia",
-    "Pacific Islands"
-   ]
-  },
-  {
-   "id": "1e06b9275e62eb4a",
-   "title": "Rubio Warns Russia and China Are Already Moving in the Arctic",
-   "summary": "US Secretary of State Marco Rubio has signaled a renewed American push to strengthen security in the Arctic, warning that US adversaries and competitors are already acting in a region of growing strategic importance. Standing alongside Iceland's foreign minister, Thorgerour Katrin Gunnarsdottir, Rubio, on the first stop of a three-nation tour of NATO allies, cast the strategically located NATO…",
-   "url": "https://oilprice.com/Geopolitics/International/Rubio-Warns-Russia-and-China-Are-Already-Moving-in-the-Arctic.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-07T14:00:00+00:00",
-   "themes": [
-    "conflict",
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific",
-    "americas",
-    "global"
-   ],
-   "countries": [
-    "Russia",
-    "Iceland",
-    "China",
-    "United States",
-    "NATO"
-   ]
-  },
-  {
-   "id": "71e07d34db005269",
-   "title": "Israel’s Election: What Comes Next?",
-   "summary": "Israel’s Election: What Comes Next?    Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOUdYWnhoSF9mMFYxc1NfeEhDLWxUS2IxRmpLTGxlSk9MQkNDZ3BxOTI4OEVDa3djTm00WjMzMEFjYmlfdjZiYzBoOVU3MjBOZndrc1EtTnh3N19rakZfOFp4Wi1kWVV4b25ndlh3NjlyNWtwYm84OG9kWUNaTmRlNHJ5MURxemVtSnVDZ3VMZ0hEU1k?oc=5",
-   "source": "Carnegie",
-   "group": "Think tank",
-   "published": "2026-10-07T14:00:00+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "e1f6aaf733172db4",
-   "title": "The Strategic Implications of China’s Military Facility in Laos",
-   "summary": "Ban Keun poses only a limited direct threat to the South China Sea or Taiwan, but it will enhance China’s ability to place pressure on U.S. naval forces.",
-   "url": "https://thediplomat.com/2026/10/the-strategic-implications-of-chinas-military-facility-in-laos/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-07T13:59:00+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "China",
-    "Taiwan",
-    "Laos",
-    "United States"
-   ]
-  },
-  {
-   "id": "ab16dc6eda9d5ef7",
-   "title": "From Mai 68 to 2026: France’s long student protests tradition",
-   "summary": "Students, parents and trade unions were demonstrating across France Tuesday, protesting what they say is under-investment in high schools. From Mai 68 to the CPE crisis in 2006, major French student and youth protests have pressured leaders and transformed national politics.",
-   "url": "https://www.france24.com/en/video/20261007-from-mai-68-to-2026-france-s-long-student-protests-tradition",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:57:04+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "7e1134fda790c8ff",
-   "title": "Why Paramount-Warner merger has sparked fears about press freedom",
-   "summary": "Chairman's family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T13:56:27+00:00",
-   "themes": [],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Israel",
-    "United States"
-   ]
-  },
-  {
-   "id": "e24d374859763f27",
-   "title": "The secrets behind Mali junta’s takeover of Kidal without a fight",
-   "summary": "The Malian army says it has entered the strategic northern city of Kidal, which was captured around five months ago by Tuareg separatists who announced their withdrawal earlier Tuesday as the military advanced – a symbolic boost to Mali's junta and its Russian backers. In late April, jihadists from Al-Qaeda-linked JNIM and its Tuareg separatist allies kicked off a series of attacks aimed at…",
-   "url": "https://www.france24.com/en/video/20261007-russia-backed-mali-junta-retakes-strategic-town-after-separatists-withdraw",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:55:40+00:00",
-   "themes": [
-    "conflict",
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "africa"
-   ],
-   "countries": [
-    "Russia",
-    "Mali"
-   ]
-  },
-  {
-   "id": "7290650b16349517",
-   "title": "Mayor of Turkish opposition stronghold defects to Erdoğan’s party amid political crackdown",
-   "summary": "Izmir mayor Cemil Tugay joins ruling AKP after vowing he would never switch sides in boost for Turkish president The mayor of Izmir, Turkey’s third city and an opposition stronghold, has defected to the ruling AKP in a move hailed by Recep Tayyip Erdoğan, the Turkish president. Turkey’s opposition is battling an increasingly intense crackdown, with a barrage of what observers say are politically…",
-   "url": "https://www.theguardian.com/world/2026/oct/07/cemil-tugay-mayor-izmir-defects-akp-erdogan-turkey",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T13:54:06+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "9ccae0aa7a50d52c",
-   "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-   "summary": "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.",
-   "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-   "source": "NPR World",
-   "group": "World news",
-   "published": "2026-10-07T13:53:54+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "a20994d425ad62ce",
-   "title": "Why American artist Mary Cassatt's legacy still resonates in France today",
-   "summary": "In this edition we're pleased to welcome back Lauren Jimerson to discuss the Mary Cassatt exhibit entitled \"The Choice of Independence\" that's currently showing at the Musee d'Orsay in Paris. Lauren is an art historian and author, specialising in modern art and women artists. She tells us why Cassatt was a key figure in the Impressionist movement and why this exhibition is so important.",
-   "url": "https://www.france24.com/en/tv-shows/entre-nous/20261007-why-american-artist-mary-cassatt-s-legacy-still-resonates-in-france-today",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:52:42+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "France",
-    "United States"
-   ]
-  },
-  {
-   "id": "93dc288371c9fafe",
-   "title": "Palestinian killed during settler attack on olive farmers in West Bank",
-   "summary": "Palestinian killed during settler attack on olive farmers in West Bank Submitted by Fayha Shalash on Wed, 10/07/2026 - 14:32 Ali Hassan al-Bazari, 44, dies after settlers open fire on farmers near Burqa, as witnesses say Israeli soldiers protected the attackers and blocked ambulances from reaching the wounded A son of Ali al-Bazari mourns during his father's funeral at Rafidia Hospital in Nablus…",
-   "url": "https://www.middleeasteye.net/news/palestinian-killed-during-settler-attack-olive-farmers-west-bank",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T13:51:35+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "eb177a0907ad80bd",
-   "title": "Tropical Storm Isaias near Mexico is forecast to become a hurricane",
-   "summary": "Isaias, which succeeded Tropical Depression Nine, would be the first hurricane of the belated Atlantic season Tropical Storm Isaias formed early on Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the first hurricane of the belated Atlantic season before hitting the US Gulf coast later in the week. Isaias succeeded Tropical Depression Nine as…",
-   "url": "https://www.theguardian.com/world/2026/oct/07/tropical-storm-isaias-mexico-hurricane",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-07T13:51:25+00:00",
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States",
-    "Mexico"
-   ]
-  },
-  {
-   "id": "964793230f36d7e1",
-   "title": "Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach",
-   "summary": "The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.",
-   "url": "https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach",
-   "source": "The Record",
-   "group": "Cyber",
-   "published": "2026-10-07T13:49:00+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "363b04930d0d7190",
-   "title": "Artificial Intelligence Archives - Page 17 of 17",
-   "summary": "Artificial Intelligence Archives - Page 17 of 17    Bulletin of the Atomic Scientists",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWhSblJjWkw1TG5PXzd2SWo5N2J6NnRES3pZWVZzSVU5a2hrQ3YtVjBvcGJ1ZnEyTkhOckZkMUhKdGh3WjVjUUtoLXU1UGk3QW5pZlBSWjNuZ1RYYUhjcWJzdnhYUkU1djJHeTl1VDJXVmkxUnhDb0w1OU5zWTJfVVdxdkgwTzQ?oc=5",
-   "source": "Bulletin of the Atomic Scientists",
-   "group": "Nuclear",
-   "published": "2026-10-07T13:47:20+00:00",
-   "themes": [
-    "cyber",
-    "nuclear"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "52ee540411a32ac8",
-   "title": "South Sudan's road to elections remains uncertain",
-   "summary": "South Sudan's first general election is set for December 22. Insecurity, political tensions and failure to begin voter registration have raised doubts over whether the poll can be held credibly.",
-   "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "group": "World news",
-   "published": "2026-10-07T13:45:00+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Sudan",
-    "South Sudan"
-   ]
-  },
-  {
-   "id": "6e34c7b06ec24dc6",
-   "title": "Russia warns against spreading 'false information' as reports emerge of second plague case",
-   "summary": "The World Health Organization joined Western leaders on Wednesday in urging Russia to share more information about what killed a plague institute worker in Siberia as reports emerged of a second suspected case. The Kremlin said Moscow had shared what it knew and accused the media ​of spreading \"false information\".",
-   "url": "https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:43:19+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "7070752eb984e282",
-   "title": "UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline",
-   "summary": "UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline The British consul-general to Palestine is expected to leave Jerusalem in compliance with Israel ’s order to close the British consulate before Thursday's deadline, Middle East Eye has learnt. Once British diplomats have left occupied Palestine, they will not be able to re-enter without Israeli permission. The…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-consul-general-palestine-set-leave-jerusalem-israels-closure-deadline",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T13:39:38+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "1e501797c7b79a53",
-   "title": "China's evolving funeral practices: From traditional burials to cremation",
-   "summary": "This year, China released new rules for funeral practices. The government is putting an emphasis on affordable and environmentally friendly funeral services. It's part of a decades-long reform to promote cremation. But in a country where burials are deeply rooted in local traditions, how are these attempts to modernise funerals being perceived? FRANCE 24's Yena Lee reports.",
-   "url": "https://www.france24.com/en/tv-shows/focus/20261007-china-s-evolving-funeral-practices-from-traditional-burials-to-cremation",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:39:24+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "France",
-    "China"
-   ]
-  },
-  {
-   "id": "7ba1da381e58d60f",
-   "title": "Russia’s Kaliningrad threats show the value of Baltic preparedness",
-   "summary": "Russia’s Kaliningrad threats show the value of Baltic preparedness    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkFyWXFyWmstaUdDQmhRN3VSQjg2Z1VJYk9jTmZ2djdONV9Wcm9jVy10dllFU1dHMFBJbDdsT0U4QkxfMXhMTzBlVjY0SFZTQVdCazBHM194LWNXLWFKaTJwZEVsbG9KeG9NZllhd1RFN1dmY3pwelRYSm1Ed1V2RHN4T0N2UmdmMWJOZnpzSzVMbEROaFlMUEJoYw?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-07T13:38:50+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Lithuania"
-   ]
-  },
-  {
-   "id": "3f2c7579d99f3440",
-   "title": "South Korea signals military exemption cuts for athletes after Asian Games",
-   "summary": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes' Asian Games comments.",
-   "url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T13:38:14+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "South Korea"
-   ]
-  },
-  {
-   "id": "425877defc14fad6",
-   "title": "Towards a new European energy architecture: Spain’s role",
-   "summary": "Towards a new European energy architecture: Spain’s role    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmNucEZNTW5abHNZYTMwM1VYQXpZMldpVUNxUWFETjFORmR5VWpBU3RSdDRfU0VISjNyZzYwZDJ5dXV1bmgzRWd5SzFGVF8wX1RxVFo5MEJiNkVNMHFnMlBCeWpxVF9sdTRHMW4yQXhfNkZHMmRiYVlFT0hlQ1Z6RDZBbw?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-10-07T13:36:08+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "95c1a1eaee9dc42f",
-   "title": "'Great moral courage: The French thought they knew de Gaulle and suddenly realized they didn't'",
-   "summary": "François Picard is pleased to welcome Julian Jackson, the British historian, author and Emeritus Professor of Modern French History at Queen Mary University of London. His biography of General de Gaulle laid the foundation for France’s two-part biopic, \"De Gaulle: Résistance\". And on the heels of this surprise box-office hit, Jackson’s book is now available in French: La Chute : France 1940. He…",
-   "url": "https://www.france24.com/en/tv-shows/spotlight/20261007-great-moral-courage-the-french-thought-they-knew-de-gaulle-and-suddenly-realized-they-didn-t",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:36:04+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "France"
-   ]
-  },
-  {
-   "id": "5009303def84c388",
-   "title": "EU Says Kosovo's Changes To War Crimes Court Law Violate International Obligations",
-   "summary": "The European Union has expressed “deep concern” over Kosovo’s adoption of legislation that seeks to narrow the jurisdiction of a Hague-based war crimes court, saying the changes violate the country’s international obligations toward the bloc.",
-   "url": "https://www.rferl.org/a/eu-kosovo-war-crimes-court-international-obligations/33872164.html",
-   "source": "RFE/RL",
-   "group": "Regional",
-   "published": "2026-10-07T13:34:29+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Kosovo",
-    "European Union"
-   ]
-  },
-  {
-   "id": "e56059c3859a2e19",
-   "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
-   "summary": "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
-   "url": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
-   "source": "NPR World",
-   "group": "World news",
-   "published": "2026-10-07T13:32:37+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "3e8cf10f58bd9763",
-   "title": "Okinawa governor urges Japan action after US Marine arrested over killing",
-   "summary": "Growing anger after US Marine Devin Jacob Ballard was arrested on suspicion of strangling Anna Yagi, 39.",
-   "url": "https://www.aljazeera.com/news/2026/10/7/okinawa-governor-urges-japan-action-after-us-marine-arrested-over-killing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T13:31:18+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific",
-    "americas"
-   ],
-   "countries": [
-    "Japan",
-    "United States"
-   ]
-  },
-  {
-   "id": "124015bcbf6eace1",
-   "title": "AI and the Risk to Democracy",
-   "summary": "Insights from Matthew Botvinick.",
-   "url": "https://thediplomat.com/2026/10/ai-and-the-risk-to-democracy/",
-   "source": "The Diplomat",
-   "group": "Regional",
-   "published": "2026-10-07T13:31:00+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": []
-  },
-  {
-   "id": "aa3259f49863f2e6",
-   "title": "Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown",
-   "summary": "Goals from Hammam Al-Hammami and Firas al-Buraikan give the hosts their fourth Arabian Gulf Cup trophy.",
-   "url": "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T13:30:40+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "b3720e5a71416cbc",
-   "title": "October 7: Former Israeli hostage speaks to France 24",
-   "summary": "“The terrorists pulled us out through the window. They handcuffed me and pushed us into a car that they had brought from Gaza.” Former Israeli hostage Shoshan Haran speaks to France 24.",
-   "url": "https://www.france24.com/en/video/20261007-october-7-former-israeli-hostage-speaks-to-france-24",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:30:20+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "France",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "880ceb7532fc5511",
-   "title": "Madrid versus Latin America: Where is housing more affordable?",
-   "summary": "Homes cost more per square metre in Madrid than in several major Latin American cities, but lower wages in those cities can make renting even less affordable.",
-   "url": "https://www.euronews.com/2026/10/07/madrid-versus-latin-america-where-is-housing-more-affordable",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-07T13:30:18+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "Spain",
-    "United States"
-   ]
-  },
-  {
-   "id": "36dbea131306cfb6",
-   "title": "IEA Discusses G7's 100 Million-Barrel Oil and Diesel Release",
-   "summary": "The International Energy Agency (IEA) is holding an informal meeting on Wednesday to discuss the planned release of 100 million barrels of oil and diesel stocks to ease the fuel supply crunch, two EU diplomats told Reuters today. The IEA’s Governing Board, the highest decision-making body of the international agency, is holding the meeting after representatives of EU nations already discussed…",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Discusses-G7s-100-Million-Barrel-Oil-and-Diesel-Release.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-07T13:30:00+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "global"
-   ],
-   "countries": [
-    "European Union",
-    "G7 / G20"
-   ]
-  },
-  {
-   "id": "405f0928b68285e9",
-   "title": "Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker",
-   "summary": "A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.",
-   "url": "https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie",
-   "source": "The Record",
-   "group": "Cyber",
-   "published": "2026-10-07T13:30:00+00:00",
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "72aa4c7dacd3f1d8",
-   "title": "Nigeria: Fact-Checking 2026 Independence Day Claims By Nigerian President Bola Tinubu",
-   "summary": "[Africa Check] Fact-checking 2026 Independence Day claims by Nigerian president Bola Tinubu",
-   "url": "https://allafrica.com/stories/202610070473.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-07T13:28:45+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "949e7dfa3eadb96f",
-   "title": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
-   "summary": "The bill passed 174 to six despite cabinet opposition, carrying penalties of up to two years in prison, fines and flogging for Iranians who speak to outlets designated as hostile by the Intelligence Ministry. The bill has not yet become law and faces Guardian Council review.",
-   "url": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-07T13:27:42+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "c85064e38c4ecb50",
-   "title": "South Africa: Protecting Women Requires Funding the Full Justice and Policing Chain",
-   "summary": "[Daily Maverick] South Africa has laws, strategies and institutions to combat gender-based violence and femicide. What is missing is a sufficiently funded frontline system that protects women where they live, travel and work; responds quickly to threats and supports survivors from their first report through to justice.",
-   "url": "https://allafrica.com/stories/202610070470.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-07T13:25:27+00:00",
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "05f5b656f36a17f5",
-   "title": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions",
-   "summary": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financing AU-led peace operations could provide a useful tool in responding to Africa's security crises.",
-   "url": "https://allafrica.com/stories/202610070467.html",
-   "source": "AllAfrica",
-   "group": "Regional",
-   "published": "2026-10-07T13:23:46+00:00",
-   "themes": [],
-   "regions": [
-    "americas",
-    "africa"
-   ],
-   "countries": [
-    "United States",
-    "Kenya"
-   ]
-  },
-  {
-   "id": "555822df65ba487c",
-   "title": "French parents join school protests to support and protect their children",
-   "summary": "Widespread protests swept across France on Tuesday over anger at the state of the country's school system. The police responded with tear gas and water canons when some on the fringes of the marches turned violent. Among the demonstrators were parents who came to march alongside their children to support their cause – and, for some, to ensure their children could protest safely. After several…",
-   "url": "https://www.france24.com/en/video/20261007-french-parents-join-school-protests-to-support-and-protect-their-children",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T13:22:40+00:00",
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "88a78ed4539efc50",
-   "title": "Russian attacks kill at least 28, injure more than 138 over past day, rescue efforts continue in Pryluky",
-   "summary": "Russian attacks kill at least 28, injure more than 138 over past day, rescue efforts continue in Pryluky    The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck5JM0VIZ2UtYW5IOW1jZkd3QmhGeENULTNJM0k4YW5ON2lzSlVjUnhTTlZoSEZYTnhjWjJOMG9UZm8zZjJzOHlqNTY4Z3VwYm1QTnVDU3kwU2J0TUFldWIyN1R3UVZLXzlVMGFyS3NINHRwY1B1Sk85TW9lZkRlaVp4VjBsUy1nb3dUQjlFcUZIOXFIZC01NnRTTThhb2VyQzlhQ3A5cGlhU3JOSmJmdEh4SEpzaWRROE1Tb21TclZZUVYtVkJXNXhNbw?oc=5",
-   "source": "Kyiv Independent",
-   "group": "Regional",
-   "published": "2026-10-07T13:21:11+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
