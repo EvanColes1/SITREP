@@ -1,23 +1,218 @@
 {
- "updated": "2026-10-09T05:56:52.756090+00:00",
+ "updated": "2026-10-10T05:54:50.846508+00:00",
  "recent": [
   {
-   "name": "Olga Alekseevna BELYAVTSEVA",
-   "type": "Person",
-   "countries": "ru",
-   "programs": "Olga Alekseevna Belyavtseva is a Russian businesswomen, entrepreneur, and owner of companies Agronom-Sad, Biplast, Assol, Everest and Evermount Capital Group.…",
+   "name": "KHATIBA JAMA’AT AL-TAWHID WAL-JIHAD (KTJ)",
+   "type": "LegalEntity",
+   "countries": "",
+   "programs": "2022-03-07",
    "datasets": "EU Council Official Journal Sanctioned Entities",
-   "first_seen": "2026-10-08",
-   "id": "eu-oj-5c6ebe21fc0ed0fbeeab2cdeb9e6d14d0f93dc7e"
+   "first_seen": "2026-10-09",
+   "id": "eu-oj-2f03cd36182b69fa0893d4b2a62be2d940e8612e"
   },
   {
-   "name": "Olga Alekseevna BELYAVTSEVA",
+   "name": "Joint Stock Company ‘Scientific Research Institute of Computing Complexes Named After M.A. Kartsev’",
+   "type": "LegalEntity",
+   "countries": "",
+   "programs": "JSC ‘Scientific Research Institute of Computing Complexes Named After M.A. Kartsev’ is a research institute based in Russia and involved in the development and…",
+   "datasets": "EU Council Official Journal Sanctioned Entities",
+   "first_seen": "2026-10-09",
+   "id": "eu-oj-35742e48cf4589ae77dd73a8b0b639f3a01434a7"
+  },
+  {
+   "name": "Limited Liability Company ‘Media Group NewsFront’",
+   "type": "LegalEntity",
+   "countries": "",
+   "programs": "LLC Media Group NewsFront (NewsFront) is a Crimea-based outlet presenting distorted interpretations of history and manipulated information, in line with…",
+   "datasets": "EU Council Official Journal Sanctioned Entities",
+   "first_seen": "2026-10-09",
+   "id": "eu-oj-ff87471fcae0e6d5d42bb976228a1d190bda55d1"
+  },
+  {
+   "name": "International Criminal Court",
+   "type": "Organization",
+   "countries": "nl",
+   "programs": "ICC-EO14203 - Executive Order 14203 (ICC)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-09",
+   "id": "ofac-58601"
+  },
+  {
+   "name": "Egor Andreevich ISAEV",
    "type": "Person",
    "countries": "ru",
-   "programs": "(UE) 2026/2263 du 08/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Olga Alekseevna Belyavtseva est une femme d'affaires russe, une…",
-   "datasets": "French National Asset Freezing System",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that Egor Andreevich ISAEV is…",
+   "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-08",
-   "id": "fr-ga-10382"
+   "id": "NK-7AXemgJiK2Aot9kzkYVMJX"
+  },
+  {
+   "name": "SIDAS PLUS LLC",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that SIDAS PLUS LLC is an…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-8AhDeCvjdmaSdogh4aCydm"
+  },
+  {
+   "name": "Shunhang Ship Management Limited",
+   "type": "Organization",
+   "countries": "cn;hk",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-8AvvghXhfA9zwz8B4oMg6r"
+  },
+  {
+   "name": "GAS MARAKUA",
+   "type": "Vessel",
+   "countries": "sl",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-9M5P8RBypnV9YuXQDWsJv5",
+   "imo": "9240421"
+  },
+  {
+   "name": "ZIXUAN",
+   "type": "Vessel",
+   "countries": "bb",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-9npUkWnfoFzworW6G8GyUF",
+   "imo": "9317298"
+  },
+  {
+   "name": "Yong Tai",
+   "type": "Vessel",
+   "countries": "gm",
+   "programs": "IRAN-EO13846 - Executive Order 13846 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-DhsxCLPUF6acFmsSniisfh",
+   "imo": "9231511"
+  },
+  {
+   "name": "LLC INNOVATIVE CENTER FOR METALWORKING",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LLC INNOVATIVE CENTER…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-JuhsY4CNiLXzNHSfDD3XUN"
+  },
+  {
+   "name": "LLC FOBOS MASHINS",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LLC PHOBOS MACHINES is…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-JwshHfRFQMg95JNdaYAfF8"
+  },
+  {
+   "name": "ZARUBEZHNEFT JSC",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that ZARUBEZHNEFT JSC is an involved person under…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-Rxc68LMznMCEyH5prg2wam"
+  },
+  {
+   "name": "SOGL",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-SNKgeRQyibwDiFCBMiyheZ",
+   "imo": "9208227"
+  },
+  {
+   "name": "G SPRING",
+   "type": "Vessel",
+   "countries": "mn",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-T4CbE5woTTohYCkJL4QvNj",
+   "imo": "9040118"
+  },
+  {
+   "name": "GAS LUCKY",
+   "type": "Vessel",
+   "countries": "bs",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-VkE2hnv4qvmppv3Yjv8WXY",
+   "imo": "9177557"
+  },
+  {
+   "name": "LLC PRIME TOP",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that PRIME TOP LLC is an…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-aEWGNQM3ENPgZWyg54J8ie"
+  },
+  {
+   "name": "OOO SANTEK 2",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect is OOO SANTEK 2 is an '…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-bLf5gdRPqvRrYsmG46UjBR"
+  },
+  {
+   "name": "JLS Dragon Company Limited",
+   "type": "Organization",
+   "countries": "cn;hk",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-c9tq5HkvxTrinHZdKCxiwJ"
+  },
+  {
+   "name": "Alexander Jan Hendrik TATTERSALL",
+   "type": "Person",
+   "countries": "nl",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that Alexander Jan Hendrik…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-eypLLCoMFrGdVnh4cDoagN"
+  },
+  {
+   "name": "Ulan Arymbaevich BUKABAEV",
+   "type": "Person",
+   "countries": "kg",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that Ulan Arymbaevich…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-h63gdP7rPqJGsiTni6ojja"
+  },
+  {
+   "name": "Hechuang International Group Limited",
+   "type": "Organization",
+   "countries": "cn;hk",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-hJZd8PAWuRPi5VBRRBVH5H"
+  },
+  {
+   "name": "JSC INK-CAPITAL",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that JSC INK-CAPITAL…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-hpB5G8G8iZsYHCEKz5XmHy"
   },
   {
    "name": "COMMERICIAL BANK \"CAPITAL KREDIT\" LTD",
@@ -26,16 +221,44 @@
    "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LIMITED LIABILITY…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3753"
+   "id": "NK-kBnkF55KW65Hd7f7CjTQwv"
   },
   {
-   "name": "PLANETA",
+   "name": "Redwing Metal Uluslararasi Ticaret Anonim Sirketi",
    "type": "Organization",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that JOINT STOCK COMPANY…",
+   "countries": "tr",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that REDWING METAL…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3754"
+   "id": "NK-kfBd97jJ4qqtgTEC8RYbcm"
+  },
+  {
+   "name": "ALBION LLC",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that ALBION LLC is an…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-kt3nmgTCNk5AUuvL5fZGMS"
+  },
+  {
+   "name": "STARWAY",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-npbisTZ2MSWWUKMaYyFoob",
+   "imo": "9273246"
+  },
+  {
+   "name": "OOO TD VEKPROM",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LLC TD VEKPROM is an…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-08",
+   "id": "NK-oQkNmWmgkF9x8mbET3bkfW"
   },
   {
    "name": "CERTA PAYMENTS LTD",
@@ -56,15 +279,6 @@
    "id": "gb-fcdo-rus3756"
   },
   {
-   "name": "Ulan Arymbaevich BUKABAEV",
-   "type": "Person",
-   "countries": "kg",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that Ulan Arymbaevich…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3757"
-  },
-  {
    "name": "TOKENSPOT CJSC",
    "type": "Organization",
    "countries": "kg",
@@ -72,33 +286,6 @@
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-08",
    "id": "gb-fcdo-rus3758"
-  },
-  {
-   "name": "LLC PRIME TOP",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that PRIME TOP LLC is an…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3759"
-  },
-  {
-   "name": "Redwing Metal Uluslararasi Ticaret Anonim Sirketi",
-   "type": "Organization",
-   "countries": "tr",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that REDWING METAL…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3760"
-  },
-  {
-   "name": "Alexander Jan Hendrik TATTERSALL",
-   "type": "Person",
-   "countries": "nl",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that Alexander Jan Hendrik…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3761"
   },
   {
    "name": "Chengtai Machinery (Wujiang) Co., Ltd",
@@ -119,33 +306,6 @@
    "id": "gb-fcdo-rus3763"
   },
   {
-   "name": "SHANDONG XINYI ROAD INTERNATIONAL TRADE CO., LTD",
-   "type": "Organization",
-   "countries": "cn",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that SHANDONG XINYILU…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3764"
-  },
-  {
-   "name": "ALBION LLC",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that ALBION LLC is an…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3765"
-  },
-  {
-   "name": "SIDAS PLUS LLC",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that SIDAS PLUS LLC is an…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3766"
-  },
-  {
    "name": "INTER SHIPPING AND TRANSPORT CO LTD",
    "type": "Organization",
    "countries": "th",
@@ -155,51 +315,6 @@
    "id": "gb-fcdo-rus3767"
   },
   {
-   "name": "JSC COMPLEX SUPPLIES",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect is JSC COMPLEX SUPPLIES is…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3768"
-  },
-  {
-   "name": "OOO SANTEK 2",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect is OOO SANTEK 2 is an '…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3769"
-  },
-  {
-   "name": "Enel Limited Liability Company",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that ENEL LLC is an 'involved…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3770"
-  },
-  {
-   "name": "Joint Stock Company TREK",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that TRACK JSC is an…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3771"
-  },
-  {
-   "name": "OOO TD VEKPROM",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LLC TD VEKPROM is an…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3772"
-  },
-  {
    "name": "YANGZHOU DEVELOPPING IMP. & EXP. CO. LTD",
    "type": "Organization",
    "countries": "cn",
@@ -207,243 +322,6 @@
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-08",
    "id": "gb-fcdo-rus3773"
-  },
-  {
-   "name": "LLC FOBOS MASHINS",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LLC PHOBOS MACHINES is…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3774"
-  },
-  {
-   "name": "IMO 9332614 (\"BELLARIS\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9332614…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3775",
-   "imo": "9332614"
-  },
-  {
-   "name": "IMO 9251743 (\"DAKAR\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9251743 (\"\"DAKAR\"\")…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3776",
-   "imo": "9251743"
-  },
-  {
-   "name": "IMO 9321677 (\"DAPHNE V\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9321677 (\"\"DAPHNE…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3777",
-   "imo": "9321677"
-  },
-  {
-   "name": "IMO 9314179 (\"FLINT WIND\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9314179 (\"\"FLINT…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3778",
-   "imo": "9314179"
-  },
-  {
-   "name": "LLC INNOVATIVE CENTER FOR METALWORKING",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that LLC INNOVATIVE CENTER…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3779"
-  },
-  {
-   "name": "Egor Andreevich ISAEV",
-   "type": "Person",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that Egor Andreevich ISAEV is…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3780"
-  },
-  {
-   "name": "ZARUBEZHNEFT JSC",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that ZARUBEZHNEFT JSC is an involved person under…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3781"
-  },
-  {
-   "name": "JSC INK-CAPITAL",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that JSC INK-CAPITAL…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3782"
-  },
-  {
-   "name": "IMO 9356610 (\"ALEXANDER NEVSKIY\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9356610…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3783",
-   "imo": "9356610"
-  },
-  {
-   "name": "IMO 9326885 (\"ANAYA\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9326885 (\"\"ANAYA\"\")…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3784",
-   "imo": "9326885"
-  },
-  {
-   "name": "IMO 9255268 (\"ANDREY PERVOZVANNIY\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9255268 (\"\"ANDREY…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3785",
-   "imo": "9255268"
-  },
-  {
-   "name": "IMO 9735141 (\"MIDVOLGA-3\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9735141…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3786",
-   "imo": "9735141"
-  },
-  {
-   "name": "IMO 9255282 (\"PIONEER\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9255282…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3787",
-   "imo": "9255282"
-  },
-  {
-   "name": "IMO 9645023 (\"VASILY SURIKOV\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9645023 (\"\"VASILY…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3788",
-   "imo": "9645023"
-  },
-  {
-   "name": "IMO 9332171 (\"VIRENT\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9332171…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3789",
-   "imo": "9332171"
-  },
-  {
-   "name": "IMO 9243320 (\"YEHOPE\")",
-   "type": "Vessel",
-   "countries": "bb",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9243320…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3790",
-   "imo": "9243320"
-  },
-  {
-   "name": "CHARLES SEMATAMA",
-   "type": "Person",
-   "countries": "cd",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（個人） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-115f0be2cb88c8dd65ab756c0c3515805d72d499"
-  },
-  {
-   "name": "CORNEILLE NANGAA YOBELUO",
-   "type": "Person",
-   "countries": "cd",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（個人） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-23430bd847f6661f00f862247e00fcb43a6d6ccc"
-  },
-  {
-   "name": "JOHN IMANI NZENZE",
-   "type": "Person",
-   "countries": "cd;rw",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（個人） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-709cce2590c11dea273010fc6bbc2043b8fd6442"
-  },
-  {
-   "name": "GUSTAVE KUBWAYO",
-   "type": "Person",
-   "countries": "cd;rw",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（個人） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-8159c1797e69fcb432853273738b639888429da2"
-  },
-  {
-   "name": "ALLIANCE FLEUVE CONGO",
-   "type": "Organization",
-   "countries": "cd",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（団体とその他のグループ） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-aab8d61969130545ed6c95e4597443059adee924"
-  },
-  {
-   "name": "MUHAMMED LUMISA",
-   "type": "Person",
-   "countries": "cd;ug",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（個人） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-cb7f17ae1fda43a0d29d904a80d91921f7ef664e"
-  },
-  {
-   "name": "TWIRWANEHO",
-   "type": "Organization",
-   "countries": "cd",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（団体とその他のグループ） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-d926b3414ae715b0d87faf206e2c0d763de637b0"
-  },
-  {
-   "name": "SEBASTIEN UWIMBABAZI",
-   "type": "Person",
-   "countries": "cd;rw",
-   "programs": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等（個人） - 2026-10-09",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-08",
-   "id": "ja-mof-e904ab7e2f1af67116973e4b34bc0c709ab72455"
   },
   {
    "name": "Paritosh Shipping Inc.",
@@ -464,24 +342,6 @@
    "id": "ofac-58461"
   },
   {
-   "name": "Hechuang International Group Limited",
-   "type": "Organization",
-   "countries": "cn;hk",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58466"
-  },
-  {
-   "name": "JLS Dragon Company Limited",
-   "type": "Organization",
-   "countries": "cn;hk",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58467"
-  },
-  {
    "name": "Kanha Shipping Inc",
    "type": "Organization",
    "countries": "mh",
@@ -489,15 +349,6 @@
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-08",
    "id": "ofac-58468"
-  },
-  {
-   "name": "Shunhang Ship Management Limited",
-   "type": "Organization",
-   "countries": "cn;hk",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58469"
   },
   {
    "name": "Saint Abundant International Co Ltd",
@@ -516,16 +367,6 @@
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-08",
    "id": "ofac-58471"
-  },
-  {
-   "name": "G SPRING",
-   "type": "Vessel",
-   "countries": "mn",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58473",
-   "imo": "9040118"
   },
   {
    "name": "PARITOSH",
@@ -576,26 +417,6 @@
    "first_seen": "2026-10-08",
    "id": "ofac-58478",
    "imo": "9531765"
-  },
-  {
-   "name": "STARWAY",
-   "type": "Vessel",
-   "countries": "pa",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58479",
-   "imo": "9273246"
-  },
-  {
-   "name": "GAS LUCKY",
-   "type": "Vessel",
-   "countries": "bs",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58480",
-   "imo": "9177557"
   },
   {
    "name": "Yashar",
@@ -707,16 +528,6 @@
    "id": "ofac-58746"
   },
   {
-   "name": "Yong Tai",
-   "type": "Vessel",
-   "countries": "gm",
-   "programs": "IRAN-EO13846 - Executive Order 13846 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58748",
-   "imo": "9231511"
-  },
-  {
    "name": "HESSONITE SHIP MANAGEMENT LLC",
    "type": "Organization",
    "countries": "ae",
@@ -820,16 +631,6 @@
    "id": "ofac-58814"
   },
   {
-   "name": "SOGL",
-   "type": "Vessel",
-   "countries": "km",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58815",
-   "imo": "9208227"
-  },
-  {
    "name": "BETTA SHIPPING INC",
    "type": "Organization",
    "countries": "mh",
@@ -874,26 +675,6 @@
    "first_seen": "2026-10-08",
    "id": "ofac-58821",
    "imo": "9234628"
-  },
-  {
-   "name": "GAS MARAKUA",
-   "type": "Vessel",
-   "countries": "sl",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58822",
-   "imo": "9240421"
-  },
-  {
-   "name": "ZIXUAN",
-   "type": "Vessel",
-   "countries": "bb",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58823",
-   "imo": "9317298"
   },
   {
    "name": "AVA 6",
@@ -943,16 +724,6 @@
    "imo": "9343118"
   },
   {
-   "name": "SHENZHEN",
-   "type": "Vessel",
-   "countries": "cm",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58832",
-   "imo": "9276561"
-  },
-  {
    "name": "EXFLAME",
    "type": "Vessel",
    "countries": "gm",
@@ -969,7 +740,7 @@
    "programs": "ECOT2625776A du 01/10/2026 (Dispositif national de gel des avoirs - art L. 562-2 du code monétaire et financier)",
    "datasets": "French National Asset Freezing System",
    "first_seen": "2026-10-07",
-   "id": "fr-ga-4991"
+   "id": "Q130316341"
   },
   {
    "name": "PALESTINIAN ASSOCIATION FOR HUMAN RIGHTS (WITNESS)",
@@ -1008,10 +779,19 @@
    "id": "ua-sfms-1841"
   },
   {
+   "name": "Ensemble C Mieux",
+   "type": "Organization",
+   "countries": "fr",
+   "programs": "SDGT - Executive Order 13224 (Terrorism)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-02",
+   "id": "NK-WGgH5ZEpW6NgX83oY3CqL8"
+  },
+  {
    "name": "IMO 9344411 (\"GALLE ENERGY\")",
    "type": "Vessel",
    "countries": "lk",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9344411 (“GALLE ENERGY”) is, has been, or…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9344411 ('GALLE ENERGY') is, has been, or…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-02",
    "id": "gb-fcdo-rus3751",
@@ -1063,19 +843,10 @@
    "id": "ofac-57720"
   },
   {
-   "name": "Ensemble C Mieux",
-   "type": "Organization",
-   "countries": "fr",
-   "programs": "SDGT - Executive Order 13224 (Terrorism)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-02",
-   "id": "ofac-57721"
-  },
-  {
    "name": "Ch'oe Ch'o'l-min (Choe Chol Min) (DPRK national)",
    "type": "LegalEntity",
    "countries": "kp",
-   "programs": "INKSNA - Nonproliferation Sanctions (ACN) - State Department - 2026-01-22",
+   "programs": "Nonproliferation Sanctions (ACN) - State Department - INKSNA - 2026-01-22",
    "datasets": "US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-02",
    "id": "trade-csl-03cee34392c2379d72b697f2a56e227f2254e404247aa68a084040a8"
@@ -1084,7 +855,7 @@
    "name": "Ruhollah Katebi (Iranian national)",
    "type": "LegalEntity",
    "countries": "ir",
-   "programs": "INKSNA - Nonproliferation Sanctions (ACN) - State Department - 2026-07-24",
+   "programs": "Nonproliferation Sanctions (ACN) - State Department - INKSNA - 2026-07-24",
    "datasets": "US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-02",
    "id": "trade-csl-7deddaa2327c5b92344e810c3ee21a92d506a444e51a8fd42b1d1b0e"
@@ -1093,7 +864,7 @@
    "name": "NS Global Logistics (Malaysia); ;",
    "type": "LegalEntity",
    "countries": "my",
-   "programs": "INKSNA - Nonproliferation Sanctions (ACN) - State Department - 2026-07-24",
+   "programs": "Nonproliferation Sanctions (ACN) - State Department - INKSNA - 2026-07-24",
    "datasets": "US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-02",
    "id": "trade-csl-7f70ea460b3180b866d819098b60b996d091f4a65faef3cc90885226"
@@ -1102,7 +873,7 @@
    "name": "Futech Co. Ltd (China);",
    "type": "LegalEntity",
    "countries": "cn",
-   "programs": "INKSNA - Nonproliferation Sanctions (ACN) - State Department - 2026-01-22",
+   "programs": "Nonproliferation Sanctions (ACN) - State Department - INKSNA - 2026-01-22",
    "datasets": "US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-02",
    "id": "trade-csl-f91f6f2bdd44bbc1539740fd692ec2b3dde33e79a565802a281ab11e"
@@ -1288,6 +1059,16 @@
    "id": "NK-TMKzoHPFKR3tBtcGh4qUt2"
   },
   {
+   "name": "IMO 9331048 (CHAIVO)",
+   "type": "Vessel",
+   "countries": "ru",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9331048 ('the CHAIVO') has been, is, and…",
+   "datasets": "UK FCDO Sanctions List",
+   "first_seen": "2026-10-01",
+   "id": "NK-jSEcFQvVx8semzz8dBF5Zs",
+   "imo": "9331048"
+  },
+  {
    "name": "Ekaterina Alexandrovna KOZYR",
    "type": "Person",
    "countries": "ru",
@@ -1324,20 +1105,10 @@
    "id": "gb-fcdo-rus3730"
   },
   {
-   "name": "IMO 9331048 (CHAIVO)",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9331048 (“the CHAIVO”) has been, is, and…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-01",
-   "id": "gb-fcdo-rus3734",
-   "imo": "9331048"
-  },
-  {
    "name": "IMO 9246621 (PORTOVYY)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9246621 (“PORTOVYY”) has been, is, and is…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9246621 ('PORTOVYY') has been, is, and is…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
    "id": "gb-fcdo-rus3735",
@@ -1347,7 +1118,7 @@
    "name": "IMO 9319404 (AVACHA)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9319404 ('AVACHA') has been, is, and is…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9319404 (“AVACHA”) has been, is, and is…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
    "id": "gb-fcdo-rus3746",
@@ -1609,7 +1380,7 @@
    "name": "Anibal Alexander CANELON AGUIRRE",
    "type": "Person",
    "countries": "ve",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "NK-AXho649UCVTvzGM3fZwJkj"
@@ -1645,7 +1416,7 @@
    "name": "Juan Gabriel Rivas Nunez",
    "type": "Person",
    "countries": "ve",
-   "programs": "TCO - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "TCO - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-56980"
@@ -1654,7 +1425,7 @@
    "name": "Carlos Javier Martinez Armenta",
    "type": "Person",
    "countries": "mx",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58254"
@@ -1663,7 +1434,7 @@
    "name": "Alejandro Mejia Castillo",
    "type": "Person",
    "countries": "mx",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58255"
@@ -1672,7 +1443,7 @@
    "name": "Jose Dario Galeano Bazurto",
    "type": "Person",
    "countries": "ve",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58256"
@@ -1681,7 +1452,7 @@
    "name": "Eric Gabriel Cardenas Arzola",
    "type": "Person",
    "countries": "ve",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58257"
@@ -1690,7 +1461,7 @@
    "name": "Oscar Leonardo Martinez Pirona",
    "type": "Person",
    "countries": "mx;ve",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58260"
@@ -1699,7 +1470,7 @@
    "name": "Aslhy Javier Galeano Basurto",
    "type": "Person",
    "countries": "ve",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58261"
@@ -1708,7 +1479,7 @@
    "name": "Anthony Wuiliam Hernandez Guerrero",
    "type": "Person",
    "countries": "co;mx",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58262"
@@ -1717,7 +1488,7 @@
    "name": "SOLUCIONES INTEGRALES TOLUCA, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58263"
@@ -1726,7 +1497,7 @@
    "name": "ENIGMA COMMUNITY, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "SDGT - Executive Order 13224 (Terrorism) - Executive Order 13581 (TCO)",
+   "programs": "SDGT - Executive Order 13581 (TCO) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-30",
    "id": "ofac-58264"
@@ -1750,19 +1521,127 @@
    "id": "us-cbpfl-ee9e8c09b00baa8bad787a9c121efa9515a8cfa0"
   },
   {
+   "name": "Children’s camp “Sunny Beach” (Camp pour enfants “Plage ensoleillée”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le Children’s Camp “Sunny Beach” est un camp éducatif et de loisirs public…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-2edoXm6ShH8WpvBZSfzd7X"
+  },
+  {
    "name": "MIA CENTRO CAMBIARIO, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "NK-6SsWQCnLXp4Sj2qkq26DVs"
   },
   {
+   "name": "LLC “Leto”",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC “Leto” est une société russe active dans les services touristiques, de…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-8JDDLJH98m43j2k6pUzeQa"
+  },
+  {
+   "name": "LLC Children’s Health Complex “Sputnik” (SARL Complexe de santé pour enfants “Spoutnik”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC Children’s Health Complex “Sputnik” est un centre éducatif et de…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-9tY6fW2UHnaRDrtxEfZzGA"
+  },
+  {
+   "name": "Waseem Pasha Tajammal",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "NPWMD - Executive Order 13382 (Non-proliferation)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-09-29",
+   "id": "NK-DbBD8LKcGBABAi5ZPiY8rd"
+  },
+  {
+   "name": "LLC \"Center for Children and Youth Programs “Mir” (SARL centre de programmes pour enfants et jeunes “Mir”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "\"(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC “Centre for Children and Youth Programs ‘Mir’” est une organisation…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-Rj6SPFXqqvGDQ7Xc8kmWcY"
+  },
+  {
+   "name": "Sports and Recreation Complex “Romashka” (Complexe de sports et de loisirs “Romashka”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le Sports and Recreation Complex “Romashka” est un complexe sportif et de…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-SEx7v6XSoy2bCLSzob8UTC"
+  },
+  {
+   "name": "LLC Children’s Center “Kotlostroitel” (SARL Centre de santé pour enfants “Kotlostroitel”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC Children’s Center “Kotlostroitel” est un camp pour enfants qui…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-ZPn56FQaAETemu3om7L6TQ"
+  },
+  {
+   "name": "LLC “Otdykh-71” (SARL \"Otdykh-71)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC “Otdykh-71” est une organisation russe spécialisée dans les loisirs…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-cA2nuVEpxWBuKLUB594mt9"
+  },
+  {
+   "name": "LLC Sanatorium “Vita” (SARL Sanatorium “Villa”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC Sanatorium “Vita” (camp “Vita”) est une complexe de loisirs pour…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-f3fA8cTb3a5k5QZTVUj4NJ"
+  },
+  {
+   "name": "LLC Children’s Health Complex “Signal” (SARL Complexe de santé pour enfants “Signal”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - La LLC Children’s Health Complex “Signal” est un camp éducatif et de…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-g7tLWap9fa38tZoPZurpsd"
+  },
+  {
+   "name": "All-Russian Children’s Centre “Ocean” (Centre panrusse pour enfants “Océan”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "\"(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le All-Russian Children’s Centre “Ocean” est une institution éducative…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-jmJq4UdXZ6VvPWvQz52qe4"
+  },
+  {
+   "name": "Children’s Health and Education Centre “Brigantine” (Centre pour la santé et l’éducation des enfants “Brigantine”)",
+   "type": "Company",
+   "countries": "ru",
+   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le Children’s Health and Education Center “Brigantine”, fondé, détenu et…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-09-29",
+   "id": "NK-jv7kaDCJDNAYHAzSXyN5C3"
+  },
+  {
    "name": "Carlos Alberto Torres Torres",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "Q5651485"
@@ -1816,7 +1695,7 @@
    "name": "Ismael Zambada Sicairos",
    "type": "Person",
    "countries": "mx;us",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58302"
@@ -1825,19 +1704,10 @@
    "name": "Hildegardo Gastelum Garcia",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58304"
-  },
-  {
-   "name": "Waseem Pasha Tajammal",
-   "type": "Person",
-   "countries": "pk",
-   "programs": "NPWMD - Executive Order 13382 (Non-proliferation)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-09-29",
-   "id": "ofac-58596"
   },
   {
    "name": "Cavalier Dynamics Private Limited",
@@ -1879,7 +1749,7 @@
    "name": "Diosvany Samuel Chapotin Villalba",
    "type": "Person",
    "countries": "cu;mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58693"
@@ -1888,7 +1758,7 @@
    "name": "Pedro Humberto Martinez Rodriguez",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58694"
@@ -1897,7 +1767,7 @@
    "name": "Jesus Rafael Yocupicio Yocupicio",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58695"
@@ -1906,7 +1776,7 @@
    "name": "Franklin Ernesto Huezo Hernandez",
    "type": "Person",
    "countries": "mx;sv",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58696"
@@ -1915,7 +1785,7 @@
    "name": "Lorenzo Castillo Maldonado",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58697"
@@ -1924,7 +1794,7 @@
    "name": "Jorge Luis Mendoza Uriarte",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58698"
@@ -1933,7 +1803,7 @@
    "name": "Francisco Javier Mendoza Uriarte",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58700"
@@ -1942,7 +1812,7 @@
    "name": "Ilia Elizabeth Felix Rivera",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58701"
@@ -1951,7 +1821,7 @@
    "name": "Jeronimo Javier Vera Ayala",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58702"
@@ -1960,7 +1830,7 @@
    "name": "Jorge Mario Vera Ayala",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58703"
@@ -1969,7 +1839,7 @@
    "name": "Luis Alfonso Torres Torres",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58705"
@@ -1978,7 +1848,7 @@
    "name": "Pedro Ariel Mendivil Garcia",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58706"
@@ -1987,7 +1857,7 @@
    "name": "Marco Antonio Moreno Gomez Santelices",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58707"
@@ -1996,7 +1866,7 @@
    "name": "Carlos Villela Gomez Santelices",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58708"
@@ -2005,7 +1875,7 @@
    "name": "Rafael Buenrostro Martin",
    "type": "Person",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58709"
@@ -2014,7 +1884,7 @@
    "name": "Rivos Servicios, S.A. de C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58711"
@@ -2023,7 +1893,7 @@
    "name": "Servicios Hoteleros Gastelum, S.A. de C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58712"
@@ -2032,7 +1902,7 @@
    "name": "Galerias Centro Cambiario, S.A. de C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58713"
@@ -2041,7 +1911,7 @@
    "name": "GRUPO GASOLINERO NUEVA ESPERANZA, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58714"
@@ -2050,7 +1920,7 @@
    "name": "BAJA FIXER GROUP, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58719"
@@ -2059,7 +1929,7 @@
    "name": "INTELIPROOF EFFICIENT, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58720"
@@ -2068,7 +1938,7 @@
    "name": "PRIVATE EQUITY BAJA S.A.P.I. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58721"
@@ -2077,7 +1947,7 @@
    "name": "FESTIVALES ARTISTAS MOBILIARIO ASESORIA, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58722"
@@ -2086,7 +1956,7 @@
    "name": "PRIVATE EQUITY BURSATIL, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58723"
@@ -2095,7 +1965,7 @@
    "name": "CONCIERTOS Y ESPECTACULOS INHOUSE S.A.P.I. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58724"
@@ -2104,7 +1974,7 @@
    "name": "WERMAK PUBLIRED, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58725"
@@ -2113,7 +1983,7 @@
    "name": "HOLISTIC WELLWAVES S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58726"
@@ -2122,7 +1992,7 @@
    "name": "PROYECTO ALERTA VERDE, S.A.P.I. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58727"
@@ -2131,7 +2001,7 @@
    "name": "VIDEOVIGILANCIA COLABORATIVA, S.A.P.I. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58729"
@@ -2140,7 +2010,7 @@
    "name": "LTHINGS MEXICO, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58730"
@@ -2149,7 +2019,7 @@
    "name": "XOLO GAS DE BAJA CALIFORNIA, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58731"
@@ -2158,7 +2028,7 @@
    "name": "CODESUAM, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58732"
@@ -2167,7 +2037,7 @@
    "name": "GRUPO BAJA FIRME, S.A. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58733"
@@ -2176,7 +2046,7 @@
    "name": "VIDA ORGANICA TIJUANA, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58734"
@@ -2185,7 +2055,7 @@
    "name": "EDIFIKA DESARROLLOS BAJA, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58736"
@@ -2194,7 +2064,7 @@
    "name": "THE WOODS BAR, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58737"
@@ -2203,7 +2073,7 @@
    "name": "RAES RESTAURANTE S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58738"
@@ -2212,7 +2082,7 @@
    "name": "DISTRIBUIDORA Y COMERCIALIZADORA ATAF",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58739"
@@ -2221,19 +2091,10 @@
    "name": "PUBLICIDAD E IMAGEN INTEGRAL ENLA-C, S. DE R.L. DE C.V.",
    "type": "Organization",
    "countries": "mx",
-   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+   "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-09-29",
    "id": "ofac-58740"
-  },
-  {
-   "name": "Children’s camp “Sunny Beach” (Camp pour enfants “Plage ensoleillée”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le Children’s Camp “Sunny Beach” est un camp éducatif et de loisirs public…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-2edoXm6ShH8WpvBZSfzd7X"
   },
   {
    "name": "Ali Osmanovich CHOMAEV",
@@ -2261,24 +2122,6 @@
    "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-09-28",
    "id": "NK-86RXV95yLjZkU8NfBZ28ST"
-  },
-  {
-   "name": "LLC “Leto”",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC “Leto” est une société russe active dans les services touristiques, de…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-8JDDLJH98m43j2k6pUzeQa"
-  },
-  {
-   "name": "LLC Children’s Health Complex “Sputnik” (SARL Complexe de santé pour enfants “Spoutnik”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC Children’s Health Complex “Sputnik” est un centre éducatif et de…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-9tY6fW2UHnaRDrtxEfZzGA"
   },
   {
    "name": "Anna Sergeevna GORYACHOVA",
@@ -2317,24 +2160,6 @@
    "id": "NK-JpPY5wXJjkF8TyeDYgyFJs"
   },
   {
-   "name": "LLC \"Center for Children and Youth Programs “Mir” (SARL centre de programmes pour enfants et jeunes “Mir”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "\"(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC “Centre for Children and Youth Programs ‘Mir’” est une organisation…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-Rj6SPFXqqvGDQ7Xc8kmWcY"
-  },
-  {
-   "name": "Sports and Recreation Complex “Romashka” (Complexe de sports et de loisirs “Romashka”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le Sports and Recreation Complex “Romashka” est un complexe sportif et de…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-SEx7v6XSoy2bCLSzob8UTC"
-  },
-  {
    "name": "Oleg Ivanovich SLADKEVICH",
    "type": "Person",
    "countries": "ru",
@@ -2362,24 +2187,6 @@
    "id": "NK-Xmx7P29cnt8v2fecXVRzSa"
   },
   {
-   "name": "LLC Children’s Center “Kotlostroitel” (SARL Centre de santé pour enfants “Kotlostroitel”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC Children’s Center “Kotlostroitel” est un camp pour enfants qui…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-ZPn56FQaAETemu3om7L6TQ"
-  },
-  {
-   "name": "LLC “Otdykh-71” (SARL \"Otdykh-71)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC “Otdykh-71” est une organisation russe spécialisée dans les loisirs…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-cA2nuVEpxWBuKLUB594mt9"
-  },
-  {
    "name": "Viktoria Mikhailovna MALYAMOVA",
    "type": "Person",
    "countries": "ru",
@@ -2398,24 +2205,6 @@
    "id": "NK-eb2tiGD4v7we5F6pEWcjkR"
   },
   {
-   "name": "LLC Sanatorium “Vita” (SARL Sanatorium “Villa”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - LLC Sanatorium “Vita” (camp “Vita”) est une complexe de loisirs pour…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-f3fA8cTb3a5k5QZTVUj4NJ"
-  },
-  {
-   "name": "LLC Children’s Health Complex “Signal” (SARL Complexe de santé pour enfants “Signal”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - La LLC Children’s Health Complex “Signal” est un camp éducatif et de…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-g7tLWap9fa38tZoPZurpsd"
-  },
-  {
    "name": "The Moscow City Tourism Committee (Comité du tourisme de la ville de Moscou)",
    "type": "Company",
    "countries": "ru",
@@ -2423,24 +2212,6 @@
    "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-09-28",
    "id": "NK-jiPU4ur4eq4WJvTKpqHXzk"
-  },
-  {
-   "name": "All-Russian Children’s Centre “Ocean” (Centre panrusse pour enfants “Océan”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "\"(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le All-Russian Children’s Centre “Ocean” est une institution éducative…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-jmJq4UdXZ6VvPWvQz52qe4"
-  },
-  {
-   "name": "Children’s Health and Education Centre “Brigantine” (Centre pour la santé et l’éducation des enfants “Brigantine”)",
-   "type": "Company",
-   "countries": "ru",
-   "programs": "(UE) 2026/2184 du 28/09/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Le Children’s Health and Education Center “Brigantine”, fondé, détenu et…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
-   "first_seen": "2026-09-28",
-   "id": "NK-jv7kaDCJDNAYHAzSXyN5C3"
   },
   {
    "name": "Igor Nikolayevich ZINCHENKO",
@@ -2495,6 +2266,15 @@
    "datasets": "Ukraine NSDC State Register of Sanctions",
    "first_seen": "2026-09-26",
    "id": "NK-3baNL2B2PtMALWUYPPZNFx"
+  },
+  {
+   "name": "Макаров Сергій Валерійович",
+   "type": "Person",
+   "countries": "ru;ua",
+   "programs": "960/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-09-26",
+   "id": "NK-3poNfMp72fU2uqhFGr6itq"
   },
   {
    "name": "Юхненко Роман Анатолійович",
@@ -2801,15 +2581,6 @@
    "datasets": "Ukraine NSDC State Register of Sanctions",
    "first_seen": "2026-09-26",
    "id": "ua-nsdc-37460-konstantinov-oleg-volodimirovic"
-  },
-  {
-   "name": "Макаров Сергій Валерійович",
-   "type": "Person",
-   "countries": "ru;ua",
-   "programs": "960/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
-   "datasets": "Ukraine NSDC State Register of Sanctions",
-   "first_seen": "2026-09-26",
-   "id": "ua-nsdc-37462-makarov-sergij-valerijovic"
   },
   {
    "name": "Мартинюк Людмила Олександрівна",
@@ -4538,129 +4309,265 @@
    "datasets": "Pakistan NACTA Proscribed Persons",
    "first_seen": "2026-09-10",
    "id": "pk-cnic-2150541949393"
+  },
+  {
+   "name": "Zakir ur Rehman",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150542519669"
+  },
+  {
+   "name": "Munfid Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150551590313"
+  },
+  {
+   "name": "Najid Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150556112133"
+  },
+  {
+   "name": "Shafeer Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150568307559"
+  },
+  {
+   "name": "Nazmat Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150580627391"
+  },
+  {
+   "name": "Niazman Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150584722857"
+  },
+  {
+   "name": "Ahmad Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2150585002107"
+  },
+  {
+   "name": "Zalib Khan",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2160184026201"
+  },
+  {
+   "name": "Zulqarnain",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2160355558381"
+  },
+  {
+   "name": "Sajid Ullah",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2160458000637"
+  },
+  {
+   "name": "Ainaz Gul",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-2160494368523"
+  },
+  {
+   "name": "Fida Hussain",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3130196198991"
+  },
+  {
+   "name": "Jameel Ur Rehman Sipal",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210209577225"
+  },
+  {
+   "name": "Zulfiqar",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210232995341"
+  },
+  {
+   "name": "Abdul Hannan",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210236358147"
+  },
+  {
+   "name": "Muhammad Kaleem",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210269733735"
+  },
+  {
+   "name": "Hafiz Muhammad Rafique",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210309452731"
+  },
+  {
+   "name": "Muhammad Zubair",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210353679641"
+  },
+  {
+   "name": "Muhammad Sheraz",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3210404201223"
+  },
+  {
+   "name": "Suleman Haider",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3230161800069"
+  },
+  {
+   "name": "Muhammad Safdar",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3230179025803"
+  },
+  {
+   "name": "Muhammad Zaffar Khan",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3230233507575"
+  },
+  {
+   "name": "Abdul Wahab Hussaini",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3230277768489"
+  },
+  {
+   "name": "Hafiz Ashiq Hussain",
+   "type": "Person",
+   "countries": "pk",
+   "programs": "\"\"",
+   "datasets": "Pakistan NACTA Proscribed Persons",
+   "first_seen": "2026-09-10",
+   "id": "pk-cnic-3230324585035"
   }
  ],
- "recent_total": 1143,
+ "recent_total": 1116,
  "vessels": [
   {
-   "name": "IMO 9332614 (\"BELLARIS\")",
+   "name": "GAS MARAKUA",
    "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9332614…",
-   "datasets": "UK FCDO Sanctions List",
+   "countries": "sl",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3775",
-   "imo": "9332614"
+   "id": "NK-9M5P8RBypnV9YuXQDWsJv5",
+   "imo": "9240421"
   },
   {
-   "name": "IMO 9251743 (\"DAKAR\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9251743 (\"\"DAKAR\"\")…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3776",
-   "imo": "9251743"
-  },
-  {
-   "name": "IMO 9321677 (\"DAPHNE V\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9321677 (\"\"DAPHNE…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3777",
-   "imo": "9321677"
-  },
-  {
-   "name": "IMO 9314179 (\"FLINT WIND\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9314179 (\"\"FLINT…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3778",
-   "imo": "9314179"
-  },
-  {
-   "name": "IMO 9356610 (\"ALEXANDER NEVSKIY\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9356610…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3783",
-   "imo": "9356610"
-  },
-  {
-   "name": "IMO 9326885 (\"ANAYA\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9326885 (\"\"ANAYA\"\")…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3784",
-   "imo": "9326885"
-  },
-  {
-   "name": "IMO 9255268 (\"ANDREY PERVOZVANNIY\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9255268 (\"\"ANDREY…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3785",
-   "imo": "9255268"
-  },
-  {
-   "name": "IMO 9735141 (\"MIDVOLGA-3\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9735141…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3786",
-   "imo": "9735141"
-  },
-  {
-   "name": "IMO 9255282 (\"PIONEER\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9255282…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3787",
-   "imo": "9255282"
-  },
-  {
-   "name": "IMO 9645023 (\"VASILY SURIKOV\")",
-   "type": "Vessel",
-   "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9645023 (\"\"VASILY…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3788",
-   "imo": "9645023"
-  },
-  {
-   "name": "IMO 9332171 (\"VIRENT\")",
-   "type": "Vessel",
-   "countries": "",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9332171…",
-   "datasets": "UK FCDO Sanctions List",
-   "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3789",
-   "imo": "9332171"
-  },
-  {
-   "name": "IMO 9243320 (\"YEHOPE\")",
+   "name": "ZIXUAN",
    "type": "Vessel",
    "countries": "bb",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9243320…",
-   "datasets": "UK FCDO Sanctions List",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-08",
-   "id": "gb-fcdo-rus3790",
-   "imo": "9243320"
+   "id": "NK-9npUkWnfoFzworW6G8GyUF",
+   "imo": "9317298"
+  },
+  {
+   "name": "Yong Tai",
+   "type": "Vessel",
+   "countries": "gm",
+   "programs": "IRAN-EO13846 - Executive Order 13846 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-DhsxCLPUF6acFmsSniisfh",
+   "imo": "9231511"
+  },
+  {
+   "name": "SOGL",
+   "type": "Vessel",
+   "countries": "km",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-SNKgeRQyibwDiFCBMiyheZ",
+   "imo": "9208227"
   },
   {
    "name": "G SPRING",
@@ -4669,8 +4576,28 @@
    "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-10-08",
-   "id": "ofac-58473",
+   "id": "NK-T4CbE5woTTohYCkJL4QvNj",
    "imo": "9040118"
+  },
+  {
+   "name": "GAS LUCKY",
+   "type": "Vessel",
+   "countries": "bs",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-VkE2hnv4qvmppv3Yjv8WXY",
+   "imo": "9177557"
+  },
+  {
+   "name": "STARWAY",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-08",
+   "id": "NK-npbisTZ2MSWWUKMaYyFoob",
+   "imo": "9273246"
   },
   {
    "name": "PARITOSH",
@@ -4723,26 +4650,6 @@
    "imo": "9531765"
   },
   {
-   "name": "STARWAY",
-   "type": "Vessel",
-   "countries": "pa",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58479",
-   "imo": "9273246"
-  },
-  {
-   "name": "GAS LUCKY",
-   "type": "Vessel",
-   "countries": "bs",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58480",
-   "imo": "9177557"
-  },
-  {
    "name": "Yashar",
    "type": "Vessel",
    "countries": "km",
@@ -4751,16 +4658,6 @@
    "first_seen": "2026-10-08",
    "id": "ofac-58715",
    "imo": "9129380"
-  },
-  {
-   "name": "Yong Tai",
-   "type": "Vessel",
-   "countries": "gm",
-   "programs": "IRAN-EO13846 - Executive Order 13846 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58748",
-   "imo": "9231511"
   },
   {
    "name": "ARGO MARIS",
@@ -4803,16 +4700,6 @@
    "imo": "9237761"
   },
   {
-   "name": "SOGL",
-   "type": "Vessel",
-   "countries": "km",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58815",
-   "imo": "9208227"
-  },
-  {
    "name": "MACKEREL",
    "type": "Vessel",
    "countries": "pa",
@@ -4821,26 +4708,6 @@
    "first_seen": "2026-10-08",
    "id": "ofac-58821",
    "imo": "9234628"
-  },
-  {
-   "name": "GAS MARAKUA",
-   "type": "Vessel",
-   "countries": "sl",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58822",
-   "imo": "9240421"
-  },
-  {
-   "name": "ZIXUAN",
-   "type": "Vessel",
-   "countries": "bb",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58823",
-   "imo": "9317298"
   },
   {
    "name": "AVA 6",
@@ -4863,16 +4730,6 @@
    "imo": "9343118"
   },
   {
-   "name": "SHENZHEN",
-   "type": "Vessel",
-   "countries": "cm",
-   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2026-10-08",
-   "id": "ofac-58832",
-   "imo": "9276561"
-  },
-  {
    "name": "EXFLAME",
    "type": "Vessel",
    "countries": "gm",
@@ -4886,7 +4743,7 @@
    "name": "IMO 9344411 (\"GALLE ENERGY\")",
    "type": "Vessel",
    "countries": "lk",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9344411 (“GALLE ENERGY”) is, has been, or…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9344411 ('GALLE ENERGY') is, has been, or…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-02",
    "id": "gb-fcdo-rus3751",
@@ -4896,17 +4753,17 @@
    "name": "IMO 9331048 (CHAIVO)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9331048 (“the CHAIVO”) has been, is, and…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9331048 ('the CHAIVO') has been, is, and…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
-   "id": "gb-fcdo-rus3734",
+   "id": "NK-jSEcFQvVx8semzz8dBF5Zs",
    "imo": "9331048"
   },
   {
    "name": "IMO 9246621 (PORTOVYY)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9246621 (“PORTOVYY”) has been, is, and is…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9246621 ('PORTOVYY') has been, is, and is…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
    "id": "gb-fcdo-rus3735",
@@ -4916,7 +4773,7 @@
    "name": "IMO 9319404 (AVACHA)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9319404 ('AVACHA') has been, is, and is…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9319404 (“AVACHA”) has been, is, and is…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
    "id": "gb-fcdo-rus3746",
@@ -5106,7 +4963,7 @@
    "name": "IMO 9333591 (\"ARCTIC EXPRESS\")",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9333591 (“ARCTIC…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9333591 ('ARCTIC…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-08-06",
    "id": "NK-FsHRcnkzQebTatDt7UTns5",
@@ -5213,21 +5070,21 @@
    "imo": "9157014"
   },
   {
-   "name": "ANDREY PERVOZVANNIY",
+   "name": "IMO 9255268 (\"ANDREY PERVOZVANNIY\")",
    "type": "Vessel",
-   "countries": "",
+   "countries": "ru",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-DWaUfUpgheTFMKBddmLxEw",
    "imo": "9255268"
   },
   {
-   "name": "MIDVOLGA-3",
+   "name": "IMO 9735141 (\"MIDVOLGA-3\")",
    "type": "Vessel",
-   "countries": "",
+   "countries": "ru",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-DcBFZbkzUszMHPitxX2Ltv",
    "imo": "9735141"
@@ -5253,11 +5110,11 @@
    "imo": "1031537"
   },
   {
-   "name": "FLINT WIND",
+   "name": "IMO 9314179 (\"FLINT WIND\")",
    "type": "Vessel",
    "countries": "",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-MB8UFTvESBKcboZgurUAng",
    "imo": "9314179"
@@ -5273,11 +5130,11 @@
    "imo": "8984848"
   },
   {
-   "name": "PIONEER",
+   "name": "IMO 9255282 (\"PIONEER\")",
    "type": "Vessel",
-   "countries": "",
+   "countries": "ru",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-NiWLH79mZxXrfGwCjVnp7m",
    "imo": "9255282"
@@ -5313,11 +5170,11 @@
    "imo": "9036272"
   },
   {
-   "name": "ALEXANDER NEVSKIY",
+   "name": "IMO 9356610 (\"ALEXANDER NEVSKIY\")",
    "type": "Vessel",
-   "countries": "",
+   "countries": "ru",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-TM7GhZHTgPHyBgH3A3Rar2",
    "imo": "9356610"
@@ -5373,11 +5230,11 @@
    "imo": "9664976"
   },
   {
-   "name": "VASILY SURIKOV",
+   "name": "IMO 9645023 (\"VASILY SURIKOV\")",
    "type": "Vessel",
-   "countries": "",
+   "countries": "ru",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-corLLQUXsgUL7xDdGho5ZW",
    "imo": "9645023"
@@ -5413,11 +5270,11 @@
    "imo": "8915299"
   },
   {
-   "name": "DAKAR",
+   "name": "IMO 9251743 (\"DAKAR\")",
    "type": "Vessel",
    "countries": "",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2026-07-30",
    "id": "NK-o7MQKzm2Etca84kXvznqiT",
    "imo": "9251743"
@@ -5453,11 +5310,11 @@
    "imo": "9331244"
   },
   {
-   "name": "YEHOPE",
+   "name": "IMO 9243320 (\"YEHOPE\")",
    "type": "Vessel",
    "countries": "bb",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-07-29",
    "id": "NK-YtdGNWgJD7joMTsd3UgcdX",
    "imo": "9243320"
@@ -5703,11 +5560,11 @@
    "imo": "8858099"
   },
   {
-   "name": "VIRENT",
+   "name": "IMO 9332171 (\"VIRENT\")",
    "type": "Vessel",
    "countries": "pa",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-07-14",
    "id": "NK-n5Bf2hEsizAPpz4cvjkuTT",
    "imo": "9332171"
@@ -5746,7 +5603,7 @@
    "name": "IMO 9294264 (\"ORION\")",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9294264 (“ORION”)…",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9294264 ('ORION')…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-06-16",
    "id": "NK-DoqzSDcChJCiUY88oiz3kq",
@@ -5766,7 +5623,7 @@
    "name": "IMO 9300817 (\"KOSMOS\")",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9300817 ('KOSMOS')…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9300817 (“KOSMOS”)…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-06-16",
    "id": "NK-XJH9Gcrm9Rp7ZnuZM6NdV8",
@@ -6483,11 +6340,11 @@
    "imo": "9379301"
   },
   {
-   "name": "DAPHNE V",
+   "name": "IMO 9321677 (\"DAPHNE V\")",
    "type": "Vessel",
    "countries": "pa",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-04-15",
    "id": "NK-aPbvPX8S2CgcDdzwB7uB9E",
    "imo": "9321677"
@@ -6503,11 +6360,11 @@
    "imo": "9291262"
   },
   {
-   "name": "ANAYA",
+   "name": "IMO 9326885 (\"ANAYA\")",
    "type": "Vessel",
    "countries": "pa",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-04-15",
    "id": "NK-euCcvPeH3UduiJAFhgdYQh",
    "imo": "9326885"
@@ -6523,11 +6380,11 @@
    "imo": "9417464"
   },
   {
-   "name": "BELLARIS",
+   "name": "IMO 9332614 (\"BELLARIS\")",
    "type": "Vessel",
    "countries": "pa",
    "programs": "2026-07-24;Article 3s(2), point (b): transport crude oil or petroleum products as listed in Annex XXV or mineral products that originate in Russia or are…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "datasets": "EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2026-04-15",
    "id": "NK-hyKMzKozPsV2LaNZtDqqoC",
    "imo": "9332614"
@@ -9606,7 +9463,7 @@
    "name": "PIER",
    "type": "Vessel",
    "countries": "bb;ru",
-   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9273442 (“Pier”) is, has been or is likely to be involved in activity whose…",
+   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9273442 ('Pier') is, has been or is likely to be involved in activity whose…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-07-21",
    "id": "NK-EXjphC6CWEwFR7wdaA9dzr",
@@ -9636,7 +9493,7 @@
    "name": "Da Wang",
    "type": "Vessel",
    "countries": "",
-   "programs": "2020-08-18 - 2022-01-28",
+   "programs": "2022-01-28 - 2020-08-18",
    "datasets": "US CBP Withhold Release Orders and Findings",
    "first_seen": "2025-07-21",
    "id": "us-cbpfl-ba32cb76e5dc3af2b8f2514cb7d4f84cfc34abda",
@@ -10596,7 +10453,7 @@
    "name": "JAMES II",
    "type": "Vessel",
    "countries": "pw;ru",
-   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9253909 (“JAMES II”) is involved in activity…",
+   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9253909 ('JAMES II') is involved in activity…",
    "datasets": "Australian Sanctions Consolidated List;Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-05-20",
    "id": "NK-hVoRHZPXmvEFr6ghno2N3P",
@@ -10876,7 +10733,7 @@
    "name": "VENGERY",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9451642 (“VENGERY”) is, has been, or is likely to be involved in activity whose…",
+   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9451642 ('VENGERY') is, has been, or is likely to be involved in activity whose…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-05-09",
    "id": "NK-JsWcRPfrNLUPXKj85KjStf",
@@ -12275,9 +12132,9 @@
   {
    "name": "PRS OCEAN",
    "type": "Vessel",
-   "countries": "gm;ru",
+   "countries": "cm;gm;ru",
    "programs": "2025-02-25;Article 3s(2), point (b): transport crude oil or petroleum products, as listed in Annex XXV, that originate in Russia or are exported from Russia…",
-   "datasets": "Canadian Consolidated Autonomous Sanctions List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List",
+   "datasets": "Canadian Consolidated Autonomous Sanctions List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-03-04",
    "id": "NK-SpzanvcPaDpLM6r3pE5WLo",
    "imo": "9276561"
@@ -12926,7 +12783,7 @@
    "name": "OXIS",
    "type": "Vessel",
    "countries": "cm;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 13224 (Terrorism) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 -…",
+   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13224 (Terrorism);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 -…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-933VytZQRSXumMjr6xmJEL",
@@ -13166,7 +13023,7 @@
    "name": "TASCA",
    "type": "Vessel",
    "countries": "pa",
-   "programs": "RUSSIA-EO14024 - Executive Order 13846 (Iran) - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine) - Executive Order 13846 (Iran)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-HUJEizkjTuY5K6zQgWR5GG",
@@ -13746,7 +13603,7 @@
    "name": "Ivy",
    "type": "Vessel",
    "countries": "ru;vn",
-   "programs": "RUSSIA-EO14024 - Executive Order 13846 (Iran) - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1;The Russia (Sanctions)…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 13846 (Iran) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions)…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-fGtcYxL5U8nVo7VDXBEEPz",
@@ -14326,7 +14183,7 @@
    "name": "CORTEX",
    "type": "Vessel",
    "countries": "km;ru",
-   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9291250 (“CORTEX”) is involved in activity…",
+   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9291250 ('CORTEX') is involved in activity…",
    "datasets": "Australian Sanctions Consolidated List;Canadian Consolidated Autonomous Sanctions List;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2024-12-18",
    "id": "NK-MKidwShBWLnvCgUHcpj6KU",
@@ -17396,7 +17253,7 @@
    "name": "HS Everett",
    "type": "Vessel",
    "countries": "lr;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9410870 (“HS EVERETT”) is…",
+   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9410870 ('HS EVERETT') is…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2024-01-18",
    "id": "NK-Tdmjsa9ut7Ym537g6Ho9to",
@@ -18756,7 +18613,7 @@
    "name": "serenity",
    "type": "Vessel",
    "countries": "gy",
-   "programs": "VENEZUELA-EO13850 - Executive Order 13224 (Terrorism) - Executive Order 13850 (Venezuela)",
+   "programs": "VENEZUELA-EO13850 - Executive Order 13850 (Venezuela) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-9TGSUxPvDMWAhLKdfYjgTT",
@@ -19916,7 +19773,7 @@
    "name": "St. Vitamin",
    "type": "Vessel",
    "countries": "vc",
-   "programs": "CYBER2 - Executive Order 13661 (Ukraine) - Executive Order 13848 (Election) - Executive Order 13694 (Cyber)",
+   "programs": "CYBER2 - Executive Order 13848 (Election) - Executive Order 13661 (Ukraine) - Executive Order 13694 (Cyber)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-HzbmbYendQzX5WcAx79sJa",
@@ -20326,7 +20183,7 @@
    "name": "SUSANGIRD",
    "type": "Vessel",
    "countries": "ir;mt;pa;tz",
-   "programs": "2022-01-26;IRAN - Executive Order 13224 (Terrorism) - Executive Order 13599 (Iran)",
+   "programs": "2022-01-26;IRAN - Executive Order 13599 (Iran) - Executive Order 13224 (Terrorism)",
    "datasets": "Saudi Arabia National Terrorism List (UNSCR 1373);US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-Lqx5ms4MCtwLX4VKSWHrzQ",
@@ -20416,7 +20273,7 @@
    "name": "Destiny",
    "type": "Vessel",
    "countries": "ir;lr;mn;pa",
-   "programs": "2022-01-26;IRAN - Executive Order 13224 (Terrorism) - Executive Order 13599 (Iran)",
+   "programs": "2022-01-26;IRAN - Executive Order 13599 (Iran) - Executive Order 13224 (Terrorism)",
    "datasets": "Saudi Arabia National Terrorism List (UNSCR 1373);US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-MLfdhQKBKsjEynrGXkq5mp",
@@ -23116,7 +22973,7 @@
    "name": "HAPPINESS I",
    "type": "Vessel",
    "countries": "ir;mt;pa;tv;tz",
-   "programs": "2022-01-26;IRAN - Executive Order 13224 (Terrorism) - Executive Order 13599 (Iran)",
+   "programs": "2022-01-26;IRAN - Executive Order 13599 (Iran) - Executive Order 13224 (Terrorism)",
    "datasets": "Saudi Arabia National Terrorism List (UNSCR 1373);US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-fnCbiJENHXpKRLjpQ87ehU",
@@ -23966,7 +23823,7 @@
    "name": "DELICE",
    "type": "Vessel",
    "countries": "ir;pa",
-   "programs": "2022-01-26;NPWMD - Executive Order 13224 (Terrorism) - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation)",
+   "programs": "2022-01-26;NPWMD - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation) - Executive Order 13224 (Terrorism)",
    "datasets": "Saudi Arabia National Terrorism List (UNSCR 1373);US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-knHaQ9xFi4WthPB4vD98Eg",
@@ -24026,7 +23883,7 @@
    "name": "DEVREZ",
    "type": "Vessel",
    "countries": "ir;pa",
-   "programs": "NPWMD - Executive Order 13224 (Terrorism) - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation)",
+   "programs": "NPWMD - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-m3TS2kznTB6eLAVeEvdrQz",
@@ -24296,7 +24153,7 @@
    "name": "Paek Ma",
    "type": "Vessel",
    "countries": "kp;kr;pa",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-4JYGfcjP3Frn24sYQ3ZXE2",
@@ -24346,7 +24203,7 @@
    "name": "Ryong Gun Bong",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK - Executive Order 13551 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-FcnC2NqwdeTFB8g8dbha2X",
@@ -24376,7 +24233,7 @@
    "name": "Sam Ma 2",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-H7s6hjcrcx846KWw3FzENL",
@@ -24386,7 +24243,7 @@
    "name": "Jon Jin 2",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK - Executive Order 13551 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-HyML2U3kLfq5s365haDfQh",
@@ -24406,7 +24263,7 @@
    "name": "Tong Hung 1",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK3 - Executive Order 13722 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-Ku3wRRnBqPkkLYH2LtMCKc",
@@ -24416,7 +24273,7 @@
    "name": "Hap Jang Gang 6",
    "type": "Vessel",
    "countries": "kh;kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-N5dqMgKGf3hcmM48goJH8T",
@@ -24446,7 +24303,7 @@
    "name": "Sam Jong 1",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-QgduU2KDARwsWfZnP7UxRB",
@@ -24456,7 +24313,7 @@
    "name": "Yu Phyong 5",
    "type": "Vessel",
    "countries": "kp;kr",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-R6ctDLCn6T2JP2m9VrTGWn",
@@ -24466,7 +24323,7 @@
    "name": "Rak Won 2",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK - Executive Order 13551 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-RRGAQx3txVZaG2rr5TbUHa",
@@ -24476,7 +24333,7 @@
    "name": "Woory Star",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-RTkZM4W3eEiX8QUjDccSjK",
@@ -24496,7 +24353,7 @@
    "name": "Yu Son",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-T3CqwkJvZsSFtJywGgwLAW",
@@ -24541,7 +24398,137 @@
    "first_seen": "2020-06-04",
    "id": "NK-VSyfpxVQEyg5gVCBZk59Ge",
    "imo": "8133530"
+  },
+  {
+   "name": "Blue Nouvelle",
+   "type": "Vessel",
+   "countries": "kh;ki;kp",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK3 - Executive Order 13722 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-W96jThAdx5ddxWT5KfnkUg",
+   "imo": "8909575"
+  },
+  {
+   "name": "Mi Rim 2",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-WRA7DTjp9Cb8Y45h7aJn8u",
+   "imo": "9361407"
+  },
+  {
+   "name": "Sam Jong 2",
+   "type": "Vessel",
+   "countries": "kp;ru",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-Y6qXTPJUDa6PaygWwsXdeD",
+   "imo": "7408873"
+  },
+  {
+   "name": "Min Ning De You 078",
+   "type": "Vessel",
+   "countries": "",
+   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017) - Paragraph 12 (a) of resolution 2321…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List",
+   "first_seen": "2020-06-04",
+   "id": "NK-YZdF6kPcmeqf973bwmkoNo",
+   "imo": ""
+  },
+  {
+   "name": "Chon Myong 1",
+   "type": "Vessel",
+   "countries": "kp;tg",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-ZWWcQbDKhHMuSE2LyYNvz7",
+   "imo": "8712362"
+  },
+  {
+   "name": "Nam San 8",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-aeTaysGUfbjfo396aeguRU",
+   "imo": "8122347"
+  },
+  {
+   "name": "Rye Song Gang 1",
+   "type": "Vessel",
+   "countries": "kp;ru",
+   "programs": "1718 (DPRK) - 2026-08-28;2017-12-28;DPRK4 - Executive Order 13810 (North Korea);PRK;Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-agq8hUDZPSnPkHKdywSEDg",
+   "imo": "7389704"
+  },
+  {
+   "name": "Ryong Gang 2",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-ahSyXbHiaERGo6hP7y7deM",
+   "imo": "7640378"
+  },
+  {
+   "name": "Hwang Gum San 2",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-c4ng3NQ5LvmZNCY396bxEK",
+   "imo": "8405270"
+  },
+  {
+   "name": "Rung Ra 2",
+   "type": "Vessel",
+   "countries": "jp;kp;pa",
+   "programs": "1718 (DPRK) - 2026-08-28;2017-12-28;DPRK4 - Executive Order 13810 (North Korea);PRK;Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-cbdckShLMCD5SbjPm6itqc",
+   "imo": "9020534"
+  },
+  {
+   "name": "Chong Chon Gang",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK - Executive Order 13551 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-deZUfBezUVmSk4jtEAQnuu",
+   "imo": "7937317"
+  },
+  {
+   "name": "Ra Nam 3",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-djhNYTBcCbnA7xwM6Xd5Se",
+   "imo": "9314650"
+  },
+  {
+   "name": "Mi Rim",
+   "type": "Vessel",
+   "countries": "kp",
+   "programs": "1718 (DPRK) - 2026-08-28;2016-03-02;DPRK3 - Executive Order 13722 (North Korea);Décision du comité de sanction des Nations unies du 02/03/2016 (ONU Corée du…",
+   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2020-06-04",
+   "id": "NK-eLUZQ6BH6T4oEW2wupBiGj",
+   "imo": "8713471"
   }
  ],
- "vessel_total": 2033
+ "vessel_total": 2020
 }
