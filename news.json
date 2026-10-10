@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T05:54:50.846508+00:00",
+ "updated": "2026-10-10T06:40:42.520949+00:00",
  "items": [
   {
    "id": "4242802e5ac55a96",
@@ -17,6 +17,137 @@
    ],
    "countries": [
     "United States"
+   ]
+  },
+  {
+   "id": "057afd4252a2c39b",
+   "title": "Increased vessel attacks drive Hormuz oil exports 'sharply lower', report says",
+   "summary": "Increased vessel attacks drive Hormuz oil exports 'sharply lower', report says Hormuz oil exports were “sharply lower,” falling to a seven-day average of 9.9 million barrels per day as of October 7, 42 percent below prewar levels and down from about 15.5 million in September, according to Kpler data cited by the Financial Times. Kpler said that flows had recovered to prewar levels in September…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/increased-vessel-attacks-drive-hormuz-oil-exports-sharply-lower-report",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-10T06:25:07+00:00",
+   "themes": [
+    "energy",
+    "maritime",
+    "trade"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e28f4b7037aca42a",
+   "title": "Panama Canal unaffected by huge earthquake",
+   "summary": "The Panama Canal has emerged largely unscathed from a powerful earthquake that struck Panama on Friday, with vessel transits continuing normally despite damage elsewhere across the Central American country. The magnitude 7.7 earthquake struck at 12.56pm local time, according to the US Geological Survey, with its epicentre in southern Panama, approximately 200 km from Panama …",
+   "url": "https://splash247.com/panama-canal-unaffected-by-huge-earthquake/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-10T06:16:55+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States",
+    "Panama"
+   ]
+  },
+  {
+   "id": "76ec5f80d9e0befc",
+   "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
+   "summary": "A fire-damaged HMM containership is seeking a port of refuge in South Africa after salvors were appointed under Lloyd’s Open Form (LOF), with cargo interests facing the prospect of general average. The 5,593 teu HMM Platinum suffered a fire while sailing from Kattupalli, India, towards Santos, Brazil. The blaze reportedly originated in a container off …",
+   "url": "https://splash247.com/fire-stricken-hmm-boxship-seeks-refuge-in-south-africa/",
+   "source": "Splash247",
+   "group": "Maritime",
+   "published": "2026-10-10T06:11:21+00:00",
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific",
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "India",
+    "Brazil",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "a71d0ec30d6d50aa",
+   "title": "‘If voters aren’t better off by the next election, we’re screwed’: Labour insiders voice fears over budget",
+   "summary": "Some say party risks ‘looking twee’ by focusing on small fixes amid growing nervousness that budget lacks ambition In the days since Labour’s annual conference, party insiders have been sharing a word cloud produced by the pollsters More in Common, which shows the phrases voters most associate with Andy Burnham. Such polling is rarely flattering for politicians, and the prime minister’s version…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T06:00:51+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "17ca108457a7154b",
+   "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+   "summary": "Only ‘very small number’ of people already in Lebanon or Jordan will be referred, says organisation running scheme The Home Office is facing claims it gave false hope to the people of Gaza after it emerged that a new safe route for Palestinian refugees will only be open to those who have already escaped to Lebanon or Jordan. Shabana Mahmood, the home secretary, announced the reopening of a…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T06:00:50+00:00",
+   "themes": [
+    "migration"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Palestine",
+    "Lebanon",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "c641241d42712bbb",
+   "title": "UK savings: 5% interest rate deals may not last, say experts",
+   "summary": "Competition is hotting up, with National Savings & Investments lifting rates to the highest in years National Savings and Investments (NS&I) has increased the returns on some of its accounts, with many now paying more than 5% for the first time in nearly three years. Competition in the savings market has been growing, leading to some of the highest interest rates for years . Continue reading...",
+   "url": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-10T06:00:50+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "34959ab31cd5709e",
+   "title": "India protest live: Police detain Cockroach leaders, New Delhi in lockdown",
+   "summary": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-10T05:54:36+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "India"
    ]
   },
   {
@@ -1813,6 +1944,20 @@
    "countries": [
     "United States"
    ]
+  },
+  {
+   "id": "df4c3b2942d9c9a1",
+   "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+   "summary": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
+   "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-09T20:20:09+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "172a08ec643014da",
@@ -5674,6 +5819,24 @@
    ],
    "countries": [
     "Kenya"
+   ]
+  },
+  {
+   "id": "2d954433ec5366c6",
+   "title": "Nigeria: 2027 - ADC Govt. Will Lower Cost of Living, Reverse Fuel Subsidy - Amaechi",
+   "summary": "[Vanguard] The Vice-Presidential Candidate of the African Democratic Congress (ADC), Mr Rotimi Amaechi, says the ADC-led Federal Government will lower the cost of living and reverse the current fuel subsidy if elected into office in 2027.",
+   "url": "https://allafrica.com/stories/202610090455.html",
+   "source": "AllAfrica",
+   "group": "Regional",
+   "published": "2026-10-09T12:35:15+00:00",
+   "themes": [],
+   "regions": [
+    "americas",
+    "africa"
+   ],
+   "countries": [
+    "United States",
+    "Nigeria"
    ]
   },
   {
@@ -26486,176 +26649,6 @@
    "countries": [
     "Iran",
     "United States"
-   ]
-  },
-  {
-   "id": "2b4add7b07af688c",
-   "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-   "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-07T10:33:05+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "France",
-    "Japan"
-   ]
-  },
-  {
-   "id": "3a5d9a362d577d3d",
-   "title": "Oil Tanker Hit By Naval Drones Near Sochi, Sparking Massive Fire On Black Sea",
-   "summary": "A Liberian-flagged oil tanker caught fire off the Russian resort city of Sochi after an apparent drone attack, Russian authorities said on October 6. The 23 crew members, all Indian, were rescued. The Ukrainian monitoring site BlackSeaNews identified the vessel as part of Russia’s so-called shadow fleet, which is used to evade sanctions. The incident follows a string of recent attacks on…",
-   "url": "https://www.rferl.org/a/oil-tanker-hit-by-naval-drone-near-sochi-sparking-massive-fire-on-black-sea/33872002.html",
-   "source": "RFE/RL",
-   "group": "Regional",
-   "published": "2026-10-07T10:32:24+00:00",
-   "themes": [
-    "energy",
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "India"
-   ]
-  },
-  {
-   "id": "aed0235990c171db",
-   "title": "Houthis strike Yemen government and Saudi targets as violence intensifies",
-   "summary": "Houthis strike Yemen government and Saudi targets as violence intensifies Submitted by MEE staff on Wed, 10/07/2026 - 10:03 State media accuses Houthis of targeting airport in Aden, site of the internationally recognised government A screen grab taken from video released by the pro-Yemeni government Southern Giants Brigades on 6 October 2026 shows fighting with the Houthis near the Bab al-Mandab…",
-   "url": "https://www.middleeasteye.net/news/yemen-houthi-strike-saudi-violence-intensifies",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T10:32:11+00:00",
-   "themes": [
-    "maritime",
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "2a98b0e47f7482c4",
-   "title": "Europe’s Fuel Squeeze Is Turning Into a Q3 Windfall for Equinor",
-   "summary": "Equinor expects its marketing, midstream, and processing (MMP) division to have earned more than the company’s guidance of $400 million for the third quarter, thanks to very strong refining margins and high proceeds from oil and LNG trading. The Norwegian major and other energy companies continue to benefit from the high and volatile oil and LNG prices and the global fuel crunch, which has sent…",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Squeeze-Is-Turning-Into-a-Q3-Windfall-for-Equinor.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-07T10:30:00+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Norway"
-   ]
-  },
-  {
-   "id": "79e67c1b0bef59f9",
-   "title": "Botas goes to market for nearly three-year LNG carrier charter",
-   "summary": "Turkey’s state-owned energy company Botas has gone to market for an LNG carrier on a firm 940-day time charter as it continues to build out its gas shipping capacity. The Ankara-based company is seeking a vessel built in 2015 or later with capacity of between 173,600 and 175,000 cu m. The firm period comes with …",
-   "url": "https://splash247.com/botas-goes-to-market-for-nearly-three-year-lng-carrier-charter/",
-   "source": "Splash247",
-   "group": "Maritime",
-   "published": "2026-10-07T10:30:00+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "37340b7b481b72f8",
-   "title": "CAS to hear Senegal appeal over AFCON title awarded to Morocco",
-   "summary": "Court of Arbitration for Sport (CAS) hearing set to begin after Senegal stripped of Africa Cup of Nations title by CAF.",
-   "url": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-07T10:28:32+00:00",
-   "themes": [],
-   "regions": [
-    "mena",
-    "africa"
-   ],
-   "countries": [
-    "Morocco",
-    "Senegal"
-   ]
-  },
-  {
-   "id": "ff0dce319b9be0d4",
-   "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
-   "summary": "Paramount Skydance completed its blockbuster $110 billion takeover of Warner Bros Discovery on Tuesday, creating a Hollywood heavyweight that hands CEO David Ellison control of one of the world's ​largest entertainment and news businesses. The deal brings together the studios behind \"Mission: Impossible,\" \"Harry Potter\" and DC Studios alongside major television and streaming networks such as CBS,…",
-   "url": "https://www.france24.com/en/video/20261007-paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T10:26:27+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "cf863b7837ea7808",
-   "title": "Israeli attacks kill Gaza rescue worker, boy and another Palestinian",
-   "summary": "Israeli attacks kill Gaza rescue worker, boy and another Palestinian Israeli forces have killed three Palestinians in Gaza as the territory marks three years of Israel’s genocidal war. One attack killed a Civil Defence worker trying to rescue wounded people at a camp for displaced Palestinians near Kamal Adwan Hospital. In southern Gaza, Israeli gunfire killed a boy east of Khan Younis, where…",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-gaza-rescue-worker-boy-and-another-palestinian",
-   "source": "Middle East Eye",
-   "group": "Regional",
-   "published": "2026-10-07T10:24:19+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "dd0a598127b466c7",
-   "title": "Israel marks three years since Hamas's October 7 attack",
-   "summary": "Israel marks the third anniversary of Hamas's October 7, 2023 attack on Wednesday, just weeks before an election in which the deadliest day in the country's history will be front and centre. Memorial events are planned throughout the day to pay tribute to the scores of people killed by militants led by the Islamist movement during their assault from Gaza. For more, FRANCE 24's Stuart Norval is…",
-   "url": "https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack",
-   "source": "France 24",
-   "group": "World news",
-   "published": "2026-10-07T10:24:00+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "France",
-    "Israel",
-    "Palestine"
    ]
   }
  ]
